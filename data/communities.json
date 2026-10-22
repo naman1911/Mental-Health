@@ -354,6 +354,571 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the current support offer and the parents' group link."
     },
     {
+      "community_id": "winstons-wish",
+      "name": "Winston's Wish helpline for bereaved children, young people and families",
+      "platform": "web",
+      "url": "https://www.winstonswish.org/",
+      "type": "helpline",
+      "audience": [
+        "children",
+        "teens",
+        "family",
+        "professionals"
+      ],
+      "for": "both",
+      "topics": [
+        "grief-and-bereavement"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Childhood bereavement charity. Freephone 08088 020 021; the charity's own events page and a May 2026 directory give Mon–Fri 8am–8pm (older listings say 9am–5pm). Email ask@winstonswish.org, replies within about two working days."
+      },
+      "safety_notes": "Staffed by trained bereavement practitioners; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours on the official site."
+    },
+    {
+      "community_id": "griefline-australia",
+      "name": "Griefline helpline and online forums",
+      "platform": "web",
+      "url": "https://griefline.org.au/get-help/free-telephone-support/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "prolonged-grief-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential grief support on 1300 845 745 for people in Australia aged 18+; official pages give 8am–8pm, 7 days (AEST/AEDT), though the contact page and Lifeline's listing give different windows. Callback option and 24/7 moderated online forums."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Hours conflict across Griefline's own pages; confirm."
+    },
+    {
+      "community_id": "afsp-healing-conversations",
+      "name": "AFSP Healing Conversations (peer visits for suicide loss survivors)",
+      "platform": "web",
+      "url": "https://afsp.org/healing-conversations",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "suicidal-thoughts-and-behavior"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "One-time visit by phone, video, or in person with a trained volunteer who has lost someone to suicide, matched where possible by type of loss; about an hour to ninety minutes. Request via an online form; general email healingconversations@afsp.org. Formerly the Survivor Outreach Program."
+      },
+      "safety_notes": "Volunteers are at least two years past their own loss; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the request form URL."
+    },
+    {
+      "community_id": "friends-for-survival",
+      "name": "Friends for Survival suicide loss support",
+      "platform": "web",
+      "url": "https://friendsforsurvival.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "suicidal-thoughts-and-behavior"
+      ],
+      "region": "US (Sacramento-based; national line)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Nonprofit run since 1982 by people bereaved by suicide: helpline 1-800-646-7322 (listings give 9am–9pm Pacific, 7 days), local line (916) 392-0664, monthly support meetings, free newsletter, and webinars."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm helpline hours."
+    },
+    {
+      "community_id": "the-compassionate-friends",
+      "name": "The Compassionate Friends (bereaved parents, siblings, grandparents)",
+      "platform": "web",
+      "url": "https://www.compassionatefriends.org/find-support/",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "prolonged-grief-disorder"
+      ],
+      "region": "US (chapters in every state; separate organisations in 30+ countries)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Self-help network for families after the death of a child: 500+ free monthly chapter meetings (many hybrid), online chat support, private Facebook groups by type of loss, national office 877-969-0010. No religious affiliation, no dues."
+      },
+      "safety_notes": "Peer-led; meetings are not counselling.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm chapter locator and online chat URL."
+    },
+    {
+      "community_id": "ditch-the-label-community",
+      "name": "Ditch the Label online support community",
+      "platform": "web",
+      "url": "https://forums.ditchthelabel.org/",
+      "type": "peer-forum",
+      "audience": [
+        "teens",
+        "young-adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "school-and-work-problems",
+        "social-environment-and-identity-stress",
+        "social-anxiety-disorder"
+      ],
+      "region": "UK (open worldwide, English; Spanish platform for Mexico)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, anonymous community run by the UK anti-bullying charity Ditch the Label for young people aged 13–25, with trained mentors, support guides on bullying, body image, anxiety, and identity, and a tool to get abusive content removed. The charity describes it as the largest bullying support community online (self-description)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. No independent evaluation of moderation found; sample recent threads and check crisis signposting."
+    },
+    {
+      "community_id": "kidscape-parent-advice-line",
+      "name": "Kidscape Parent Advice Line",
+      "platform": "web",
+      "url": "https://chat.findahelpline.com/organizations/kidscape-parent-advice-line",
+      "type": "helpline",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "school-and-work-problems",
+        "oppositional-defiant-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Advice for parents and carers worried about a child being bullied, or bullying others: 020 7823 5430 (directories give Mon–Tue, 9.30am–2.30pm or 10am–5pm), WhatsApp 07496 682785, email parentsupport@kidscape.org.uk. Official page kidscape.org.uk/advice/parent-advice-line."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Hours conflict across directories; confirm."
+    },
+    {
+      "community_id": "rethink-advice-line",
+      "name": "Rethink Mental Illness Advice and Information Service",
+      "platform": "web",
+      "url": "https://rethink.org/advice",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "health-care-access-and-treatment-adherence",
+        "schizophrenia",
+        "bipolar-i-disorder",
+        "when-it-doesnt-fit-a-label"
+      ],
+      "region": "England",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Practical advice on treatment, rights, benefits, carers' rights, and the Mental Health Act: 0808 801 0525, Mon–Fri 9.30am–4pm excluding bank holidays (official pages); webchat Mon–Fri 10am–1pm; email advice@rethink.org, reply within 5 working days; Relay UK accepted. Not an emotional support line."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "mind-infoline",
+      "name": "Mind Infoline",
+      "platform": "web",
+      "url": "https://www.mind.org.uk/information-support/helplines/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "health-care-access-and-treatment-adherence",
+        "when-it-doesnt-fit-a-label",
+        "major-depressive-disorder"
+      ],
+      "region": "England and Wales",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Information on conditions, treatments, mental health law, advocacy, and local Mind groups: 0300 123 3393 (network rate), Mon–Fri 9am–6pm except bank holidays; text 86463; email info@mind.org.uk; 18001 prefix for Relay. Not a crisis or counselling line."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. URL from memory of Mind's helplines page; confirm."
+    },
+    {
+      "community_id": "sios-self-injury-outreach",
+      "name": "Self-injury Outreach and Support (SiOS)",
+      "platform": "web",
+      "url": "https://sioutreach.org/",
+      "type": "org-resource-hub",
+      "audience": [
+        "teens",
+        "adults",
+        "family",
+        "professionals"
+      ],
+      "for": "both",
+      "topics": [
+        "nonsuicidal-self-injury",
+        "nonsuicidal-self-injury-disorder"
+      ],
+      "region": "Canada (resources global)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Non-profit site from the University of Guelph and McGill University with coping guides, recovery stories, and guides for parents, friends, schools, and health professionals. Information resource, not a forum."
+      },
+      "safety_notes": "Recovery-focused; no pro-self-harm content.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current guide list."
+    },
+    {
+      "community_id": "reddit-r-dpdr",
+      "name": "r/dpdr",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/dpdr/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "depersonalization-derealization-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 74000,
+        "as_of": "2026-10-22",
+        "note": "About 74K members per a third-party index."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Community for people with depersonalization or derealization; stickied resource guide that warns heavy forum use can worsen symptoms (a good sign), post flairs for encouragement and substance-induced DPDR, and a linked Discord. Rules exist but their text was not seen."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read the rules and resource guide; check that reassurance-seeking is handled well and crisis resources are pinned."
+    },
+    {
+      "community_id": "ibpf-resources",
+      "name": "International Bipolar Foundation",
+      "platform": "web",
+      "url": "https://ibpf.org/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder",
+        "cyclothymic-disorder"
+      ],
+      "region": "US (online, international)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Nonprofit founded 2007 by parents of children with bipolar disorder; free webinars, a lived-experience blog, the book 'Healthy Living with Bipolar', and online peer support described in directories. All programmes free."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm whether live online support groups currently run and where they are listed."
+    },
+    {
+      "community_id": "feast-around-the-dinner-table",
+      "name": "F.E.A.S.T. Around the Dinner Table forum and caregiver groups",
+      "platform": "web",
+      "url": "https://www.feast-ed.org/page/ATDTRSS",
+      "type": "peer-forum",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder",
+        "avoidant-restrictive-food-intake-disorder"
+      ],
+      "region": "global (English; Spanish group)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 3000,
+        "as_of": "2026-10-22",
+        "note": "Over 3,000 members on four continents per the organisation."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Volunteer-run international charity for parents and carers of people with eating disorders. Around the Dinner Table is a free, moderated 24/7 forum running since 2004, limited to parents and adult carers (clinicians may reply but not start topics; posts by current patients are removed). Also peer-led caregiver and sibling groups, email support, a mentorship programme, Men of F.E.A.S.T., and a free 30-day email course."
+      },
+      "safety_notes": "Carers only; evidence-based treatment focus; no diet or weight-loss content.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the forum is still active (one NHS listing marked a linked resource as retired)."
+    },
+    {
+      "community_id": "anad-peer-support-groups",
+      "name": "ANAD free virtual peer support groups and helpline",
+      "platform": "web",
+      "url": "https://anad.org/get-help/about-our-support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder",
+        "avoidant-restrictive-food-intake-disorder"
+      ],
+      "region": "US (online)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free weekly virtual peer support groups facilitated by people recovered from an eating disorder, a peer mentorship programme, and a helpline on 1-888-375-7767 (hours listed variously as Mon–Fri 9am–9pm Central or 10am–6pm Eastern). Open to anyone regardless of diagnosis. ANAD is the partner line NEDA now refers to."
+      },
+      "safety_notes": "Peer-facilitated; no weight or calorie talk per standard ED group rules (confirm).",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm helpline hours and group schedule."
+    },
+    {
+      "community_id": "reddit-r-autism-parenting",
+      "name": "r/Autism_Parenting",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Autism_Parenting/",
+      "type": "subreddit",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "For parents and carers of autistic children of all support needs; FAQ (2023) says a new mod team took over in late 2022, parent-shaming is removed, autistic non-parents are welcome if respectful, and product promotion is restricted. Member count not seen."
+      },
+      "safety_notes": "Parent-focused; some threads discuss hard days candidly, which some autistic readers find difficult.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current rules and member count."
+    },
+    {
+      "community_id": "asan-resources",
+      "name": "Autistic Self Advocacy Network resource library",
+      "platform": "web",
+      "url": "https://autisticadvocacy.org/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "teens",
+        "professionals"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "US (resources global)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Run by and for autistic people: plain-language and Easy Read toolkits, accessibility resources, guidance on identity-first language, self-advocacy and leadership training, and a policy action centre."
+      },
+      "safety_notes": "Advocacy organisation; not peer support or a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the resource library URL."
+    },
+    {
       "community_id": "reddit-r-bipolar",
       "name": "r/bipolar",
       "platform": "reddit",
@@ -1788,12 +2353,12 @@
         "has_rules": null,
         "active_mods": true,
         "pins_crisis_resources": null,
-        "notes": "UK charity for children's bladder and bowel health. Directory listings give a free helpline on 0808 169 9949 (Mon–Thu 10am–2pm in a 2020 listing) and email helpline@eric.org.uk; other listings show 0808 801 0343, so the number must be confirmed on the official site. Also publishes free guides for families and schools."
+        "notes": "UK charity for children's bladder and bowel health. A search snippet from eric.org.uk itself lists the free helpline as 0808 801 0343, open Tue–Thu 10am–1pm, with online contact and email support when closed; older directories show 0808 169 9949 (2020) and 0845 370 8008. Also publishes free guides for families and schools."
       },
       "safety_notes": "Peer support, not professional advice. Not a crisis service.",
       "verification_status": "needs_verification",
       "verified_on": null,
-      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open eric.org.uk and record the current helpline number and hours; three different numbers appear in directories."
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Second search pass (2026-10-22) found 0808 801 0343 on the official site snippet; confirm by opening eric.org.uk."
     },
     {
       "community_id": "reddit-r-stopgaming",

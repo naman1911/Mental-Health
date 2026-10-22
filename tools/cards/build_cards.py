@@ -31,9 +31,14 @@ def words(s): return len(re.findall(r"\S+", s))
 # Every card gets at least three communities: general, moderated, multi-region fallbacks are appended
 # when a chapter file lists fewer (brief section 4: 3-8 per card). Order is region-balanced US / UK / AU.
 FALLBACK = ["nami-connection-and-helpline", "mind-side-by-side", "sane-forums-australia"]
+import importlib.util as _ilu
+_spec = _ilu.spec_from_file_location("community_links", f"{ROOT}/tools/cards/community_links.py"); _m = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_m)
+EXTRA = _m.EXTRA
 for card in CARDS:
     tid = card["topic_id"]
     assert tid in topic_ids, tid
+    for x in EXTRA.get(tid, []):
+        if x not in card["communities"]: card["communities"].append(x)
     for fb in FALLBACK:
         if len(card["communities"]) >= 3: break
         if fb not in card["communities"]: card["communities"].append(fb)

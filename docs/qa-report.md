@@ -10,7 +10,7 @@ Generated 2026-10-22 from the build outputs. Everything in this report is reprod
 | Topics in taxonomy / cards written | 153 / 153 (100% coverage) |
 | Folded variants recorded in the taxonomy | 192 |
 | Glossary terms | 305 (clinical 118, everyday 79, treatment 81, rights 27) |
-| Communities in the directory | 127 (helpline 46, subreddit 35, online-group-meeting 20, org-resource-hub 12, peer-forum 9, in-person-group-finder 5) |
+| Communities in the directory | 143 (helpline 52, subreddit 37, online-group-meeting 22, org-resource-hub 15, peer-forum 11, in-person-group-finder 6) |
 | Crisis and support lines | 52 across US, UK, IE, CA, AU, IN, plus 3 global directories |
 | Unique sources cited on cards | 200 |
 | Card types | condition 110, clinical-focus 13, explainer 11, cultural-concept 9, further-study 7, condition-group 3 |
@@ -23,7 +23,7 @@ Generated 2026-10-22 from the build outputs. Everything in this report is reprod
 **No external web page was opened during this build.** The cloud environment's network policy returned 403 for every outbound fetch (psychiatry.org, nimh.nih.gov, nice.org.uk, reddit.com, and every helpline site). The only research tool that worked was a web-search API that returns titles, URLs, and short snippets. Consequences, applied uniformly:
 
 - Every source on every card and glossary term is `verification_status: needs_verification`. `access_method` distinguishes `seen-in-search-results` (the URL and a snippet appeared in a search result from the publisher's own domain: 117 sources) from `not-opened` (a well-known page cited from memory: 83 sources).
-- Every community is `needs_verification` with a `reviewer_notes` line saying what to check. No subreddit name, Discord invite, or URL was guessed; anything not seen in a search result went to the pending list in `docs/excluded-communities.md`.
+- Every community is `needs_verification` with a `reviewer_notes` line saying what to check. A second search pass on the same day resolved 16 of the pending candidates (added) and ruled out 7 Cups and r/selfharm on current evidence; see `docs/excluded-communities.md`. No subreddit name, Discord invite, or URL was guessed; anything not seen in a search result went to the pending list in `docs/excluded-communities.md`.
 - Every crisis line is `needs_verification` (37) or `conflicting_sources` (12, where directories disagreed on a number or hours), except the six national emergency numbers marked `verified`. Known risks: PAPYRUS HOPELINE247 has moved from an 0800 to an 0300 number per a 2026 listing; India's Childline 1098 is being merged into 112; ERIC's helpline number appears three different ways.
 - Prevalence figures: 143 cards carry a figure with a source; 10 carry `n/a` because no meaningful population figure exists (explainers, Z-codes, idioms); 81 carry a `how_common.note` flagging that the number was taken from a search snippet, is clinic-based, or needs a primary citation.
 - A bug found and fixed in this pass: both builders had been marking `seen` sources as `verified`. That overstated the evidence and has been corrected to `needs_verification` everywhere.
@@ -160,7 +160,7 @@ Reviewer roles needed:
 | What | Before launch | Then |
 |---|---|---|
 | Crisis lines (55) | Open every `source_url`; call or text each line once; set `verified_on` | Quarterly, and immediately on any news of a number change |
-| Communities (127) | Open each; check rules, moderator activity, last post date, pinned crisis resources; sample 10 recent threads | Every 90 days; remove on first sign of harm |
+| Communities (143) | Open each; check rules, moderator activity, last post date, pinned crisis resources; sample 10 recent threads | Every 90 days; remove on first sign of harm |
 | Sources (200 card, plus glossary) | Open each; confirm the figure quoted; replace secondary summaries with primary papers | Annually, and on each DSM-5-TR supplement (APA publishes updates roughly yearly; next eating-disorder severity-code change is in consultation to 2026-10-29) |
 | DSM-5-TR version check | Re-run `docs/version-check.md` steps | Every six months |
 | Reading grade | Re-run build; work the §4 backlog | Each content change |
