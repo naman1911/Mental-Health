@@ -2244,6 +2244,117 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for supplement selling or 'cure' promotion."
     },
     {
+      "community_id": "stop-it-now-us",
+      "name": "Stop It Now! confidential helpline (US)",
+      "platform": "web",
+      "url": "https://stopitnow.org/node/1612",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview",
+        "courtship-paraphilic-disorders",
+        "child-abuse-and-neglect"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential, anonymous helpline (no caller ID used) on 1-888-773-8368 for people worried about their own sexual thoughts or behaviour toward children, for family and friends, and for survivors. Phone, chat, and email; hours in Eastern Time on the site. Relay via 711."
+      },
+      "safety_notes": "Staffed prevention helpline, not peer support. Explains confidentiality limits at the start of a call.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current hours."
+    },
+    {
+      "community_id": "stop-it-now-uk",
+      "name": "Stop It Now UK and Ireland helpline (Lucy Faithfull Foundation)",
+      "platform": "web",
+      "url": "https://www.stopitnow.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview",
+        "courtship-paraphilic-disorders",
+        "child-abuse-and-neglect"
+      ],
+      "region": "UK and Ireland",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, anonymous helpline on 0808 1000 900 for anyone worried about their own or someone else's sexual thoughts or behaviour toward children, with secure email and live chat and live translation. Listings give Mon–Thu 9am–9pm and Fri 9am–5pm (Scotland listings show Fri to 7pm)."
+      },
+      "safety_notes": "Staffed prevention helpline run by a child-protection charity; confidentiality rules explained on the site.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm Friday hours."
+    },
+    {
+      "community_id": "talking-for-change-canada",
+      "name": "Talking for Change (CAMH): anonymous helpline, chat and free therapy",
+      "platform": "web",
+      "url": "https://findahelpline.com/organizations/talking-for-change",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview",
+        "child-abuse-and-neglect"
+      ],
+      "region": "Canada",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Government-funded national programme led by CAMH's Sexual Behaviours Clinic: anonymous phone (1-833-703-3303; Toronto 416-583-1310) and chat support for youth and adults concerned about their sexual thoughts involving children, plus free psychotherapy for adults in most provinces. Directory listings give Mon–Fri 12–6pm Eastern. Website talkingforchange.ca."
+      },
+      "safety_notes": "Staffed clinical prevention service, not peer support.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm number and hours on talkingforchange.ca."
+    },
+    {
       "community_id": "nea-bpd-family-connections",
       "name": "NEA-BPD Family Connections programme",
       "platform": "video-meeting",

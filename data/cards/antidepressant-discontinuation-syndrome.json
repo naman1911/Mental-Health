@@ -1,0 +1,147 @@
+{
+  "topic_id": "antidepressant-discontinuation-syndrome",
+  "official_name": "Antidepressant Discontinuation Syndrome",
+  "plain_title": "Withdrawal-like symptoms when stopping antidepressants",
+  "also_known_as": [
+    "antidepressant withdrawal",
+    "SSRI discontinuation syndrome",
+    "'brain zaps'"
+  ],
+  "chapter_id": "medication-induced",
+  "card_type": "condition",
+  "icd10cm_code": "T43.205A / D / S",
+  "language_convention": "person-first",
+  "one_liner": "Physical and emotional symptoms in the days after stopping or sharply reducing an antidepressant, usually brief but sometimes severe.",
+  "in_simple_words": "When an antidepressant is stopped suddenly or reduced too fast, some people get symptoms within a few days: dizziness, nausea, flu-like feelings, 'electric shock' sensations, vivid dreams, trouble sleeping, anxiety, and irritability. It's not addiction, and it's not the depression returning, though it can be confused with relapse. Symptoms are usually mild and pass within two weeks; for a smaller number they're severe or longer-lasting. Reducing slowly, in steps agreed with your prescriber, prevents or eases most of it.",
+  "what_it_can_feel_like": [
+    "I thought I was relapsing. The dizziness and the brain zaps started three days after I ran out. My GP explained and we tapered properly.",
+    "Coming off took me a year of tiny steps. Slow was fine. Fast had been awful."
+  ],
+  "common_signs": [
+    "Dizziness, nausea, headache, or flu-like feelings within days of stopping",
+    "Brief 'electric shock' sensations, often with eye or head movement",
+    "Vivid dreams, insomnia, anxiety, irritability, or low mood",
+    "Usually begins within a week and eases over one to two weeks",
+    "More likely with sudden stops and with certain antidepressants"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Discontinuation symptoms mean you're addicted.",
+      "fact": "Antidepressants don't cause craving or compulsive use. The body adjusts to them, so stopping needs to be gradual, which is different from addiction."
+    },
+    {
+      "myth": "Symptoms after stopping mean you'll always need the medication.",
+      "fact": "Discontinuation symptoms are the body adjusting, not proof you need the drug. A slower taper usually resolves them. Relapse is a separate question to review with your prescriber."
+    },
+    {
+      "myth": "Everyone gets terrible withdrawal.",
+      "fact": "A 2024 analysis found about 1 in 6 or 7 people get symptoms beyond placebo, and about 1 in 35 get severe symptoms. Most people stop without major difficulty."
+    }
+  ],
+  "how_common": {
+    "plain": "After accounting for placebo effects, roughly 1 in 6 to 7 people who stop an antidepressant get at least one discontinuation symptom, and about 1 in 35 get severe symptoms.",
+    "figure": "About 15% with any symptom and about 3% with severe symptoms after adjusting for placebo; 31% unadjusted (Lancet Psychiatry meta-analysis, 2024)",
+    "source_ref": "src-henssler-2024"
+  },
+  "what_helps": {
+    "plain_summary": "The main approach is prevention: when it's time to stop, reduce the dose gradually in steps, over weeks to months depending on the medication and the person, with your prescriber. If symptoms appear, going back to the previous dose and reducing more slowly usually settles them. Some medications may be switched to a longer-acting one to make tapering easier. The Royal College of Psychiatrists and NICE both recommend tapering and shared decisions. Never stop suddenly without advice.",
+    "evidence_based_options": [
+      "Gradual dose reduction planned with your prescriber",
+      "Returning to the previous dose and tapering more slowly if symptoms appear",
+      "Switching to a longer-acting antidepressant to ease tapering, in some cases",
+      "Monitoring for relapse separately from discontinuation symptoms"
+    ],
+    "self_help_that_supports_care": [
+      "Not running out of medication; keep a supply during a taper",
+      "Tracking symptoms and mood so you and your prescriber can tell them apart",
+      "Choosing a calm period to taper, with support in place",
+      "Reading patient guidance from the Royal College of Psychiatrists or NICE"
+    ],
+    "guideline_refs": [
+      "src-henssler-2024",
+      "src-rcpsych-stopping"
+    ]
+  },
+  "when_to_reach_out": "If you want to stop an antidepressant, talk to your prescriber first and make a plan. If you've stopped and feel dizzy, sick, or strange, contact them; it's usually easy to fix. If your mood drops sharply or you have thoughts of ending your life, use the crisis strip now.",
+  "is_not": "Depression or anxiety returning after stopping is relapse, not discontinuation; it tends to come later and build slowly. Side effects while taking the medication are a different issue. Stopping a benzodiazepine or opioid is withdrawal and needs its own medical plan.",
+  "hope_note": "Most people come off antidepressants without serious trouble when it's done gradually. Slow is the whole trick.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "medication-induced-movement-disorders"
+  ],
+  "glossary_terms": [
+    "antidepressant",
+    "ssri",
+    "snri",
+    "tapering",
+    "withdrawal",
+    "relapse",
+    "side-effects"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "No doses or tapering schedules given; always 'with your prescriber'."
+    ]
+  },
+  "visual": {
+    "color_token": "medication-induced",
+    "icon": "stethoscope",
+    "illustration_prompt": "Soft line illustration of a person and a doctor looking at a calendar together, a pill organiser on the desk, a mug of tea. Pastel teal and lavender.",
+    "alt_text": "A person and a doctor look at a calendar together."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "hearing-voices-network-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Medication-Induced Movement Disorders and Other Adverse Effects of Medication chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-henssler-2024",
+      "title": "Incidence of antidepressant discontinuation symptoms: a systematic review and meta-analysis",
+      "publisher": "The Lancet Psychiatry (Henssler et al.), 11(7):526–535; summary via Psychiatric News Alert",
+      "url": "https://alert.psychnews.org/2024/06/1-in-6-who-stop-antidepressants.html",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2024
+    },
+    {
+      "id": "src-rcpsych-stopping",
+      "title": "Stopping antidepressants (patient information)",
+      "publisher": "Royal College of Psychiatrists",
+      "url": "https://www.rcpsych.ac.uk/news-and-features/latest-news/detail/2020/09/23/new-information-on-stopping-antidepressants",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2020,
+      "note": "News release seen; resource page not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add NICE NG222 depression guideline reference on stopping antidepressants."
+    ]
+  }
+}

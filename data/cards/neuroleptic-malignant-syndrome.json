@@ -1,0 +1,128 @@
+{
+  "topic_id": "neuroleptic-malignant-syndrome",
+  "official_name": "Neuroleptic Malignant Syndrome",
+  "plain_title": "A rare, dangerous reaction to antipsychotic medication",
+  "also_known_as": [
+    "NMS"
+  ],
+  "chapter_id": "medication-induced",
+  "card_type": "condition",
+  "icd10cm_code": "G21.0",
+  "language_convention": "person-first",
+  "one_liner": "A rare emergency reaction to antipsychotics: high fever, severe muscle stiffness, confusion, and unstable pulse or blood pressure.",
+  "in_simple_words": "Neuroleptic malignant syndrome is a rare but life-threatening reaction to antipsychotic medication, and occasionally to other drugs that affect dopamine, or to suddenly stopping Parkinson's medication. It usually develops within weeks of starting or increasing a dose. The signs are a high fever, severe muscle stiffness, confusion or reduced consciousness, and a fast or irregular pulse, sweating, or swinging blood pressure. It needs emergency hospital care. With quick treatment most people recover fully.",
+  "what_it_can_feel_like": [
+    "He went stiff and burning hot over two days and we thought it was flu. The ambulance crew knew what it was. He's fine now, on a different medication.",
+    "Every psychiatrist since has asked about it. I carry a card in my wallet that says NMS, 2019."
+  ],
+  "common_signs": [
+    "High fever with no obvious infection",
+    "Severe muscle stiffness, often described as 'lead pipe'",
+    "Confusion, drowsiness, or reduced consciousness",
+    "Fast or irregular heartbeat, sweating, blood pressure swings",
+    "Usually within weeks of starting or increasing an antipsychotic"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's so rare it isn't worth knowing about.",
+      "fact": "It's rare, but it can kill, and knowing the signs is what gets people to hospital in time. Everyone on antipsychotics, and their families, should know them."
+    },
+    {
+      "myth": "After NMS you can never take antipsychotics again.",
+      "fact": "Many people can later restart a different antipsychotic cautiously, under close monitoring, when the benefits are clear."
+    }
+  ],
+  "how_common": {
+    "plain": "NMS affects well under 1 in 100 people taking antipsychotics, with estimates ranging from a tiny fraction of a percent up to a few percent in older studies. Deaths have fallen with better recognition.",
+    "figure": "Incidence estimates about 0.02%–3% in reviews; mortality around 5%–12% in recent estimates, down from up to 30% historically",
+    "source_ref": "src-nms-review",
+    "note": "Wide variation; needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "NMS is treated in hospital: the medication is stopped, the body is cooled, fluids are given, and the heart, kidneys, and muscles are monitored. Specific medications are sometimes used. Recovery usually takes days to a couple of weeks. Afterwards, the care team reviews whether and how to restart an antipsychotic, usually a different one, at a low dose with close monitoring.",
+    "evidence_based_options": [
+      "Emergency assessment and stopping the triggering medication",
+      "Supportive hospital care: cooling, fluids, monitoring",
+      "Specific medications in some cases, given in hospital",
+      "Careful, monitored reintroduction of a different antipsychotic later, if needed"
+    ],
+    "self_help_that_supports_care": [
+      "Knowing the warning signs if you or someone you care for takes antipsychotics",
+      "Not stopping Parkinson's or antipsychotic medication suddenly without medical advice",
+      "Carrying a note of your medications",
+      "Telling any new prescriber about a past NMS"
+    ],
+    "guideline_refs": [
+      "src-nms-review"
+    ]
+  },
+  "when_to_reach_out": "If someone taking an antipsychotic develops a high fever with severe stiffness and confusion, call emergency services or go to an emergency department now. Don't wait to see if it passes.",
+  "is_not": "Fever from an infection, stiffness from ordinary side effects, catatonia, serotonin syndrome, and heatstroke can look similar and are sorted out in hospital.",
+  "hope_note": "Recognised and treated quickly, most people recover completely and go on to find a medication that suits them.",
+  "related_topics": [
+    "medication-induced-movement-disorders",
+    "schizophrenia",
+    "delirium",
+    "catatonia"
+  ],
+  "glossary_terms": [
+    "antipsychotic",
+    "side-effects",
+    "inpatient"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "No doses or tapering schedules given; always 'with your prescriber'.",
+      "Medical emergency card; crisis strip points to emergency services."
+    ]
+  },
+  "visual": {
+    "color_token": "medication-induced",
+    "icon": "stethoscope",
+    "illustration_prompt": "Soft line illustration of a hospital room with a person resting comfortably, a nurse checking a chart, a window with soft daylight and a plant. Pastel teal and white.",
+    "alt_text": "A person rests comfortably in a hospital room while a nurse checks a chart."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "hearing-voices-network-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Medication-Induced Movement Disorders and Other Adverse Effects of Medication chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nms-review",
+      "title": "Neuroleptic malignant syndrome: review",
+      "publisher": "Neuropsychiatric Disease and Treatment (10.2147/NDT.S118438)",
+      "url": "https://informahealthcare.com/doi/full/10.2147/NDT.S118438",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Not opened; figures from search snippets."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary incidence source.",
+      "Psychiatrist to review."
+    ]
+  }
+}

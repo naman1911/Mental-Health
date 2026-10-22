@@ -1,0 +1,125 @@
+{
+  "topic_id": "fetishistic-and-transvestic-disorders",
+  "official_name": "Fetishistic and Transvestic Disorders",
+  "plain_title": "When an object or cross-dressing brings distress",
+  "also_known_as": [
+    "fetishism",
+    "transvestism (outdated as a general term)"
+  ],
+  "chapter_id": "paraphilic",
+  "card_type": "condition",
+  "icd10cm_code": "F65.0 / F65.1",
+  "language_convention": "person-first",
+  "one_liner": "Arousal from objects, body parts, or cross-dressing, diagnosed only when it causes real distress or problems.",
+  "in_simple_words": "Fetishistic disorder involves intense arousal from non-living objects or from a specific non-genital body part. Transvestic disorder involves arousal from cross-dressing. Both are common as interests and harm no one, so neither is a disorder unless it causes real distress or problems, such as guilt, damaging secrecy, or needing it to the exclusion of everything else. Cross-dressing is not the same as being transgender. These diagnoses are rare, and therapy focuses on shame and relationships, not on removing the interest.",
+  "what_it_can_feel_like": [
+    "My partner found out and we had the hardest conversation of our marriage. Couples therapy helped us both understand it. We're fine now.",
+    "I used to feel disgusted with myself after. The therapist asked who I was hurting. The answer was only me, with the shame."
+  ],
+  "common_signs": [
+    "Recurring arousal from objects, non-genital body parts, or cross-dressing",
+    "Lasting six months or more",
+    "Disorder only if causing distress, impairment, or relationship harm",
+    "Shame, secrecy, or conflict with a partner are usually the real problem"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Having a fetish means something is wrong with you.",
+      "fact": "Fetishes are common and harmless. The DSM only calls it a disorder when it causes real distress or problems."
+    },
+    {
+      "myth": "Men who cross-dress are gay or transgender.",
+      "fact": "Most people with transvestic interests are heterosexual men who identify as men. Gender identity, sexual orientation, and cross-dressing are three different things."
+    }
+  ],
+  "how_common": {
+    "plain": "Fetishistic and cross-dressing interests are common; the disorders, defined by distress, are rare and rarely diagnosed.",
+    "figure": "Prevalence of the disorders not established; fetishism was among the most commonly reported interests in a Czech population study",
+    "source_ref": "src-czech-paraphilia",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Therapy aims to reduce shame and distress, improve communication with partners, and help the person integrate the interest into a life and relationships they're happy with. Couples therapy often helps. Treating depression or anxiety matters. There's no good reason to try to eliminate a harmless interest, and attempts to do so tend to fail and increase distress.",
+    "evidence_based_options": [
+      "Sex-positive or kink-aware psychotherapy for shame and distress",
+      "Couples or relationship therapy",
+      "Treatment of co-occurring depression or anxiety",
+      "Psychoeducation for the person and partner"
+    ],
+    "self_help_that_supports_care": [
+      "Learning how common these interests are",
+      "Honest conversation with a partner at the right time, with support if needed",
+      "Noticing whether the distress is the interest or the secrecy",
+      "Finding a clinician who won't be shocked"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If an interest in objects or cross-dressing is causing you distress, guilt, or relationship problems, a sex-positive therapist can help. If you think your feelings about cross-dressing are about who you are rather than arousal, the gender dysphoria card may be more relevant.",
+  "is_not": "Enjoying a fetish or cross-dressing without distress isn't a disorder. Being transgender or gender non-conforming is not transvestic disorder. Using objects designed for sex isn't fetishism.",
+  "hope_note": "Most people find the problem was the shame, not the interest, and that shame can be set down.",
+  "related_topics": [
+    "paraphilic-disorders-overview",
+    "sexual-masochism-and-sadism-disorders",
+    "gender-dysphoria",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "paraphilia-vs-paraphilic-disorder",
+    "gender-identity",
+    "stigma",
+    "therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Strictly non-sensational: no descriptions of acts, no victim-blaming, no eroticised language.",
+      "Clear line between consensual adult interests (not a disorder) and non-consent or harm (always wrong, regardless of diagnosis)."
+    ]
+  },
+  "visual": {
+    "color_token": "paraphilic",
+    "icon": "scale",
+    "illustration_prompt": "Soft line illustration of a person folding laundry calmly on a bed, sunlight on the quilt, a partner reading nearby. Pastel grey-blue and rose.",
+    "alt_text": "A person folds laundry calmly on a sunlit bed while a partner reads nearby."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Paraphilic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-czech-paraphilia",
+      "title": "The Prevalence of Paraphilic Interests in the Czech Population",
+      "publisher": "National Institute of Mental Health (Czechia), Parafilik project",
+      "url": "https://parafilik.nudz.cz/wp-content/uploads/2023/12/The-Prevalence-of-Paraphilic-Interests-in-the-Czech-Population.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "topic_id": "paraphilic-disorders-overview",
+  "official_name": "Paraphilic Disorders (overview)",
+  "plain_title": "Unusual sexual interests, and when they become a problem",
+  "also_known_as": [
+    "paraphilias",
+    "atypical sexual interests"
+  ],
+  "chapter_id": "paraphilic",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a (F65.x by type)",
+  "language_convention": "person-first",
+  "one_liner": "Intense, unusual sexual interests that count as a disorder only when they cause distress, harm, or involve non-consent.",
+  "in_simple_words": "A paraphilia is a strong, persistent sexual interest in something outside the usual range. Having one is not a mental disorder, and many people enjoy unusual interests privately or with consenting adults. It becomes a paraphilic disorder only when it causes real distress or problems, or when acting on it harms or risks harming someone who hasn't consented or can't consent. Consent and harm are the whole point of this chapter. Asking for help is responsible, not shameful.",
+  "what_it_can_feel_like": [
+    "I spent years thinking my interests made me a bad person. A therapist helped me see the question was never what I feel, but what I do.",
+    "The hardest call I ever made was to a helpline. They were kind. They helped me keep everyone safe, including me."
+  ],
+  "common_signs": [
+    "A strong, lasting sexual interest outside the usual range (six months or more)",
+    "Disorder only if it causes distress or impairment, or involves harm or non-consent",
+    "Interests enjoyed privately or with consenting adults are not a disorder",
+    "Urges toward non-consenting people are a reason to seek help now"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Any unusual sexual interest is a mental illness.",
+      "fact": "The DSM is explicit that a paraphilia alone is not a disorder. Distress, impairment, or harm to others is what makes the diagnosis."
+    },
+    {
+      "myth": "People with these interests can't control their behaviour.",
+      "fact": "Interests and actions are different. Most people with atypical interests never harm anyone, and treatment helps people who worry they might."
+    },
+    {
+      "myth": "Seeking help will get you arrested.",
+      "fact": "Confidential helplines and clinics exist specifically for people worried about their thoughts who have not harmed anyone. Rules on confidentiality vary by country, and helplines explain them up front."
+    }
+  ],
+  "how_common": {
+    "plain": "Unusual sexual interests are common; one general-population study found some paraphilic interests in a sizeable minority of adults. Paraphilic disorders, where there is distress or harm, are much rarer and poorly counted.",
+    "figure": "Prevalence of paraphilic disorders not well established; interest surveys show combined rates in the teens of percent for some interests (Czech population study)",
+    "source_ref": "src-czech-paraphilia",
+    "note": "Needs a primary citation; most data come from clinical or forensic samples."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is for distress or risk, not for the interest itself. Cognitive behavioural therapy helps people manage urges, challenge thinking that excuses harm, build relationships and coping, and make safety plans. For people at risk of harming others, specialist clinics add structured risk management and, in some cases, medication that lowers sex drive, prescribed and monitored by a doctor with informed consent. Co-occurring depression, substance use, or trauma are treated. Prevention programmes exist for people who are worried and have not offended.",
+    "evidence_based_options": [
+      "CBT focused on urge management, thinking patterns, and relapse prevention",
+      "Specialist assessment and risk management for people worried about harming others",
+      "Medication to reduce sex drive in selected cases, prescribed and monitored by a doctor",
+      "Treatment of co-occurring depression, substance use, or trauma"
+    ],
+    "self_help_that_supports_care": [
+      "Separating what you feel from what you do; only actions can harm",
+      "Calling a confidential prevention helpline if you're worried about your thoughts",
+      "Avoiding alcohol and situations that lower your control",
+      "Telling a professional before anything happens, not after"
+    ],
+    "guideline_refs": [
+      "src-moore-center"
+    ]
+  },
+  "when_to_reach_out": "If your sexual interests cause you distress, or you're worried you might act in a way that harms someone, especially a child or someone who can't consent, contact a confidential prevention helpline or a doctor now. If someone has been harmed, their safety comes first: contact child protection or emergency services.",
+  "is_not": "Consensual adult kink, fetishes, and fantasies that harm no one aren't disorders. Being gay, bisexual, or transgender has nothing to do with this chapter. Sexual offending without a paraphilia is a legal matter, not a diagnosis.",
+  "hope_note": "People with unwanted urges can live safe, honest lives. Reaching out before harm happens is possible, and it works.",
+  "related_topics": [
+    "courtship-paraphilic-disorders",
+    "sexual-masochism-and-sadism-disorders",
+    "pedophilic-disorder",
+    "fetishistic-and-transvestic-disorders",
+    "antisocial-personality-disorder"
+  ],
+  "glossary_terms": [
+    "paraphilia-vs-paraphilic-disorder",
+    "consent-and-minors",
+    "limits-of-confidentiality",
+    "cbt",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Strictly non-sensational: no descriptions of acts, no victim-blaming, no eroticised language.",
+      "Clear line between consensual adult interests (not a disorder) and non-consent or harm (always wrong, regardless of diagnosis)."
+    ]
+  },
+  "visual": {
+    "color_token": "paraphilic",
+    "icon": "scale",
+    "illustration_prompt": "Soft line illustration of a person on a phone call sitting on a bench in a quiet park, shoulders relaxed, a path leading toward a lit building. Pastel grey-blue and gold.",
+    "alt_text": "A person makes a phone call on a quiet park bench, a path leading toward a lit building."
+  },
+  "communities": [
+    "stop-it-now-us",
+    "stop-it-now-uk",
+    "talking-for-change-canada",
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Paraphilic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-moore-center",
+      "title": "Resources for people concerned about their sexual thoughts",
+      "publisher": "Moore Center for the Prevention of Child Sexual Abuse, Johns Hopkins",
+      "url": "https://publichealth.jhu.edu/moore-center-for-the-prevention-of-child-sexual-abuse/get-support/resources-for-people-concerned-about-their-sexual-thoughts",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-czech-paraphilia",
+      "title": "The Prevalence of Paraphilic Interests in the Czech Population",
+      "publisher": "National Institute of Mental Health (Czechia), Parafilik project",
+      "url": "https://parafilik.nudz.cz/wp-content/uploads/2023/12/The-Prevalence-of-Paraphilic-Interests-in-the-Czech-Population.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-stop-it-now-us",
+      "title": "How can I find confidential help?",
+      "publisher": "Stop It Now! (US)",
+      "url": "https://stopitnow.org/node/1612",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Forensic clinician to review."
+    ]
+  }
+}

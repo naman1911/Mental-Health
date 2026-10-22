@@ -1,0 +1,114 @@
+{
+  "topic_id": "mental-disorders-due-to-another-medical-condition",
+  "official_name": "Mental Disorders Due to Another Medical Condition",
+  "plain_title": "When a physical illness is the cause of mental symptoms",
+  "also_known_as": [
+    "organic mental disorder (outdated)",
+    "secondary psychiatric syndrome"
+  ],
+  "chapter_id": "other-mental-disorders",
+  "card_type": "explainer",
+  "icd10cm_code": "F06.x / F07.0 / F09 (varies)",
+  "language_convention": "person-first",
+  "one_liner": "Mood, anxiety, psychosis, or personality changes that are directly caused by a medical illness, not a primary mental disorder.",
+  "in_simple_words": "Sometimes a physical illness is the direct cause of mental symptoms: a thyroid problem causing depression or anxiety, a brain tumour or epilepsy causing personality change, lupus or an infection causing psychosis, or a head injury changing behaviour. The DSM labels these 'due to another medical condition' because treating the medical cause is the key. They're easy to miss. Clues include an unusual age of onset, no family history, or new physical problems.",
+  "what_it_can_feel_like": [
+    "Two years of 'treatment-resistant depression' turned out to be an underactive thyroid. One blood test.",
+    "Dad's personality changed completely at 58. Everyone said midlife crisis. It was a frontal lobe tumour, and surgery gave him back to us."
+  ],
+  "common_signs": [
+    "Mental symptoms that start alongside, or soon after, a physical illness",
+    "Unusual pattern: first episode late in life, no family history, or odd features",
+    "Physical signs the usual condition doesn't explain",
+    "Symptoms that improve when the medical condition is treated"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Mental symptoms are always 'psychological'.",
+      "fact": "Thyroid, hormone, autoimmune, neurological, and infectious conditions can all cause them. Good psychiatry starts with a medical check."
+    },
+    {
+      "myth": "If a scan or blood test is normal, it's all in your head.",
+      "fact": "Normal tests rule some causes out, not all. And a primary mental disorder is just as real and treatable as a medical one."
+    }
+  ],
+  "how_common": {
+    "plain": "Overall numbers aren't known because these conditions are counted under each medical cause. They're common in hospital settings, especially among older adults.",
+    "figure": "No overall prevalence figure; varies by underlying condition",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment targets the medical cause first: correcting the thyroid, treating the infection or autoimmune disease, managing the epilepsy, removing the tumour. Mental symptoms often ease as the condition improves. In the meantime, the usual treatments for mood, anxiety, or psychosis are used with care, prescribed and monitored by a doctor who knows the medical picture. Psychiatry, neurology, and general medicine often work together.",
+    "evidence_based_options": [
+      "Full medical assessment including blood tests and, where indicated, brain imaging",
+      "Treatment of the underlying medical condition",
+      "Psychiatric treatment of the symptoms meanwhile, adjusted for the medical condition",
+      "Joint care between psychiatry and medical specialists"
+    ],
+    "self_help_that_supports_care": [
+      "Asking for a physical check-up when mental symptoms are new or unusual",
+      "Listing all medications and supplements for the doctor",
+      "Noting the timeline: what started when",
+      "Bringing a family member who's noticed changes"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If mental symptoms have started suddenly, late in life, alongside physical changes, or don't respond to usual treatment, ask for a medical review. If someone becomes confused or behaves very differently over hours or days, seek urgent care.",
+  "is_not": "Being understandably upset about having an illness isn't a disorder due to that illness. Delirium and dementia have their own cards. Depression that happens to coexist with a medical condition, without being caused by it, is diagnosed as depression.",
+  "hope_note": "When the cause is found and treated, symptoms that seemed stubborn often lift. It's one reason a medical check is always worth it.",
+  "related_topics": [
+    "delirium",
+    "major-and-mild-neurocognitive-disorder",
+    "major-depressive-disorder",
+    "schizophrenia",
+    "when-it-doesnt-fit-a-label"
+  ],
+  "glossary_terms": [
+    "differential-diagnosis",
+    "assessment",
+    "gp-primary-care",
+    "psychiatrist"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "other-mental-disorders",
+    "icon": "circle-help",
+    "illustration_prompt": "Soft line illustration of a doctor and a person looking at a tablet together with a simple body outline on it, a window with daylight. Pastel grey and mint.",
+    "alt_text": "A doctor and a person look at a tablet showing a simple body outline."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Mental Disorders and Additional Codes chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add a reference on medical screening in first-episode psychiatric presentations."
+    ]
+  }
+}
