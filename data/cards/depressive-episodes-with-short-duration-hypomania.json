@@ -1,0 +1,121 @@
+{
+  "topic_id": "depressive-episodes-with-short-duration-hypomania",
+  "official_name": "Depressive Episodes with Short-Duration Hypomania",
+  "plain_title": "Depression with brief highs under the four-day rule",
+  "also_known_as": [
+    "short-duration hypomania",
+    "subthreshold bipolar",
+    "bipolar spectrum"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed)",
+  "language_convention": "person-first",
+  "one_liner": "Major depression plus episodes of elevated mood lasting two to three days, shorter than bipolar II requires.",
+  "in_simple_words": "This proposed category covers people who've had major depressive episodes and also short bursts, two or three days, of hypomania: unusually high energy, less need for sleep, racing ideas, or impulsiveness, that don't last the four days DSM requires for bipolar II. Research suggests these people look more like bipolar II than like depression alone, which matters because antidepressants given on their own can sometimes trigger highs. It's listed for further study so clinicians watch for the pattern.",
+  "what_it_can_feel_like": [
+    "Two days of feeling like I could do anything, then back into the hole. Nobody asked about the highs because they were so short.",
+    "Once my psychiatrist knew about the short highs, we changed the plan, and the crashes got shallower."
+  ],
+  "common_signs": [
+    "Major depressive episodes, past or present",
+    "At least one two-to-three-day period of elevated mood, energy, and less sleep",
+    "Not long enough to count as a hypomanic episode",
+    "Often a family history of bipolar disorder"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If it doesn't last four days, it doesn't count.",
+      "fact": "The four-day rule is a convention. Short highs carry much of the same information and may change treatment choices."
+    }
+  ],
+  "how_common": {
+    "plain": "Among people with depression, studies find a meaningful minority report short hypomanic periods; figures vary a lot by how they're measured.",
+    "figure": "In one multicentre study of 5,635 people in a depressive episode, 25% of reported hypomanic episodes were shorter than four days",
+    "source_ref": "src-short-hypomania",
+    "note": "Open the review to confirm figures."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment follows the depression, with care: clinicians may lean toward approaches used for bipolar depression, such as psychotherapy plus mood-stabilising medication, prescribed and monitored by a doctor, and watch closely if antidepressants are used. Mood tracking, regular sleep, and psychoeducation about highs are central.",
+    "evidence_based_options": [
+      "Careful assessment of mood history, including brief highs",
+      "Psychotherapy (CBT, interpersonal and social rhythm therapy)",
+      "Medication decisions that account for bipolar risk, prescribed and monitored by a doctor",
+      "Mood and sleep tracking"
+    ],
+    "self_help_that_supports_care": [
+      "Telling your clinician about short highs, not just lows",
+      "Regular sleep times",
+      "Involving someone who notices your mood shifts",
+      "Mood-tracking apps or diaries"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If you have depression and also brief periods of unusually high energy or little need for sleep, tell your clinician; it can change treatment. If depression becomes severe or you have thoughts of ending your life, use the crisis strip.",
+  "is_not": "Normal good days, relief after depression lifts, or energy from stimulants or lack of sleep aren't hypomania. Four or more days of hypomania is bipolar II.",
+  "hope_note": "Getting the pattern right often ends years of treatment that didn't quite work.",
+  "related_topics": [
+    "bipolar-ii-disorder",
+    "major-depressive-disorder",
+    "cyclothymic-disorder",
+    "bipolar-i-disorder"
+  ],
+  "glossary_terms": [
+    "hypomania",
+    "mixed-features",
+    "mood-stabilizer",
+    "episode",
+    "euthymia"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a person filling in a simple mood chart on a kitchen wall calendar with coloured dots, a sleeping cat nearby, morning light. Pastel violet and peach.",
+    "alt_text": "A person marks a mood chart on a kitchen calendar with coloured dots."
+  },
+  "communities": [
+    "dbsa-online-support-groups",
+    "bipolar-uk-ecommunity",
+    "reddit-r-bipolar"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-short-hypomania",
+      "title": "Depression with shorter hypomanic episodes (review)",
+      "publisher": "Current Psychiatry Reports",
+      "url": "https://link.springer.com/article/10.1007/s11920-016-0669-2",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2016,
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

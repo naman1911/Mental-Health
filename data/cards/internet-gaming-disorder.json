@@ -1,0 +1,131 @@
+{
+  "topic_id": "internet-gaming-disorder",
+  "official_name": "Internet Gaming Disorder",
+  "plain_title": "When gaming takes over and you can't pull back",
+  "also_known_as": [
+    "gaming disorder (ICD-11, official)",
+    "video game addiction",
+    "problem gaming"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed in DSM; 6C51 in ICD-11)",
+  "language_convention": "person-first",
+  "one_liner": "Persistent gaming that takes over life and continues despite harm, proposed in DSM and official in ICD-11.",
+  "in_simple_words": "Internet gaming disorder is a proposed DSM category, and an official ICD-11 diagnosis, for people whose gaming has taken over: loss of control, gaming taking priority over school, work, sleep, and relationships, and continuing despite clear harm, for a year or more. Most gamers, including heavy ones, don't have it. It often sits alongside depression, anxiety, ADHD, or social difficulties, with gaming as an escape. Treatment helps people regain control, which doesn't always mean quitting.",
+  "what_it_can_feel_like": [
+    "I wasn't playing because it was fun any more. I was playing because everything else felt impossible. Treating the depression changed the gaming.",
+    "My son's gaming was the symptom. The problem was he'd been bullied out of every real-world friendship he had."
+  ],
+  "common_signs": [
+    "Loss of control over when and how long you game",
+    "Gaming takes priority over sleep, school, work, hygiene, or relationships",
+    "Continuing despite real harm: grades, job, health, relationships",
+    "Irritability or low mood when unable to play",
+    "Pattern lasting about a year, with significant impairment"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Anyone who games a lot is addicted.",
+      "fact": "Hours alone don't define it. Loss of control plus harm plus persistence do. Many people game heavily and function well."
+    },
+    {
+      "myth": "Taking the console away fixes it.",
+      "fact": "Abrupt removal often escalates conflict and misses what gaming was doing for the person. Treating the underlying difficulties and rebuilding offline life works better."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 3 in 100 people worldwide meet criteria for gaming disorder, by a large review, and fewer with stricter definitions. It's more common in boys and young men.",
+    "figure": "Pooled prevalence 3.05% (1.96% with stringent sampling) across 53 studies in 17 countries",
+    "source_ref": "src-igd-prev"
+  },
+  "what_helps": {
+    "plain_summary": "CBT adapted for gaming has the best evidence: understanding what gaming provides, building control strategies, and rebuilding offline activities and relationships. Family therapy helps with younger people. Treating depression, anxiety, ADHD, or social anxiety often reduces gaming on its own, with any medication prescribed and monitored by a doctor. Peer communities of people who've cut back or quit help with motivation. Specialist clinics exist in some countries.",
+    "evidence_based_options": [
+      "CBT for internet gaming disorder",
+      "Family therapy for adolescents",
+      "Treatment of co-occurring depression, anxiety, ADHD, or social anxiety",
+      "Peer support communities focused on regaining control"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking real hours and what you were avoiding",
+      "Rebuilding one offline thing: sport, music, a person",
+      "Removing games from the bedroom; protecting sleep",
+      "Peer groups of people who've reduced or quit"
+    ],
+    "guideline_refs": [
+      "src-igd-prev"
+    ]
+  },
+  "when_to_reach_out": "If gaming is costing you sleep, school, work, or relationships and you can't cut back despite wanting to, talk to a doctor or therapist, and look for a peer community. For a young person, start with a calm conversation about what gaming is giving them.",
+  "is_not": "Enjoying games, heavy gaming during holidays, or gaming as a hobby and social life aren't a disorder. Gambling features inside games are covered under gambling disorder.",
+  "hope_note": "People regain control, often while still enjoying games. Many describe rediscovering a life they'd been avoiding.",
+  "related_topics": [
+    "gambling-disorder",
+    "major-depressive-disorder",
+    "social-anxiety-disorder",
+    "adhd",
+    "autism-spectrum-disorder"
+  ],
+  "glossary_terms": [
+    "impulsivity",
+    "avoidance",
+    "cbt",
+    "relapse-prevention",
+    "doomscrolling"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of two friends playing basketball at a park court at golden hour, a games console visible through an open window behind, a dog watching. Pastel violet and amber.",
+    "alt_text": "Two friends play basketball at a park court at golden hour."
+  },
+  "communities": [
+    "reddit-r-stopgaming",
+    "smart-recovery-meetings",
+    "youngminds-parents-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-igd-prev",
+      "title": "Global prevalence of gaming disorder: a systematic review and meta-analysis",
+      "publisher": "Australian & New Zealand Journal of Psychiatry (Stevens et al.), DOI 10.1177/0004867420962851",
+      "url": "https://doi.org/10.1177/0004867420962851",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2021,
+      "note": "DOI from earlier search; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Open the meta-analysis to confirm figures."
+    ]
+  },
+  "in_young_people": "Gaming disorder peaks in adolescence. Parents do best by staying curious about what the game provides, setting limits together, and getting help for anxiety, bullying, or ADHD underneath."
+}

@@ -1796,6 +1796,75 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open eric.org.uk and record the current helpline number and hours; three different numbers appear in directories."
     },
     {
+      "community_id": "reddit-r-stopgaming",
+      "name": "r/StopGaming",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/StopGaming/",
+      "type": "subreddit",
+      "audience": [
+        "teens",
+        "young-adults",
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "internet-gaming-disorder"
+      ],
+      "region": "Global (English)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 60000,
+        "as_of": "2026-10-22",
+        "note": "About 60K members per a third-party index (figure may be dated)."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Subreddit for people struggling with or recovering from problem gaming; closely tied to the Game Quitters community, whose founder is a moderator. Intro post recommends counselling and journaling. Some posters aim for moderation, others for quitting."
+      },
+      "safety_notes": "Peer support; check pinned rules. Game Quitters sells paid programmes, which this directory does not endorse.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current member count and that crisis resources are pinned."
+    },
+    {
+      "community_id": "fasd-united-family-navigator",
+      "name": "FASD United Family Navigator",
+      "platform": "web",
+      "url": "https://fasdunited.org/family-navigator",
+      "type": "helpline",
+      "audience": [
+        "family",
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "neurobehavioral-disorder-prenatal-alcohol-exposure"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free support, information, and referral for people with FASD, families, and carers, and for people who are or may become pregnant with questions about alcohol. Navigators available Mon–Fri 9am–10pm Eastern; phone listed as 202-785-4585 on one page and 800-666-6327 on a fact sheet; online request form."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm which phone number is current."
+    },
+    {
       "community_id": "trevor-project",
       "name": "The Trevor Project: TrevorLifeline, TrevorText and TrevorChat",
       "platform": "web",

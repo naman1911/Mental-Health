@@ -1,0 +1,125 @@
+{
+  "topic_id": "shenjing-shuairuo",
+  "official_name": "Shenjing Shuairuo",
+  "plain_title": "'Weakness of the nervous system', in Chinese communities",
+  "also_known_as": [
+    "neurasthenia",
+    "shenjing shuairuo"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "A Chinese concept of nervous weakness: fatigue, poor concentration, sleep trouble, aches, and low mood.",
+  "in_simple_words": "Shenjing shuairuo, 'weakness of the nervous system', is a Chinese concept close to the older Western diagnosis of neurasthenia. It brings together mental and physical fatigue, poor memory and concentration, irritability, sleep problems, headaches, dizziness, and aches, understood as the result of overwork, stress, or imbalance in the body's energy. It was long more acceptable than 'depression' in China, and many people diagnosed with it meet criteria for depression or anxiety. It's still used by many families.",
+  "what_it_can_feel_like": [
+    "My father never said he was depressed. He said his nerves were weak from working too hard. The doctor who used his words got him to accept treatment.",
+    "The traditional medicine doctor and the psychiatrist agreed more than they disagreed. Rest, herbs, and an antidepressant."
+  ],
+  "common_signs": [
+    "Mental and physical exhaustion that rest doesn't fix",
+    "Poor memory and concentration; irritability",
+    "Trouble sleeping, headaches, dizziness, aches",
+    "Understood as weakness from overwork or imbalance",
+    "Often meets criteria for depression or anxiety"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Neurasthenia is an outdated label with no meaning.",
+      "fact": "In Chinese medicine and communities it remains a meaningful way of describing real exhaustion and distress, and a bridge to care."
+    },
+    {
+      "myth": "People who use this term are hiding their depression.",
+      "fact": "They're describing it in the terms their culture offers. Working within those terms is how treatment gets accepted."
+    }
+  ],
+  "how_common": {
+    "plain": "Shenjing shuairuo was once among the most common diagnoses in Chinese clinics; its use has declined as depression became more accepted, but it remains common in communities and traditional medicine.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment addresses the underlying depression, anxiety, insomnia, or burnout: therapy, sleep treatment, stress and work changes, and, where needed, medication prescribed and monitored by a doctor. Many people combine this with traditional Chinese medicine, rest, and diet, and clinicians do best by respecting that rather than dismissing it. Using the person's own words improves acceptance of care.",
+    "evidence_based_options": [
+      "Assessment that respects the concept and checks for depression, anxiety, and insomnia",
+      "Therapy such as CBT; sleep treatment",
+      "Medication for depression or anxiety where needed, prescribed and monitored by a doctor",
+      "Work and stress changes; integration with traditional practices the person values"
+    ],
+    "self_help_that_supports_care": [
+      "Describing the exhaustion in your own terms to a clinician",
+      "Rest and reduced overwork, where possible",
+      "Sleep routine and movement",
+      "Family support and reduced pressure"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If exhaustion, poor concentration, and sleep trouble are persistent, see a doctor and describe them as you understand them. Depression and anxiety are treatable, whatever they're called. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Thyroid, anaemia, and other medical causes of fatigue are checked by a doctor.",
+  "hope_note": "Weak nerves grow strong again. People who'd never have said 'depression' recover when care meets them in their own language.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "insomnia-disorder",
+    "somatic-symptom-disorder",
+    "kufungisisa",
+    "culture-and-mental-health"
+  ],
+  "glossary_terms": [
+    "burnout",
+    "brain-fog",
+    "somatic-symptoms",
+    "stress"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a man resting in a chair by a window with a cup of tea, a bowl of soup, and a family member reading nearby, soft light. Pastel jade and cream.",
+    "alt_text": "A man rests in a chair by a window with tea and soup while a family member reads nearby."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-fpr-culture",
+      "title": "DSM-5 on culture: a significant advance",
+      "publisher": "Foundation for Psychocultural Research",
+      "url": "https://thefpr.org/dsm-5-on-culture-a-significant-advance/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

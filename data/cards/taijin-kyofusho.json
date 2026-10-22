@@ -1,0 +1,127 @@
+{
+  "topic_id": "taijin-kyofusho",
+  "official_name": "Taijin Kyofusho",
+  "plain_title": "Fear of offending others with your presence, in Japan",
+  "also_known_as": [
+    "TKS",
+    "anthropophobia",
+    "interpersonal fear"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "Intense fear that your appearance, gaze, smell, or expressions will offend or embarrass others, recognised in Japan and Korea.",
+  "in_simple_words": "Taijin kyofusho, roughly 'interpersonal fear', is a Japanese concept, with a Korean equivalent, for intense anxiety about offending or embarrassing others through your body: your gaze, blushing, odour, or expression. It overlaps with social anxiety disorder, but the focus is on harm done to others rather than embarrassment to oneself, reflecting cultural emphasis on group harmony. Some people are convinced they cause offence; others know the fear is excessive. It begins in adolescence and responds to therapy.",
+  "what_it_can_feel_like": [
+    "I was sure my eyes made people uncomfortable, so I never looked at anyone. The therapist understood it wasn't about me being judged. It was about me hurting them.",
+    "In Japan it has a name and a history. Here they just called it social anxiety, which was close but not quite it."
+  ],
+  "common_signs": [
+    "Intense fear that your gaze, blushing, smell, or expression offends others",
+    "Avoiding eye contact, social situations, or going out",
+    "Focus on the discomfort caused to others, more than on being judged",
+    "Begins in adolescence; may be mild or fixed",
+    "Overlaps with social anxiety and sometimes with body dysmorphic concerns"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just social anxiety with a Japanese name.",
+      "fact": "The focus on harming others rather than being judged shapes the experience and the therapy. Recognising the difference matters."
+    },
+    {
+      "myth": "It only occurs in Japan.",
+      "fact": "Similar fears are reported in Korea and increasingly recognised elsewhere. Culture shapes the form, not the possibility."
+    }
+  ],
+  "how_common": {
+    "plain": "In one small Japanese community study, around 7 in 100 adults reported taijin kyofu symptoms; estimates in other sources range widely. Young adults in Japan report higher levels than in England.",
+    "figure": "6.8% (9 of 132) with symptoms in one community sample (2001); lifetime estimates cited at 3%–13% in secondary sources",
+    "source_ref": "src-tks-community",
+    "note": "Small samples; confirm against primary sources."
+  },
+  "what_helps": {
+    "plain_summary": "CBT adapted for taijin kyofusho, including exposure to feared situations and work on beliefs about causing offence, is effective, as are Japanese approaches such as Morita therapy, which emphasises accepting feelings and acting anyway. Medication used for social anxiety, prescribed and monitored by a doctor, helps some people. Where the belief of causing offence is fixed, treatment is adjusted accordingly.",
+    "evidence_based_options": [
+      "CBT adapted for interpersonal fear, including exposure",
+      "Morita therapy and acceptance-based approaches",
+      "Medication as for social anxiety where needed, prescribed and monitored by a doctor",
+      "Assessment of co-occurring body dysmorphic or delusional features"
+    ],
+    "self_help_that_supports_care": [
+      "Testing the belief that others are offended by gently gathering evidence",
+      "Gradual return to feared situations",
+      "Not avoiding eye contact entirely; small steps",
+      "Peer support with others who have social anxiety"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If fear of offending others with your appearance or presence is keeping you from school, work, or relationships, talk to a doctor or therapist and describe it in these terms. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Ordinary consideration for others, and cultural politeness, aren't a disorder.",
+  "hope_note": "People who feared their very presence offended others find themselves at the table, looking people in the eye, and welcomed.",
+  "related_topics": [
+    "social-anxiety-disorder",
+    "body-dysmorphic-disorder",
+    "avoidant-personality-disorder",
+    "culture-and-mental-health"
+  ],
+  "glossary_terms": [
+    "shyness-vs-social-anxiety",
+    "avoidance",
+    "exposure-therapy",
+    "hikikomori"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of two colleagues sharing lunch on a bench in a Japanese park under cherry blossom, relaxed eye contact, spring light. Pastel sakura pink and sky blue.",
+    "alt_text": "Two colleagues share lunch on a park bench under cherry blossom."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-tks-community",
+      "title": "Taijin kyofusho in a Japanese community population",
+      "publisher": "Transcultural Psychiatry",
+      "url": "https://www.ovid.com/journals/tpsy/pdf/10.1177/136346150103800408~taijin-kyofusho-in-a-japanese-community-population",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2001,
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

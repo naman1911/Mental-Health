@@ -1,0 +1,130 @@
+{
+  "topic_id": "neurobehavioral-disorder-prenatal-alcohol-exposure",
+  "official_name": "Neurobehavioral Disorder Associated with Prenatal Alcohol Exposure",
+  "plain_title": "Thinking and behaviour differences from alcohol before birth",
+  "also_known_as": [
+    "ND-PAE",
+    "fetal alcohol spectrum disorder (FASD)",
+    "FAS, ARND"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed; coded as other specified neurodevelopmental disorder)",
+  "language_convention": "mixed",
+  "one_liner": "Thinking, self-regulation, and daily-living difficulties caused by alcohol exposure in the womb.",
+  "in_simple_words": "Neurobehavioral disorder associated with prenatal alcohol exposure is the DSM's proposed term for the brain-based effects of alcohol before birth, part of what's usually called fetal alcohol spectrum disorder. It involves difficulties with thinking (memory, learning, planning), self-regulation (mood, attention, impulse control), and daily living (social skills, independence), starting in childhood and lasting. Not every child has the facial features of FAS; most don't. It's often misdiagnosed as ADHD or 'bad behaviour'. The right support makes a large difference.",
+  "what_it_can_feel_like": [
+    "He was labelled naughty for ten years. The FASD diagnosis rewrote the story: his brain works differently, and now school works with that.",
+    "I'm an adult with FASD. I need lists, routine, and people who don't assume I'm being difficult."
+  ],
+  "common_signs": [
+    "Difficulty with memory, learning, planning, or understanding consequences",
+    "Trouble regulating mood, attention, and impulses",
+    "Difficulties with social understanding, daily living skills, or independence",
+    "Starting in childhood, with confirmed or likely alcohol exposure before birth",
+    "Often misdiagnosed as ADHD, ODD, or a learning disorder alone"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "You can see FASD in a child's face.",
+      "fact": "Only a minority have the facial features. Most people with the condition look like anyone else, which is why it's missed."
+    },
+    {
+      "myth": "It's the mother's fault and nothing can be done.",
+      "fact": "Blame helps no one; many pregnancies are unplanned, and alcohol advice has changed over time. Early diagnosis and tailored support improve outcomes greatly."
+    }
+  ],
+  "how_common": {
+    "plain": "Estimates suggest FASD affects somewhere between 1 and 5 in 100 children in the US, depending on the study, making it one of the most common causes of developmental difficulty, and one of the most underdiagnosed.",
+    "figure": "National estimates of 2%–5% of individuals (US summaries); figures vary by study and region",
+    "source_ref": "src-dsm",
+    "note": "Needs the primary May 2018 JAMA prevalence study citation."
+  },
+  "what_helps": {
+    "plain_summary": "There's no cure, but tailored support changes lives: diagnosis by a specialist team, school plans built around memory and processing differences, structured routines, clear and concrete instructions, skills training for daily living and social situations, and support for parents and carers. Co-occurring ADHD, anxiety, or sleep problems are treated, with any medication prescribed and monitored by a doctor. Adult services, housing, and employment support matter for independence.",
+    "evidence_based_options": [
+      "Multidisciplinary FASD assessment",
+      "Individualised school plans and environmental supports",
+      "Parent and carer training and support",
+      "Treatment of co-occurring ADHD, anxiety, or sleep problems"
+    ],
+    "self_help_that_supports_care": [
+      "External structure: visual schedules, lists, routines",
+      "Concrete, one-step instructions",
+      "Family navigator services and FASD support organisations",
+      "Protecting from blame; the brain, not the person, is the issue"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If a child or adult has learning, attention, and behaviour difficulties that don't fit ADHD alone, and there's known or possible alcohol exposure in pregnancy, ask about an FASD assessment. Family navigator services can help find one.",
+  "is_not": "ADHD, autism, learning disorders, and trauma can look similar and can co-occur. A single learning difficulty without the broader pattern isn't ND-PAE.",
+  "hope_note": "With the right scaffolding, people with FASD finish school, hold jobs, and live well. Understanding changes everything.",
+  "related_topics": [
+    "adhd",
+    "intellectual-developmental-disorder",
+    "specific-learning-disorder",
+    "oppositional-defiant-disorder",
+    "autism-spectrum-disorder"
+  ],
+  "glossary_terms": [
+    "neurodevelopmental",
+    "executive-function",
+    "school-support-plans",
+    "reasonable-accommodations",
+    "late-diagnosis"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses.",
+      "Non-blaming language toward birth parents throughout."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a child using a picture schedule on a fridge with a parent, a star chart, morning light. Pastel violet and sunflower.",
+    "alt_text": "A child and a parent use a picture schedule on a fridge."
+  },
+  "communities": [
+    "fasd-united-family-navigator",
+    "chadd-online-communities",
+    "youngminds-parents-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-fasd-united",
+      "title": "FASD United Family Navigator",
+      "publisher": "FASD United (formerly NOFAS)",
+      "url": "https://fasdunited.org/family-navigator",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Phone numbers conflict across listings."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add the primary prevalence citation (JAMA 2018)."
+    ]
+  },
+  "language_convention_note": "'Person with FASD' is common; some self-advocates use 'FASD adult'. Both are used here."
+}

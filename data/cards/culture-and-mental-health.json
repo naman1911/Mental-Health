@@ -1,0 +1,151 @@
+{
+  "topic_id": "culture-and-mental-health",
+  "official_name": "Culture and Mental Health",
+  "plain_title": "How culture shapes distress, diagnosis, and care",
+  "also_known_as": [
+    "cultural formulation",
+    "cultural concepts of distress",
+    "Cultural Formulation Interview (CFI)"
+  ],
+  "chapter_id": "culture",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a",
+  "language_convention": "person-first",
+  "one_liner": "Culture shapes how distress is felt, described, explained, and treated. Good care asks about it directly.",
+  "in_simple_words": "Everyone has culture: shared ideas about what a good life looks like, what counts as a problem, how to talk about feelings, and where to turn for help. Culture shapes whether distress shows up as sadness, body pain, spirit trouble, or 'thinking too much'. The DSM includes a Cultural Formulation Interview, 16 questions about a person's own view of their problem, and a glossary of cultural concepts of distress, nine of which have cards here. Diagnosis with culture fits.",
+  "what_it_can_feel_like": [
+    "My doctor asked 'what do you call this problem, and what do people in your family think causes it?' Nobody had ever asked. The answer changed the treatment.",
+    "In my language there's no word for depression. There is a word for a heart that has become heavy. That's the word I needed someone to understand."
+  ],
+  "common_signs": [
+    "Distress described through the body, spirits, family, or 'thinking too much' rather than mood words",
+    "Explanations involving stress, loss, spiritual causes, or social problems",
+    "Help sought from family, faith, traditional healers, and clinics, often together",
+    "Mistrust of services based on past experience or discrimination",
+    "Interpreters or bicultural workers making the difference between being heard and not"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Culture only matters for 'other' people.",
+      "fact": "Everyone's distress is shaped by culture, including the culture of the clinician and the DSM itself. The CFI is designed for every patient."
+    },
+    {
+      "myth": "Cultural concepts are old-fashioned beliefs to be corrected.",
+      "fact": "They're coherent ways of understanding suffering, often with their own effective supports. Good care works with them, not against them."
+    },
+    {
+      "myth": "Using an interpreter makes therapy impossible.",
+      "fact": "Professional interpreters and bicultural workers make therapy possible and effective. Family members as interpreters are what to avoid."
+    }
+  ],
+  "how_common": {
+    "plain": "Culture matters for everyone, so there's no prevalence. Migrants, refugees, and minority groups face extra barriers to care in every country covered.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "The Cultural Formulation Interview helps clinicians understand how a person and their community see the problem, what they think causes it, what's helped, and what they want from care. Culturally adapted therapies, bicultural workers, professional interpreters, and collaboration with faith and community leaders improve engagement and outcomes. Community-based approaches like Zimbabwe's Friendship Bench, where trained lay health workers deliver problem-solving therapy on a bench outside a clinic, show that care can be built from local concepts rather than imported.",
+    "evidence_based_options": [
+      "Cultural Formulation Interview as part of assessment",
+      "Culturally adapted psychotherapies and bicultural clinicians",
+      "Professional interpreters, never family members",
+      "Community and lay-worker models such as the Friendship Bench; collaboration with faith and community leaders"
+    ],
+    "self_help_that_supports_care": [
+      "Telling a clinician what you call the problem and what your family thinks causes it",
+      "Asking for an interpreter or a clinician who understands your background",
+      "Using the supports your community already has, alongside clinical care",
+      "Reading the nine cultural concept cards if one sounds familiar"
+    ],
+    "guideline_refs": [
+      "src-cfi"
+    ]
+  },
+  "when_to_reach_out": "If you feel a clinician doesn't understand your background, you can say so and ask for the Cultural Formulation Interview, an interpreter, or a different clinician. Community organisations for your culture or faith can help you find care that fits. If you're in crisis, the crisis strip lists services in many languages.",
+  "is_not": "Culture isn't a diagnosis, and a cultural concept isn't a 'wrong' version of a DSM one. Many people use both frameworks at once.",
+  "hope_note": "When care fits a person's culture, people who'd given up on services come back, and treatments that 'didn't work' start working.",
+  "related_topics": [
+    "social-environment-and-identity-stress",
+    "ataque-de-nervios",
+    "kufungisisa",
+    "taijin-kyofusho",
+    "somatic-symptom-disorder",
+    "when-it-doesnt-fit-a-label"
+  ],
+  "glossary_terms": [
+    "stigma",
+    "formulation",
+    "lived-experience",
+    "peer-support",
+    "assessment"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a clinician and a person talking on a bench outside a clinic, an interpreter beside them, trees and a market in the background. Pastel earth tones and sky blue.",
+    "alt_text": "A clinician and a person talk on a bench outside a clinic with an interpreter beside them."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cfi",
+      "title": "DSM-5 Cultural Formulation Interview and the evolution of cultural assessment in psychiatry",
+      "publisher": "Psychiatric Times",
+      "url": "https://www.psychiatrictimes.com/view/dsm-5-cultural-formulation-interview-and-evolution-cultural-assessment-psychiatry",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-fpr-culture",
+      "title": "DSM-5 on culture: a significant advance",
+      "publisher": "Foundation for Psychocultural Research",
+      "url": "https://thefpr.org/dsm-5-on-culture-a-significant-advance/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-friendship-bench",
+      "title": "The Friendship Bench",
+      "publisher": "Centre for Global Mental Health",
+      "url": "https://www.centreforglobalmentalhealth.org/research-projects/the-friendship-bench/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

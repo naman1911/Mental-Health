@@ -1,0 +1,135 @@
+{
+  "topic_id": "caffeine-use-disorder",
+  "official_name": "Caffeine Use Disorder",
+  "plain_title": "When coffee and energy drinks are a problem you can't shake",
+  "also_known_as": [
+    "caffeine dependence",
+    "caffeine withdrawal (official diagnosis)"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed)",
+  "language_convention": "person-first",
+  "one_liner": "A proposed diagnosis for people who can't cut down caffeine despite harm, with withdrawal when they stop.",
+  "in_simple_words": "Caffeine is the world's most used drug, and most people use it without trouble. Caffeine use disorder is a proposed category for people who keep using it despite physical or mental harm, such as insomnia, anxiety, heart palpitations, or stomach problems, have tried and failed to cut down, and get withdrawal, like headache and fatigue, when they stop. Caffeine withdrawal is already an official diagnosis. The bar for the proposed disorder is deliberately high so ordinary coffee drinking isn't labelled.",
+  "what_it_can_feel_like": [
+    "Six energy drinks a day, panic attacks, and I couldn't sleep. Cutting down over a month was rough but the anxiety halved.",
+    "I didn't think coffee counted as a drug until I tried to stop and spent three days in bed with a headache."
+  ],
+  "common_signs": [
+    "Persistent wish or failed attempts to cut down caffeine",
+    "Continued use despite insomnia, anxiety, palpitations, or stomach problems caused by it",
+    "Withdrawal when stopping: headache, fatigue, irritability, low mood",
+    "Using to avoid withdrawal"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Caffeine can't be a real problem.",
+      "fact": "Withdrawal is well documented, and high intake worsens anxiety, insomnia, and panic in some people. For a minority, cutting down is genuinely hard."
+    },
+    {
+      "myth": "Everyone who drinks coffee daily has a disorder.",
+      "fact": "The proposed criteria require harm plus failed attempts to cut down plus withdrawal. Daily coffee alone isn't close."
+    }
+  ],
+  "how_common": {
+    "plain": "In one US survey of caffeine users, about 8 in 100 met the proposed criteria. About half of people who stop abruptly get a withdrawal headache.",
+    "figure": "About 8% of 1,006 US caffeine consumers met proposed criteria (2020 survey); withdrawal headache in about 50% in experimental studies, with clinically significant impairment in 13%",
+    "source_ref": "src-caffeine-cud"
+  },
+  "what_helps": {
+    "plain_summary": "Gradual reduction over weeks avoids most withdrawal: swapping in lower-caffeine drinks, moving the last dose earlier, and cutting one serving at a time. Brief counselling helps people stick with it. Treating underlying anxiety, insomnia, or ADHD, which often drive heavy use, matters. Withdrawal symptoms peak in the first two days and pass within about a week.",
+    "evidence_based_options": [
+      "Gradual taper of caffeine over weeks",
+      "Brief counselling or CBT-based reduction programmes",
+      "Treatment of underlying anxiety, insomnia, or ADHD",
+      "Sleep hygiene and routine"
+    ],
+    "self_help_that_supports_care": [
+      "Counting your real daily intake, including energy drinks and pre-workouts",
+      "Cutting by one serving every few days rather than stopping cold",
+      "No caffeine after early afternoon",
+      "Expecting a few days of headache and tiredness, then relief"
+    ],
+    "guideline_refs": [
+      "src-caffeine-withdrawal"
+    ]
+  },
+  "when_to_reach_out": "If caffeine is causing anxiety, panic, insomnia, or heart symptoms and you can't cut down, talk to a doctor or pharmacist. Seek urgent care for chest pain or a racing heartbeat that won't settle.",
+  "is_not": "Enjoying coffee, needing it to wake up, or a headache when you miss it aren't a disorder. Anxiety and panic from other causes are diagnosed separately.",
+  "hope_note": "Most people who cut down find sleep and calm return within weeks, and discover they like coffee more when it isn't a need.",
+  "related_topics": [
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "insomnia-disorder",
+    "stimulant-use-disorder",
+    "adhd"
+  ],
+  "glossary_terms": [
+    "withdrawal",
+    "tolerance",
+    "dependence",
+    "sleep-hygiene",
+    "tapering"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a person at a café table with a herbal tea and a cup of coffee, choosing the tea, a notebook with a tapering plan, sunlight. Pastel violet and cream.",
+    "alt_text": "A person at a café table chooses a herbal tea over coffee, a notebook open beside them."
+  },
+  "communities": [
+    "smart-recovery-meetings",
+    "reddit-r-insomnia",
+    "reddit-r-anxiety"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-caffeine-cud",
+      "title": "Prevalence and correlates of caffeine use disorder symptoms among a United States sample",
+      "publisher": "PubMed Central (PMC7071067)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071067/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2020
+    },
+    {
+      "id": "src-caffeine-withdrawal",
+      "title": "A critical review of caffeine withdrawal: empirical validation of symptoms and signs",
+      "publisher": "Johns Hopkins (Juliano & Griffiths)",
+      "url": "https://pure.johnshopkins.edu/en/publications/a-critical-review-of-caffeine-withdrawal-empirical-validation-of--5/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2004
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

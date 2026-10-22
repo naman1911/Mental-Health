@@ -1,0 +1,125 @@
+{
+  "topic_id": "suicidal-behavior-disorder",
+  "official_name": "Suicidal Behavior Disorder",
+  "plain_title": "Recording a suicide attempt so care stays focused on safety",
+  "also_known_as": [
+    "suicide attempt (proposed diagnosis)"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed)",
+  "language_convention": "person-first",
+  "one_liner": "A proposed category for people who've made a suicide attempt within the past two years, to keep safety central.",
+  "in_simple_words": "Suicidal behavior disorder is a proposed, not official, category for someone who has made a suicide attempt in the past two years. It isn't a disorder of character; it records that an attempt happened so that care keeps safety and follow-up at the centre, whatever other diagnosis a person has. A past attempt is the strongest single predictor of future risk, and most people who survive an attempt do not die by suicide. Follow-up matters most in the months afterwards.",
+  "what_it_can_feel_like": [
+    "After my attempt I was discharged with a leaflet. Six months later a different hospital gave me a safety plan, a follow-up call every week, and a therapist. That's the version that worked.",
+    "Nobody tells you the first year after is the hardest and the most important. Weekly calls got me through it."
+  ],
+  "common_signs": [
+    "A suicide attempt within the last two years",
+    "Recorded regardless of any other diagnosis",
+    "Not applied to self-injury without intent to die",
+    "Signals the need for safety planning and follow-up"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Once someone has attempted, they'll always be at risk.",
+      "fact": "Risk is highest in the months after and falls with time and support. Most attempt survivors go on to live, and many describe deep relief that they did."
+    }
+  ],
+  "how_common": {
+    "plain": "Attempts are far more common than deaths; estimates suggest many attempts for every death. Most people who attempt survive and recover.",
+    "figure": "WHO estimates attempts outnumber deaths many times over; over 720,000 suicide deaths worldwide each year (2025 fact sheet)",
+    "source_ref": "src-who-suicide",
+    "note": "Present carefully; avoid numbers that sensationalise."
+  },
+  "what_helps": {
+    "plain_summary": "What helps after an attempt: a safety plan made with a clinician, rapid follow-up (a call or visit within days, not weeks), therapy that targets suicidal thinking (CBT for suicide prevention, DBT, CAMS), treatment of any underlying condition with any medication prescribed and monitored by a doctor, involving trusted people, and making the environment safer. Brief contact interventions, like follow-up messages, reduce repeat attempts. Peer support with other attempt survivors helps with shame and isolation.",
+    "evidence_based_options": [
+      "Safety planning and rapid follow-up after discharge",
+      "CBT for suicide prevention, DBT, or CAMS",
+      "Treatment of underlying depression, trauma, substance use, or other conditions",
+      "Brief contact follow-up and peer support for attempt survivors"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping your safety plan where you can find it",
+      "Telling one person you trust what helps when things get dark",
+      "Attending follow-up even when you feel better",
+      "Peer groups where attempt survivors talk openly"
+    ],
+    "guideline_refs": [
+      "src-who-suicide"
+    ]
+  },
+  "when_to_reach_out": "If you've attempted and are struggling again, reach out now: a crisis line from the strip, a trusted person, or an emergency department. If you're supporting someone after an attempt, ask directly how they are, help them keep follow-up appointments, and keep the lines of contact open.",
+  "is_not": "Nonsuicidal self-injury, done to cope rather than to die, is recorded separately. Suicidal thoughts without an attempt are covered on the suicidal thoughts card.",
+  "hope_note": "Most attempt survivors are alive years later, and many become the people who help others through. The period after an attempt is when support changes everything.",
+  "related_topics": [
+    "suicidal-thoughts-and-behavior",
+    "nonsuicidal-self-injury-disorder",
+    "major-depressive-disorder",
+    "borderline-personality-disorder",
+    "posttraumatic-stress-disorder"
+  ],
+  "glossary_terms": [
+    "suicide-attempt-survivor",
+    "safety-plan",
+    "crisis-plan",
+    "safe-messaging",
+    "warning-signs"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses.",
+      "Safe-messaging rules apply: no methods, no numbers that sensationalise."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a person answering a phone call on a sunny porch, a mug of tea, a dog at their feet, a calendar with a circled date. Pastel violet and gold.",
+    "alt_text": "A person answers a phone call on a sunny porch with a dog at their feet."
+  },
+  "communities": [
+    "alt2su-wildflower-alliance",
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-who-suicide",
+      "title": "Suicide fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/suicide",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2025,
+      "note": "Figures from search summaries; page not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

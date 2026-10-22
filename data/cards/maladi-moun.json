@@ -1,0 +1,134 @@
+{
+  "topic_id": "maladi-moun",
+  "official_name": "Maladi Moun",
+  "plain_title": "'Humanly caused illness' in Haitian communities",
+  "also_known_as": [
+    "sent sickness",
+    "maladi moun",
+    "humanly caused illness"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "A Haitian explanation for illness, including mental distress, as sent by another person through envy or ill will.",
+  "in_simple_words": "Maladi moun, 'humanly caused illness' or 'sent sickness', is a Haitian way of explaining illness, including depression, psychosis, academic or social failure, and physical disease, as caused by another person's envy, hatred, or sorcery. Success or good fortune can make a person a target. It sits alongside biological and spiritual explanations, and people often seek care from doctors, churches, and Vodou practitioners at once. Understanding it helps clinicians build trust and avoid mislabelling cultural beliefs as delusions.",
+  "what_it_can_feel_like": [
+    "When my son became ill after his promotion, the family said someone had sent it. The psychiatrist listened, and then treated the psychosis. Both things happened.",
+    "Being asked whether I thought someone had caused my illness, without judgement, was the first time I trusted a doctor here."
+  ],
+  "common_signs": [
+    "Illness or misfortune explained as sent by another person's envy or ill will",
+    "Often following success, a promotion, or good fortune",
+    "Care sought from doctors, churches, and traditional practitioners together",
+    "Fear, mistrust, or shame about the cause"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Believing illness was sent by someone is a delusion.",
+      "fact": "It's a shared cultural explanation, not a personal fixed false belief. The Cultural Formulation Interview helps clinicians tell the difference."
+    },
+    {
+      "myth": "People who believe this won't accept medical treatment.",
+      "fact": "Most use several kinds of help at once. Respecting the explanation makes medical and psychological care more likely to be accepted."
+    }
+  ],
+  "how_common": {
+    "plain": "Maladi moun is a widely shared explanation in Haitian communities; there's no prevalence figure for a way of explaining illness.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Care works best when clinicians ask about the person's and family's explanation, respect it, and treat the underlying condition, whether depression, psychosis, or anxiety, with standard therapy and, where needed, medication prescribed and monitored by a doctor. Collaboration with churches and community leaders, and Haitian Creole interpreters or bicultural workers, improve trust. Distinguishing shared belief from delusion requires cultural knowledge.",
+    "evidence_based_options": [
+      "Cultural Formulation Interview",
+      "Treatment of the underlying condition with therapy and, where needed, medication prescribed and monitored by a doctor",
+      "Haitian Creole interpreters and bicultural clinicians",
+      "Collaboration with faith and community leaders"
+    ],
+    "self_help_that_supports_care": [
+      "Telling clinicians what your family believes caused the illness",
+      "Using church, community, and medical help together",
+      "Finding a clinician who knows Haitian culture",
+      "Support for the fear and isolation the explanation can bring"
+    ],
+    "guideline_refs": [
+      "src-cfi"
+    ]
+  },
+  "when_to_reach_out": "If you or a family member is unwell and the family believes it was sent, you can still get medical and psychological help, and you can tell the clinician what you believe. If someone is hearing voices, very confused, or at risk, seek urgent care.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. A shared cultural belief is not a delusion; a belief that is unique, fixed, and out of step with the person's own community may be.",
+  "hope_note": "Families that hold both explanations get both kinds of help. Illness that was 'sent' still gets better.",
+  "related_topics": [
+    "culture-and-mental-health",
+    "schizophrenia",
+    "major-depressive-disorder",
+    "social-environment-and-identity-stress"
+  ],
+  "glossary_terms": [
+    "delusion",
+    "formulation",
+    "stigma",
+    "support-system"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a family in a sunlit living room with a visiting nurse and a pastor, a cup of coffee on the table, plants in the window. Pastel coral and sky blue.",
+    "alt_text": "A family sits in a sunlit living room with a visiting nurse and a pastor."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-fpr-culture",
+      "title": "DSM-5 on culture: a significant advance",
+      "publisher": "Foundation for Psychocultural Research",
+      "url": "https://thefpr.org/dsm-5-on-culture-a-significant-advance/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-cfi",
+      "title": "DSM-5 Cultural Formulation Interview and the evolution of cultural assessment in psychiatry",
+      "publisher": "Psychiatric Times",
+      "url": "https://www.psychiatrictimes.com/view/dsm-5-cultural-formulation-interview-and-evolution-cultural-assessment-psychiatry",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

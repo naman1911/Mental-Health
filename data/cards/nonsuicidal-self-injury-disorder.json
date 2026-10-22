@@ -1,0 +1,122 @@
+{
+  "topic_id": "nonsuicidal-self-injury-disorder",
+  "official_name": "Nonsuicidal Self-Injury Disorder",
+  "plain_title": "A proposed diagnosis for frequent, hard-to-stop self-injury",
+  "also_known_as": [
+    "NSSI disorder"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed)",
+  "language_convention": "person-first",
+  "one_liner": "A proposed category for self-injury on five or more days in a year, done to cope, causing distress.",
+  "in_simple_words": "Nonsuicidal self-injury disorder is a proposed, not official, diagnosis for people who've injured themselves on five or more days in a year, without wanting to die, to relieve bad feelings, with distress because of it. It's listed so that self-injury can be recognised in its own right, not only as a symptom of borderline personality disorder, which it often isn't. The care is the same as for self-injury generally: understanding what it does, and building other ways to cope.",
+  "what_it_can_feel_like": [
+    "Having a name for it that wasn't 'borderline' mattered. I'm not; I was a teenager who'd found one way to cope and needed others.",
+    "The urge still shows up on bad days. Now it's a signal to use my list, not a secret."
+  ],
+  "common_signs": [
+    "Self-injury on five or more days in the past year, without intent to die",
+    "Done to relieve bad feelings, resolve a problem, or feel something",
+    "Urges or preoccupation beforehand",
+    "Distress or problems in daily life because of it"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Frequent self-injury means borderline personality disorder.",
+      "fact": "Many people who self-injure don't have BPD. The proposed disorder exists partly to stop that automatic assumption."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 in 6 teenagers has self-injured at some point; a smaller number do so often enough to meet the proposed criteria.",
+    "figure": "Lifetime NSSI 17.2% in adolescents, 5.5% in adults (meta-analysis, 2014); proposed-disorder prevalence not established",
+    "source_ref": "src-swannell-nssi"
+  },
+  "what_helps": {
+    "plain_summary": "DBT and DBT skills groups have the strongest evidence, especially for teens; CBT, family-based therapy, and treatment of underlying depression, anxiety, or trauma help too, with any medication prescribed and monitored by a doctor. Wound care without judgement and honest conversation about urges are central. Recovery means the urges losing their power, not perfection.",
+    "evidence_based_options": [
+      "DBT or DBT skills groups, including adolescent versions",
+      "CBT and family-based therapy",
+      "Treatment of underlying depression, anxiety, or trauma",
+      "Non-judgemental medical care"
+    ],
+    "self_help_that_supports_care": [
+      "A written list of things that delay or replace the urge",
+      "Telling one trusted person",
+      "Tracking urges and triggers",
+      "Recovery-focused online resources, not pro-self-harm spaces"
+    ],
+    "guideline_refs": [
+      "src-swannell-nssi"
+    ]
+  },
+  "when_to_reach_out": "If you're self-injuring regularly and want it to change, a therapist, doctor, or school counsellor can help, and crisis and text lines in the strip are there for the hard moments. Seek urgent medical care for serious injuries. If you're thinking about ending your life, reach out now.",
+  "is_not": "Occasional self-injury, body modification, and self-injury with intent to die are not this proposed disorder.",
+  "hope_note": "People stop. Urges fade with new ways to cope, and the self-injury becomes something they used to do.",
+  "related_topics": [
+    "nonsuicidal-self-injury",
+    "suicidal-behavior-disorder",
+    "borderline-personality-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "self-harm",
+    "emotional-dysregulation",
+    "dbt",
+    "coping-skills",
+    "safe-messaging"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses.",
+      "Safe-messaging rules apply: no methods, no numbers that sensationalise.",
+      "No descriptions of methods, tools, or wounds."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a teenager drawing in a sketchbook at a kitchen table while a parent cooks nearby, afternoon light. Pastel violet and mint. No injuries shown.",
+    "alt_text": "A teenager draws in a sketchbook at a kitchen table while a parent cooks nearby."
+  },
+  "communities": [
+    "cornell-self-injury-recovery-resources",
+    "alt2su-wildflower-alliance",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-swannell-nssi",
+      "title": "Prevalence of nonsuicidal self-injury in nonclinical samples: systematic review, meta-analysis and meta-regression",
+      "publisher": "Suicide and Life-Threatening Behavior (Swannell et al.), 44(3):273–303",
+      "url": "https://researchers.westernsydney.edu.au/en/publications/prevalence-of-nonsuicidal-self-injury-in-nonclinical-samples-syst/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}
