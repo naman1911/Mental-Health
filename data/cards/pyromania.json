@@ -10,7 +10,7 @@
   "icd10cm_code": "F63.1",
   "language_convention": "person-first",
   "one_liner": "Setting fires on purpose, more than once, because of tension before and relief or fascination after, not for gain.",
-  "in_simple_words": "Pyromania is a rare impulse-control condition in which a person deliberately sets fires on more than one occasion, feels tension or excitement beforehand, is fascinated by fire and everything around it, and feels relief or pleasure during or after. The fires aren't set for money, revenge, concealment, delusion, or intoxication. Most fire-setting is not pyromania. The condition is poorly understood, often found with other impulse or mood problems, and treated with therapy focused on urges and safety.",
+  "in_simple_words": "Pyromania is a rare impulse-control condition. A person sets fires on purpose more than once. They feel tension or excitement first, are fascinated by fire, and feel relief or pleasure during or after. The fires aren't set for money, revenge, or to hide a crime, and not because of drugs or delusions. Most fire-setting is not pyromania. The condition is poorly understood and often comes with other impulse or mood problems. Therapy focuses on urges and safety.",
   "what_it_can_feel_like": [
     "I'd feel it building for days. After the fire, calm, for a while. Then shame.",
     "It wasn't about hurting anyone. It was the fire itself. That's hard to explain to people, and I understand why."
@@ -103,7 +103,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 10.3,
+    "reading_grade_estimate": 9.2,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,

@@ -11,7 +11,7 @@
   "icd10cm_code": "F91.1 (childhood onset) / F91.2 (adolescent onset) / F91.9 (unspecified)",
   "language_convention": "person-first",
   "one_liner": "A repeated pattern in a child or teen of aggression, destruction, lying, theft, or serious rule-breaking over a year.",
-  "in_simple_words": "Conduct disorder is diagnosed in children and teens who, for a year or more, repeatedly break important rules and the rights of others: fighting or cruelty, damaging property, lying and stealing, or running away and skipping school. It often grows out of ODD, ADHD, trauma, or a chaotic environment, and is far more common among young people who have been abused or in care. Early, family-based help works, and most young people do not continue into adult problems.",
+  "in_simple_words": "Conduct disorder is diagnosed in children and teens who keep breaking important rules for a year or more. That can mean fighting, cruelty, damaging property, lying, stealing, running away, or skipping school. It often grows out of ODD, ADHD, trauma, or a chaotic home. It is far more common among young people who have been abused or in care. Early, family-based help works. Most young people do not go on to adult problems.",
   "what_it_can_feel_like": [
     "He wasn't born like this. By the time anyone offered help he'd been excluded from three schools.",
     "I was angry at everyone, so I made sure everyone was scared of me. I was 13 and I'd never felt safe a day in my life.",
@@ -135,7 +135,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 10.6,
+    "reading_grade_estimate": 9.8,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,
