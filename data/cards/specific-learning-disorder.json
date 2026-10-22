@@ -1,0 +1,157 @@
+{
+  "topic_id": "specific-learning-disorder",
+  "official_name": "Specific Learning Disorder",
+  "plain_title": "When reading, writing, or maths doesn't come the usual way",
+  "also_known_as": [
+    "dyslexia",
+    "dyscalculia",
+    "dysgraphia",
+    "learning difficulties (UK)",
+    "learning disabilities (US)"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F81.x (by area)",
+  "language_convention": "mixed",
+  "language_convention_note": "'Dyslexic person' and 'person with dyslexia' are both widely used and accepted; the card uses both.",
+  "one_liner": "A lifelong difference in how the brain learns reading, writing, or maths, in a person who is otherwise capable.",
+  "in_simple_words": "A specific learning disorder means one area of learning is much harder than expected for a person's age, intelligence, and schooling. Dyslexia affects reading and spelling; dysgraphia affects writing; dyscalculia affects numbers and maths. It has nothing to do with intelligence or effort: dyslexic people include surgeons, authors, and engineers. With the right teaching and tools, people learn and succeed, and understanding it early spares years of feeling 'stupid'.",
+  "what_it_can_feel_like": [
+    "The letters didn't move, like people think. They just never stuck, however hard I tried.",
+    "I could explain the whole science project out loud. Writing it down took three times as long.",
+    "Dyscalculia means I still count on my fingers at 35. I also run a successful business."
+  ],
+  "common_signs": [
+    "Slow, effortful, or inaccurate reading, or trouble understanding what's read",
+    "Spelling that stays hard despite practice",
+    "Writing that is slow, messy, or hard to organize",
+    "Difficulty with number sense, maths facts, or calculation",
+    "Skills well below what's expected for age, lasting six months or more",
+    "Started during school years, often noticed early"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Dyslexia means seeing letters backwards.",
+      "fact": "It's mainly about how the brain processes the sounds in words. Letter reversals are common in all young children."
+    },
+    {
+      "myth": "Kids with learning disorders aren't bright or aren't trying.",
+      "fact": "By definition, a specific learning disorder occurs in someone whose overall ability is fine. The effort these students make is usually far greater than their peers'."
+    },
+    {
+      "myth": "You grow out of it.",
+      "fact": "It's lifelong, but with good teaching and tools, reading, writing, and maths improve and strategies carry people through."
+    }
+  ],
+  "how_common": {
+    "plain": "Roughly 5 to 15 in every 100 school-age children have a specific learning disorder, with dyslexia the most common. Estimates vary with how it's defined.",
+    "figure": "5–15% of school-age children across languages and cultures (DSM-5-TR text estimate); dyslexia estimates in the UK and US range from about 2% to 12% by study",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text and a comparison of prevalence tables; needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The main 'treatment' is good teaching: structured, step-by-step, multisensory instruction in the skill that's hard, delivered by trained teachers or specialists, started as early as possible. Alongside that, accommodations such as extra time, audiobooks, text-to-speech, spell checkers, calculators, and oral exams let a person show what they know. Medication isn't a treatment for learning disorders, though ADHD often co-occurs and may be treated.",
+    "evidence_based_options": [
+      "Structured, multisensory literacy or numeracy instruction (for example phonics-based programmes for dyslexia)",
+      "Formal school support plans with accommodations: extra time, assistive technology, alternative formats",
+      "Assessment by an educational psychologist or specialist teacher",
+      "Treating co-occurring ADHD or anxiety"
+    ],
+    "self_help_that_supports_care": [
+      "Audiobooks, text-to-speech, and speech-to-text tools",
+      "Dyslexia-friendly fonts, coloured overlays if they help, and spacing",
+      "Playing to strengths: explaining, building, drawing, speaking",
+      "Connecting with others who learn the same way"
+    ],
+    "guideline_refs": [
+      "src-bda"
+    ]
+  },
+  "when_to_reach_out": "If a child is falling well behind in reading, writing, or maths despite effort and good teaching, ask the school and your doctor about an assessment. Adults who have always found these things unusually hard can be assessed too, and workplace support follows.",
+  "is_not": "Falling behind because of missed schooling, learning in a second language, vision or hearing problems, or a general intellectual disability is not a specific learning disorder. Those need different support.",
+  "hope_note": "People with learning disorders don't lack ability; they've been using the wrong tools. The right ones change everything.",
+  "strengths_and_differences": "Dyslexic people often excel at big-picture thinking, spatial reasoning, storytelling, and problem-solving. Many people with dyscalculia are strong in language and the arts. Schools that measure only reading speed and arithmetic miss a great deal.",
+  "in_young_people": "Signs can appear in preschool (trouble with rhymes, letter names, counting) and become clear once formal reading and maths start. Early assessment and support prevent the loss of confidence that often does more damage than the learning difference itself.",
+  "across_cultures": "Dyslexia looks different in different writing systems and is harder to spot in languages with regular spelling. In many countries assessment is expensive or unavailable, and children are simply labelled slow.",
+  "sub_sections": [
+    {
+      "title": "Areas",
+      "icd10cm_code": "F81.0 / F81.81 / F81.2",
+      "text": "With impairment in reading (dyslexia), in written expression (dysgraphia), or in mathematics (dyscalculia). A person can have more than one."
+    }
+  ],
+  "related_topics": [
+    "adhd",
+    "communication-disorders",
+    "developmental-coordination-disorder",
+    "intellectual-developmental-disorder",
+    "school-and-work-problems"
+  ],
+  "glossary_terms": [
+    "learning-disability-vs-difficulty",
+    "neurodivergent",
+    "school-support-plans",
+    "reasonable-accommodations",
+    "working-memory"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a young person reading with headphones and a tablet, a parent nearby building a model with them, letters and numbers floating gently like leaves. Pastel green and lilac.",
+    "alt_text": "A young person reads with headphones and a tablet while a parent builds a model beside them, letters and numbers drifting like leaves."
+  },
+  "communities": [
+    "british-dyslexia-association-helpline",
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-bda",
+      "title": "British Dyslexia Association helpline and information",
+      "publisher": "British Dyslexia Association",
+      "url": "https://www.bdadyslexia.org.uk/services/helpline",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-ida",
+      "title": "International Dyslexia Association",
+      "publisher": "International Dyslexia Association",
+      "url": "https://dyslexiaida.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Add a dyscalculia-specific and a US dyslexia community after verification."
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "topic_id": "adhd",
+  "official_name": "Attention-Deficit/Hyperactivity Disorder",
+  "plain_title": "A brain that runs on interest, not importance",
+  "also_known_as": [
+    "ADHD",
+    "ADD (older term for the inattentive type)",
+    "hyperkinetic disorder (ICD-10 term)"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F90.x (by presentation)",
+  "language_convention": "mixed",
+  "language_convention_note": "Uses 'person with ADHD' and 'ADHDer' interchangeably, reflecting community usage. Avoids 'suffers from'.",
+  "one_liner": "A lifelong difference in attention, activity, and impulse control that makes some things much harder and some things easier.",
+  "in_simple_words": "ADHD is a neurodevelopmental difference, present from childhood, in how the brain manages attention, energy, and impulses. Attention isn't 'missing'; it's hard to direct at will, so boring tasks feel impossible while interesting ones can absorb a person for hours. Many people also feel restless, act before thinking, lose things, and struggle with time and organization. It affects children and adults, girls as well as boys, and it responds very well to the right support and, for many, medication.",
+  "what_it_can_feel_like": [
+    "I have thirty browser tabs open in my head and the music is playing in one of them.",
+    "I'm not lazy. I want to do the thing. There's a wall between me and starting.",
+    "Medication was like putting on glasses. The world was the same, just suddenly in focus.",
+    "I got diagnosed at 41. I grieved for the kid who was told she wasn't trying."
+  ],
+  "common_signs": [
+    "Trouble focusing on dull tasks, but able to hyperfocus on interesting ones",
+    "Losing things, forgetting steps, and struggling with time and deadlines",
+    "Restlessness, fidgeting, or a mind that never stops",
+    "Acting or speaking before thinking",
+    "Starting many things and finishing few",
+    "Present since childhood and showing up in more than one setting"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "ADHD is just kids who can't sit still, and they grow out of it.",
+      "fact": "Many people with ADHD are not hyperactive at all, and most carry it into adulthood, where it looks different but is still there."
+    },
+    {
+      "myth": "Everyone's a bit ADHD these days.",
+      "fact": "Everyone gets distracted. ADHD is a lifelong pattern that causes real difficulty in daily life, and it has clear brain-based differences."
+    },
+    {
+      "myth": "ADHD medication turns kids into zombies or is a gateway to addiction.",
+      "fact": "Taken as prescribed, ADHD medication is one of the most effective treatments in psychiatry, and treating ADHD lowers the risk of later substance problems."
+    },
+    {
+      "myth": "Girls don't get ADHD.",
+      "fact": "Girls and women are diagnosed less often because their ADHD is more often inattentive and masked. They are not less affected."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 9 US children has been diagnosed with ADHD, and around 1 in 10 currently has it. Among adults the figure is thought to be about 1 in 20.",
+    "figure": "11.4% of US children aged 3–17 ever diagnosed and 10.5% currently with ADHD (NSCH 2022, CDC); adult estimates about 4–6%",
+    "source_ref": "src-cdc-adhd",
+    "note": "Adult figure (CDC NCHS 2023 data brief ~6%) seen only in secondary sources; marked for verification."
+  },
+  "what_helps": {
+    "plain_summary": "Support starts with understanding ADHD and changing the environment: structure, reminders, breaking tasks down, movement, and adjustments at school or work. For children over five, teens, and adults with ongoing difficulty, medication is highly effective and is prescribed and monitored by a specialist; stimulants like methylphenidate are usually first choice, with non-stimulant options available. Parent training helps young children, and CBT adapted for ADHD helps adults with organization and self-criticism.",
+    "evidence_based_options": [
+      "Psychoeducation and environmental changes at home, school, and work",
+      "Stimulant medication (methylphenidate, lisdexamfetamine) and non-stimulant options, prescribed and monitored by a specialist",
+      "Parent training programmes for younger children",
+      "CBT adapted for ADHD, and ADHD coaching, for teens and adults"
+    ],
+    "self_help_that_supports_care": [
+      "External structure: timers, alarms, visual lists, one place for keys",
+      "Body doubling: working alongside someone else",
+      "Movement breaks and exercise, which genuinely help focus",
+      "Connecting with other ADHDers, where the shame lifts fast"
+    ],
+    "guideline_refs": [
+      "src-nice-ng87"
+    ]
+  },
+  "when_to_reach_out": "If attention, restlessness, or impulsivity have caused real trouble since childhood at school, work, or home, ask a doctor about an ADHD assessment. Waits can be long; ask for support while you wait. If low mood or thoughts of self-harm come with it, which is common, seek help for those now.",
+  "is_not": "Being distractible during a stressful month, or bored by one subject, is not ADHD. Anxiety, depression, sleep deprivation, and trauma can all look like ADHD and often co-occur, which is why assessment matters.",
+  "hope_note": "People with ADHD run companies, create art, raise families, and solve problems nobody else sees. With the right support, the hard parts get smaller and the gifts get room.",
+  "strengths_and_differences": "Many ADHDers bring creativity, energy, humour, quick thinking in a crisis, and the ability to dive deep into what fascinates them. These are real strengths, and they don't cancel the real difficulties with time, organization, and follow-through. Both are true.",
+  "in_young_people": "In children, ADHD shows as trouble sitting still, waiting turns, following instructions, and finishing work; in girls it is often quieter: daydreaming, disorganization, and anxiety. Teachers often notice first. Treatment for children starts with parent and school support; medication is added when needed.",
+  "across_cultures": "Diagnosis rates differ widely between countries, partly because expectations of children's behaviour differ. Children from minority and lower-income families are often diagnosed later. In some communities, ADHD is seen as poor discipline, which adds blame to an already hard situation.",
+  "sub_sections": [
+    {
+      "title": "Presentations",
+      "icd10cm_code": "F90.2 / F90.0 / F90.1",
+      "text": "Combined (both inattention and hyperactivity-impulsivity), predominantly inattentive, or predominantly hyperactive-impulsive. The presentation can change over a lifetime."
+    },
+    {
+      "title": "Other specified and unspecified ADHD",
+      "icd10cm_code": "F90.8 / F90.9",
+      "text": "Used when ADHD-type difficulties are clearly present and disabling but don't meet every criterion, for example when onset can't be confirmed before age 12."
+    }
+  ],
+  "related_topics": [
+    "autism-spectrum-disorder",
+    "specific-learning-disorder",
+    "oppositional-defiant-disorder",
+    "disruptive-mood-dysregulation-disorder",
+    "major-depressive-disorder",
+    "substance-use-disorders-overview",
+    "tic-disorders"
+  ],
+  "glossary_terms": [
+    "executive-function",
+    "executive-dysfunction",
+    "hyperfocus",
+    "time-blindness",
+    "body-doubling",
+    "rejection-sensitivity",
+    "stimulant-medication",
+    "late-diagnosis",
+    "neurodivergent",
+    "masking"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "ADHD carries raised risk of self-harm and substance use; 'when to reach out' names this. Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a person at a desk with a visual timer, a colourful wall of sticky notes, headphones on, mid-flow on a project, a bicycle leaning by the door. Pastel green and orange.",
+    "alt_text": "A person works at a desk with a visual timer and a wall of colourful sticky notes, headphones on, a bicycle by the door."
+  },
+  "communities": [
+    "reddit-r-adhd",
+    "chadd-online-communities",
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cdc-adhd",
+      "title": "ADHD prevalence among US children and adolescents in 2022: diagnosis, severity, co-occurring disorders, and treatment",
+      "publisher": "CDC (Journal of Clinical Child & Adolescent Psychology; CDC Stacks)",
+      "url": "https://stacks.cdc.gov/view/cdc/160350",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2024
+    },
+    {
+      "id": "src-nice-ng87",
+      "title": "Attention deficit hyperactivity disorder: diagnosis and management (NG87)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng87",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2018,
+      "note": "Recommendations summarized from secondary sources seen in search; confirm on the live page."
+    },
+    {
+      "id": "src-chadd",
+      "title": "About ADHD",
+      "publisher": "CHADD",
+      "url": "https://chadd.org/about-adhd/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify adult prevalence source (CDC NCHS Data Brief, 2023 data).",
+      "Confirm NG87 first-line wording for adults."
+    ]
+  }
+}

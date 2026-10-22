@@ -1,0 +1,134 @@
+{
+  "topic_id": "developmental-coordination-disorder",
+  "official_name": "Developmental Coordination Disorder",
+  "plain_title": "When movement and coordination don't come easily",
+  "also_known_as": [
+    "DCD",
+    "dyspraxia (common UK term)"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F82",
+  "language_convention": "mixed",
+  "language_convention_note": "'Person with DCD' or 'dyspraxic person'; the UK community mostly uses 'dyspraxic'.",
+  "one_liner": "A lifelong difference in motor coordination that makes everyday physical tasks clumsier and slower than expected.",
+  "in_simple_words": "Developmental coordination disorder means the brain finds it harder to plan and control movement. Children are slower to learn to dress, use cutlery, write, ride a bike, or catch a ball, and they bump into things more. It isn't laziness or carelessness, and it isn't caused by a muscle or nerve disease. It continues into adulthood, where it can affect driving, cooking, and organization. Occupational therapy and practical strategies help a lot, and many people find their own clever workarounds.",
+  "what_it_can_feel_like": [
+    "PE was humiliation twice a week. Nobody told me it had a name until I was 30.",
+    "I can give a lecture to 200 people. I cannot tie a bow or pour without spilling.",
+    "Once the OT showed him how to break tasks into steps, he stopped saying 'I'm rubbish at everything'."
+  ],
+  "common_signs": [
+    "Clumsiness: dropping, spilling, bumping into things, tripping",
+    "Slow or messy handwriting, trouble with buttons, laces, cutlery",
+    "Difficulty with ball games, riding a bike, or learning new physical skills",
+    "Trouble planning and organizing tasks and movements",
+    "Present since early childhood and affecting daily life or school"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Clumsy kids just need more practice.",
+      "fact": "Practice alone doesn't fix it, and repeated failure damages confidence. Targeted, task-based therapy works far better."
+    },
+    {
+      "myth": "Children grow out of it.",
+      "fact": "DCD is lifelong for most. Adults learn strategies and build on strengths, but the coordination difference remains."
+    },
+    {
+      "myth": "DCD only affects movement.",
+      "fact": "It often comes with difficulties in organization, time, and sometimes speech, and it frequently overlaps with ADHD and dyslexia."
+    }
+  ],
+  "how_common": {
+    "plain": "About 5 to 6 in every 100 school-age children have DCD, boys more often than girls. It's one of the most common and least recognized neurodevelopmental conditions.",
+    "figure": "5–6% of children aged 5–11 (DSM-5-TR text estimate; study estimates range from under 2% to around 10%)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary prevalence source."
+  },
+  "what_helps": {
+    "plain_summary": "Occupational therapy and physiotherapy using task-based approaches, which teach the specific skills a person wants to learn by breaking them into steps and practising them, have the best evidence. Accommodations at school and work, like extra time, typing instead of handwriting, and clear step-by-step instructions, make a big difference. Confidence and mental health matter, as years of 'being clumsy' can hurt self-esteem.",
+    "evidence_based_options": [
+      "Task-oriented occupational therapy and physiotherapy (for example CO-OP)",
+      "School and workplace accommodations: typing, extra time, modified PE",
+      "Teaching specific daily skills step by step",
+      "Support for self-esteem and any co-occurring ADHD or anxiety"
+    ],
+    "self_help_that_supports_care": [
+      "Choosing physical activities you enjoy, like swimming or martial arts, over competitive team sports",
+      "Laying out clothes and tasks in order the night before",
+      "Velcro, elastic laces, and other low-tech fixes without shame",
+      "Joining the dyspraxia community online, where the tips are endless"
+    ],
+    "guideline_refs": [
+      "src-eacd"
+    ]
+  },
+  "when_to_reach_out": "If a child is far behind others in physical skills, avoids drawing, writing, or sport, or is often told off for clumsiness, ask a doctor or school about an occupational therapy assessment. Adults who have always struggled this way can also be assessed.",
+  "is_not": "Normal variation in sportiness isn't DCD. Coordination problems caused by cerebral palsy, muscular dystrophy, vision problems, or a brain injury are different conditions with different care.",
+  "hope_note": "With the right tools and a bit of ingenuity, people with DCD do everything they set their minds to, usually in their own creative way.",
+  "strengths_and_differences": "Many dyspraxic people are determined, empathetic, strategic thinkers with strong verbal skills, precisely because they've had to find other routes to things most people never think about.",
+  "in_young_people": "Signs are usually visible by preschool. School is where DCD causes most trouble, through handwriting, PE, and practical lessons. Formal support plans help, and so does an explanation the child can use: 'my brain plans movement differently'.",
+  "related_topics": [
+    "adhd",
+    "specific-learning-disorder",
+    "communication-disorders",
+    "autism-spectrum-disorder"
+  ],
+  "glossary_terms": [
+    "executive-function",
+    "occupational-therapist",
+    "neurodivergent",
+    "school-support-plans"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a child swimming happily in a pool lane while an adult cheers from the side, goggles pushed up, splash of water. Pastel green and aqua.",
+    "alt_text": "A child swims happily down a pool lane with goggles pushed up while an adult cheers from the side."
+  },
+  "communities": [
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-eacd",
+      "title": "International clinical practice recommendations on the definition, diagnosis, assessment, intervention, and psychosocial aspects of developmental coordination disorder",
+      "publisher": "Developmental Medicine & Child Neurology (Blank et al., EACD)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30644111/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2019,
+      "note": "PubMed ID from memory; must be confirmed."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "The Dyspraxia Foundation (UK) closed in 2024; find current UK and US peer communities (e.g. Dyspraxia UK, DCD Ireland) and verify.",
+      "Confirm EACD guideline link."
+    ]
+  }
+}

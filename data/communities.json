@@ -1020,6 +1020,212 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record last post date in the adults and parents boards."
     },
     {
+      "community_id": "reddit-r-adhd",
+      "name": "r/ADHD",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/ADHD/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "adhd"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 1500000,
+        "as_of": "2026-10-22",
+        "note": "~1.5M subscribers per a July 2022 mod post; likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Strict rules seen on a mirror of the wiki: no medical advice (posts removed by AutoModerator and mods), no alternative-medication or substance-misuse content, no diagnosing. Very active moderation."
+      },
+      "safety_notes": "Large, strictly moderated. Peer support, not medical advice.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm rules and current size; check pinned resources."
+    },
+    {
+      "community_id": "chadd-online-communities",
+      "name": "CHADD online communities (adults, parents, women)",
+      "platform": "healthunlocked",
+      "url": "https://chadd.org/virtual-support-groups-for-adults-with-adhd/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "adhd"
+      ],
+      "region": "US (open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "CHADD runs free online communities on HealthUnlocked for adults, for parents and caregivers, and for women; some have age requirements. Info line (800) 233-4050, Mon–Fri 1–5pm ET, seen in a directory."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open the HealthUnlocked communities and record activity; confirm info line number."
+    },
+    {
+      "community_id": "british-dyslexia-association-helpline",
+      "name": "British Dyslexia Association helpline",
+      "platform": "phone",
+      "url": "https://www.bdadyslexia.org.uk/services/helpline",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "specific-learning-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential helpline 0333 405 4567 on set weekday slots (hours seen on the BDA page), covering dyslexia, dyscalculia and neurodiversity; email helpline@bdadyslexia.org.uk."
+      },
+      "safety_notes": "Information and advice line; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current hours on the BDA page."
+    },
+    {
+      "community_id": "stamma-uk",
+      "name": "STAMMA (British Stammering Association) helpline, webchat and groups",
+      "platform": "phone",
+      "url": "https://stamma.org/get-help/people-who-stammer",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "childhood-onset-fluency-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential helpline 0808 802 0002 and webchat, Mon–Thu 10am–2pm and 4pm–8pm; online support groups, parent workshops, a Facebook support group (nonprofit-run), and listings of local and international groups."
+      },
+      "safety_notes": "Charity-run support; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours and the groups listing page."
+    },
+    {
+      "community_id": "tourettes-action-uk",
+      "name": "Tourettes Action (UK) helpdesk, forum and support groups",
+      "platform": "web",
+      "url": "https://www.tourettes-action.org.uk/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "young-people",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "tic-disorders"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Weekday helpdesk (live chat and call-back; phone numbers differ between directories so none recorded), online forum, face-to-face and online support groups, befriender network, residential weekends for families, teens and adults. Seen via NHS and council directories."
+      },
+      "safety_notes": "Charity-run; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open the site; record the forum URL and helpdesk contact."
+    },
+    {
+      "community_id": "tourette-scotland",
+      "name": "Tourette Scotland",
+      "platform": "in-person",
+      "url": "https://www.tourettescotland.org/",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults",
+        "young-people",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "tic-disorders"
+      ],
+      "region": "UK (Scotland)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Local support groups for children and adults with Tourette syndrome and their families; contact 01738 646742 seen in a directory listing. Site URL inferred from the email domain seen in the listing."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm URL (inferred) and contact details; downgrade to excluded if the URL does not resolve."
+    },
+    {
       "community_id": "reddit-r-griefsupport",
       "name": "r/GriefSupport",
       "platform": "reddit",

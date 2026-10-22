@@ -1,0 +1,133 @@
+{
+  "topic_id": "stereotypic-movement-disorder",
+  "official_name": "Stereotypic Movement Disorder",
+  "plain_title": "Repeated movements that are hard to stop and can cause harm",
+  "also_known_as": [
+    "stereotypies",
+    "motor stereotypies",
+    "self-injurious stereotypies"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F98.4",
+  "language_convention": "person-first",
+  "one_liner": "Repetitive, rhythmic, seemingly purposeless movements, like rocking or hand-flapping, that interfere with life or cause injury.",
+  "in_simple_words": "Many children rock, flap, or twirl, especially when excited, and most of the time that's harmless and normal. Stereotypic movement disorder is diagnosed when repetitive movements take up so much time that they get in the way of play, learning, or daily life, or when they cause injury, like head-banging. It's more common in children with intellectual disability or autism. Care focuses on safety, understanding what the movement does for the child, and gentle ways to reduce harm.",
+  "what_it_can_feel_like": [
+    "Hand-flapping is how my body says happy. The only problem was other people's faces.",
+    "His head-banging terrified us. The team helped us see what he was trying to tell us.",
+    "I rock when I think. I'm 40 and I've stopped apologizing for it."
+  ],
+  "common_signs": [
+    "Repetitive, rhythmic movements: rocking, hand-flapping, waving, head-banging, hitting or biting oneself",
+    "Movements that start in early childhood and seem to have no purpose",
+    "Movements that take up a lot of time or interrupt activities",
+    "In some children, movements that cause bruising, wounds, or other injury"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "All repetitive movements need to be stopped.",
+      "fact": "Harmless stereotypies, including most autistic stimming, help with regulation and don't need treatment. Only movements that interfere or injure are a disorder."
+    },
+    {
+      "myth": "Self-injury is attention-seeking.",
+      "fact": "Self-injurious movements usually serve a function, such as relieving pain, distress, or overload, or communicating a need. Finding the function is the key to helping."
+    },
+    {
+      "myth": "Medication is the main answer.",
+      "fact": "Behavioural and environmental approaches come first. Medication is sometimes used for severe self-injury, prescribed and monitored by a specialist."
+    }
+  ],
+  "how_common": {
+    "plain": "Simple stereotypies are common in young children. The disorder itself is uncommon in typically developing children and much more common in children with intellectual disability, especially severe disability.",
+    "figure": "DSM-5-TR text: simple stereotypies common (3–4% of young children); self-injurious stereotypies in about 4–16% of people with intellectual disability, higher with greater severity",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; needs a primary source."
+  },
+  "what_helps": {
+    "plain_summary": "The first step is a careful assessment of when the movement happens and what it achieves for the child, often by a behaviour specialist. Treatment then uses environmental changes, teaching other ways to meet the same need, and safety measures like protective equipment where needed. Any pain or medical cause is treated. For severe self-injury, medication may be considered, prescribed and monitored by a specialist. For harmless stereotypies, the best treatment is acceptance.",
+    "evidence_based_options": [
+      "Functional behavioural assessment and behaviour support plans",
+      "Teaching replacement skills and communication",
+      "Treating pain, discomfort, or medical causes",
+      "Medication in some cases of severe self-injury, prescribed and monitored by a specialist"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping a diary of when movements happen and what came before",
+      "Offering safe sensory alternatives: chewable jewellery, cushions, movement breaks",
+      "Reducing overload: noise, demands, transitions",
+      "Support for carers, as this can be frightening and exhausting"
+    ],
+    "guideline_refs": [
+      "src-nice-ng11"
+    ]
+  },
+  "when_to_reach_out": "If a child's repetitive movements are causing injury, stopping them from playing or learning, or are new or sudden, ask a doctor for an assessment. Sudden onset of self-injury can signal pain or illness and needs checking.",
+  "is_not": "Stimming in autistic people that doesn't cause harm is not a disorder and shouldn't be treated as one. Tics are faster, less rhythmic, and preceded by an urge. Compulsions in OCD are done on purpose to relieve anxiety. Trichotillomania and skin-picking have their own diagnoses.",
+  "hope_note": "When the reason behind a movement is understood, families and teams can find safer ways to meet the need, and children can keep the comfort without the harm.",
+  "in_young_people": "Stereotypies usually begin before age three. In typically developing children they often fade; in children with developmental disabilities they may persist and need ongoing support.",
+  "related_topics": [
+    "autism-spectrum-disorder",
+    "intellectual-developmental-disorder",
+    "tic-disorders",
+    "trichotillomania",
+    "excoriation-disorder"
+  ],
+  "glossary_terms": [
+    "stimming",
+    "tic",
+    "sensory-sensitivity",
+    "occupational-therapist"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Mentions self-injury in a developmental context, without method detail. Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a child on a soft swing in a sensory room with gentle lights, an adult sitting nearby with a basket of cushions. Pastel green and lilac.",
+    "alt_text": "A child sits on a soft swing in a sensory room with gentle lights while an adult sits nearby with a basket of cushions."
+  },
+  "communities": [
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng11",
+      "title": "Challenging behaviour and learning disabilities: prevention and interventions (NG11)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng11",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2015,
+      "note": "Not opened; recommends functional assessment and behaviour support before medication."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence source.",
+      "Verify a family community for severe intellectual disability (for example Challenging Behaviour Foundation, UK)."
+    ]
+  }
+}
