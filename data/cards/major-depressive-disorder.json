@@ -1,0 +1,201 @@
+{
+  "topic_id": "major-depressive-disorder",
+  "official_name": "Major Depressive Disorder",
+  "plain_title": "When low mood takes over",
+  "also_known_as": [
+    "depression",
+    "clinical depression",
+    "MDD",
+    "major depression"
+  ],
+  "chapter_id": "depressive",
+  "card_type": "condition",
+  "icd10cm_code": "F32.x / F33.x (single / recurrent, by severity)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with depression' or 'living with depression'. 'Depressed' as a passing mood is fine in everyday speech; this card keeps it for the condition.",
+  "one_liner": "Weeks or more of low mood or lost interest that drains energy and makes daily life hard.",
+  "in_simple_words": "Depression is more than a bad week. For at least two weeks, most of the day, nearly every day, a person feels low, empty, or numb, or stops enjoying things they used to love. Sleep, appetite, energy, concentration, and self-worth often change too. It can happen once or come back in episodes. It is one of the most common health conditions in the world, and most people get better with treatment.",
+  "what_it_can_feel_like": [
+    "It's not sadness exactly. It's like the colour drained out of everything.",
+    "Getting out of bed felt like lifting a car. People thought I was lazy. I was drowning.",
+    "The first week the fog lifted, I cried because I'd forgotten what normal felt like."
+  ],
+  "common_signs": [
+    "Feeling low, empty, hopeless, or irritable most of the day, nearly every day",
+    "Losing interest or pleasure in almost everything",
+    "Sleeping much more or much less than usual",
+    "Big changes in appetite or weight",
+    "Feeling worthless, guilty, or like a burden",
+    "Trouble thinking, concentrating, or making decisions"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Depression is just sadness, and everyone gets sad.",
+      "fact": "Sadness is one feeling that passes. Depression is a whole-body condition that changes sleep, energy, thinking, and hope for weeks or months."
+    },
+    {
+      "myth": "People with depression could cheer up if they tried.",
+      "fact": "Depression takes away the energy and motivation needed to 'try'. That's the illness, not the person."
+    },
+    {
+      "myth": "Antidepressants change your personality or are addictive.",
+      "fact": "They aren't addictive and don't change who you are. They can have side effects, which is why a doctor monitors them."
+    },
+    {
+      "myth": "Talking about suicide makes it more likely.",
+      "fact": "Asking directly and listening without judgement lowers risk and opens the door to help."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 12 US adults had a major depressive episode in the past year. Among teenagers it was about 1 in 5, and nearly 3 in 10 teenage girls.",
+    "figure": "8.3% of US adults and 20.1% of adolescents aged 12–17 had a past-year major depressive episode (NSDUH 2021)",
+    "source_ref": "src-nimh-mdd",
+    "note": "Rates in the UK, Australia, India and worldwide differ by survey; WHO estimates about 5% of adults worldwide have depression. Add verified country figures."
+  },
+  "what_helps": {
+    "plain_summary": "Depression is very treatable. For milder depression, guided self-help, behavioural activation (getting back to meaningful activity step by step), CBT, or exercise programmes are good first options. For more severe depression, a talking therapy combined with an antidepressant, prescribed and monitored by a doctor, works best. If the first treatment doesn't help, there are many more options, so it's worth going back.",
+    "evidence_based_options": [
+      "Cognitive behavioural therapy (CBT), behavioural activation, or interpersonal therapy",
+      "Guided self-help, group therapy, or structured exercise programmes for less severe depression",
+      "Antidepressants (SSRIs and others), prescribed and monitored by a doctor, especially for more severe depression",
+      "For severe or treatment-resistant depression: combined therapy and medication, and in some cases brain stimulation treatments"
+    ],
+    "self_help_that_supports_care": [
+      "One small activity a day that used to matter, even without the feeling",
+      "Keeping a regular wake time and getting daylight in the morning",
+      "Telling one person how bad it really is",
+      "Cutting back on alcohol, which deepens depression"
+    ],
+    "guideline_refs": [
+      "src-nice-ng222"
+    ]
+  },
+  "when_to_reach_out": "If low mood or loss of interest has lasted two weeks or more and is affecting daily life, talk to a doctor. If you are having thoughts of ending your life, use the crisis strip now. You don't have to wait until things are unbearable.",
+  "is_not": "Grief after a loss, a normal reaction to a hard event, or a few bad days are not depression, although any of them can lead to it. Low mood with periods of high energy may be bipolar disorder, which needs different treatment.",
+  "hope_note": "Depression lies about the future. With treatment, most people recover, and many say they came out knowing themselves better.",
+  "in_young_people": "Children and teenagers often show depression as irritability, anger, school refusal, or physical complaints rather than sadness. It is common in teens, and talking therapies are the first-line treatment for young people.",
+  "across_cultures": "In many cultures depression is felt and described through the body: tiredness, pain, 'heaviness', 'thinking too much'. Some languages have no direct word for it. Stigma can keep people from naming it, so doctors may need to ask about sleep, energy, and interest rather than mood.",
+  "sub_sections": [
+    {
+      "title": "With seasonal pattern",
+      "text": "Depression that returns at the same time each year, usually in autumn and winter. Light therapy and CBT help."
+    },
+    {
+      "title": "With peripartum onset",
+      "text": "Depression starting in pregnancy or soon after birth. See the perinatal depression card."
+    },
+    {
+      "title": "With psychotic features",
+      "text": "In severe depression, some people experience beliefs or voices that aren't real, often about guilt or illness. This needs urgent treatment and responds well to it."
+    },
+    {
+      "title": "Other specified and unspecified depressive disorder; unspecified mood disorder",
+      "icd10cm_code": "F32.89 / F32.A / F39",
+      "text": "Used when depression is clearly present but doesn't fit the full pattern, for example shorter episodes. Still deserves treatment."
+    }
+  ],
+  "related_topics": [
+    "persistent-depressive-disorder",
+    "bipolar-i-disorder",
+    "bipolar-ii-disorder",
+    "generalized-anxiety-disorder",
+    "perinatal-depression-and-anxiety",
+    "grief-and-bereavement",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "anhedonia",
+    "rumination",
+    "cbt",
+    "behavioural-activation",
+    "antidepressant",
+    "ssri",
+    "seasonal-pattern",
+    "suicidal-ideation",
+    "episode",
+    "remission"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicide risk; crisis strip required.",
+      "No methods; 'died by suicide' language only."
+    ]
+  },
+  "visual": {
+    "color_token": "depressive",
+    "icon": "sunrise",
+    "illustration_prompt": "Soft line illustration of a person opening curtains in the morning, warm light spilling across a bed and a mug on the sill, a small plant beginning to lean toward the window. Pastel peach and soft yellow. No head-in-hands, no rain.",
+    "alt_text": "A person opens curtains and morning light spills across a bed, a mug, and a small plant on the windowsill."
+  },
+  "communities": [
+    "reddit-r-depression",
+    "dbsa-online-support-groups",
+    "adaa-online-support-group",
+    "mind-side-by-side",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Depressive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-mdd",
+      "title": "Major Depression statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/major-depression",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nice-ng222",
+      "title": "Depression in adults: treatment and management (NG222)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng222",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Guideline page seen in search; severity-band recommendations summarized from the guideline structure and general knowledge; confirm on the live page."
+    },
+    {
+      "id": "src-nimh-depression",
+      "title": "Depression (health topic)",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/topics/depression",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-who-depression",
+      "title": "Depressive disorder (depression) fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/depression",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm NG222 severity-band recommendations on the live page.",
+      "Add UK, AU, India prevalence."
+    ]
+  }
+}

@@ -293,6 +293,247 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Sample recent posts for stigmatizing generalizations before approving."
     },
     {
+      "community_id": "reddit-r-depression",
+      "name": "r/depression",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/depression/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "major-depressive-disorder",
+        "persistent-depressive-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 1040000,
+        "as_of": "2026-10-22",
+        "note": "1.04M subscribers as of Aug 2024 per a published study."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Strict rules seen via mirror and a 2025 study: posts must ask for support, replies must be empathetic, no 'tough love', no standalone accomplishment posts; moderators run regular check-in posts with resources."
+      },
+      "safety_notes": "Large, strictly moderated support sub. Peer support, not professional advice.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current rules and that crisis resources are pinned."
+    },
+    {
+      "community_id": "mind-side-by-side",
+      "name": "Side by Side (Mind, UK)",
+      "platform": "nonprofit-forum",
+      "url": "https://www.mind.org.uk/information-support/side-by-side-our-online-community/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "major-depressive-disorder",
+        "persistent-depressive-disorder",
+        "generalized-anxiety-disorder",
+        "borderline-personality-disorder",
+        "bipolar-ii-disorder"
+      ],
+      "region": "UK (open to all)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Mind's online peer community; free, open 24/7, moderated daily 8am–midnight; not a crisis service (directs to 999); no diagnosis needed; aimed at adults."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Register and record last post date."
+    },
+    {
+      "community_id": "iapmd-peer-support",
+      "name": "IAPMD peer support (PMDD and PME)",
+      "platform": "video-meeting",
+      "url": "https://iapmd.org/peer-support",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "both",
+      "topics": [
+        "premenstrual-dysphoric-disorder"
+      ],
+      "region": "global (US/UK-based)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "International Association for Premenstrual Disorders: free moderated video peer support groups led by trained facilitators with lived experience, including a group for partners and loved ones; also one-to-one peer support by email, chat, and phone; booking required."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current group schedule and the booking page."
+    },
+    {
+      "community_id": "reddit-r-pmdd",
+      "name": "r/PMDD",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/PMDD/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "premenstrual-dysphoric-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Peer-support community studied in a 2025 paper (17,000+ participants over 2012–2024). Rules and member count not seen."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for supplement-selling or anti-medication content."
+    },
+    {
+      "community_id": "dbsa-balanced-mind-parent-network",
+      "name": "Balanced Mind Parent Network (DBSA)",
+      "platform": "nonprofit-forum",
+      "url": "https://www.dbsalliance.org/balanced-mind-parent-network/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "disruptive-mood-dysregulation-disorder",
+        "major-depressive-disorder",
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder"
+      ],
+      "region": "US (online, open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "DBSA's online community for parents and caregivers of children under 26 with a mood disorder; membership approved within two workdays; groups by child age; moderated by volunteer parents."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm membership process and activity."
+    },
+    {
+      "community_id": "postpartum-support-international",
+      "name": "Postpartum Support International (PSI) helpline and online groups",
+      "platform": "web",
+      "url": "https://www.postpartum.net/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "perinatal-depression-and-anxiety"
+      ],
+      "region": "US-based, international",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "PSI runs a helpline, free online support groups (including for dads, partners, and loss), and a provider directory. Helpline number NOT recorded here because it could not be confirmed in this session; must be taken from postpartum.net directly."
+      },
+      "safety_notes": "Helpline is not a crisis line; PSI points to emergency services for emergencies.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open postpartum.net, record the helpline number and group schedule."
+    },
+    {
+      "community_id": "reddit-r-postpartum-depression",
+      "name": "r/Postpartum_Depression",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Postpartum_Depression/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "perinatal-depression-and-anxiety"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Described as a non-judgemental place to ask for help and vent about postpartum issues including PPD, PND, PPA, PPOCD; welcomes partners. Rules and size not seen. Note: a smaller r/postpartumdepression also exists (~2K)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules and confirm moderation; decide which of the two subs to list."
+    },
+    {
       "community_id": "beat-uk-helpline-and-online-groups",
       "name": "Beat (UK): helpline, web chat and online support groups",
       "platform": "web",

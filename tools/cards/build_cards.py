@@ -3,8 +3,18 @@ import os, pathlib
 ROOT = str(pathlib.Path(__file__).resolve().parents[2])
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from readability import fk_grade, card_text
-from pilot_cards import CARDS
-from pilot_communities import COMMUNITIES
+import importlib.util, glob, os
+HERE = pathlib.Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+def load_all(sub, attr):
+    out = []
+    for f in sorted(glob.glob(str(HERE / sub / "*.py"))):
+        spec = importlib.util.spec_from_file_location(f"{sub}_{os.path.basename(f)[:-3]}", f)
+        mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)
+        out += getattr(mod, attr)
+    return out
+CARDS = load_all("chapters", "CARDS")
+COMMUNITIES = load_all("communities", "COMMUNITIES")
 import jsonschema
 
 tax = json.load(open(f"{ROOT}/data/taxonomy.json"))

@@ -1,0 +1,183 @@
+{
+  "topic_id": "perinatal-depression-and-anxiety",
+  "official_name": "Perinatal (Peripartum) Depression and Anxiety",
+  "plain_title": "Struggling during pregnancy or after a baby",
+  "also_known_as": [
+    "postpartum depression",
+    "postnatal depression",
+    "PPD",
+    "PND",
+    "perinatal mood and anxiety disorders (PMADs)"
+  ],
+  "chapter_id": "depressive",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a (specifier: 'with peripartum onset', applied to depressive or bipolar episodes)",
+  "language_convention": "person-first",
+  "language_convention_note": "Uses 'parents', 'mothers', and 'birthing parents' so that fathers, partners, and trans and nonbinary parents are included. Partners can also experience perinatal depression.",
+  "one_liner": "Depression or anxiety that starts in pregnancy or the first year after birth. Common, nobody's fault, and treatable.",
+  "in_simple_words": "Having a baby is supposed to be joyful, which makes it even harder to admit you feel low, anxious, numb, or frightened. Perinatal depression and anxiety affect around one in seven mothers and many partners too. They can bring sadness, constant worry, intrusive scary thoughts about the baby, trouble bonding, guilt, and exhaustion beyond normal tiredness. This is a medical condition, not a failure as a parent, and with help most people recover fully.",
+  "what_it_can_feel_like": [
+    "Everyone said I'd feel a rush of love. I felt nothing, then terror that I felt nothing.",
+    "I had horrible pictures in my head of something happening to her. I thought it meant I was dangerous. It didn't.",
+    "My partner got it too. Nobody told us dads could."
+  ],
+  "common_signs": [
+    "Low mood, tearfulness, or numbness lasting more than two weeks",
+    "Constant worry about the baby, or panic attacks",
+    "Scary unwanted thoughts about harm coming to the baby",
+    "Trouble sleeping even when the baby sleeps",
+    "Feeling unable to bond, or like a bad parent",
+    "Feeling hopeless, or thoughts that the family would be better off without you"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just the baby blues.",
+      "fact": "The baby blues last up to two weeks and pass. Perinatal depression lasts longer, feels heavier, and needs support."
+    },
+    {
+      "myth": "Scary thoughts about the baby mean I might hurt them.",
+      "fact": "Unwanted intrusive thoughts are very common in new parents and are a sign of anxiety, not intent. They are different from postpartum psychosis, which is rare and shows as confusion and losing touch with reality."
+    },
+    {
+      "myth": "If I tell anyone, they'll take my baby away.",
+      "fact": "Perinatal mental health services exist to keep families together. Asking for help is what good parents do."
+    },
+    {
+      "myth": "Only mothers get it.",
+      "fact": "Fathers and partners get perinatal depression and anxiety too, especially when the other parent is unwell."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 7 women experience depression during pregnancy or in the year after birth, and about 1 in 10 experience both depression and anxiety. Around 1 in 10 fathers are affected too.",
+    "figure": "~1 in 7 (about 14%) perinatal depression (ACOG estimate); ~9% co-occurring anxiety and depression (2025 meta-analysis of 122 studies)",
+    "source_ref": "src-jama-perinatal",
+    "note": "Partner/father figure (~10%) is widely cited but not verified in this session; marked for verification."
+  },
+  "what_helps": {
+    "plain_summary": "Talking therapies such as CBT and interpersonal therapy are first-line, and many areas have specialist perinatal mental health teams. Antidepressants can be used in pregnancy and while breastfeeding; a doctor will weigh the options with you and monitor treatment. Peer support from other parents who've been through it is powerful. Sleep, practical help, and honest conversations with your partner all matter.",
+    "evidence_based_options": [
+      "Cognitive behavioural therapy or interpersonal therapy, including online and group versions",
+      "Antidepressants, prescribed and monitored by a doctor, with a discussion about pregnancy and breastfeeding",
+      "Specialist perinatal mental health services, including mother-and-baby units for severe illness",
+      "Peer support groups run by perinatal organizations"
+    ],
+    "self_help_that_supports_care": [
+      "Accepting practical help so you can sleep in longer stretches",
+      "Telling your midwife, health visitor, doctor, or a helpline how you really feel",
+      "Connecting with other new parents, in person or online",
+      "Lowering the bar: a fed baby and a rested parent beat a tidy house"
+    ],
+    "guideline_refs": [
+      "src-nice-cg192"
+    ]
+  },
+  "when_to_reach_out": "If low mood or anxiety has lasted more than two weeks during pregnancy or after birth, tell your midwife, health visitor, or doctor. Get urgent help, today, if you feel confused, hear or see things others don't, or have thoughts of harming yourself or the baby. Postpartum psychosis is rare, serious, and very treatable.",
+  "is_not": "Tiredness, tearfulness, and feeling overwhelmed in the first two weeks are the baby blues and usually pass. Ordinary new-parent worry is not an anxiety disorder unless it takes over.",
+  "hope_note": "Perinatal depression and anxiety are among the most treatable mental health conditions. Parents recover, bond, and go on to enjoy their children.",
+  "across_cultures": "Postpartum customs differ: in many cultures the first weeks involve rest and family care, which can protect mental health, while in others new mothers are expected to carry on alone. Shame about 'not coping' is a barrier everywhere. Services that involve family and respect customs reach more parents.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "obsessive-compulsive-disorder",
+    "bipolar-i-disorder",
+    "understanding-psychosis",
+    "premenstrual-dysphoric-disorder"
+  ],
+  "glossary_terms": [
+    "peripartum-onset",
+    "baby-blues",
+    "postpartum-psychosis",
+    "intrusive-thoughts",
+    "cbt",
+    "ipt",
+    "antidepressant",
+    "mom-rage"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicide is a leading cause of maternal death in the first year; crisis strip required.",
+      "Intrusive thoughts are described without detail and framed as anxiety.",
+      "Postpartum psychosis is named as an emergency with a clear 'get help today'."
+    ]
+  },
+  "visual": {
+    "color_token": "depressive",
+    "icon": "sunrise",
+    "illustration_prompt": "Soft line illustration of a parent holding a sleeping baby by a window while another adult brings a cup of tea, morning light. Pastel peach and lavender. Warm, no idealized 'glowing mother'.",
+    "alt_text": "A parent holds a sleeping baby by a window as another adult brings them a cup of tea in morning light."
+  },
+  "communities": [
+    "postpartum-support-international",
+    "reddit-r-postpartum-depression",
+    "dbsa-online-support-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Depressive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-jama-perinatal",
+      "title": "Perinatal depression (JAMA patient page / summary)",
+      "publisher": "JAMA Network",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2841695",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Cites the ~1 in 7 estimate; confirm article title."
+    },
+    {
+      "id": "src-psychmed-2025",
+      "title": "Co-occurring perinatal anxiety and depression: meta-analysis of 122 studies",
+      "publisher": "Psychological Medicine (Cambridge)",
+      "url": "https://www.cambridge.org/core/journals/psychological-medicine",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2025,
+      "note": "Seen only as a journal issue listing; find the article DOI."
+    },
+    {
+      "id": "src-nice-cg192",
+      "title": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg192",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2014,
+      "note": "Well-known guideline; not opened."
+    },
+    {
+      "id": "src-psi",
+      "title": "Postpartum Support International",
+      "publisher": "Postpartum Support International",
+      "url": "https://www.postpartum.net/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Verify father/partner prevalence figure.",
+      "Verify PSI helpline number before adding it to the card.",
+      "Clinician check of the medication-in-pregnancy wording."
+    ]
+  }
+}

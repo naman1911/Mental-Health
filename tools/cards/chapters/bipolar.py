@@ -1,0 +1,83 @@
+from helpers import D, src, DSM
+CARDS = []
+
+# Bipolar I Disorder ----------
+CARDS.append({
+ "topic_id": "bipolar-i-disorder",
+ "official_name": "Bipolar I Disorder",
+ "plain_title": "When mood and energy swing to extremes",
+ "also_known_as": ["Bipolar 1", "manic depression (older term)"],
+ "chapter_id": "bipolar", "card_type": "condition", "icd10cm_code": "F31.x (by current episode)",
+ "language_convention": "person-first",
+ "language_convention_note": "'A person with bipolar disorder' or 'living with bipolar'. Avoid 'bipolar' as a noun for a person or as an adjective for moodiness.",
+ "one_liner": "A condition with periods of extreme high mood and energy (mania), usually with periods of depression too.",
+ "in_simple_words": "Bipolar I means a person has had at least one episode of mania: a week or more of unusually high or irritable mood, racing energy, little need for sleep, and decisions that are out of character. Most people also have episodes of depression. Between episodes, mood can be steady for months or years. It is a long-term condition, and it is very treatable.",
+ "what_it_can_feel_like": [
+  "For a while I felt unstoppable. I barely slept and it all made sense. Then it fell apart.",
+  "The crash after a high is the worst part. I'm ashamed of things I did when I wasn't myself.",
+  "With the right treatment I've had years of steady. I still get to be me."
+ ],
+ "common_signs": [
+  "Periods of unusually high, excited, or irritable mood lasting days or longer",
+  "Needing much less sleep without feeling tired",
+  "Racing thoughts, fast talking, jumping between ideas",
+  "Risky or out-of-character decisions about money, sex, or plans",
+  "Periods of deep depression, low energy, and hopelessness",
+  "Sometimes, during a high, beliefs or experiences that aren't real"
+ ],
+ "myths_vs_facts": [
+  {"myth": "Bipolar just means moody.", "fact": "Mood episodes last days to months, not minutes. Everyday ups and downs are not bipolar disorder."},
+  {"myth": "People with bipolar disorder are dangerous.", "fact": "People with bipolar disorder are far more likely to be harmed, including by suicide, than to harm anyone else. Stigma is the bigger danger."},
+  {"myth": "Treatment will flatten my personality.", "fact": "The goal is steady mood with full feeling. Many people say treatment gave them their real selves back."},
+  {"myth": "Mania is fun, so why treat it?", "fact": "Mania can wreck relationships, money, work, and safety, and it is often followed by a severe crash."}
+ ],
+ "how_common": {
+  "plain": "Nearly 3 in 100 US adults have some form of bipolar disorder in a given year. Bipolar I on its own is rarer, affecting under 1 in 100 people worldwide.",
+  "figure": "2.8% past-year prevalence of bipolar disorder (all types) among US adults (NCS-R); bipolar I about 0.6% lifetime across 11 countries (WMH survey)",
+  "source_ref": "src-nimh-stats",
+  "note": "The worldwide bipolar I figure comes from Merikangas et al. 2011; marked for verification."
+ },
+ "what_helps": {
+  "plain_summary": "Bipolar I is usually managed long-term with medication, prescribed and monitored by a doctor, plus talking therapy and self-management. For mania, doctors typically use an antipsychotic. For keeping well, lithium is the best-studied option. Psychoeducation (learning your early warning signs), CBT, family-focused therapy, and keeping regular sleep and daily rhythms all reduce relapses.",
+  "evidence_based_options": [
+   "Mood stabilizers such as lithium for long-term stability, prescribed and monitored by a doctor with blood tests",
+   "Antipsychotic medication for mania, prescribed and monitored by a doctor",
+   "Group or individual psychoeducation about bipolar disorder",
+   "CBT, family-focused therapy, or interpersonal and social rhythm therapy alongside medication"
+  ],
+  "self_help_that_supports_care": [
+   "Keeping a regular sleep and wake time, even at weekends",
+   "Tracking mood, sleep, and energy to catch early signs of an episode",
+   "A written crisis plan agreed with your team and someone you trust",
+   "Avoiding alcohol and recreational drugs, which can trigger episodes"
+  ],
+  "guideline_refs": ["src-nice-cg185"]
+ },
+ "when_to_reach_out": "If you or someone close to you has had a stretch of days with little sleep, racing energy, and out-of-character decisions, or if deep depression follows a high, see a doctor soon. If someone is in danger or losing touch with reality, use the crisis strip now.",
+ "is_not": "Bipolar I is not mood swings within a day, and not a reaction to a good or bad week. It is also different from bipolar II, where the highs (hypomania) are milder and depression dominates.",
+ "hope_note": "Many people with bipolar I live full, stable lives with the right treatment and support. Early diagnosis and a good team make a real difference.",
+ "in_young_people": "Bipolar disorder usually begins in the late teens or twenties. In younger people, highs can look like extreme irritability or energy rather than happiness, and it is often mistaken for ADHD or depression at first.",
+ "across_cultures": "How a high is seen varies: in some communities it is read as spiritual, in others as bad behaviour. Family involvement in care is common and valued in many cultures, and most guidelines now encourage it where the person agrees.",
+ "sub_sections": [
+  {"title": "Other specified and unspecified bipolar disorder", "icd10cm_code": "F31.89 / F31.9", "text": "When mood episodes don't fully match bipolar I or II, for example highs that are too short, clinicians may use these labels. They still deserve treatment."},
+  {"title": "Bipolar disorder due to a medical condition or a substance", "icd10cm_code": "F06.33 / F06.34; varies", "text": "Some medicines, drugs, and illnesses can cause mania-like episodes. See the cross-chapter cards for these."}
+ ],
+ "related_topics": ["bipolar-ii-disorder", "cyclothymic-disorder", "major-depressive-disorder", "understanding-psychosis", "schizoaffective-disorder", "suicidal-thoughts-and-behavior"],
+ "glossary_terms": ["mania", "hypomania", "mixed-features", "euthymia", "rapid-cycling", "mood-stabilizer", "antipsychotic", "psychoeducation", "crisis-plan", "insight"],
+ "safety": {"sensitivity_level": "elevated", "show_crisis_strip": True,
+  "content_notes": ["Raised suicide risk, especially in depressive and mixed episodes; crisis strip required.", "No mention of self-harm methods. Suicide language follows safe-messaging rules."]},
+ "visual": {"color_token": "bipolar", "icon": "waves",
+  "illustration_prompt": "Soft line illustration of a person standing steady on a small boat on gentle rolling waves, holding a lantern, with a calm horizon ahead. Pastel teal and lavender, hopeful, no storm or lightning.",
+  "alt_text": "A person stands steady on a small boat on gentle waves, holding a lantern toward a calm horizon."},
+ "communities": ["reddit-r-bipolar", "dbsa-online-support-groups", "reddit-r-bipolarsos", "sane-forums-australia"],
+ "sources": [
+  DSM("Bipolar and Related Disorders"),
+  src("src-nimh-stats", "Bipolar Disorder statistics", "National Institute of Mental Health (NIMH)", "https://www.nimh.nih.gov/health/statistics/bipolar-disorder", seen=True),
+  src("src-merikangas-2011", "Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Survey Initiative", "Archives of General Psychiatry (Merikangas et al.)", "https://pubmed.ncbi.nlm.nih.gov/21383262/", 2011, note="PubMed ID from memory; must be confirmed."),
+  src("src-nice-cg185", "Bipolar disorder: assessment and management (CG185)", "NICE", "https://www.nice.org.uk/guidance/cg185", 2014, note="Guideline documents seen in search; the recommendations page itself was not opened."),
+  src("src-nimh-bipolar", "Bipolar Disorder (health topic)", "National Institute of Mental Health (NIMH)", "https://www.nimh.nih.gov/health/topics/bipolar-disorder")
+ ],
+ "review": {"last_researched": D, "reading_grade_estimate": 0, "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+  "verification_status": "needs_human_review", "needs_clinician_signoff": True,
+  "open_questions": ["Confirm NICE CG185 wording on first-line treatment for acute mania (sources conflicted: antipsychotic-first vs mood stabilizer).", "Confirm Merikangas 2011 PubMed link and figures."]}
+})
