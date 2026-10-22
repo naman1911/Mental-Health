@@ -1,0 +1,144 @@
+{
+  "topic_id": "hoarding-disorder",
+  "official_name": "Hoarding Disorder",
+  "plain_title": "When letting go of things feels impossible",
+  "also_known_as": [
+    "compulsive hoarding"
+  ],
+  "chapter_id": "ocd-related",
+  "card_type": "condition",
+  "icd10cm_code": "F42.3",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with hoarding disorder' or 'who hoards'. Never 'a hoarder' as an identity, which is stigmatizing.",
+  "one_liner": "Lasting difficulty parting with possessions, whatever their value, until living spaces can't be used as intended.",
+  "in_simple_words": "Hoarding disorder is a real, recognized condition where a person finds it extremely hard to discard things, feels intense distress at the thought of letting them go, and saves so much that rooms can no longer be used for living. It isn't laziness, messiness, or collecting. The items often carry strong feelings: safety, memory, possibility, waste. It usually builds slowly over decades and can create fire, health, and housing risks. Treatment is slow and gentle, and it helps.",
+  "what_it_can_feel_like": [
+    "Every object is a decision, and every decision feels like a loss. So I don't decide.",
+    "People say 'just throw it out' as if it's rubbish to me. It isn't.",
+    "The therapist never touched a thing without asking. That's why I let her in."
+  ],
+  "common_signs": [
+    "Great difficulty throwing away or giving away possessions, regardless of value",
+    "Strong urge to save things and distress at parting with them",
+    "Rooms so full they can't be used for cooking, sleeping, or washing",
+    "Often also acquiring more: buying, collecting free items, or taking in animals",
+    "Causing distress, conflict, or risks to safety and health",
+    "Usually starting in the teens and getting worse over time"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Hoarding is just being lazy or dirty.",
+      "fact": "It's a mental health condition involving how the brain handles decisions, emotions, and attachment to objects. Many people with it are otherwise organized and capable."
+    },
+    {
+      "myth": "A forced clear-out will fix it.",
+      "fact": "Forced clearances cause trauma and the hoarding returns, often worse. Treatment works with the person, at their pace."
+    },
+    {
+      "myth": "Hoarding is a type of OCD.",
+      "fact": "It's related but separate. People who hoard don't usually feel their saving is unwanted, which is why OCD treatments alone don't work well for it."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 2 to 3 in every 100 adults have hoarding disorder, men and women equally. It's more common and more severe in older adults.",
+    "figure": "Pooled prevalence 2.5% (95% CI 1.7–3.6) across 11 studies of working-age adults (n=53,378)",
+    "source_ref": "src-hoard-meta"
+  },
+  "what_helps": {
+    "plain_summary": "CBT designed for hoarding, often with home visits, is the main treatment. It works on the thoughts and feelings around possessions, practises sorting and discarding in small steps, and reduces acquiring. Group and peer-led versions exist. Medication has limited evidence on its own. Because hoarding often involves housing, fire, and family issues, help from housing officers, fire services, and family in a non-forcing way is part of good care.",
+    "evidence_based_options": [
+      "CBT for hoarding disorder, individual or group, ideally including home-based sessions",
+      "Peer-facilitated structured programmes (for example 'Buried in Treasures' workshops)",
+      "Harm-reduction approaches when the person isn't ready for full treatment",
+      "Treating co-occurring depression, ADHD, or anxiety"
+    ],
+    "self_help_that_supports_care": [
+      "Starting with one small area and one category, never the whole house",
+      "The 'only handle it once' rule for post and new items",
+      "Pausing before acquiring: do I need it, do I have room, can I afford it",
+      "Support groups, in person or online, with others who understand"
+    ],
+    "guideline_refs": [
+      "src-iocdf-hoard"
+    ]
+  },
+  "when_to_reach_out": "If clutter is stopping rooms being used, causing conflict, or making the home unsafe, or if the thought of discarding brings real distress, talk to a doctor and ask about CBT for hoarding. If you're worried about a family member, hoarding charities offer advice on how to help without forcing.",
+  "is_not": "Collecting, which is organized and brings pleasure, is not hoarding. Clutter from being busy, depressed, or unwell, which the person can clear when able, isn't a hoarding disorder. Hoarding caused by dementia or brain injury is described under those conditions.",
+  "hope_note": "People with hoarding disorder do reclaim their homes, one surface at a time, when they're treated with respect instead of force.",
+  "in_young_people": "Hoarding often begins in adolescence but rarely causes problems until adulthood, partly because parents control the home. Young people who can't part with broken or worthless items and get very distressed may benefit from early help.",
+  "across_cultures": "Hoarding occurs across cultures, though what counts as excess depends on housing size and norms. People who grew up in scarcity or displacement may save things for reasons that make sense in their history. Shame and fear of eviction keep many from asking for help.",
+  "related_topics": [
+    "obsessive-compulsive-disorder",
+    "major-depressive-disorder",
+    "adhd",
+    "housing-and-money-problems",
+    "major-and-mild-neurocognitive-disorder"
+  ],
+  "glossary_terms": [
+    "compulsion",
+    "cbt",
+    "harm-reduction",
+    "support-group",
+    "stigma"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Mentions safety and housing risk; links to housing help. Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "ocd-related",
+    "icon": "repeat",
+    "illustration_prompt": "Soft line illustration of a person and a helper sitting on a cleared patch of floor sorting a single box together, sunlight through a window, a cup of tea on the one clear shelf. Pastel coral and sage.",
+    "alt_text": "A person and a helper sit on a cleared patch of floor sorting one box together in sunlight."
+  },
+  "communities": [
+    "iocdf-hoarding-center",
+    "iocdf-support-group-directory",
+    "ocd-action-uk"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Obsessive-Compulsive and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-hoard-meta",
+      "title": "Prevalence of hoarding disorder: a systematic review and meta-analysis",
+      "publisher": "Journal of Affective Disorders (Postlethwaite, Kellett & Mataix-Cols)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31200169/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2019
+    },
+    {
+      "id": "src-iocdf-hoard",
+      "title": "Hoarding Center",
+      "publisher": "International OCD Foundation",
+      "url": "https://hoarding.iocdf.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify UK hoarding charities (Hoarding Disorders UK, HoardingUK) and a Reddit community before adding."
+    ]
+  }
+}

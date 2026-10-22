@@ -1,0 +1,152 @@
+{
+  "topic_id": "avoidant-restrictive-food-intake-disorder",
+  "official_name": "Avoidant/Restrictive Food Intake Disorder",
+  "plain_title": "Eating too little, but not because of weight or shape",
+  "also_known_as": [
+    "ARFID",
+    "extreme picky eating (popular term)"
+  ],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F50.82",
+  "language_convention": "person-first",
+  "one_liner": "Eating far too little because of textures, fear of choking, or low interest in food, not because of body image.",
+  "in_simple_words": "ARFID is an eating disorder that has nothing to do with wanting to be thin. A person eats far too little, or too few kinds of food, because of sensory issues (textures, smells, colours), fear of something bad happening (choking, vomiting, pain), or little appetite or interest in food. It leads to weight loss or poor growth, nutritional gaps, or big problems with eating socially. It affects children and adults, is common in autistic people, and responds to specialist treatment.",
+  "what_it_can_feel_like": [
+    "It's not that I won't eat vegetables. My body reacts to the texture like it's poison.",
+    "After I choked once at nine, I couldn't swallow solid food for a year.",
+    "Everyone called me fussy. ARFID was the first word that didn't make it my fault."
+  ],
+  "common_signs": [
+    "Eating a very limited range of foods, or very little, over a long time",
+    "Avoidance driven by texture, smell, taste, or appearance",
+    "Fear of choking, vomiting, or pain after a frightening experience",
+    "Little interest in eating, or forgetting to eat",
+    "Weight loss, poor growth, nutritional problems, or needing supplements",
+    "Trouble eating with others, and no fear of weight gain or shape concerns"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just picky eating. They'll grow out of it.",
+      "fact": "Ordinary picky eating doesn't harm growth or life. ARFID does, and it often persists without treatment."
+    },
+    {
+      "myth": "ARFID is anorexia in disguise.",
+      "fact": "People with ARFID aren't afraid of weight gain and don't have body image concerns. The treatment is different."
+    },
+    {
+      "myth": "Forcing or bribing will fix it.",
+      "fact": "Pressure increases fear and avoidance. Gradual, supported exposure to new foods is what works."
+    }
+  ],
+  "how_common": {
+    "plain": "ARFID is thought to be fairly common, especially in children and in autistic people, but good population figures don't exist yet because the diagnosis is relatively new (2013).",
+    "figure": "No reliable general-population estimate; studies in children and young people suggest a few percent, higher in autistic people and in eating-disorder clinics",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary prevalence source once available."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is tailored to the reason for the restriction. For sensory avoidance, gradual, planned exposure to new foods, often with a dietitian and occupational therapist. For fear after choking or vomiting, CBT with graded exposure. For low appetite, structured meals and nutritional support. Children's treatment involves parents closely. Medical monitoring and sometimes supplements or tube feeding keep people safe while progress is made. There is no medication for ARFID itself.",
+    "evidence_based_options": [
+      "CBT adapted for ARFID (CBT-AR), with graded food exposure",
+      "Family-based treatment adapted for ARFID in children",
+      "Dietitian and occupational therapy input for sensory and nutritional needs",
+      "Medical monitoring, and nutritional support where needed"
+    ],
+    "self_help_that_supports_care": [
+      "A 'safe foods' list with no shame attached",
+      "Tiny steps: a new food on the plate, then touched, then tasted",
+      "Separating ARFID from autism sensory needs, with both respected",
+      "Peer support with others who have ARFID, including adults"
+    ],
+    "guideline_refs": [
+      "src-nice-ng69"
+    ]
+  },
+  "when_to_reach_out": "If restricted eating is causing weight loss, poor growth, nutritional problems, or stopping someone eating with others, ask a doctor for a referral to an eating-disorder or feeding service and mention ARFID by name. Get urgent help for fainting, severe weakness, or signs of dehydration.",
+  "is_not": "Being a picky eater who still grows and eats enough isn't ARFID. Restriction driven by fear of weight gain is anorexia nervosa. Food avoidance caused by a medical condition, allergy, or lack of available food is not ARFID.",
+  "hope_note": "People with ARFID expand their safe foods, eat with friends again, and stop living in fear of mealtimes, step by small step.",
+  "in_young_people": "ARFID often begins in early childhood and is common in autistic children and children with ADHD. Growth charts flagging a slowdown are often the first clue. Parents are central to treatment and are not to blame.",
+  "across_cultures": "ARFID is recognized worldwide but under-diagnosed where 'fussy eating' is seen as behaviour to be disciplined. Safe foods differ by cuisine; treatment should work with the family's food culture.",
+  "related_topics": [
+    "anorexia-nervosa",
+    "autism-spectrum-disorder",
+    "specific-phobia",
+    "pica",
+    "obsessive-compulsive-disorder",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "restriction",
+    "sensory-sensitivity",
+    "interoception",
+    "exposure-therapy",
+    "family-therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food.",
+      "No 'how to' behaviours.",
+      "Crisis strip with eating-disorder helplines required.",
+      "Medical risk is described without numbers or weights."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of a child and a dietitian at a table with a 'food ladder' chart, a single new food on a small plate, the child giving a thumbs up. Pastel sage and sky blue. No food close-ups.",
+    "alt_text": "A child and a dietitian sit at a table with a food-ladder chart, the child giving a thumbs up."
+  },
+  "communities": [
+    "reddit-r-arfid",
+    "beat-uk-helpline-and-online-groups",
+    "butterfly-foundation-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng69",
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng69",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2017,
+      "note": "Not opened; recommendations summarized from secondary sources."
+    },
+    {
+      "id": "src-beat-arfid",
+      "title": "ARFID",
+      "publisher": "Beat (UK)",
+      "url": "https://www.beateatingdisorders.org.uk/get-information-and-support/about-eating-disorders/types/arfid/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a prevalence study (for example Kurz et al.).",
+      "Confirm CBT-AR evidence citation."
+    ]
+  }
+}

@@ -14,3 +14,9 @@ COMMUNITIES = [
    safety="Vent-heavy space for partners. Peer support, not professional advice. Reviewer to judge whether tone is appropriate to link from a condition card.",
    reviewer="Sample recent posts for stigmatizing generalizations before approving."),
 ]
+COMMUNITIES += [
+ c("bipolar-uk-ecommunity", "Bipolar UK eCommunity", "nonprofit-forum", "https://www.bipolaruk.org/get-support/online-community/", "peer-forum", ["adults"], "both",
+   ["bipolar-i-disorder", "bipolar-ii-disorder", "cyclothymic-disorder"], "UK (open worldwide)", members=15000, size_note="Over 15,000 members per Bipolar UK.",
+   has_rules=True, mods=True, crisis=True, notes="Charity-run forum open 24/7, moderated 8am–8pm daily (conversations) and set hours for peer-support-group spaces; published house rules; explicitly not a crisis service.",
+   reviewer="Register and record last post date."),
+]

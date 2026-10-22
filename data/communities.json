@@ -462,6 +462,41 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Sample recent posts for stigmatizing generalizations before approving."
     },
     {
+      "community_id": "bipolar-uk-ecommunity",
+      "name": "Bipolar UK eCommunity",
+      "platform": "nonprofit-forum",
+      "url": "https://www.bipolaruk.org/get-support/online-community/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder",
+        "cyclothymic-disorder"
+      ],
+      "region": "UK (open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 15000,
+        "as_of": "2026-10-22",
+        "note": "Over 15,000 members per Bipolar UK."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Charity-run forum open 24/7, moderated 8am–8pm daily (conversations) and set hours for peer-support-group spaces; published house rules; explicitly not a crisis service."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Register and record last post date."
+    },
+    {
       "community_id": "reddit-r-depression",
       "name": "r/depression",
       "platform": "reddit",
@@ -887,6 +922,75 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read the full rules and sample recent posts before approving."
     },
     {
+      "community_id": "reddit-r-arfid",
+      "name": "r/ARFID",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/ARFID/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "avoidant-restrictive-food-intake-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Mod posts (July 2023) seen describing a rules revamp on food photos, advertising and treatment discussion, subtype flairs, and a flair for support people."
+      },
+      "safety_notes": "Eating-disorder community: 3-month re-check rule applies.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read rules and sample recent posts."
+    },
+    {
+      "community_id": "reddit-r-bingeeatingdisorder",
+      "name": "r/BingeEatingDisorder",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/BingeEatingDisorder/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "binge-eating-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 112000,
+        "as_of": "2026-10-22",
+        "note": "Directory listing figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen."
+      },
+      "safety_notes": "Eating-disorder community: 3-month re-check rule applies.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read rules; check for diet promotion, numbers, or weight-loss content."
+    },
+    {
       "community_id": "reddit-r-autism",
       "name": "r/autism",
       "platform": "reddit",
@@ -1224,6 +1328,319 @@
       "verification_status": "needs_verification",
       "verified_on": null,
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm URL (inferred) and contact details; downgrade to excluded if the URL does not resolve."
+    },
+    {
+      "community_id": "reddit-r-ocd",
+      "name": "r/OCD",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/OCD/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "obsessive-compulsive-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Mod announcement (Nov 2023) seen: limited reassurance-seeking allowed, no repeated reassurance-seeking, providing reassurance not allowed. Member count not seen (large)."
+      },
+      "safety_notes": "Reassurance rules make this safer than most; still peer support only.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read full rules; record size and pinned resources."
+    },
+    {
+      "community_id": "ocd-action-uk",
+      "name": "OCD Action helpline and peer support groups (UK)",
+      "platform": "phone",
+      "url": "https://ocdaction.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people-14-25"
+      ],
+      "for": "both",
+      "topics": [
+        "obsessive-compulsive-disorder",
+        "body-dysmorphic-disorder",
+        "hoarding-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, confidential helpline 0300 636 5478, Mon–Fri 9.30am–8pm with call-back (seen on findahelpline and directories); youth e-helpline for 14–25; peer-led Zoom support groups for OCD and BDD including youth, LGBTQ+, and men's groups; site has published community standards."
+      },
+      "safety_notes": "Charity-run; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours, number, and group registration contact (sources differed)."
+    },
+    {
+      "community_id": "ocd-uk-online-groups",
+      "name": "OCD-UK online support groups",
+      "platform": "video-meeting",
+      "url": "https://www.ocduk.org/support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "obsessive-compulsive-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Charity-run online support groups; helpline was described as only sporadically available in late 2025, so helpline not listed. Group page seen in search."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current group schedule and helpline status."
+    },
+    {
+      "community_id": "iocdf-support-group-directory",
+      "name": "IOCDF resource directory: support groups worldwide",
+      "platform": "web",
+      "url": "https://iocdf.org/ocd-finding-help/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "young-people",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "obsessive-compulsive-disorder",
+        "body-dysmorphic-disorder",
+        "hoarding-disorder",
+        "trichotillomania"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "International OCD Foundation directory of 200+ support groups for OCD and related disorders, including online and phone groups; listings are self-submitted and not individually vetted by this project."
+      },
+      "safety_notes": "Directory of third-party groups; each group needs its own check.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Use as a finder; verify individual groups before linking directly."
+    },
+    {
+      "community_id": "iocdf-hoarding-center",
+      "name": "IOCDF Hoarding Center",
+      "platform": "web",
+      "url": "https://hoarding.iocdf.org/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "hoarding-disorder"
+      ],
+      "region": "global (US-based)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Information hub with treatment finder and support group listings for hoarding disorder, run by the International OCD Foundation."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record support-group listings and last update."
+    },
+    {
+      "community_id": "bdd-foundation-online-groups",
+      "name": "BDD Foundation online peer support groups",
+      "platform": "video-meeting",
+      "url": "https://bddfoundation.org/support/online-support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "body-dysmorphic-disorder"
+      ],
+      "region": "UK-based, open worldwide",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Zoom peer groups for adults 18+ (Mondays 6.30–8pm UK, plus additional dates), registration via support@bddfoundation.org; the page also lists independent groups; a youth site exists."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current schedule and whether youth groups run."
+    },
+    {
+      "community_id": "tlc-foundation-bfrb-groups",
+      "name": "TLC Foundation for BFRBs virtual support groups",
+      "platform": "video-meeting",
+      "url": "https://www.bfrb.org/tlc-support-groups",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "teens",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "trichotillomania",
+        "excoriation-disorder"
+      ],
+      "region": "US-based, open worldwide",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Four virtual support groups run by TLC (adults 18+ on Zoom, registration per session), plus a directory of peer-led groups not affiliated with TLC."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current group list and registration."
+    },
+    {
+      "community_id": "bfrb-uk-ireland",
+      "name": "BFRB UK & Ireland peer support groups",
+      "platform": "video-meeting",
+      "url": "https://bfrb.org/find-support/support-groups",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "trichotillomania",
+        "excoriation-disorder"
+      ],
+      "region": "UK and Ireland",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free peer-led online groups for adults every second Thursday 8–9.30pm, plus a monthly group for parents, carers and loved ones; seen via the TLC directory. Own site URL not confirmed, so the directory link is used."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Find and confirm the group's own website."
+    },
+    {
+      "community_id": "reddit-r-trichotillomania",
+      "name": "r/trichotillomania",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/trichotillomania/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "trichotillomania"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 49000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure, mid-2026."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Recommended by the TLC Foundation's online-resources article. Rules not seen."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for supplement selling or 'cure' promotion."
     },
     {
       "community_id": "reddit-r-griefsupport",

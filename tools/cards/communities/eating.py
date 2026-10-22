@@ -23,3 +23,11 @@ COMMUNITIES = [
    safety="Recovery-only. Same 3-month re-check requirement as all eating-disorder communities.",
    reviewer="HIGH-SENSITIVITY: read the full rules and sample recent posts before approving."),
 ]
+COMMUNITIES += [
+ c("reddit-r-arfid", "r/ARFID", "reddit", "https://www.reddit.com/r/ARFID/", "subreddit", ["adults", "teens-16+", "parents"], "both",
+   ["avoidant-restrictive-food-intake-disorder"], "global", has_rules=True, mods=True, notes="Mod posts (July 2023) seen describing a rules revamp on food photos, advertising and treatment discussion, subtype flairs, and a flair for support people.",
+   safety="Eating-disorder community: 3-month re-check rule applies.", reviewer="HIGH-SENSITIVITY: read rules and sample recent posts."),
+ c("reddit-r-bingeeatingdisorder", "r/BingeEatingDisorder", "reddit", "https://www.reddit.com/r/BingeEatingDisorder/", "subreddit", ["adults", "teens-16+"], "people-with-experience",
+   ["binge-eating-disorder"], "global", members=112000, size_note="Directory listing figure.", notes="Rules not seen.",
+   safety="Eating-disorder community: 3-month re-check rule applies.", reviewer="HIGH-SENSITIVITY: read rules; check for diet promotion, numbers, or weight-loss content."),
+]

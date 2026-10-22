@@ -1,0 +1,177 @@
+{
+  "topic_id": "obsessive-compulsive-disorder",
+  "official_name": "Obsessive-Compulsive Disorder",
+  "plain_title": "Unwanted thoughts and the rituals that try to quiet them",
+  "also_known_as": [
+    "OCD"
+  ],
+  "chapter_id": "ocd-related",
+  "card_type": "condition",
+  "icd10cm_code": "F42.2",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with OCD'. Never 'OCD' as an adjective for tidiness; the card addresses that misuse directly.",
+  "one_liner": "Unwanted, distressing thoughts that keep returning, and repeated actions or mental rituals done to ease the fear they cause.",
+  "in_simple_words": "OCD has two parts. Obsessions are intrusive thoughts, images, or urges that feel awful and won't go: fear of contamination, of harming someone, of something terrible happening, of being a bad person. Compulsions are what a person does to make the anxiety go down: washing, checking, counting, repeating, seeking reassurance, or silently reviewing. The relief is brief, so the cycle repeats and can eat hours of every day. OCD is common, isn't about tidiness, and has a highly effective treatment.",
+  "what_it_can_feel_like": [
+    "My brain shows me the worst thing I could do, then demands proof I won't. All day.",
+    "I knew checking the stove eleven times was irrational. Knowing didn't help. Treatment did.",
+    "The thoughts were about hurting my baby. I was terrified it meant something. It meant I had OCD."
+  ],
+  "common_signs": [
+    "Intrusive thoughts, images, or urges that cause intense anxiety or disgust",
+    "Repeated actions or mental rituals to neutralize the thoughts or prevent harm",
+    "Checking, washing, ordering, counting, or asking for reassurance again and again",
+    "Avoiding places, objects, or people that trigger the thoughts",
+    "Taking up an hour or more a day, or seriously disrupting life",
+    "Knowing, often, that the fear is out of proportion, and being unable to stop"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "OCD means liking things neat and tidy.",
+      "fact": "Many people with OCD have no interest in tidiness. Common themes are harm, contamination, doubt, morality, and relationships. OCD is suffering, not a personality quirk."
+    },
+    {
+      "myth": "People with violent or sexual intrusive thoughts are dangerous.",
+      "fact": "The opposite. These thoughts horrify the person precisely because they go against their values. OCD is not linked to acting on them."
+    },
+    {
+      "myth": "Reassurance helps.",
+      "fact": "Reassurance is a compulsion; it brings brief relief and strengthens OCD. Treatment teaches tolerating uncertainty instead."
+    },
+    {
+      "myth": "OCD can't really be treated.",
+      "fact": "Exposure and response prevention is one of the most effective therapies in mental health, and medication helps many too."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 US adults has OCD in a given year and about 2 in 100 at some point in life. It often starts in the teens or early twenties, and in childhood for some.",
+    "figure": "1.2% past-year and 2.3% lifetime prevalence among US adults (NCS-R)",
+    "source_ref": "src-nimh-ocd"
+  },
+  "what_helps": {
+    "plain_summary": "The first-line treatment is CBT with exposure and response prevention (ERP): facing the feared thought or situation step by step while not doing the compulsion, so the brain learns the anxiety passes on its own. Antidepressants (SSRIs), prescribed and monitored by a doctor, also work and are often combined with ERP for more severe OCD. For children, family-involved CBT comes first. Treatment is stepped by how much OCD is affecting life.",
+    "evidence_based_options": [
+      "CBT with exposure and response prevention (ERP), individual, group, or guided self-help",
+      "SSRI antidepressants, prescribed and monitored by a doctor, often at higher doses and for longer than in depression",
+      "Combined ERP and medication for severe OCD",
+      "Family-involved CBT for children and young people"
+    ],
+    "self_help_that_supports_care": [
+      "Learning to label a thought as 'an OCD thought' rather than a fact",
+      "Asking loved ones to stop giving reassurance, kindly and by agreement",
+      "Delaying a compulsion, then shortening it, as a first step",
+      "Peer support from others with OCD, which lifts shame fast"
+    ],
+    "guideline_refs": [
+      "src-nice-cg31"
+    ]
+  },
+  "when_to_reach_out": "If intrusive thoughts and rituals are taking an hour or more a day, or you're avoiding life because of them, talk to a doctor or therapist and ask specifically for ERP. OCD is often misdiagnosed, so naming it helps. If you have thoughts of ending your life, which are more common in OCD, reach out now.",
+  "is_not": "Everyone has intrusive thoughts and some habits. OCD is when they cause real distress and take over. Obsessive-compulsive personality disorder is a different condition about rigidity and perfectionism. Tics are involuntary, not done to relieve anxiety.",
+  "hope_note": "People with OCD who get ERP often describe getting their lives back. The thoughts may still visit; they stop being in charge.",
+  "in_young_people": "OCD often begins in childhood, around age 10, and can look like refusing to touch things, long bedtime routines, repeated questions, or meltdowns when rituals are interrupted. Children may hide it for years. Family-based CBT is the first treatment.",
+  "across_cultures": "Obsession themes follow what a culture holds sacred: religious scrupulosity is common where faith is central, contamination fears where hygiene is. Rituals can be mistaken for devotion or superstition, and religious leaders are sometimes the first people asked for help.",
+  "sub_sections": [
+    {
+      "title": "Common themes",
+      "text": "Contamination, harm, 'just right' symmetry, forbidden or taboo thoughts (sexual, religious, violent), relationship doubts, and health. The theme doesn't change the treatment."
+    },
+    {
+      "title": "Other specified and unspecified OCD and related disorders",
+      "icd10cm_code": "F42.8 / F42.9",
+      "text": "Includes body-focused repetitive behaviour disorder (nail-biting, lip-chewing), obsessional jealousy, olfactory reference disorder (fear of smelling bad), and culturally specific patterns such as koro, shubo-kyofu, and jikoshu-kyofu."
+    }
+  ],
+  "related_topics": [
+    "body-dysmorphic-disorder",
+    "hoarding-disorder",
+    "trichotillomania",
+    "excoriation-disorder",
+    "obsessive-compulsive-personality-disorder",
+    "tic-disorders",
+    "generalized-anxiety-disorder",
+    "perinatal-depression-and-anxiety"
+  ],
+  "glossary_terms": [
+    "obsession",
+    "compulsion",
+    "intrusive-thoughts",
+    "erp",
+    "ssri",
+    "ocd-as-adjective",
+    "avoidance"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicide risk is raised in OCD; crisis strip required.",
+      "Taboo intrusive thoughts are described in general terms only."
+    ]
+  },
+  "visual": {
+    "color_token": "ocd-related",
+    "icon": "repeat",
+    "illustration_prompt": "Soft line illustration of a person walking past a row of doors, choosing not to turn back, keys in pocket, sun ahead, a small loop symbol fading behind them. Pastel coral and cream.",
+    "alt_text": "A person walks past a row of doors toward the sun, a small loop symbol fading behind them."
+  },
+  "communities": [
+    "reddit-r-ocd",
+    "ocd-action-uk",
+    "ocd-uk-online-groups",
+    "iocdf-support-group-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Obsessive-Compulsive and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-ocd",
+      "title": "Obsessive-Compulsive Disorder (OCD) statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/obsessive-compulsive-disorder-ocd",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nice-cg31",
+      "title": "Obsessive-compulsive disorder and body dysmorphic disorder: treatment (CG31)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg31",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2005,
+      "note": "Recommendations chapter seen in search; NICE lists the guideline as under review (2024)."
+    },
+    {
+      "id": "src-iocdf",
+      "title": "International OCD Foundation: About OCD and related disorders",
+      "publisher": "International OCD Foundation",
+      "url": "https://iocdf.org/about-ocd/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; IOCDF directory pages were seen in search."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm CG31 current status (under review)."
+    ]
+  }
+}

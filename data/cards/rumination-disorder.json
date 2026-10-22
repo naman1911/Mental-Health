@@ -1,0 +1,141 @@
+{
+  "topic_id": "rumination-disorder",
+  "official_name": "Rumination Disorder",
+  "plain_title": "Bringing food back up and re-chewing it",
+  "also_known_as": [
+    "rumination syndrome",
+    "merycism"
+  ],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F98.21 (children) / F50.84 (adults)",
+  "language_convention": "person-first",
+  "one_liner": "Repeatedly bringing swallowed food back up, without nausea, to re-chew, re-swallow, or spit out, for a month or more.",
+  "in_simple_words": "Rumination disorder is when swallowed food comes back up into the mouth, easily and without feeling sick, usually soon after eating, and is then chewed again, swallowed again, or spat out. It can happen in infants, in people with intellectual disabilities, and in otherwise healthy children, teens, and adults. It's not deliberate vomiting and not about weight. It's thought to be a learned reflex of the stomach muscles, and it responds well to a simple breathing technique taught by specialists.",
+  "what_it_can_feel_like": [
+    "It just comes back up, no effort, no nausea. I thought everyone could do it.",
+    "I avoided eating out for years. Nobody knew why.",
+    "The breathing exercise felt too easy to work. It worked."
+  ],
+  "common_signs": [
+    "Food coming back up into the mouth soon after meals, without nausea or retching",
+    "Re-chewing, re-swallowing, or spitting out the food",
+    "Going on for a month or more",
+    "Not caused by a stomach condition or another eating disorder",
+    "Weight loss, bad breath, tooth damage, or avoiding social eating"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's deliberate, like bulimia.",
+      "fact": "Rumination is an involuntary reflex, usually without any wish to lose weight. It's a different condition with a different treatment."
+    },
+    {
+      "myth": "It's a stomach disease that needs surgery.",
+      "fact": "Tests are usually normal. The treatment is behavioural, mainly diaphragmatic breathing after meals."
+    },
+    {
+      "myth": "Only babies or people with disabilities get it.",
+      "fact": "It occurs in healthy children, teens, and adults too, and is often missed for years."
+    }
+  ],
+  "how_common": {
+    "plain": "Rumination disorder is uncommon in the general population but is probably under-recognized. It's more common in infants and in people with intellectual disabilities.",
+    "figure": "About 0.7% of adults reported recurrent rumination behaviour in a German population study; higher rates in people with intellectual disability",
+    "source_ref": "src-pica-prev"
+  },
+  "what_helps": {
+    "plain_summary": "The main treatment is diaphragmatic (belly) breathing, taught by a therapist, dietitian, or gastroenterologist and practised during and after meals; it blocks the muscle reflex that brings food up. Habit reversal approaches and reducing stress around eating help. In infants and people with intellectual disabilities, behavioural approaches and attention to the eating environment are used. Medication is rarely needed. Medical checks rule out reflux and other conditions.",
+    "evidence_based_options": [
+      "Diaphragmatic breathing training after meals",
+      "Habit reversal and behavioural approaches",
+      "Medical assessment to rule out reflux or other gut conditions",
+      "Behavioural support and environmental changes for infants and people with intellectual disabilities"
+    ],
+    "self_help_that_supports_care": [
+      "Practising slow belly breathing for a few minutes after every meal",
+      "Sitting upright after eating",
+      "Keeping a simple diary of when it happens",
+      "Telling the dentist so teeth can be protected"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "If food regularly comes back up after meals without nausea, for a month or more, see a doctor. Mention rumination by name; it's often mistaken for reflux or vomiting, and the treatment is different.",
+  "is_not": "Reflux (heartburn with acid coming up), vomiting with nausea, or purging driven by fear of weight gain are not rumination disorder. Occasional regurgitation in babies is normal.",
+  "hope_note": "Rumination disorder is one of the most treatable conditions in this chapter. Most people improve quickly with the right breathing technique.",
+  "in_young_people": "In infants it usually starts between three and twelve months and may resolve. In older children and teens it is often hidden and missed; a tip-off is weight loss or avoiding meals with friends.",
+  "related_topics": [
+    "pica",
+    "avoidant-restrictive-food-intake-disorder",
+    "bulimia-nervosa",
+    "intellectual-developmental-disorder",
+    "somatic-symptom-disorder"
+  ],
+  "glossary_terms": [
+    "habit-reversal-training",
+    "somatic-symptoms"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food.",
+      "No 'how to' behaviours.",
+      "Crisis strip with eating-disorder helplines required.",
+      "Chapter-level high-sensitivity rule applies; no body-image content arises."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of a person sitting upright after a meal with one hand on their belly, practising slow breathing, a window open to a garden. Pastel sage and lilac.",
+    "alt_text": "A person sits upright after a meal with a hand on their belly, breathing slowly beside an open window."
+  },
+  "communities": [
+    "beat-uk-helpline-and-online-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-pica-prev",
+      "title": "Prevalence of pica and rumination behaviours in adults (population-based study)",
+      "publisher": "Eating and Weight Disorders (PMC9220787)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9220787/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022
+    },
+    {
+      "id": "src-apa-2024-coding",
+      "title": "DSM-5-TR ICD-10-CM coding update, September 2024 (new adult rumination code F50.84)",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/getmedia/172db6ec-8146-4bb4-be2a-49e9c61bcc94/APA-DSM5TR-ICD10CM-Code-Updates-092024.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2024
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "No rumination-specific community exists; add a gastroenterology patient resource (e.g. IFFGD) after verification."
+    ]
+  }
+}
