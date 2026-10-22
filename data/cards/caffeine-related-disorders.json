@@ -87,7 +87,11 @@
     "illustration_prompt": "Soft line illustration of a person enjoying a single cup of coffee on a quiet porch in the morning, a glass of water beside it, birds on a wire. Pastel navy and cream.",
     "alt_text": "A person enjoys a single cup of coffee on a quiet morning porch with a glass of water beside it."
   },
-  "communities": [],
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
   "sources": [
     {
       "id": "src-dsm",

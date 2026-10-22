@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/naman1911/Mental-Health/schemas/crisis-line.schema.json",
+  "title": "Crisis and support lines",
+  "type": "object",
+  "required": ["generated_on", "notes", "global_fallbacks", "lines"],
+  "properties": {
+    "generated_on": {"type": "string", "format": "date"},
+    "notes": {"type": "string"},
+    "global_fallbacks": {"type": "array", "items": {"$ref": "#/$defs/line"}},
+    "lines": {"type": "array", "items": {"$ref": "#/$defs/line"}}
+  },
+  "$defs": {
+    "line": {
+      "type": "object",
+      "required": ["line_id", "name", "organization", "country", "region_label", "kind", "contact", "hours", "languages", "audience", "topics", "priority", "verification_status", "verified_on", "source_url", "notes", "reviewer_notes"],
+      "additionalProperties": false,
+      "properties": {
+        "line_id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+        "name": {"type": "string"},
+        "organization": {"type": "string"},
+        "country": {"type": "string", "description": "ISO 3166-1 alpha-2, or 'GLOBAL'"},
+        "region_label": {"type": "string"},
+        "kind": {"type": "string", "enum": ["emergency-services", "crisis-line", "crisis-text", "support-line", "specialist-line", "directory"]},
+        "contact": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "phone": {"type": ["string", "null"]},
+            "phone_alt": {"type": ["string", "null"]},
+            "sms_number": {"type": ["string", "null"]},
+            "sms_keyword": {"type": ["string", "null"]},
+            "chat_url": {"type": ["string", "null"], "pattern": "^https://"},
+            "email": {"type": ["string", "null"]},
+            "menu_options": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "hours": {"type": "string"},
+        "is_24_7": {"type": ["boolean", "null"]},
+        "languages": {"type": "array", "items": {"type": "string"}},
+        "audience": {"type": "array", "items": {"type": "string"}},
+        "topics": {"type": "array", "items": {"type": "string"}, "description": "Card topic ids this line is especially relevant to; empty means general."},
+        "priority": {"type": "integer", "minimum": 1, "maximum": 3, "description": "1 = show first in the crisis strip for this country."},
+        "cost": {"type": "string"},
+        "verification_status": {"type": "string", "enum": ["verified", "needs_verification", "conflicting_sources", "defunct"]},
+        "verified_on": {"type": ["string", "null"]},
+        "source_url": {"type": "string", "pattern": "^https://"},
+        "notes": {"type": "string"},
+        "reviewer_notes": {"type": "string"}
+      }
+    }
+  }
+}

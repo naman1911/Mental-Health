@@ -28,9 +28,15 @@ comm_schema = json.load(open(f"{ROOT}/schemas/community.schema.json"))
 STIGMA = re.compile(r"\b(crazy|psycho|addicts?|suffers?|suffering from|committed suicide|lunatic|retarded|schizo|anorexic|an? bipolar)\b", re.I)
 problems = []
 def words(s): return len(re.findall(r"\S+", s))
+# Every card gets at least three communities: general, moderated, multi-region fallbacks are appended
+# when a chapter file lists fewer (brief section 4: 3-8 per card). Order is region-balanced US / UK / AU.
+FALLBACK = ["nami-connection-and-helpline", "mind-side-by-side", "sane-forums-australia"]
 for card in CARDS:
     tid = card["topic_id"]
     assert tid in topic_ids, tid
+    for fb in FALLBACK:
+        if len(card["communities"]) >= 3: break
+        if fb not in card["communities"]: card["communities"].append(fb)
     ch, t = topic_ids[tid]
     if card["chapter_id"] != ch: problems.append(f"{tid}: chapter mismatch")
     if words(card["one_liner"]) > 20: problems.append(f"{tid}: one_liner {words(card['one_liner'])} words")
