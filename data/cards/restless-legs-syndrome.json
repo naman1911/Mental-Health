@@ -1,0 +1,151 @@
+{
+  "topic_id": "restless-legs-syndrome",
+  "official_name": "Restless Legs Syndrome",
+  "plain_title": "An unbearable urge to move your legs at night",
+  "also_known_as": [
+    "RLS",
+    "Willis-Ekbom disease"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "G25.81",
+  "language_convention": "person-first",
+  "one_liner": "An uncomfortable urge to move the legs, worse in the evening and at rest, relieved by movement, that disrupts sleep.",
+  "in_simple_words": "Restless legs syndrome is a neurological condition, not a psychological one, but it belongs here because it wrecks sleep. People feel a creeping, crawling, aching, or 'electric' urge to move their legs, worst in the evening and when sitting or lying still, eased for a moment by moving. It makes falling asleep hard and causes exhaustion and low mood. It's linked to iron levels and sometimes pregnancy, kidney disease, or certain medicines. It's common and treatable.",
+  "what_it_can_feel_like": [
+    "It's not pain exactly. It's like ants under the skin and the only relief is to walk.",
+    "I'd kick all night. My wife moved to the spare room. Iron tablets changed my life.",
+    "Long flights and cinemas were impossible. Now I plan around it, and the medication works."
+  ],
+  "common_signs": [
+    "An urge to move the legs, with uncomfortable sensations",
+    "Worse in the evening or at night, and when resting",
+    "Relieved, at least briefly, by moving",
+    "At least three times a week for three months or more",
+    "Trouble falling or staying asleep, daytime tiredness, low mood"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's all in your head, or just fidgeting.",
+      "fact": "RLS is a recognized neurological condition with a clear pattern and effective treatments."
+    },
+    {
+      "myth": "Nothing helps except getting up and walking.",
+      "fact": "Treating low iron, adjusting medicines that worsen it, and specific medications, prescribed and monitored by a doctor, help most people."
+    },
+    {
+      "myth": "It only affects old people.",
+      "fact": "RLS can start in childhood, where it's often called 'growing pains', and it's common in pregnancy."
+    }
+  ],
+  "how_common": {
+    "plain": "About 2 to 3 in 100 adults have restless legs syndrome severe enough to need treatment, women more than men, and it becomes more common with age.",
+    "figure": "About 1.6%–3% of adults meet criteria (estimates vary by country and method)",
+    "source_ref": "src-euro-sleep"
+  },
+  "what_helps": {
+    "plain_summary": "The first step is checking iron levels and treating low iron, which often helps. Medicines that worsen RLS, including some antidepressants and antihistamines, are reviewed. For ongoing symptoms, specific medications, prescribed and monitored by a doctor, are effective, with newer guidelines favouring certain types over older ones because of long-term side effects. Regular sleep, moderate exercise, and avoiding caffeine and alcohol late help.",
+    "evidence_based_options": [
+      "Checking and treating iron deficiency",
+      "Reviewing medications that worsen RLS",
+      "RLS medications, prescribed and monitored by a doctor, following current guidelines",
+      "Sleep routine, exercise, and avoiding evening caffeine and alcohol"
+    ],
+    "self_help_that_supports_care": [
+      "Asking for an iron (ferritin) blood test",
+      "Moderate exercise earlier in the day, not late",
+      "Warm baths, leg massage, or stretching in the evening",
+      "Keeping a symptom diary to show the pattern"
+    ],
+    "guideline_refs": [
+      "src-aasm-rls"
+    ]
+  },
+  "when_to_reach_out": "If leg discomfort and the urge to move are disrupting your sleep several nights a week, ask a doctor and request an iron check. Mention any medicines you take, including antidepressants.",
+  "is_not": "Leg cramps, positional discomfort, or nervous fidgeting aren't RLS. Akathisia, a restlessness caused by some psychiatric medicines, feels similar and is covered on the medication side-effects card.",
+  "hope_note": "RLS is very treatable. Many people get their evenings and nights back with an iron supplement or one medication.",
+  "related_topics": [
+    "insomnia-disorder",
+    "medication-induced-movement-disorders",
+    "major-depressive-disorder",
+    "adhd"
+  ],
+  "glossary_terms": [
+    "sleep-hygiene",
+    "side-effects"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person stretching their legs on a yoga mat in a calm evening living room, a warm lamp, a cup of herbal tea. Pastel indigo and sage.",
+    "alt_text": "A person stretches on a yoga mat in a calm evening living room beside a warm lamp."
+  },
+  "communities": [
+    "sleep-disorders-australia",
+    "reddit-r-insomnia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-euro-sleep",
+      "title": "Prevalence of sleep disorders in the adult population (European estimate summary)",
+      "publisher": "Secondary summary of a 2026 European analysis",
+      "url": "https://www.vol.at/so-many-europeans-suffer-from-sleep-disorders/9991844",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2026,
+      "note": "Secondary source; replace with the primary analysis."
+    },
+    {
+      "id": "src-aasm-rls",
+      "title": "Treatment of restless legs syndrome and periodic limb movement disorder: an AASM clinical practice guideline",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Not opened; listing URL."
+    },
+    {
+      "id": "src-rlsf",
+      "title": "Restless Legs Syndrome Foundation",
+      "publisher": "RLS Foundation",
+      "url": "https://www.rls.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify the RLS Foundation support groups and add.",
+      "Find a primary prevalence source."
+    ]
+  },
+  "in_young_people": "RLS in children is often misread as growing pains or ADHD-type fidgeting. A family history and the evening pattern are clues, and iron is often low."
+}

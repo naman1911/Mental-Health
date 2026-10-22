@@ -1,0 +1,142 @@
+{
+  "topic_id": "paranoid-personality-disorder",
+  "official_name": "Paranoid Personality Disorder",
+  "plain_title": "Living with constant suspicion of others",
+  "also_known_as": [
+    "PPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.0",
+  "language_convention": "person-first",
+  "one_liner": "A lasting pattern of distrusting and suspecting others, reading hidden threats into ordinary events, without the fixed delusions of psychosis.",
+  "in_simple_words": "Paranoid personality disorder is a long-standing way of seeing the world as hostile. The person assumes others are out to exploit, deceive, or harm them, reads insults into innocent remarks, holds grudges, and finds it hard to confide in anyone. Unlike psychosis, these are suspicions rather than fixed false beliefs. It often follows childhood experiences where trust was betrayed. It's lonely and exhausting, and therapy that builds trust slowly can help.",
+  "what_it_can_feel_like": [
+    "I assume everyone has an angle. It's kept me safe. It's also kept me alone.",
+    "A colleague forgot to say good morning and I spent the week sure she was plotting against me.",
+    "It took a year to trust my therapist. That year was the treatment."
+  ],
+  "common_signs": [
+    "Expecting others to exploit, deceive, or harm you, without good reason",
+    "Doubting the loyalty of friends and partners",
+    "Reading hidden insults or threats into harmless remarks",
+    "Holding grudges; reacting angrily to perceived attacks",
+    "Reluctance to confide, fearing information will be used against you"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Paranoid personality disorder is the same as paranoid schizophrenia.",
+      "fact": "PPD involves suspicion and mistrust, not delusions or hallucinations. People with PPD are in touch with reality."
+    },
+    {
+      "myth": "People with PPD are dangerous.",
+      "fact": "Most are withdrawn and guarded rather than aggressive. The main harm is to their own relationships and wellbeing."
+    },
+    {
+      "myth": "You can reason someone out of it.",
+      "fact": "Arguing confirms their fear of being attacked. Patient, consistent honesty builds trust slowly; that's the work of therapy."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 2 to 4 in 100 adults meet criteria, by US survey estimates, though many never seek help.",
+    "figure": "About 4.4% of US adults (NESARC 2001–02); other estimates 2.3%–4.4%",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Psychotherapy is the main treatment, and the therapeutic relationship itself is the medicine: a consistent, honest, non-defensive therapist over time. Cognitive approaches help test suspicious interpretations against evidence. Medication isn't a treatment for PPD, though anxiety or depression may be treated, prescribed and monitored by a doctor. Progress is slow and real.",
+    "evidence_based_options": [
+      "Individual psychotherapy with a steady, transparent therapist",
+      "Cognitive therapy to examine suspicious interpretations",
+      "Treatment of co-occurring anxiety or depression",
+      "Avoiding group formats early, which can feel threatening"
+    ],
+    "self_help_that_supports_care": [
+      "Testing one suspicion at a time against what actually happens",
+      "Noticing the difference between 'I feel threatened' and 'I am threatened'",
+      "Choosing one person to confide a small thing in",
+      "Being honest with the therapist about doubting them; that's part of it"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If constant suspicion is costing you relationships, work, or peace, and you can bear the idea, a therapist experienced with personality difficulties can help. You can start by saying you don't trust them yet.",
+  "is_not": "Reasonable wariness after real betrayal or in a genuinely hostile environment isn't a disorder. Paranoid delusions, where beliefs are fixed and detached from reality, point to a psychotic disorder.",
+  "hope_note": "People with paranoid patterns can learn, slowly, that some people are safe. Every trusted relationship makes the next one easier.",
+  "related_topics": [
+    "about-personality-disorders",
+    "schizotypal-personality-disorder",
+    "delusional-disorder",
+    "posttraumatic-stress-disorder",
+    "schizoid-personality-disorder"
+  ],
+  "glossary_terms": [
+    "paranoia",
+    "cognitive-distortion",
+    "trauma",
+    "psychodynamic-therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster A."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person sitting at a chess table in a park with an older neighbour, mid-game, both relaxed, a thermos between them. Pastel plum and sand.",
+    "alt_text": "A person plays chess in a park with a neighbour, a thermos between them."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk."
+    ]
+  },
+  "across_cultures": "Members of groups that face real discrimination or surveillance may be wary for good reason. Clinicians are advised to weigh this before diagnosing."
+}

@@ -1643,6 +1643,470 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for supplement selling or 'cure' promotion."
     },
     {
+      "community_id": "nea-bpd-family-connections",
+      "name": "NEA-BPD Family Connections programme",
+      "platform": "video-meeting",
+      "url": "https://www.borderlinepersonalitydisorder.org/family-connections/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "borderline-personality-disorder",
+        "about-personality-disorders"
+      ],
+      "region": "US, Canada, international",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free 12-week course for relatives of people with BPD, teaching DBT-based skills, led by trained programme graduates; telephone version (TeleConnections) for rural or mobility-limited participants; coordinated by the National Education Alliance for BPD. Programme page URL from memory; brochure URL seen in search."
+      },
+      "safety_notes": "Educational programme for families; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm programme page URL and current enrolment."
+    },
+    {
+      "community_id": "reddit-r-avoidant",
+      "name": "r/Avoidant",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Avoidant/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "avoidant-personality-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 10000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Recovery-focused support group for people with avoidant personality disorder (not avoidant attachment; rules bar attachment posts)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check moderation activity."
+    },
+    {
+      "community_id": "hearing-voices-network-groups",
+      "name": "Hearing Voices Network: find a group (England)",
+      "platform": "in-person",
+      "url": "https://www.hearing-voices.org/hearing-voices-groups/find-a-group/",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults",
+        "young-people"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "understanding-psychosis",
+        "schizophrenia",
+        "schizoaffective-disorder",
+        "schizotypal-personality-disorder",
+        "delusional-disorder"
+      ],
+      "region": "UK (England); HVN USA and others elsewhere",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Directory of independent peer-run Hearing Voices groups, including online groups; the network notes the list is being revised; groups are connection-focused, not treatment-based. HVN USA runs a separate locator."
+      },
+      "safety_notes": "Peer groups run independently; contact facilitators first.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Verify individual groups before linking directly; add HVN USA locator URL."
+    },
+    {
+      "community_id": "sczaction-peer-groups",
+      "name": "Schizophrenia & Psychosis Action Alliance peer support groups",
+      "platform": "video-meeting",
+      "url": "https://sczaction.org/peer-support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "understanding-psychosis",
+        "schizophrenia",
+        "schizoaffective-disorder",
+        "schizophreniform-disorder",
+        "delusional-disorder",
+        "brief-psychotic-disorder"
+      ],
+      "region": "US (online)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Peer-led groups for people with schizophrenia and psychosis-related conditions (Schizophrenia Alliance model: no dues, open to anyone who has experienced psychosis) plus biweekly groups for family members and caregivers; also runs an online community on Facebook and Inspire."
+      },
+      "safety_notes": "Peer-led; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current group schedule and the Inspire community link."
+    },
+    {
+      "community_id": "nami-connection-and-helpline",
+      "name": "NAMI Connection peer support groups and NAMI HelpLine (US)",
+      "platform": "web",
+      "url": "https://www.nami.org/Find-Support",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "understanding-psychosis",
+        "schizophrenia",
+        "schizoaffective-disorder",
+        "bipolar-i-disorder",
+        "major-depressive-disorder",
+        "catatonia"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "NAMI Connection: free, peer-led support groups for adults with mental health conditions, run by local affiliates (in person and online). NAMI Family Support Group and Family-to-Family for relatives. NAMI HelpLine 1-800-950-6264, Mon–Fri 10am–10pm ET; text keyword to 62640 (sources differed on the keyword)."
+      },
+      "safety_notes": "Information and peer support; NAMI directs crises to 988.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm HelpLine text keyword and group finder URL."
+    },
+    {
+      "community_id": "reddit-r-insomnia",
+      "name": "r/insomnia",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/insomnia/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "insomnia-disorder",
+        "circadian-rhythm-sleep-wake-disorders",
+        "nightmare-disorder",
+        "parasomnias",
+        "restless-legs-syndrome"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 159000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Posts and discussion about insomnia and sleep disorders. Rules not seen."
+      },
+      "safety_notes": "Check for medication-sourcing talk.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; sample for medication sourcing."
+    },
+    {
+      "community_id": "reddit-r-narcolepsy",
+      "name": "r/Narcolepsy",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Narcolepsy/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "narcolepsy",
+        "hypersomnolence-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 35000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "For people with narcolepsy or idiopathic hypersomnia and their family members; states it does not diagnose or confirm self-diagnosis."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read full rules."
+    },
+    {
+      "community_id": "reddit-r-sleepapnea",
+      "name": "r/SleepApnea",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/SleepApnea/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "breathing-related-sleep-disorders"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 73000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for equipment-selling spam."
+    },
+    {
+      "community_id": "narcolepsy-network",
+      "name": "Narcolepsy Network support groups and virtual meetings",
+      "platform": "video-meeting",
+      "url": "https://narcolepsynetwork.org/resources/support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "narcolepsy",
+        "hypersomnolence-disorder"
+      ],
+      "region": "US (online open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "State-by-state peer-led groups, a Facebook group, and weekly national online meetings on Zoom for people with narcolepsy or idiopathic hypersomnia and their supporters."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current meeting schedule."
+    },
+    {
+      "community_id": "wake-up-narcolepsy-heypeers",
+      "name": "Wake Up Narcolepsy peer support groups (HeyPeers)",
+      "platform": "video-meeting",
+      "url": "https://heypeers.com/support_groups/sleep",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "narcolepsy"
+      ],
+      "region": "US and Canada (online)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free peer-led drop-in groups for adults with narcolepsy, including Canada-focused and LGBTQIA+ groups, hosted on HeyPeers."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm groups still run; find Wake Up Narcolepsy's own page."
+    },
+    {
+      "community_id": "hypersomnia-foundation",
+      "name": "Hypersomnia Foundation support group listings",
+      "platform": "web",
+      "url": "https://www.hypersomniafoundation.org/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "hypersomnolence-disorder",
+        "narcolepsy"
+      ],
+      "region": "US (international listings)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Nonprofit for idiopathic hypersomnia and related conditions; maintains a list of support groups, many online."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record the support-group page URL and activity."
+    },
+    {
+      "community_id": "hope2sleep-uk",
+      "name": "Hope2Sleep Charity (sleep apnoea, UK)",
+      "platform": "web",
+      "url": "https://www.hope2sleep.co.uk/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "breathing-related-sleep-disorders"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Registered charity run by people with sleep apnoea and CPAP users with sleep professionals; public and private Facebook groups, an online forum, newsletter, and helpline 0300 102 9711 (seen in a listing)."
+      },
+      "safety_notes": "Charity-run; not an emergency service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm helpline hours and forum URL on the site."
+    },
+    {
+      "community_id": "sleep-disorders-australia",
+      "name": "Sleep Disorders Australia and partner patient groups",
+      "platform": "web",
+      "url": "https://sleep.org.au/Public/Resource-Centre/F-C-Info/Patient-Support-Groups.aspx",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "insomnia-disorder",
+        "breathing-related-sleep-disorders",
+        "restless-legs-syndrome",
+        "narcolepsy",
+        "hypersomnolence-disorder",
+        "circadian-rhythm-sleep-wake-disorders",
+        "parasomnias",
+        "nightmare-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Australasian Sleep Association listing of patient support groups: Sleep Disorders Australia (apnoea, RLS, insomnia), NODDS (narcolepsy), Hypersomnolence Australia."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open each listed group and verify individually."
+    },
+    {
       "community_id": "reddit-r-stopdrinking",
       "name": "r/stopdrinking",
       "platform": "reddit",

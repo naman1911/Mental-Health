@@ -1,0 +1,131 @@
+{
+  "topic_id": "schizophreniform-disorder",
+  "official_name": "Schizophreniform Disorder",
+  "plain_title": "Schizophrenia-like symptoms, one to six months in",
+  "also_known_as": [],
+  "chapter_id": "psychotic",
+  "card_type": "condition",
+  "icd10cm_code": "F20.81",
+  "language_convention": "person-first",
+  "one_liner": "The same symptoms as schizophrenia, lasting more than a month but less than six months. A 'wait and see' diagnosis.",
+  "in_simple_words": "Schizophreniform disorder is diagnosed when someone has the symptoms of schizophrenia (psychosis, disorganization, negative symptoms) that have lasted longer than a month but not yet six months. It's essentially a provisional label: about a third of people recover within six months and never meet criteria for schizophrenia; the rest go on to be diagnosed with schizophrenia or schizoaffective disorder. The name sounds daunting, but it mainly means 'too early to tell', and treatment starts now rather than waiting.",
+  "what_it_can_feel_like": [
+    "Four months of voices and fear. Then, slowly, they faded, and the diagnosis was never changed to schizophrenia. I'm one of the lucky third.",
+    "The word terrified me until the nurse explained it meant they were watching and hoping.",
+    "Starting treatment early, before anyone was sure what it was, is probably why I'm okay."
+  ],
+  "common_signs": [
+    "Psychotic symptoms like those of schizophrenia",
+    "Lasting between one and six months",
+    "Often good functioning before onset and confusion during the episode",
+    "Diagnosis revised at six months: recovered, or schizophrenia, or schizoaffective disorder"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Schizophreniform disorder is just early schizophrenia.",
+      "fact": "About a third of people recover within six months and don't develop schizophrenia. The label leaves that door open."
+    },
+    {
+      "myth": "You should wait until six months to start treatment.",
+      "fact": "Early treatment improves outcomes. Treatment starts as soon as psychosis is recognized."
+    },
+    {
+      "myth": "A diagnosis that changes means the doctors were wrong.",
+      "fact": "This diagnosis is designed to change. It's honest about uncertainty."
+    }
+  ],
+  "how_common": {
+    "plain": "Schizophreniform disorder is uncommon, with lifetime rates estimated at around 1 in 500 in higher-income countries.",
+    "figure": "Lifetime prevalence about 0.2% (DSM-5-TR text, higher-income countries)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is the same as for a first episode of psychosis: early intervention services, antipsychotic medication prescribed and monitored by a doctor, CBT for psychosis, family involvement, and support to stay in work or study. Close follow-up around the six-month mark decides what happens next. Good early functioning, confusion during the episode, and quick onset predict a better outcome.",
+    "evidence_based_options": [
+      "Early intervention in psychosis services",
+      "Antipsychotic medication, prescribed and monitored by a doctor",
+      "CBT for psychosis and family intervention",
+      "Regular review and support with work or study"
+    ],
+    "self_help_that_supports_care": [
+      "Sleep, routine, and avoiding substances",
+      "Keeping connected to people, even when withdrawing feels easier",
+      "Learning early warning signs with your team",
+      "Peer support with others who've been through a first episode"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If psychotic symptoms have lasted more than a month, make sure you're linked to a mental health team, ideally an early intervention service. If you're in crisis or danger, use the crisis strip now.",
+  "is_not": "Psychosis under a month is brief psychotic disorder; over six months, schizophrenia. Psychosis caused by drugs, medication, or a medical condition is diagnosed separately.",
+  "hope_note": "A third of people with this diagnosis recover fully within months. For the rest, early treatment makes the road ahead much smoother.",
+  "related_topics": [
+    "understanding-psychosis",
+    "schizophrenia",
+    "brief-psychotic-disorder",
+    "schizoaffective-disorder"
+  ],
+  "glossary_terms": [
+    "psychosis",
+    "provisional-diagnosis",
+    "prognosis",
+    "first-episode-psychosis",
+    "early-intervention-service"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a person and a clinician looking at a six-month wall calendar with hopeful notes pinned beside it, sunlight. Pastel violet and yellow.",
+    "alt_text": "A person and a clinician look at a six-month wall calendar with hopeful notes pinned beside it."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  }
+}

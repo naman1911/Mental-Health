@@ -1,0 +1,186 @@
+{
+  "topic_id": "schizophrenia",
+  "official_name": "Schizophrenia",
+  "plain_title": "Serious, treatable, and not what the movies show",
+  "also_known_as": [],
+  "chapter_id": "psychotic",
+  "card_type": "condition",
+  "icd10cm_code": "F20.9",
+  "language_convention": "person-first",
+  "one_liner": "A long-term condition with episodes of psychosis plus changes in motivation, thinking, and emotion, lasting six months or more.",
+  "in_simple_words": "Schizophrenia is a serious mental health condition, usually starting in the late teens to early thirties, in which a person has periods of psychosis (hearing voices, holding beliefs that aren't true, confused thinking) along with 'negative' symptoms: lost motivation, flat emotion, withdrawal. It is not a split personality. It affects fewer than one in a hundred people, has biological roots, and is treatable. Many people with schizophrenia work, study, have families, and live independently, especially with early and consistent care.",
+  "what_it_can_feel_like": [
+    "The voices told me I was being watched. I believed them for two years before I believed my sister instead.",
+    "The hardest part isn't the voices now. It's the days when I can't make myself do anything.",
+    "I'm 40, I've had schizophrenia for 20 years, I work three days a week and I'm a good uncle. That's recovery."
+  ],
+  "common_signs": [
+    "Hearing voices or other hallucinations",
+    "Beliefs that don't match reality and don't shift with evidence",
+    "Disorganized thinking or speech",
+    "Loss of motivation, flat emotion, withdrawal, less speech (negative symptoms)",
+    "Problems with attention, memory, and planning",
+    "Lasting six months or more, with at least a month of active symptoms"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Schizophrenia means a split personality.",
+      "fact": "It has nothing to do with multiple personalities. The word confuses people; the condition is about psychosis and motivation."
+    },
+    {
+      "myth": "People with schizophrenia are violent.",
+      "fact": "They are far more likely to be victims of violence than perpetrators. Most are never violent. Treatment and avoiding substances reduce the small risk further."
+    },
+    {
+      "myth": "Nobody recovers from schizophrenia.",
+      "fact": "Outcomes vary. A substantial share of people recover well, and most improve significantly with treatment, support, and time."
+    },
+    {
+      "myth": "Bad parenting causes it.",
+      "fact": "Schizophrenia has strong genetic and biological roots, with stress, trauma, and substance use as triggers. Families are part of the solution, not the cause."
+    }
+  ],
+  "how_common": {
+    "plain": "Schizophrenia and related psychotic disorders affect somewhere between 1 in 400 and 1 in 150 US adults, with similar rates worldwide.",
+    "figure": "0.25%–0.64% of US adults (NIMH range from household surveys, clinical interviews, and medical records)",
+    "source_ref": "src-nimh-scz"
+  },
+  "what_helps": {
+    "plain_summary": "Antipsychotic medication, prescribed and monitored by a doctor, is the foundation and reduces psychotic symptoms for most people; finding the right one and the lowest effective dose takes a partnership. Alongside it, guidelines recommend CBT for psychosis, family intervention, supported employment, and attention to physical health, which medication and the illness can affect. For people who don't respond to two antipsychotics, clozapine is the recommended option with close monitoring. Early intervention services give the best start.",
+    "evidence_based_options": [
+      "Antipsychotic medication, prescribed and monitored by a doctor, including long-acting injections if preferred",
+      "CBT for psychosis (at least 16 sessions) and family intervention",
+      "Supported employment and education; early intervention services",
+      "Clozapine for treatment-resistant schizophrenia, with monitoring; regular physical health checks"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping regular sleep and routine",
+      "Avoiding cannabis and stimulants",
+      "A relapse plan with early warning signs, shared with your team and family",
+      "Peer support with others who have schizophrenia"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If you've been hearing voices, holding frightening beliefs, or losing touch with daily life for weeks, or if a family member has, contact a doctor or mental health service and ask about early intervention. If someone is in danger, use the crisis strip or emergency services.",
+  "is_not": "A single brief psychotic episode, psychosis caused by drugs, or psychosis as part of bipolar disorder or depression are different diagnoses. Schizotypal personality disorder has odd beliefs without sustained psychosis.",
+  "hope_note": "People with schizophrenia build good lives: with the right treatment, support, and time, the condition becomes one part of a person, not the whole.",
+  "related_topics": [
+    "understanding-psychosis",
+    "schizoaffective-disorder",
+    "schizophreniform-disorder",
+    "brief-psychotic-disorder",
+    "schizotypal-personality-disorder",
+    "cannabis-use-disorder",
+    "medication-induced-movement-disorders",
+    "tobacco-use-disorder",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "psychosis",
+    "hallucination",
+    "delusion",
+    "negative-symptoms",
+    "positive-symptoms",
+    "disorganized-thinking",
+    "antipsychotic",
+    "long-acting-injectable",
+    "anosognosia",
+    "relapse-prevention",
+    "stigma-words"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a person tending plants in a greenhouse at a community garden project, a colleague handing them a tray of seedlings, warm light. Pastel violet and green. No distortion effects.",
+    "alt_text": "A person tends plants in a greenhouse as a colleague hands them a tray of seedlings."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-scz",
+      "title": "Schizophrenia statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "id": "src-nimh-scz-topic",
+      "title": "Schizophrenia (health topic)",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/topics/schizophrenia",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-hvn",
+      "title": "Hearing Voices Network",
+      "publisher": "Hearing Voices Network (England)",
+      "url": "https://www.hearing-voices.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  },
+  "in_young_people": "Schizophrenia starting before 18 is uncommon and tends to be more severe, which makes early recognition vital. Early signs include withdrawal, falling grades, odd ideas, and sleep changes. Services for young people involve family closely.",
+  "across_cultures": "Outcomes for schizophrenia are reported to be somewhat better in some lower-income countries, possibly because of family and community support and less stigma around returning to work. Black people in the UK and US are diagnosed with schizophrenia far more often and face more coercive care, which services are working to address.",
+  "sub_sections": [
+    {
+      "title": "Course and specifiers",
+      "text": "Clinicians note whether this is a first or multiple episode, whether the person is in an acute episode, partial remission, or full remission, and whether catatonia is present."
+    },
+    {
+      "title": "Other specified and unspecified schizophrenia spectrum disorder",
+      "icd10cm_code": "F28 / F29",
+      "text": "For psychotic presentations that don't fit a named disorder, including persistent hallucinations without other symptoms."
+    }
+  ]
+}

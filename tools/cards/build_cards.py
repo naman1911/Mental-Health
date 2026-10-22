@@ -53,7 +53,10 @@ for card in CARDS:
     if card["safety"]["sensitivity_level"] == "high" and re.search(r"\b\d+(\.\d+)?\s*(kg|lb|lbs|pounds|kilos|calories|kcal|bmi)\b", txt, re.I):
         problems.append(f"{tid}: numeric weight/calorie content on high-sensitivity card")
     card["review"]["reading_grade_estimate"] = fk_grade(txt)
-    jsonschema.Draft202012Validator(card_schema).validate(card)
+    try:
+        jsonschema.Draft202012Validator(card_schema).validate(card)
+    except jsonschema.ValidationError as e:
+        problems.append(f"{tid}: schema: {e.message[:120]} at {list(e.path)}")
     with open(f"{ROOT}/data/cards/{tid}.json", "w") as f:
         json.dump(card, f, indent=2, ensure_ascii=False)
 

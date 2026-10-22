@@ -1,0 +1,159 @@
+{
+  "topic_id": "schizotypal-personality-disorder",
+  "official_name": "Schizotypal Personality Disorder",
+  "plain_title": "Unusual beliefs and discomfort with closeness",
+  "also_known_as": [
+    "STPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F21",
+  "language_convention": "person-first",
+  "one_liner": "A lasting pattern of eccentric thinking, unusual beliefs or perceptions, odd speech or appearance, and deep discomfort in close relationships.",
+  "in_simple_words": "Schizotypal personality disorder sits between personality and psychosis. People have unusual beliefs (telepathy, special signs, superstitions beyond their culture), odd perceptions (sensing a presence), eccentric speech or dress, and suspiciousness, along with intense social anxiety that doesn't ease with familiarity. Unlike schizophrenia, there are no sustained delusions or hallucinations, though a minority later develop a psychotic disorder. It is listed in both the personality and the psychotic disorders chapters. Therapy and, sometimes, medication help.",
+  "what_it_can_feel_like": [
+    "I've always known things before they happen. People think I'm strange. Maybe I am.",
+    "Crowds feel like static. I can't make friends past a certain point; the wall goes up.",
+    "A psychiatrist who treated my ideas with respect, not alarm, was the first I could talk to."
+  ],
+  "common_signs": [
+    "Unusual beliefs or magical thinking beyond cultural norms",
+    "Odd perceptions, like sensing presences or seeing meaning in coincidences",
+    "Odd thinking, speech, or appearance",
+    "Suspiciousness or paranoid ideas",
+    "Intense social anxiety that doesn't fade with familiarity; few close friends",
+    "Flat or inappropriate emotional expression"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Schizotypal is mild schizophrenia.",
+      "fact": "It's a personality pattern without sustained psychosis. Most people with it never develop schizophrenia, though the risk is higher than average."
+    },
+    {
+      "myth": "Unusual beliefs mean someone is mentally ill.",
+      "fact": "Spiritual, religious, and cultural beliefs are not symptoms. The diagnosis needs beliefs that go beyond the person's culture and cause distress or impairment."
+    },
+    {
+      "myth": "People with STPD are just eccentric.",
+      "fact": "Eccentricity is fine. STPD involves real suffering, usually from isolation and anxiety, and it deserves care."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 to 4 in 100 adults meet criteria, by US survey estimates.",
+    "figure": "About 3.9% of US adults (NESARC wave 2); other estimates around 1%",
+    "source_ref": "src-dsm",
+    "note": "NESARC wave-2 figure from memory; needs confirmation."
+  },
+  "what_helps": {
+    "plain_summary": "Psychotherapy that builds social skills and tests unusual beliefs gently, cognitive-behavioural and supportive approaches, is the mainstay. Low-dose antipsychotic medication, prescribed and monitored by a doctor, sometimes helps with the perceptual and thinking symptoms. Treating social anxiety and depression matters. Because of the raised risk of psychosis, keeping in touch with services helps catch any change early.",
+    "evidence_based_options": [
+      "CBT and social-skills training",
+      "Supportive psychotherapy",
+      "Low-dose antipsychotic medication in some cases, prescribed and monitored by a doctor",
+      "Treatment of social anxiety and depression; monitoring for psychosis"
+    ],
+    "self_help_that_supports_care": [
+      "One or two safe relationships, built slowly",
+      "Grounding techniques when perceptions feel unsettling",
+      "Writing down unusual experiences to discuss rather than act on",
+      "Peer support with people who respect unusual experiences"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If unusual experiences, suspicion, and social anxiety are isolating you or causing distress, an assessment can help. Reach out quickly if beliefs become fixed and certain, or if you start hearing voices.",
+  "is_not": "Spiritual, religious, or cultural beliefs shared by your community aren't symptoms. Schizophrenia involves sustained delusions and hallucinations. Autism and social anxiety overlap in places and are sometimes confused with STPD.",
+  "hope_note": "With understanding and support, people with schizotypal patterns find communities where being unusual is welcome, and most never develop psychosis.",
+  "related_topics": [
+    "about-personality-disorders",
+    "schizophrenia",
+    "paranoid-personality-disorder",
+    "schizoid-personality-disorder",
+    "social-anxiety-disorder",
+    "attenuated-psychosis-syndrome"
+  ],
+  "glossary_terms": [
+    "ideas-of-reference",
+    "paranoia",
+    "grounding",
+    "prodrome",
+    "antipsychotic"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster A.",
+      "Raised risk of psychosis; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person at a small astronomy club meeting outdoors, telescopes pointing at a starry sky, one other person showing them a star chart. Pastel plum and indigo.",
+    "alt_text": "A person at an outdoor astronomy club meeting looks at a star chart with another member under a starry sky."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "hearing-voices-network-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Confirm prevalence citation."
+    ]
+  },
+  "across_cultures": "Beliefs in spirits, omens, or healing that are normal in a community are not symptoms. Assessment must ask what the person's culture considers ordinary."
+}

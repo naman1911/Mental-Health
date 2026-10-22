@@ -1,0 +1,178 @@
+{
+  "topic_id": "about-personality-disorders",
+  "official_name": "Personality Disorders (explainer)",
+  "plain_title": "What the label means, and why it's controversial",
+  "also_known_as": [
+    "PD",
+    "personality difficulties"
+  ],
+  "chapter_id": "personality",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a (F60.x by type)",
+  "language_convention": "person-first",
+  "one_liner": "Long-standing patterns in how a person thinks, feels, and relates to others that cause lasting distress or trouble.",
+  "in_simple_words": "Everyone has a personality: habits of thinking, feeling, and relating. A personality disorder is diagnosed when those patterns are rigid, start by early adulthood, show up across many situations, and cause real distress or problems. The DSM groups ten types into three clusters. The labels are controversial: they've been used to dismiss people, especially those with trauma histories, and especially women. What's not controversial any more is that these difficulties are treatable, and people get better.",
+  "what_it_can_feel_like": [
+    "Being told I had a personality disorder felt like being told I was broken as a person. Then I found a therapist who explained it as patterns, not a verdict.",
+    "The label got me turned away from services for years. The right team used it to get me the right therapy.",
+    "I'm not my diagnosis. It describes some of my struggles. It doesn't describe me."
+  ],
+  "common_signs": [
+    "Rigid patterns of thinking, feeling, and relating that cause problems across life",
+    "Starting in adolescence or early adulthood and lasting for years",
+    "Distress for the person, or repeated trouble in relationships, work, or self-image",
+    "Not explained by another condition, a substance, or a medical illness"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "A personality disorder means something is wrong with who you are.",
+      "fact": "It describes patterns of coping that usually developed for understandable reasons, often in response to early adversity, and that can change."
+    },
+    {
+      "myth": "Personality disorders can't be treated.",
+      "fact": "Several therapies have strong evidence, especially for borderline personality disorder. Most people improve substantially over time."
+    },
+    {
+      "myth": "People with personality disorders are manipulative or dangerous.",
+      "fact": "This stigma causes real harm, including in healthcare. Most people with these diagnoses are struggling, not scheming, and are far more likely to be hurt than to hurt."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 in 10 adults meets criteria for some personality disorder in a given year, by US survey estimates, though how the diagnosis is used varies a lot between countries.",
+    "figure": "9.1% of US adults with any personality disorder in the past year (NCS-R)",
+    "source_ref": "src-nimh-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is mainly psychological and longer-term. For borderline personality disorder, several structured therapies work well. For other types, evidence is thinner but therapy that builds self-understanding, emotional skills, and relationships helps. Medication isn't a treatment for personality disorder itself, though it may be used for depression, anxiety, or crisis symptoms, prescribed and monitored by a doctor. Consistent, respectful care relationships matter as much as the technique. Services that exclude people because of the label are acting against guidelines.",
+    "evidence_based_options": [
+      "Structured psychological therapies, especially for borderline personality disorder (DBT, MBT, schema therapy, transference-focused therapy)",
+      "Longer-term therapy focused on self-understanding, emotions, and relationships",
+      "Treatment of co-occurring depression, anxiety, or substance use",
+      "Crisis plans and consistent care relationships"
+    ],
+    "self_help_that_supports_care": [
+      "Reading about your diagnosis from sources written with people who have it",
+      "Peer support with others who share the experience",
+      "Learning emotional-regulation skills, even outside formal therapy",
+      "Knowing your rights if a service tries to exclude you because of the label"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If long-standing patterns in how you relate to yourself and others keep causing pain, broken relationships, or crises, a thorough assessment can help, and so can a therapist experienced with personality difficulties. If you're in crisis or thinking about ending your life, use the crisis strip now.",
+  "is_not": "Having strong traits, being difficult sometimes, or going through a bad patch isn't a personality disorder. Patterns caused by trauma, autism, ADHD, or mood disorders can look similar and are often misdiagnosed as personality disorders.",
+  "hope_note": "People diagnosed with personality disorders recover, build stable lives and relationships, and often become the most insightful supporters of others.",
+  "related_topics": [
+    "borderline-personality-disorder",
+    "antisocial-personality-disorder",
+    "narcissistic-personality-disorder",
+    "avoidant-personality-disorder",
+    "obsessive-compulsive-personality-disorder",
+    "alternative-model-for-personality-disorders",
+    "posttraumatic-stress-disorder"
+  ],
+  "glossary_terms": [
+    "personality-trait",
+    "stigma",
+    "diagnosis",
+    "formulation",
+    "dbt",
+    "mbt",
+    "schema-therapy",
+    "person-first-identity-first"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person looking at a gallery wall of ten different framed portraits of themselves at different ages and moods, calm and curious, warm light. Pastel plum and cream.",
+    "alt_text": "A person looks calmly at a wall of framed portraits of themselves at different ages and moods."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-pd",
+      "title": "Personality Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/personality-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Replace placeholder related topic.",
+      "Add verified PD-specific peer communities."
+    ]
+  },
+  "in_young_people": "Personality disorders are rarely diagnosed before 18, because personality is still forming. Teens with intense emotional difficulties can get early help without a label, and that's usually the better route.",
+  "across_cultures": "What counts as 'odd' or 'excessive' depends on culture. The diagnosis is used far more in some countries than others, and clinicians are advised to consider cultural context before applying it.",
+  "sub_sections": [
+    {
+      "title": "Cluster A: odd or eccentric",
+      "text": "Paranoid, schizoid, and schizotypal personality disorders."
+    },
+    {
+      "title": "Cluster B: dramatic, emotional, or erratic",
+      "text": "Antisocial, borderline, histrionic, and narcissistic personality disorders."
+    },
+    {
+      "title": "Cluster C: anxious or fearful",
+      "text": "Avoidant, dependent, and obsessive-compulsive personality disorders."
+    },
+    {
+      "title": "Personality change due to another medical condition; other specified and unspecified personality disorder",
+      "icd10cm_code": "F07.0 / F60.89 / F60.9",
+      "text": "Used when a brain injury or illness changes personality, or when difficulties don't fit one type."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "topic_id": "delusional-disorder",
+  "official_name": "Delusional Disorder",
+  "plain_title": "A fixed false belief in an otherwise ordinary life",
+  "also_known_as": [
+    "paranoia (older term)"
+  ],
+  "chapter_id": "psychotic",
+  "card_type": "condition",
+  "icd10cm_code": "F22",
+  "language_convention": "person-first",
+  "one_liner": "A fixed false belief lasting a month or more, without the other features of schizophrenia, in someone who otherwise functions.",
+  "in_simple_words": "Delusional disorder means holding one or more firm beliefs that aren't true, for at least a month, without the hallucinations, disorganized thinking, or negative symptoms of schizophrenia. The belief might be that a partner is unfaithful, that someone famous loves you, or that you're being persecuted. Outside the belief, the person often seems entirely normal, so it's hard to recognize as illness. It tends to start later in life and is treatable, though trust is the first hurdle.",
+  "what_it_can_feel_like": [
+    "Everyone at work was in on it. I had the evidence filed in a binder. Three years of my life.",
+    "My mother was convinced the neighbours were poisoning the water. Otherwise she was the same sharp woman she'd always been.",
+    "The psychiatrist didn't argue with the belief. He asked what it cost me. That's where it started to move."
+  ],
+  "common_signs": [
+    "A fixed belief that isn't true, held for a month or more",
+    "Belief themes: persecution, jealousy, being loved by someone, illness, grandeur, or bodily problems",
+    "No hallucinations (or only ones tied to the belief), no disorganized thinking",
+    "Functioning fairly normally apart from the belief and its consequences",
+    "Mood changes that follow from the belief, not the other way round"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "You can talk someone out of a delusion with enough evidence.",
+      "fact": "By definition, a delusion doesn't shift with evidence. Arguing damages trust. Treatment works on the distress and the consequences first."
+    },
+    {
+      "myth": "People with delusional disorder are obviously unwell.",
+      "fact": "Most seem completely ordinary outside the topic of the belief, which is why it often goes untreated for years."
+    },
+    {
+      "myth": "It's the same as schizophrenia.",
+      "fact": "Delusional disorder lacks hallucinations, disorganized thinking, and negative symptoms, and function is largely preserved."
+    }
+  ],
+  "how_common": {
+    "plain": "Delusional disorder is uncommon, affecting roughly 2 in 1,000 people over a lifetime. It usually starts in middle or later life.",
+    "figure": "Lifetime prevalence about 0.2% (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Building a trusting relationship with a clinician comes first, because people with delusional disorder rarely see the belief as a problem. Antipsychotic medication, prescribed and monitored by a doctor, helps many, and CBT can reduce the distress and preoccupation around the belief even where the belief itself persists. Treating depression or anxiety helps. Family support, and safety planning where the belief involves others, are part of care.",
+    "evidence_based_options": [
+      "Antipsychotic medication, prescribed and monitored by a doctor",
+      "CBT for psychosis focused on distress and preoccupation",
+      "Treatment of co-occurring depression or anxiety",
+      "Family support and, where needed, safety planning"
+    ],
+    "self_help_that_supports_care": [
+      "Focusing on what the belief is costing (sleep, relationships, money) rather than whether it's true",
+      "Keeping routines and relationships going",
+      "For family: not arguing, not pretending to agree; staying connected",
+      "Seeking help for distress even if you disagree about the cause"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If a fixed belief is taking over your life, or a family member's, and causing distress, conflict, or risky actions, contact a doctor or mental health service. If anyone's safety is at risk, use the crisis strip or emergency services.",
+  "is_not": "Strongly held religious, political, or cultural beliefs shared with a community are not delusions. Suspicion with some flexibility is more likely paranoid personality. Delusions alongside hallucinations and disorganization point to schizophrenia.",
+  "hope_note": "Even where a belief doesn't fully fade, people with delusional disorder can get their peace, relationships, and daily life back.",
+  "related_topics": [
+    "understanding-psychosis",
+    "schizophrenia",
+    "paranoid-personality-disorder",
+    "body-dysmorphic-disorder",
+    "illness-anxiety-disorder",
+    "obsessive-compulsive-disorder"
+  ],
+  "glossary_terms": [
+    "delusion",
+    "paranoia",
+    "insight",
+    "anosognosia",
+    "antipsychotic"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of an older person and an adult child sitting together on a garden bench having tea, both calm, a folder set aside on the table. Pastel violet and warm grey.",
+    "alt_text": "An older person and an adult child sit together on a garden bench with tea, a folder set aside."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  },
+  "across_cultures": "What counts as a delusion depends on what the person's community believes. Clinicians are advised to check whether a belief is shared by the person's culture or faith before calling it a delusion.",
+  "sub_sections": [
+    {
+      "title": "Types",
+      "text": "Erotomanic (someone loves me), grandiose (I have special powers or importance), jealous (my partner is unfaithful), persecutory (I'm being harmed), somatic (something is wrong with my body), mixed, and unspecified."
+    }
+  ]
+}

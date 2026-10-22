@@ -1,0 +1,154 @@
+{
+  "topic_id": "catatonia",
+  "official_name": "Catatonia",
+  "plain_title": "When the body freezes, or won't stop moving",
+  "also_known_as": [
+    "catatonic state"
+  ],
+  "chapter_id": "psychotic",
+  "card_type": "condition-group",
+  "icd10cm_code": "F06.1",
+  "language_convention": "person-first",
+  "one_liner": "Markedly reduced or unusual movement and responsiveness, from frozen stillness to agitation, occurring in many conditions.",
+  "in_simple_words": "Catatonia is a syndrome of body and mind that can appear with schizophrenia, bipolar disorder, severe depression, autism, or medical illness. A person may become almost completely still and silent, hold odd postures for hours, resist being moved, repeat others' words or movements, or, less often, become extremely agitated. It's often missed, and it's a medical priority: untreated, it can cause dehydration, clots, and a dangerous 'malignant' form. The good news is that it usually responds quickly to treatment.",
+  "what_it_can_feel_like": [
+    "My daughter stopped speaking and sat staring for two days. We thought it was depression. It was catatonia, and one injection brought her back.",
+    "I could hear everything. I just couldn't make my body answer.",
+    "ECT sounded terrifying. It ended the catatonia in a week, and I'm grateful."
+  ],
+  "common_signs": [
+    "Staying almost motionless, or holding unusual postures for long periods",
+    "Not speaking (mutism), or not responding to what's around them",
+    "Resisting instructions or being moved; or doing the opposite of what's asked",
+    "Repeating others' words or movements",
+    "Sometimes: extreme, purposeless agitation",
+    "Not eating or drinking, which becomes dangerous"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Catatonia only happens in schizophrenia.",
+      "fact": "It's actually more common with mood disorders, and occurs in autism and medical illnesses too. It's now classified as a syndrome that can accompany many conditions."
+    },
+    {
+      "myth": "A catatonic person isn't aware of anything.",
+      "fact": "Many people later describe being fully aware but unable to respond. Talking to them kindly matters."
+    },
+    {
+      "myth": "There's nothing to do but wait.",
+      "fact": "Catatonia often responds within hours to days to benzodiazepines, and to ECT when those fail. Waiting is dangerous."
+    }
+  ],
+  "how_common": {
+    "plain": "Catatonia affects around 1 in 10 people admitted to hospital with serious mental illness, and is often unrecognized.",
+    "figure": "Estimated at roughly 10% of acute psychiatric inpatients in some studies (DSM-5-TR text and reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Catatonia is treated urgently. Benzodiazepines (usually lorazepam), prescribed and monitored by a doctor, often bring rapid improvement, sometimes within hours. If they don't, electroconvulsive therapy (ECT) is highly effective and can be life-saving. The underlying condition, whether a mood disorder, psychosis, or medical illness, is treated alongside. Supportive care, including fluids, nutrition, and preventing blood clots, is essential. Antipsychotics are used cautiously, as some can worsen catatonia.",
+    "evidence_based_options": [
+      "Benzodiazepines, prescribed and monitored by a doctor, as first-line treatment",
+      "Electroconvulsive therapy (ECT) when benzodiazepines don't work or the situation is dangerous",
+      "Treatment of the underlying mood, psychotic, or medical condition",
+      "Supportive medical care: hydration, nutrition, clot prevention"
+    ],
+    "self_help_that_supports_care": [
+      "For family: describing what you've seen to clinicians in detail, including how long it's lasted",
+      "Speaking to the person as if they can hear; they often can",
+      "Asking directly, 'could this be catatonia?'",
+      "Afterwards: helping the person make sense of what happened"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "If someone has become unusually still, silent, or unresponsive, holds strange postures, or has stopped eating and drinking, get medical help today. This is an emergency if they have a fever, rigid muscles, or rapid changes in heart rate or blood pressure.",
+  "is_not": "Severe depression can slow a person right down without catatonia; stupor from drugs, stroke, or other medical causes needs its own assessment. Autistic shutdown is different, though autistic people can develop catatonia.",
+  "hope_note": "Catatonia is one of the most dramatically treatable conditions in psychiatry. People who were frozen for days are often talking and eating within a week.",
+  "related_topics": [
+    "schizophrenia",
+    "bipolar-i-disorder",
+    "major-depressive-disorder",
+    "autism-spectrum-disorder",
+    "neuroleptic-malignant-syndrome",
+    "delirium",
+    "mental-disorders-due-to-another-medical-condition"
+  ],
+  "glossary_terms": [
+    "psychomotor-changes",
+    "ect",
+    "benzodiazepine",
+    "affect"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a nurse sitting beside a hospital bed holding a patient's hand and speaking gently, a window with soft daylight, a water jug on the table. Pastel violet and cream.",
+    "alt_text": "A nurse sits beside a hospital bed holding a patient's hand and speaking gently in soft daylight."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "id": "src-catatonia-review",
+      "title": "Catatonia: diagnosis and treatment (clinical review)",
+      "publisher": "Reference needed",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Placeholder: a primary review citation must be added before publication."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Replace the placeholder review citation with a specific source (for example Rogers et al., BAP guideline 2023).",
+      "Clinician to check treatment wording."
+    ]
+  },
+  "in_young_people": "Catatonia in children and teens is rare and often linked to autism, mood disorders, or medical conditions. It's frequently missed; a child who stops moving, speaking, or eating needs urgent assessment.",
+  "sub_sections": [
+    {
+      "title": "How it's coded",
+      "icd10cm_code": "F06.1",
+      "text": "Catatonia associated with another mental disorder (a specifier), catatonic disorder due to another medical condition, and unspecified catatonia (coded with R29.818 first) all use F06.1."
+    }
+  ]
+}

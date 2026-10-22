@@ -1,0 +1,150 @@
+{
+  "topic_id": "hypersomnolence-disorder",
+  "official_name": "Hypersomnolence Disorder",
+  "plain_title": "Sleeping plenty and still exhausted",
+  "also_known_as": [
+    "idiopathic hypersomnia (related)",
+    "excessive daytime sleepiness"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "F51.11",
+  "language_convention": "person-first",
+  "one_liner": "Being very sleepy during the day despite sleeping at least seven hours, for months, with no other cause found.",
+  "in_simple_words": "Hypersomnolence disorder is more than feeling tired. A person sleeps a full night, often longer, and still fights to stay awake by day, falls asleep unintentionally, takes long naps that don't refresh, or struggles to wake up at all ('sleep drunkenness'). It goes on for three months or more and isn't explained by poor sleep, apnoea, medication, or another condition. It's often dismissed as laziness. It's a real neurological condition, and there is treatment.",
+  "what_it_can_feel_like": [
+    "I slept ten hours and still couldn't keep my eyes open in meetings. People thought I was bored.",
+    "Waking up felt like climbing out of wet concrete, every single day.",
+    "The sleep study was the first time anyone believed me."
+  ],
+  "common_signs": [
+    "Sleeping seven hours or more and still very sleepy by day",
+    "Falling asleep unintentionally, or long naps that don't refresh",
+    "Great difficulty waking, feeling confused or clumsy for a while after",
+    "At least three times a week for three months or more",
+    "Daytime life affected: work, driving, relationships",
+    "No other explanation, like apnoea, medication, or not enough sleep"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Sleeping a lot means you're lazy or depressed.",
+      "fact": "Hypersomnolence is a neurological disorder. Depression can cause oversleeping too, which is why a proper assessment matters."
+    },
+    {
+      "myth": "Just get more sleep.",
+      "fact": "People with hypersomnolence already sleep plenty. More sleep doesn't help; treatment does."
+    },
+    {
+      "myth": "It's the same as narcolepsy.",
+      "fact": "They're related but different. Narcolepsy has sudden sleep attacks and often cataplexy; hypersomnolence is constant sleepiness and long sleep."
+    }
+  ],
+  "how_common": {
+    "plain": "Hypersomnolence disorder is uncommon in the general population but makes up a meaningful share of people seen in sleep clinics.",
+    "figure": "DSM-5-TR text: about 1% of the general population report sleep drunkenness; around 5–10% of sleep-clinic patients with daytime sleepiness are diagnosed with hypersomnolence disorder",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; need primary sources."
+  },
+  "what_helps": {
+    "plain_summary": "Diagnosis needs a sleep study to rule out apnoea and narcolepsy. Treatment usually combines wake-promoting medication, prescribed and monitored by a sleep specialist, with planned naps and a regular schedule. Treating any depression or other conditions helps. Driving safety is discussed as part of care.",
+    "evidence_based_options": [
+      "Sleep study and specialist assessment",
+      "Wake-promoting medication, prescribed and monitored by a sleep specialist",
+      "Scheduled naps and a strict regular sleep-wake schedule",
+      "Treatment of co-occurring depression or other conditions"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping a sleep diary for two weeks before the appointment",
+      "Planning short naps rather than fighting through",
+      "Alarms, light, and a routine for the hard morning window",
+      "Not driving when sleepy, and talking to a doctor about driving rules"
+    ],
+    "guideline_refs": [
+      "src-aasm-hypersomnia"
+    ]
+  },
+  "when_to_reach_out": "If you sleep well but still can't stay awake by day for months, ask a doctor for a referral to a sleep clinic. Do not drive if you feel sleepy; tell your doctor so the risk can be managed.",
+  "is_not": "Being tired because of not enough sleep, shift work, medication, or a medical illness isn't hypersomnolence disorder. Sleep apnoea and narcolepsy cause daytime sleepiness too and need their own tests.",
+  "hope_note": "With a diagnosis and the right treatment, people with hypersomnolence get their days back.",
+  "related_topics": [
+    "narcolepsy",
+    "breathing-related-sleep-disorders",
+    "major-depressive-disorder",
+    "circadian-rhythm-sleep-wake-disorders"
+  ],
+  "glossary_terms": [
+    "cataplexy",
+    "circadian-rhythm",
+    "assessment"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person at a sunny kitchen table with a sleep diary, an alarm clock, and a bright window, a cat asleep nearby. Pastel indigo and yellow.",
+    "alt_text": "A person sits at a sunny kitchen table with a sleep diary and an alarm clock while a cat sleeps nearby."
+  },
+  "communities": [
+    "narcolepsy-network",
+    "hypersomnia-foundation",
+    "reddit-r-narcolepsy",
+    "sleep-disorders-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-aasm-hypersomnia",
+      "title": "Treatment of central disorders of hypersomnolence: an AASM clinical practice guideline",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2021,
+      "note": "Not opened; guideline listing URL."
+    },
+    {
+      "id": "src-hf",
+      "title": "Hypersomnia Foundation",
+      "publisher": "Hypersomnia Foundation",
+      "url": "https://www.hypersomniafoundation.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence sources."
+    ]
+  },
+  "in_young_people": "Hypersomnolence often starts in the late teens, when it's easily blamed on 'teenage sleep'. A sleep diary and a sleep study tell the difference.",
+  "sub_sections": [
+    {
+      "title": "Other specified and unspecified hypersomnolence disorder",
+      "icd10cm_code": "G47.19 / G47.10",
+      "text": "For sleepiness that doesn't yet meet the full pattern."
+    }
+  ]
+}

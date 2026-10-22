@@ -1,0 +1,160 @@
+{
+  "topic_id": "antisocial-personality-disorder",
+  "official_name": "Antisocial Personality Disorder",
+  "plain_title": "A pattern of disregarding other people's rights",
+  "also_known_as": [
+    "ASPD",
+    "dissocial personality disorder (ICD term)",
+    "psychopathy and sociopathy (popular, non-DSM terms)"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.2",
+  "language_convention": "person-first",
+  "one_liner": "A long-standing pattern, from adolescence, of breaking rules and others' rights, deceit, impulsivity, aggression, and lack of remorse.",
+  "in_simple_words": "Antisocial personality disorder is a lasting pattern, starting with conduct problems before 15, of ignoring laws and others' rights: lying, impulsive and reckless behaviour, aggression, irresponsibility, and little remorse. It is strongly linked to childhood adversity and conduct disorder. 'Psychopath' and 'sociopath' are popular labels, not diagnoses, and most people with ASPD aren't the movie villain; many struggle with substance use, unemployment, and early death. Treatment is harder than for other conditions, but not hopeless, especially when it starts young.",
+  "what_it_can_feel_like": [
+    "I grew up in chaos and learned that rules were for other people. Prison was the first structure I'd ever had.",
+    "Therapy didn't make me feel guilt. It made me see the cost of what I was doing to my own life.",
+    "My brother has this diagnosis. He's not a monster. He's a damaged person who hurts people and himself."
+  ],
+  "common_signs": [
+    "Repeatedly breaking laws or social rules since the teens",
+    "Lying, conning, or using others for gain",
+    "Impulsive, reckless, or aggressive behaviour",
+    "Irresponsibility with work, money, or commitments",
+    "Little remorse after hurting others",
+    "Conduct problems before age 15"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Everyone with ASPD is a dangerous psychopath.",
+      "fact": "ASPD covers a wide range. A minority show the cold, calculating pattern popular culture focuses on; most are impulsive, chaotic, and self-destructive."
+    },
+    {
+      "myth": "It's untreatable, so why bother.",
+      "fact": "Treatment is challenging, but programmes that build skills, reduce substance use, and address conduct problems early show real results. Prevention in childhood works best."
+    },
+    {
+      "myth": "People with ASPD are born that way.",
+      "fact": "Genetics play a part, but childhood abuse, neglect, and chaotic environments are major drivers. It's made as much as born."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 3 to 4 in 100 US adults meet criteria at some point, men far more than women, with much higher rates in prisons.",
+    "figure": "3.6% lifetime prevalence among US adults (NESARC 2001–02); about 1% of women and 3% of men in general-population estimates",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Guidelines recommend group-based cognitive and behavioural programmes that target impulsivity, problem-solving, and offending, and treatment of substance use and other conditions. Medication isn't a treatment for ASPD, though it may be used for co-occurring conditions, prescribed and monitored by a doctor. The strongest results come from preventing it: early support for children with conduct problems and their families. Services that are consistent and firm but respectful work better than punitive ones.",
+    "evidence_based_options": [
+      "Group cognitive-behavioural programmes targeting impulsivity and offending",
+      "Treatment of substance use and co-occurring conditions",
+      "Early intervention for children and teens with conduct disorder, including parent training",
+      "Multisystemic therapy and similar family-based programmes for young people"
+    ],
+    "self_help_that_supports_care": [
+      "Structure and routine, which many people with ASPD find helps",
+      "Recognizing the personal cost of impulsive actions and planning before acting",
+      "Staying away from substances, which fuel the worst outcomes",
+      "Support for family members, who often carry a heavy load"
+    ],
+    "guideline_refs": [
+      "src-nice-cg77"
+    ]
+  },
+  "when_to_reach_out": "If a pattern of rule-breaking, aggression, and impulsivity is wrecking your life or relationships, a mental health or forensic service can help, and treating substance use is a good first step. If you're a family member, support exists for you too.",
+  "is_not": "Occasional rule-breaking, rebellion in the teens, or crimes driven by poverty or addiction don't by themselves mean ASPD. Conduct disorder in under-18s is the childhood pattern; not all children with it develop ASPD.",
+  "hope_note": "Many people with antisocial patterns settle with age and structure. Early support for children at risk changes life courses.",
+  "related_topics": [
+    "about-personality-disorders",
+    "conduct-disorder",
+    "substance-use-disorders-overview",
+    "adhd",
+    "narcissistic-personality-disorder",
+    "crime-disaster-and-legal-problems"
+  ],
+  "glossary_terms": [
+    "impulsivity",
+    "adverse-childhood-experiences",
+    "stigma",
+    "stigma-words"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster B.",
+      "High stigma; wording avoids 'psychopath' and 'sociopath' as labels."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person planting a tree in a community garden with a group, gloves on, a mentor beside them, a calm sunny day. Pastel plum and green. No prison imagery.",
+    "alt_text": "A person plants a tree in a community garden with a mentor beside them."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg77",
+      "title": "Antisocial personality disorder: prevention and management (CG77)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg77",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2009,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "No ASPD-specific community found; most support exists for family members. Verify family-of-ASPD resources."
+    ]
+  },
+  "in_young_people": "ASPD can't be diagnosed before 18. The childhood precursor is conduct disorder, and 'callous-unemotional traits' mark a higher-risk group. Early, family-based help is the best prevention.",
+  "across_cultures": "Behaviour that breaks laws reflects circumstances as well as personality: poverty, discrimination, and community violence all raise rates. Clinicians are warned not to apply the label to behaviour that is adaptive in a dangerous environment."
+}

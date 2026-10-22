@@ -1,0 +1,160 @@
+{
+  "topic_id": "breathing-related-sleep-disorders",
+  "official_name": "Breathing-Related Sleep Disorders",
+  "plain_title": "Sleep apnoea and breathing problems in sleep",
+  "also_known_as": [
+    "obstructive sleep apnoea",
+    "OSA",
+    "central sleep apnoea",
+    "sleep-related hypoventilation"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "G47.3x",
+  "language_convention": "person-first",
+  "one_liner": "Breathing that repeatedly stops, pauses, or becomes too shallow during sleep, breaking sleep and causing daytime exhaustion.",
+  "in_simple_words": "In obstructive sleep apnoea, the airway narrows or closes during sleep, so breathing stops for seconds at a time, many times an hour, and the brain briefly wakes to restart it. People rarely remember, but they wake unrefreshed, snore loudly, and feel exhausted and foggy by day. Untreated, it raises blood pressure, heart, and accident risk. Central sleep apnoea and hypoventilation are rarer forms where the brain's breathing drive is the issue. All are very treatable.",
+  "what_it_can_feel_like": [
+    "My partner said I stopped breathing in the night. I thought she was exaggerating.",
+    "I fell asleep at a red light. That's when I finally went to the doctor.",
+    "The CPAP machine took a few weeks to get used to. Now I can't believe how I used to feel."
+  ],
+  "common_signs": [
+    "Loud snoring, gasping, or choking in sleep, often noticed by someone else",
+    "Pauses in breathing during sleep",
+    "Waking unrefreshed, with a dry mouth or headache",
+    "Severe daytime sleepiness, falling asleep when sitting still",
+    "Poor concentration, irritability, low mood",
+    "High blood pressure, or waking to pass urine at night"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Only overweight older men get sleep apnoea.",
+      "fact": "It's more common with weight and age, but it affects women, slim people, and children too, and is under-diagnosed in women."
+    },
+    {
+      "myth": "Snoring is harmless.",
+      "fact": "Loud snoring with pauses or gasping is a warning sign. Untreated apnoea raises heart and stroke risk."
+    },
+    {
+      "myth": "CPAP is unbearable.",
+      "fact": "Modern machines are quiet and masks come in many styles. Most people adapt within weeks and feel dramatically better."
+    }
+  ],
+  "how_common": {
+    "plain": "Obstructive sleep apnoea is common: estimates range from a few percent of adults to one in five or more, depending on how it's measured. Most people with it don't know.",
+    "figure": "About 2%–15% of middle-aged adults (DSM-5-TR text); up to around 18% in some population estimates",
+    "source_ref": "src-euro-sleep"
+  },
+  "what_helps": {
+    "plain_summary": "A sleep study (often done at home) confirms the diagnosis. For obstructive apnoea, CPAP, a machine that gently keeps the airway open with air pressure, is the main treatment and works very well. Alternatives include dental devices, positional therapy, weight management, and sometimes surgery. Central apnoea and hypoventilation need specialist assessment and different breathing support. Treating apnoea often lifts mood, blood pressure, and energy.",
+    "evidence_based_options": [
+      "Home or lab sleep study",
+      "CPAP therapy for obstructive sleep apnoea",
+      "Oral appliances, positional therapy, and weight management where appropriate",
+      "Specialist breathing support for central apnoea and hypoventilation"
+    ],
+    "self_help_that_supports_care": [
+      "Asking a bed partner about snoring and pauses",
+      "Sleeping on your side; avoiding alcohol and sedatives before bed",
+      "Sticking with CPAP through the adjustment period and asking for a different mask if needed",
+      "Peer support for CPAP users"
+    ],
+    "guideline_refs": [
+      "src-nhs-osa"
+    ]
+  },
+  "when_to_reach_out": "If you snore loudly, stop breathing in sleep, or are very sleepy by day, ask a doctor for a sleep assessment. Don't drive if sleepy. Mention mood and memory changes too; they often improve with treatment.",
+  "is_not": "Simple snoring without pauses or daytime sleepiness isn't a disorder, though it's worth mentioning. Insomnia and narcolepsy cause sleep problems by different mechanisms.",
+  "hope_note": "Treating sleep apnoea is one of the biggest quality-of-life improvements in medicine. People describe waking up for the first time in years.",
+  "related_topics": [
+    "insomnia-disorder",
+    "hypersomnolence-disorder",
+    "major-depressive-disorder",
+    "major-and-mild-neurocognitive-disorder"
+  ],
+  "glossary_terms": [
+    "sleep-hygiene",
+    "circadian-rhythm",
+    "brain-fog"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person waking refreshed, stretching by an open window with morning light, a small bedside device with a soft blue light. Pastel indigo and sky blue.",
+    "alt_text": "A person stretches by an open window in morning light, a small bedside device glowing softly."
+  },
+  "communities": [
+    "reddit-r-sleepapnea",
+    "hope2sleep-uk",
+    "sleep-disorders-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-euro-sleep",
+      "title": "Prevalence of sleep disorders in the adult population (European estimate summary)",
+      "publisher": "Secondary summary of a 2026 European analysis",
+      "url": "https://www.vol.at/so-many-europeans-suffer-from-sleep-disorders/9991844",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2026,
+      "note": "Secondary source; replace with the primary analysis."
+    },
+    {
+      "id": "src-nhs-osa",
+      "title": "Sleep apnoea",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-hope2sleep",
+      "title": "Hope2Sleep Charity",
+      "publisher": "Hope2Sleep",
+      "url": "https://www.hope2sleep.co.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Seen via a donation listing; main site not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "in_young_people": "Children with sleep apnoea often have large tonsils, snore, breathe through the mouth, and show it as hyperactivity, poor concentration, or bedwetting rather than sleepiness. Removing tonsils and adenoids is often the treatment.",
+  "across_cultures": "Apnoea is under-diagnosed in women and in some ethnic groups because the 'typical patient' stereotype is a large, older man. Access to sleep studies and CPAP varies hugely by country and income.",
+  "sub_sections": [
+    {
+      "title": "Types",
+      "icd10cm_code": "G47.33 / G47.31 / G47.34",
+      "text": "Obstructive sleep apnoea hypopnea (the airway narrows); central sleep apnoea (the brain's breathing signal pauses); sleep-related hypoventilation (breathing too shallow). Each has its own causes and treatments."
+    }
+  ]
+}
