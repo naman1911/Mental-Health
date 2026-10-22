@@ -497,6 +497,668 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Register and record last post date."
     },
     {
+      "community_id": "alt2su-wildflower-alliance",
+      "name": "Alternatives to Suicide online peer groups (Wildflower Alliance)",
+      "platform": "web",
+      "url": "https://wildfloweralliance.org/alternatives-to-suicide/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "region": "US (online groups international)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Peer-led, non-clinical groups for adults who have suicidal thoughts or identify as attempt survivors, where suicide can be talked about openly. Groups do not call police or crisis services and give advice only when asked; attendees follow a group charter. Online groups listed on the site; dozens of groups run in the US and Australia."
+      },
+      "safety_notes": "Peer support with an explicit no-forced-intervention stance; not a crisis service. Suitable for people who want to talk without being assessed.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current online group schedule."
+    },
+    {
+      "community_id": "alliance-of-hope",
+      "name": "Alliance of Hope for Suicide Loss Survivors community forum",
+      "platform": "web",
+      "url": "https://allianceofhope.org/find-support/community-forum/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "suicidal-thoughts-and-behavior"
+      ],
+      "region": "US (international members)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 27000,
+        "as_of": "2026-10-22",
+        "note": "Site cites 23,000–28,000 members across pages."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Nonprofit online forum for people grieving a suicide loss, supervised by a mental health professional and moderated by trained loss survivors; also phone and Zoom consultations and 8-week online programmes for bereaved mothers, fathers, and widows."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm forum registration process."
+    },
+    {
+      "community_id": "sobs-uk",
+      "name": "Survivors of Bereavement by Suicide (SOBS) helpline and peer groups",
+      "platform": "web",
+      "url": "https://uksobs.org/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement",
+        "suicidal-thoughts-and-behavior"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Self-help organisation run by the bereaved for the bereaved, for adults 18+. Helpline 0300 111 5065 (listings give 9am–7pm daily), email support, and peer-led local and online groups."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm helpline hours on the official site; URL from directory listings."
+    },
+    {
+      "community_id": "the-dinner-party",
+      "name": "The Dinner Party: peer tables for grieving young adults",
+      "platform": "web",
+      "url": "https://www.thedinnerparty.org/",
+      "type": "online-group-meeting",
+      "audience": [
+        "young-adults",
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "grief-and-bereavement"
+      ],
+      "region": "US (online tables)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Nonprofit matching grieving 21–45-year-olds into small peer 'tables' hosted by screened, trained volunteer peers, in person or online, including affinity tables (partner loss, addiction-related loss). Free."
+      },
+      "safety_notes": "Peer-hosted, not therapy.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm sign-up process and current age range."
+    },
+    {
+      "community_id": "cornell-self-injury-recovery-resources",
+      "name": "Self-Injury & Recovery Resources (Cornell University)",
+      "platform": "web",
+      "url": "https://selfinjury.bctr.cornell.edu/",
+      "type": "org-resource-hub",
+      "audience": [
+        "teens",
+        "adults",
+        "family",
+        "professionals"
+      ],
+      "for": "both",
+      "topics": [
+        "nonsuicidal-self-injury",
+        "nonsuicidal-self-injury-disorder"
+      ],
+      "region": "US (resources global)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "University research programme with plain-language resources on self-injury basics, myths, recovery, disclosure, and school protocols. Information resource, not a peer forum."
+      },
+      "safety_notes": "Recovery-focused; no pro-self-harm content.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm pages are current."
+    },
+    {
+      "community_id": "childhelp-hotline-us",
+      "name": "Childhelp National Child Abuse Hotline",
+      "platform": "web",
+      "url": "https://childhelphotline.org/",
+      "type": "helpline",
+      "audience": [
+        "children",
+        "teens",
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "child-abuse-and-neglect"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "24/7 hotline staffed by professional crisis counsellors: call or text 1-800-422-4453 (text GO to the same number), plus chat; 170+ languages. Confidential, free; for children, worried adults, and survivors."
+      },
+      "safety_notes": "Staffed crisis line, not peer support.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "childline-uk",
+      "name": "Childline (NSPCC) for children and young people",
+      "platform": "web",
+      "url": "https://www.childline.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "children",
+        "teens"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "child-abuse-and-neglect",
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "school-and-work-problems"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, confidential support for under-19s: call 0800 1111 (24/7), 1-2-1 online chat, email, and moderated message boards."
+      },
+      "safety_notes": "Staffed counsellors; moderated boards.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. URL from memory of the organisation; confirm."
+    },
+    {
+      "community_id": "nspcc-helpline-uk",
+      "name": "NSPCC Helpline for adults worried about a child",
+      "platform": "web",
+      "url": "https://www.nspcc.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family",
+        "professionals"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "child-abuse-and-neglect"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Advice and reporting line for adults concerned about a child: 0808 800 5000. Listings disagree on hours (a 2025 listing gives 10am–4pm daily; older ones say 24/7), so confirm on the site. Email help@nspcc.org.uk."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours and URL."
+    },
+    {
+      "community_id": "kids-helpline-australia",
+      "name": "Kids Helpline (Australia)",
+      "platform": "web",
+      "url": "https://kidshelpline.com.au/",
+      "type": "helpline",
+      "audience": [
+        "children",
+        "teens",
+        "young-adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "child-abuse-and-neglect",
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "school-and-work-problems"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, confidential phone and online counselling for ages 5–25, 24/7: 1800 55 1800 and webchat."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. URL from memory of the organisation; confirm."
+    },
+    {
+      "community_id": "rainn-hotline-us",
+      "name": "RAINN National Sexual Assault Hotline",
+      "platform": "web",
+      "url": "https://rainn.org/get-help",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "partner-violence-and-adult-abuse",
+        "child-abuse-and-neglect",
+        "crime-disaster-and-legal-problems",
+        "posttraumatic-stress-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "24/7, free, confidential: call 800-656-4673, online chat at hotline.rainn.org, text HOPE to 64673; English and Spanish. Calls route to local sexual assault services. No IP logging or saved transcripts."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "ndvh-us",
+      "name": "National Domestic Violence Hotline (US)",
+      "platform": "web",
+      "url": "https://www.thehotline.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "both",
+      "topics": [
+        "partner-violence-and-adult-abuse"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "24/7, free, confidential: call 1-800-799-7233, text START to 88788, or live chat on the site. Advocates help with safety planning whether or not you plan to leave. Site has a quick-exit button."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "refuge-uk",
+      "name": "National Domestic Abuse Helpline (Refuge)",
+      "platform": "web",
+      "url": "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "partner-violence-and-adult-abuse"
+      ],
+      "region": "UK (England)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, confidential, 24/7 helpline on 0808 2000 247; live chat (site lists Mon–Fri 10am–10pm, weekends 10am–6pm), BSL service on weekdays, interpreters via Language Line."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm live chat hours."
+    },
+    {
+      "community_id": "1800respect-australia",
+      "name": "1800RESPECT national sexual assault, domestic and family violence service",
+      "platform": "web",
+      "url": "https://www.1800respect.org.au/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "both",
+      "topics": [
+        "partner-violence-and-adult-abuse",
+        "crime-disaster-and-legal-problems"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "24/7 counselling by phone (1800 737 732), text (0458 737 732), and online chat; video call on weekdays. Free; for people experiencing violence and those supporting them."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "victim-support-uk",
+      "name": "Victim Support Supportline and live chat",
+      "platform": "web",
+      "url": "https://www.victimsupport.org.uk/help-and-support/get-help/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "crime-disaster-and-legal-problems",
+        "partner-violence-and-adult-abuse"
+      ],
+      "region": "England and Wales",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential 24/7 Supportline on 0808 1689 111 and live chat for anyone affected by crime, whether or not it was reported. Separate services for Scotland and Northern Ireland."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "211-us",
+      "name": "211 (United Way) community resource line",
+      "platform": "web",
+      "url": "https://www.211.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "housing-and-money-problems",
+        "health-care-access-and-treatment-adherence"
+      ],
+      "region": "US and Puerto Rico",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential referral line for housing, food, utilities, and health services: call 211 or search 211.org; 24/7 in 180+ languages. Housing is the most common request."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "shelter-england-helpline",
+      "name": "Shelter emergency housing helpline (England)",
+      "platform": "web",
+      "url": "https://england.shelter.org.uk/get_help/helpline",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "housing-and-money-problems"
+      ],
+      "region": "England (Shelter Scotland and Shelter Cymru separately)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free housing advice on 0808 800 4444 for people homeless tonight, at risk of harm at home, or facing losing their home within two months. Official page gives Mon–Fri 8am–5pm, closed weekends and bank holidays; waits can exceed an hour."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "stepchange-debt-charity",
+      "name": "StepChange Debt Charity free debt advice",
+      "platform": "web",
+      "url": "https://www.stepchange.org/",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "housing-and-money-problems"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free debt advice and repayment plans on 0800 138 1111 (listings give Mon–Fri 8am–8pm, Sat 9am–2pm) and online. Average call about 40 minutes."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours on the official site; URL from memory of the organisation."
+    },
+    {
+      "community_id": "citizens-advice-adviceline",
+      "name": "Citizens Advice Adviceline (England) and Advicelink (Wales)",
+      "platform": "web",
+      "url": "https://www.citizensadvice.org.uk/contact-us",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "housing-and-money-problems",
+        "school-and-work-problems",
+        "health-care-access-and-treatment-adherence"
+      ],
+      "region": "England and Wales",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free advice on benefits, housing, debt, work, and rights: 0800 144 8848 (England) and 0800 702 2020 (Wales), Mon–Fri 9am–5pm; separate debt helpline 0800 240 4420. Relay UK via 18001."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. "
+    },
+    {
+      "community_id": "national-debt-helpline-australia",
+      "name": "National Debt Helpline (Australia)",
+      "platform": "web",
+      "url": "https://www.lifeline.org.au/get-help/national-services/national-debt-helpline",
+      "type": "helpline",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "housing-and-money-problems"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free financial counselling on 1800 007 007, Mon–Fri 9.30am–4.30pm, and online chat 9am–8pm weekdays. For anyone over 18 in financial hardship."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Official site is ndh.org.au; listing URL is Lifeline's directory page."
+    },
+    {
       "community_id": "reddit-r-depression",
       "name": "r/depression",
       "platform": "reddit",

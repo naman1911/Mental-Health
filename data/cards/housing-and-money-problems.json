@@ -1,0 +1,123 @@
+{
+  "topic_id": "housing-and-money-problems",
+  "official_name": "Housing and Money Problems",
+  "plain_title": "When debt, poverty, or losing your home is the emergency",
+  "also_known_as": [
+    "homelessness",
+    "housing instability",
+    "financial problems",
+    "food insecurity"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z59.x",
+  "language_convention": "person-first",
+  "one_liner": "Homelessness, unsafe or unstable housing, debt, poverty, or not having enough food, and their effect on mental health.",
+  "in_simple_words": "Not having safe housing, enough money, or enough food is one of the strongest drivers of anxiety and depression, and a major barrier to recovery. The DSM lists these as a focus of care so that clinicians treat the situation, not just the symptoms. Mental health problems can also lead to money and housing trouble, in a cycle. Practical help, such as debt and housing advice, is a mental health intervention, and free services exist in every country covered here.",
+  "what_it_can_feel_like": [
+    "I didn't need antidepressants first. I needed someone to stop the eviction. Then the antidepressants made sense.",
+    "The debt charity gave me a plan in one phone call. I slept properly for the first time in a year."
+  ],
+  "common_signs": [
+    "Constant worry about rent, bills, debt, or food",
+    "Sleeping rough, sofa-surfing, or living somewhere unsafe or overcrowded",
+    "Avoiding post, calls, or letters because of fear",
+    "Mood, sleep, and health worsening as money gets tighter",
+    "Skipping medication, appointments, or meals to save money"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Money problems are a personal failing.",
+      "fact": "Debt and housing crises mostly follow illness, job loss, relationship breakdown, or rising costs. Advice services see this every day and don't judge."
+    },
+    {
+      "myth": "Mental health treatment should come before sorting out practical problems.",
+      "fact": "They work together. Stabilising housing and money often does more for mood than any single therapy, and makes therapy possible."
+    },
+    {
+      "myth": "There's no help for people who are already in debt or homeless.",
+      "fact": "Free debt advice, housing advice, and emergency help exist in the US, UK, Canada, Australia, and India, and they can act fast."
+    }
+  ],
+  "how_common": {
+    "plain": "Mental health problems are far more common among people who are homeless or in serious debt, and money worries are one of the most common sources of stress in population surveys. There's no single prevalence figure.",
+    "figure": "n/a",
+    "source_ref": "src-dsm",
+    "note": "Add a reference on mental illness prevalence in homelessness."
+  },
+  "what_helps": {
+    "plain_summary": "Start with the practical: free debt advice services can negotiate with creditors and set up plans; housing advice services and homelessness helplines can prevent evictions and find emergency accommodation; benefits and welfare advice can increase income. Social workers, care coordinators, and some therapy services help with this directly. Alongside, therapy and treatment for anxiety, depression, or substance use, with any medication prescribed and monitored by a doctor, work better once the ground is steadier. Housing First approaches show that stable housing comes before, not after, recovery.",
+    "evidence_based_options": [
+      "Free debt advice and negotiated repayment plans",
+      "Housing and homelessness advice; emergency accommodation; eviction prevention",
+      "Benefits and welfare rights advice; social work support",
+      "Treatment of anxiety, depression, or substance use alongside practical help"
+    ],
+    "self_help_that_supports_care": [
+      "Opening the post with someone, and calling a debt or housing line the same day",
+      "Asking your doctor or therapist to refer you to social or welfare support",
+      "Local food banks and community help; using them isn't failure",
+      "Telling the people you owe money to that you're getting advice"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If you're about to lose your home, can't afford food, or debts are overwhelming, call a housing or debt advice line from the list; they're free and act quickly. Tell your doctor or therapist too. If money or housing worries have you thinking about ending your life, use the crisis strip now.",
+  "is_not": "Budgeting stress and ordinary money worries aren't a clinical problem, though advice still helps. Mental health conditions that cause money problems, like mania or gambling disorder, have their own cards.",
+  "hope_note": "Practical crises end. With advice and a plan, people keep their homes, clear their debts, and find their sleep and mood returning.",
+  "related_topics": [
+    "adjustment-disorders",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "gambling-disorder",
+    "bipolar-i-disorder",
+    "alcohol-use-disorder"
+  ],
+  "glossary_terms": [
+    "social-worker",
+    "care-coordinator",
+    "sliding-scale-fees",
+    "stress",
+    "crisis"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a person at a kitchen table with an adviser, a sorted pile of letters, a cup of tea, and a window with a view of rooftops. Pastel sky blue and olive.",
+    "alt_text": "A person sits at a kitchen table with an adviser and a sorted pile of letters."
+  },
+  "communities": [
+    "211-us",
+    "shelter-england-helpline",
+    "stepchange-debt-charity",
+    "citizens-advice-adviceline",
+    "national-debt-helpline-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

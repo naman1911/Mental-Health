@@ -1,0 +1,132 @@
+{
+  "topic_id": "partner-violence-and-adult-abuse",
+  "official_name": "Partner Violence and Adult Abuse",
+  "plain_title": "When someone close to you is hurting or controlling you",
+  "also_known_as": [
+    "domestic abuse",
+    "intimate partner violence",
+    "coercive control",
+    "elder abuse"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "T74.x / T76.x / Z69.x / Z91.4x (varies)",
+  "language_convention": "person-first",
+  "one_liner": "Physical, sexual, emotional, or financial abuse of an adult by a partner, family member, or carer, including control.",
+  "in_simple_words": "Abuse of an adult can be physical, sexual, emotional, or financial, and it often starts with control: monitoring, isolating, belittling, threatening, or taking over money. It happens in every kind of relationship and community, to women, men, and non-binary people, including older people abused by family or carers. The DSM records it so clinicians prioritise safety. It is never the victim's fault, leaving is a process rather than a single step, and specialist services help people plan it safely.",
+  "what_it_can_feel_like": [
+    "He never hit me. He didn't need to. I wasn't allowed my own bank card, my own friends, or my own opinions.",
+    "The helpline didn't tell me to leave. They asked what I wanted and helped me make a plan. I left eight months later, safely.",
+    "I was 74 and my son was taking my pension. I thought nobody would believe me. They did."
+  ],
+  "common_signs": [
+    "A partner or family member who controls money, movement, phone, or friendships",
+    "Fear of someone's reactions; changing your behaviour to avoid their anger",
+    "Being hurt, threatened, forced into sex, or humiliated",
+    "Being told you're worthless, imagining things, or that nobody else would want you",
+    "Injuries you explain away; anxiety, depression, or sleep problems that track the relationship"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If it were that bad, they'd just leave.",
+      "fact": "Leaving can be the most dangerous time, and people stay for safety, money, children, immigration status, love, or hope. Specialist support makes leaving safer and more possible."
+    },
+    {
+      "myth": "Abuse means physical violence.",
+      "fact": "Coercive control, emotional abuse, and financial abuse can be just as damaging and are crimes in many countries. Fear is the signal, not bruises."
+    },
+    {
+      "myth": "It doesn't happen to men, or in LGBTQ+ relationships.",
+      "fact": "It does, and shame or lack of services keeps many from reaching out. Helplines support everyone."
+    }
+  ],
+  "how_common": {
+    "plain": "Partner violence is common: large surveys find a substantial share of women, and a smaller but significant share of men, experience it in their lifetime. Many never report it.",
+    "figure": "Prevalence varies by country and survey; WHO estimates about 1 in 3 women worldwide experience physical or sexual violence, mostly by a partner",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation (WHO 2021 estimates)."
+  },
+  "what_helps": {
+    "plain_summary": "Specialist domestic abuse services offer confidential helplines, safety planning, refuge or shelter, legal advice, and advocacy, and they work with people whether or not they're ready to leave. Afterwards, trauma-focused therapy (CBT, EMDR), support groups, and treatment for depression, PTSD, or anxiety help people recover. Any medication is prescribed and monitored by a doctor. Children exposed to abuse need their own support.",
+    "evidence_based_options": [
+      "Specialist domestic abuse helplines, safety planning, and advocacy",
+      "Refuge, shelter, and legal protection where needed",
+      "Trauma-focused therapy after leaving: CBT, EMDR; support groups",
+      "Treatment of PTSD, depression, or anxiety; support for children"
+    ],
+    "self_help_that_supports_care": [
+      "Calling a helpline from a safe phone; you don't have to have decided anything",
+      "Keeping important documents and a small bag somewhere safe",
+      "Telling one person you trust",
+      "Using private browsing; many services have a quick-exit button"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If you're in immediate danger, call emergency services. If someone is hurting, frightening, or controlling you, a domestic abuse helpline from the strip can talk through options confidentially, day or night. If you've been sexually assaulted, specialist lines and services are listed too. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Arguments, even heated ones, between equals aren't abuse. Abuse is a pattern of power and fear. Being the one who's afraid is the signal.",
+  "hope_note": "People leave, recover, and build lives where they're safe and free. The first phone call is usually the hardest step, and it can be anonymous.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "major-depressive-disorder",
+    "child-abuse-and-neglect",
+    "family-and-relationship-problems",
+    "intermittent-explosive-disorder"
+  ],
+  "glossary_terms": [
+    "trauma-bonding",
+    "gaslighting",
+    "safety-plan",
+    "trauma-informed",
+    "boundaries",
+    "love-bombing"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Safe-messaging rules apply: no methods, no locations, no notes, no 'epidemic' framing.",
+      "Illustrations show connection and daylight, never isolation or danger.",
+      "Quick-exit button and private browsing note recommended for this card.",
+      "No descriptions of violent acts."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a person stepping through a doorway into daylight with a small bag, a friend waiting outside by a car, trees. Pastel sky blue and lavender. No threat shown.",
+    "alt_text": "A person steps through a doorway into daylight with a small bag while a friend waits by a car."
+  },
+  "communities": [
+    "ndvh-us",
+    "refuge-uk",
+    "1800respect-australia",
+    "rainn-hotline-us",
+    "victim-support-uk"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Add WHO violence against women estimates as a source."
+    ]
+  },
+  "across_cultures": "Honour-based abuse, forced marriage, and abuse by in-laws or extended family are recognised forms, and immigration status is often used as a threat. Specialist services exist for these situations and keep information confidential."
+}

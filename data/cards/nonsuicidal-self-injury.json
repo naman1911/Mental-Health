@@ -1,0 +1,150 @@
+{
+  "topic_id": "nonsuicidal-self-injury",
+  "official_name": "Nonsuicidal Self-Injury",
+  "plain_title": "Hurting yourself on purpose to cope, without wanting to die",
+  "also_known_as": [
+    "self-harm",
+    "NSSI",
+    "self-injury"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "R45.88 (current) ; Z91.52 (history)",
+  "language_convention": "person-first",
+  "one_liner": "Deliberately hurting your own body to cope with overwhelming feelings, without intending to die.",
+  "in_simple_words": "Nonsuicidal self-injury is hurting your own body on purpose, without wanting to die, usually to cope with feelings that feel unbearable: numbness, anger, shame, or overwhelming distress. It often brings short-term relief, which is why it repeats, and then guilt and secrecy. It usually starts in the early teens and is common. It isn't attention-seeking and isn't a suicide attempt, though it raises risk and deserves care. People learn other ways to cope, and they stop.",
+  "what_it_can_feel_like": [
+    "It was the only thing that made the noise in my head go quiet. Learning other ways to turn the volume down took time, and it worked.",
+    "My mum found out and cried. Then she asked what I needed. That question mattered more than anything.",
+    "I'm five years free of it. The urges fade. I promise they fade."
+  ],
+  "common_signs": [
+    "Deliberately injuring yourself to cope with distress, without intending to die",
+    "Short-term relief followed by guilt, shame, or secrecy",
+    "Hiding injuries; long sleeves in hot weather; avoiding activities",
+    "Urges that rise with stress, conflict, or feeling numb",
+    "Often alongside depression, anxiety, trauma, or eating difficulties"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Self-harm is attention-seeking.",
+      "fact": "Most people hide it carefully. It's a way of coping with pain, not a performance. If someone does show it, treat it as a request for help, which deserves a response."
+    },
+    {
+      "myth": "Self-harm is a failed suicide attempt.",
+      "fact": "Nonsuicidal self-injury is about coping, not dying. But it increases suicide risk over time, so it's taken seriously, with care rather than alarm."
+    },
+    {
+      "myth": "Punishing or forcing someone to stop will fix it.",
+      "fact": "Shame and control make it worse. Understanding what the self-injury does for the person, and building other ways to cope, is what helps."
+    }
+  ],
+  "how_common": {
+    "plain": "Roughly 1 in 6 teenagers and 1 in 20 adults have self-injured at some point, according to a large review. Many never tell anyone.",
+    "figure": "Pooled lifetime prevalence 17.2% in adolescents, 13.4% in young adults, 5.5% in adults (meta-analysis, 2014)",
+    "source_ref": "src-swannell-nssi"
+  },
+  "what_helps": {
+    "plain_summary": "Therapy helps people understand what self-injury is doing for them and build other ways to handle the feelings. DBT skills (distress tolerance, emotion regulation) have the strongest evidence, especially for teens; CBT, family-based approaches, and treating underlying depression, trauma, or anxiety also help. Wound care without judgement matters. Harm-reduction approaches, used in some services, focus on safety while the person works toward stopping. Medication isn't a treatment for self-injury itself but may help co-occurring conditions, prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "DBT or DBT skills groups, including adapted versions for adolescents",
+      "CBT and family-based therapy",
+      "Treatment of underlying depression, anxiety, trauma, or eating difficulties",
+      "Non-judgemental medical care for injuries"
+    ],
+    "self_help_that_supports_care": [
+      "A list of things that delay or replace the urge: cold, movement, drawing, calling someone",
+      "Telling one trusted person",
+      "Tracking urges and triggers to find patterns",
+      "Online recovery resources from universities and charities, not pro-self-harm spaces"
+    ],
+    "guideline_refs": [
+      "src-swannell-nssi"
+    ]
+  },
+  "when_to_reach_out": "If you're hurting yourself, you deserve support, not punishment. Talk to a doctor, school counsellor, or therapist, or contact a crisis or text line from the strip below. Seek urgent medical care for any injury that's deep, won't stop bleeding, or involves swallowing something. If you're also thinking about ending your life, reach out now.",
+  "is_not": "Tattoos, piercings, and body modification aren't self-injury. Risky behaviour like substance use isn't NSSI, though it may be a related way of coping. Self-injury with intent to die is a suicide attempt and handled as such.",
+  "hope_note": "Self-injury is something people stop. With other ways to cope, the urges lose their grip, and the scars become part of a story of survival.",
+  "related_topics": [
+    "suicidal-thoughts-and-behavior",
+    "borderline-personality-disorder",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder",
+    "nonsuicidal-self-injury-disorder",
+    "anorexia-nervosa"
+  ],
+  "glossary_terms": [
+    "self-harm",
+    "emotional-dysregulation",
+    "dbt",
+    "coping-skills",
+    "harm-reduction",
+    "safe-messaging"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Safe-messaging rules apply: no methods, no locations, no notes, no 'epidemic' framing.",
+      "Illustrations show connection and daylight, never isolation or danger.",
+      "No descriptions of methods, tools, or wounds anywhere on the card."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a teenager holding a cold drink can against their wrist while sitting with a friend on the grass, a sketchbook open beside them, daylight. Pastel sky blue and mint. No injuries or scars shown.",
+    "alt_text": "A teenager sits on the grass with a friend, holding a cold drink can, a sketchbook open beside them."
+  },
+  "communities": [
+    "cornell-self-injury-recovery-resources",
+    "alt2su-wildflower-alliance",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-swannell-nssi",
+      "title": "Prevalence of nonsuicidal self-injury in nonclinical samples: systematic review, meta-analysis and meta-regression",
+      "publisher": "Suicide and Life-Threatening Behavior (Swannell et al.), 44(3):273–303",
+      "url": "https://researchers.westernsydney.edu.au/en/publications/prevalence-of-nonsuicidal-self-injury-in-nonclinical-samples-syst/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2014
+    },
+    {
+      "id": "src-cornell-sirr",
+      "title": "Self-Injury & Recovery Resources (SIRR)",
+      "publisher": "Cornell University Bronfenbrenner Center",
+      "url": "https://selfinjury.bctr.cornell.edu/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Clinician to review safe-messaging wording."
+    ]
+  },
+  "in_young_people": "Self-injury usually begins around 12 to 14. Adults who find out should stay calm, avoid punishment, ask what's going on underneath, and arrange support the same week."
+}

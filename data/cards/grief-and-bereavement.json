@@ -1,0 +1,137 @@
+{
+  "topic_id": "grief-and-bereavement",
+  "official_name": "Grief and Bereavement",
+  "plain_title": "Losing someone, and when grief needs extra support",
+  "also_known_as": [
+    "uncomplicated bereavement",
+    "prolonged grief disorder (a separate diagnosis)",
+    "mourning"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z63.4",
+  "language_convention": "person-first",
+  "one_liner": "The natural response to losing someone, which is not a disorder, and the signs that grief has become stuck.",
+  "in_simple_words": "Grief is the natural response to losing someone or something important. It comes in waves: sadness, longing, numbness, anger, guilt, relief, trouble sleeping, even physical pain. There's no right timeline. The DSM lists bereavement as a focus of care, not a disorder, so people can get support without being labelled ill. In a minority, grief stays intensely stuck for a year or more and stops life moving; that's prolonged grief disorder, and it responds to specific therapy.",
+  "what_it_can_feel_like": [
+    "Eighteen months on, people had stopped asking. That was when I needed them most.",
+    "I laughed at a funeral and felt like a monster. The counsellor said laughing and sobbing in the same hour is grief doing its job.",
+    "Grief didn't get smaller. I got bigger around it."
+  ],
+  "common_signs": [
+    "Waves of sadness, longing, or numbness after a loss",
+    "Trouble sleeping, eating, or concentrating",
+    "Guilt, anger, relief, or feeling nothing, all normal",
+    "Grief that's still intense and life-stopping after a year may need specific help",
+    "Thoughts of wanting to join the person; please reach out"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Grief follows five neat stages.",
+      "fact": "The 'stages' were never meant as a map. Grief comes in waves, loops, and surprises, and that's normal."
+    },
+    {
+      "myth": "You should be over it by now.",
+      "fact": "There's no deadline. Most people carry grief for life and build life around it. Help is for when it's stuck, not for taking too long."
+    },
+    {
+      "myth": "Grieving is depression.",
+      "fact": "They can overlap, but grief usually keeps the capacity for warmth and good memories, and comes in waves tied to the person. Depression is flatter and more global."
+    }
+  ],
+  "how_common": {
+    "plain": "Everyone grieves. Around 1 in 10 bereaved adults develops prolonged grief that needs specific help, higher after sudden or violent losses.",
+    "figure": "Prolonged grief disorder pooled prevalence 9.8% after non-violent bereavement (meta-analysis, 2017); 5%–16% depending on sampling (2024 update)",
+    "source_ref": "src-lundorff-pgd"
+  },
+  "what_helps": {
+    "plain_summary": "Most grief needs company, time, and permission, not treatment. Bereavement support groups and helplines, including ones for specific losses such as suicide, a child, or a partner, help people feel less alone. When grief is stuck and life-stopping after a year, prolonged grief therapy or grief-focused CBT works well. Depression, PTSD, or sleep problems that develop alongside grief are treated in their own right, with any medication prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Peer bereavement groups and helplines",
+      "Prolonged grief therapy or grief-focused CBT when grief is stuck",
+      "Treatment of co-occurring depression, PTSD, or insomnia",
+      "Specialist support after suicide loss, child loss, or traumatic death"
+    ],
+    "self_help_that_supports_care": [
+      "Letting people help; saying what you need",
+      "Keeping rituals and memories alive in your own way",
+      "Sleep, food, and movement, even badly",
+      "Groups with people who've had the same kind of loss"
+    ],
+    "guideline_refs": [
+      "src-lundorff-pgd"
+    ]
+  },
+  "when_to_reach_out": "Reach out to a bereavement service or counsellor if grief is still stopping you from functioning after many months, if you're using alcohol or drugs to cope, or if you feel you can't go on. If you're thinking about ending your life, please use the crisis strip now.",
+  "is_not": "Grief isn't depression, though both can be present. Anticipatory grief before a death, and grief for non-death losses like divorce or a diagnosis, are real and may need support too.",
+  "hope_note": "People don't 'get over' loss. They learn to carry it, and most find, in time, that love and life can coexist with the missing.",
+  "related_topics": [
+    "prolonged-grief-disorder",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder",
+    "suicidal-thoughts-and-behavior",
+    "adjustment-disorders"
+  ],
+  "glossary_terms": [
+    "grief",
+    "disenfranchised-grief",
+    "anticipatory-grief",
+    "suicide-loss-survivor",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Suicide-loss resources included; safe-messaging rules apply."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a person planting a small tree in a garden with a friend, a photograph propped on the fence, spring light. Pastel sky blue and sage.",
+    "alt_text": "A person plants a small tree with a friend while a photograph rests on the fence."
+  },
+  "communities": [
+    "cruse-bereavement-support",
+    "reddit-r-griefsupport",
+    "reddit-r-widowers",
+    "alliance-of-hope",
+    "sobs-uk",
+    "the-dinner-party"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-lundorff-pgd",
+      "title": "Prevalence of prolonged grief disorder in adult bereavement: a systematic review and meta-analysis",
+      "publisher": "Journal of Affective Disorders (Lundorff et al.); PubMed 28167398",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28167398/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2017
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 6.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "in_young_people": "Children grieve in bursts, playing one minute and sobbing the next, and often revisit the loss at each new stage of growing up. Honest, simple words and routine help more than protection from the truth.",
+  "across_cultures": "Mourning customs vary widely: how long, how loudly, who gathers, and what's said about the dead. None is more 'healthy' than another. Clinicians should ask about the family's traditions before judging grief as prolonged."
+}
