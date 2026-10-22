@@ -1,0 +1,23 @@
+from helpers import D, NV, c
+COMMUNITIES = [
+ c("aasect-directory", "AASECT certified sex therapist, counsellor and educator directory", "web", "https://www.aasect.org/find-professional", "in-person-group-finder", ["adults"], "both",
+   ["erectile-disorder", "premature-early-ejaculation", "delayed-ejaculation", "male-hypoactive-sexual-desire-disorder", "female-sexual-interest-arousal-disorder", "female-orgasmic-disorder", "genito-pelvic-pain-penetration-disorder"], "US (some international; telehealth listed)",
+   notes="Professional locator for AASECT-certified sex therapists, counsellors, and educators, searchable by country and state; listings show certification and whether telepractice is offered. Certification is voluntary, so a good therapist may not be listed.",
+   crisis=None, has_rules=None, mods=None, safety="Professional directory, not peer support. Fees apply.", reviewer="Confirm the directory URL resolves."),
+ c("cosrt-find-a-therapist", "COSRT Find a Therapist (College of Sexual and Relationship Therapists)", "web", "https://www.cosrt.org.uk/", "in-person-group-finder", ["adults"], "both",
+   ["erectile-disorder", "premature-early-ejaculation", "delayed-ejaculation", "male-hypoactive-sexual-desire-disorder", "female-sexual-interest-arousal-disorder", "female-orgasmic-disorder", "genito-pelvic-pain-penetration-disorder"], "UK",
+   notes="UK professional body for psychosexual and relationship therapy; public search for accredited members with location, registration level, and online availability. NHS psychosexual services may be available via GP referral.",
+   crisis=None, has_rules=None, mods=None, safety="Professional directory, not peer support. Private fees apply.", reviewer="Confirm the search tool path on the site."),
+ c("sexual-advice-association-uk", "Sexual Advice Association factsheets and helpline", "web", "https://sexualadviceassociation.co.uk/", "org-resource-hub", ["adults"], "people-with-experience",
+   ["erectile-disorder", "premature-early-ejaculation", "male-hypoactive-sexual-desire-disorder", "female-sexual-interest-arousal-disorder"], "UK",
+   notes="Small UK charity (no. 1104691) with free factsheets on sexual problems and health conditions, and a helpline on 0207 486 7262 plus email. Does not recommend specific treatments; refers to specialists.",
+   crisis=None, has_rules=None, mods=None, safety="Information resource; very small charity, so check it is still active.", reviewer="Confirm the charity is still operating and the helpline is staffed."),
+ c("society-of-australian-sexologists-directory", "Society of Australian Sexologists accredited member directory", "web", "https://societyaustraliansexologists.org.au/directory", "in-person-group-finder", ["adults"], "both",
+   ["erectile-disorder", "premature-early-ejaculation", "delayed-ejaculation", "male-hypoactive-sexual-desire-disorder", "female-sexual-interest-arousal-disorder", "female-orgasmic-disorder", "genito-pelvic-pain-penetration-disorder"], "Australia",
+   notes="Public directory of accredited psychosexual therapists and sexuality educators across Australia, with online-session availability shown on profiles.",
+   crisis=None, has_rules=None, mods=None, safety="Professional directory, not peer support. Fees apply.", reviewer="Confirm the directory URL resolves."),
+ c("jean-hailes-womens-health", "Jean Hailes for Women's Health: sex and sexual health resources", "web", "https://www.jeanhailes.org.au/", "org-resource-hub", ["adults"], "people-with-experience",
+   ["female-sexual-interest-arousal-disorder", "female-orgasmic-disorder", "genito-pelvic-pain-penetration-disorder"], "Australia (resources global)",
+   notes="Australian national women's health organisation with plain-language articles and podcasts on low libido, painful sex, vaginismus, vulvodynia, and menopause, written with gynaecologists.",
+   crisis=None, has_rules=None, mods=None, safety="Information resource, not peer support.", reviewer="Confirm the sexual health section URL."),
+]

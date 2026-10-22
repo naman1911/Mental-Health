@@ -1,0 +1,155 @@
+{
+  "topic_id": "female-sexual-interest-arousal-disorder",
+  "official_name": "Female Sexual Interest/Arousal Disorder",
+  "plain_title": "When desire or arousal fades and it bothers you",
+  "also_known_as": [
+    "low libido (women)",
+    "FSIAD",
+    "hypoactive sexual desire disorder (older term)"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.22",
+  "language_convention": "person-first",
+  "one_liner": "Persistently low sexual interest or arousal in a woman, causing distress, for six months or more.",
+  "in_simple_words": "Female sexual interest/arousal disorder is when a woman has persistently little interest in sex, few sexual thoughts, rarely starts or responds to sexual activity, or feels little arousal or pleasure during it, for at least six months, and this distresses her. Desire varies with life stage, stress, relationship, health, hormones, and medication. It's only a disorder when it's lasting and bothers the woman herself, not a partner. It's the most common sexual concern women raise, and it's treatable.",
+  "what_it_can_feel_like": [
+    "After the baby I had nothing left for sex and felt guilty every night. The therapist's first question was 'when do you get any rest?'",
+    "It wasn't that I didn't love him. I just never thought about sex any more, and I missed the person who did."
+  ],
+  "common_signs": [
+    "Little or no interest in sex or sexual thoughts",
+    "Rarely starting sex or responding to a partner's initiation",
+    "Little arousal, pleasure, or physical response during sex",
+    "Lasting at least six months and causing distress",
+    "Often linked to tiredness, stress, mood, hormones, pain, or medication"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Low desire means you don't love your partner.",
+      "fact": "Exhaustion, stress, hormones, pain, medication, and mood are the usual drivers. Love and desire are different systems."
+    },
+    {
+      "myth": "Desire should be spontaneous; if you have to build it, something's wrong.",
+      "fact": "For many women, especially in long relationships, desire follows arousal rather than coming first. That's normal and therapy works with it."
+    },
+    {
+      "myth": "There's a pill that fixes it.",
+      "fact": "A couple of medications exist in some countries with modest effects and side effects. Therapy and addressing the causes have stronger evidence for most women."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 10 US women report low desire that distresses them, and nearly 4 in 10 report low desire overall. Distress peaks in midlife.",
+    "figure": "10% low desire with distress; 38.7% low desire overall; 22.8% any sexually related distress (PRESIDE, 2008)",
+    "source_ref": "src-preside"
+  },
+  "what_helps": {
+    "plain_summary": "Assessment covers mood, sleep, stress, relationship, pain, hormones (including after childbirth or at menopause), and medication. Psychosexual and couple therapy, including CBT and mindfulness-based approaches, have the best evidence. Medical options include treating pain or dryness, reviewing medication, and hormone treatment where appropriate, prescribed and monitored by a doctor. Medications specifically for low desire exist in some countries, with modest benefit.",
+    "evidence_based_options": [
+      "Psychosexual or couple therapy, including CBT and mindfulness-based approaches",
+      "Treatment of underlying depression, anxiety, pain, or dryness",
+      "Medication and hormone review by a doctor, including around menopause",
+      "Medication for low desire where available, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Rest and sharing the load before expecting desire to return",
+      "Scheduling unpressured intimacy, not just sex",
+      "Reading from reputable women's health sources",
+      "Talking with your partner about what helps and what doesn't"
+    ],
+    "guideline_refs": [
+      "src-preside"
+    ]
+  },
+  "when_to_reach_out": "If low desire or arousal has lasted months and it bothers you, or came with pain, mood changes, or a life change like childbirth or menopause, talk to a doctor, a women's health service, or a psychosexual therapist.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Lower desire than a partner isn't a disorder, and asexuality is an orientation, not a condition.",
+  "hope_note": "Desire returns for many women when the real causes are addressed. The process often improves the relationship too.",
+  "related_topics": [
+    "female-orgasmic-disorder",
+    "genito-pelvic-pain-penetration-disorder",
+    "major-depressive-disorder",
+    "perinatal-depression-and-anxiety",
+    "male-hypoactive-sexual-desire-disorder"
+  ],
+  "glossary_terms": [
+    "gp-primary-care",
+    "therapy",
+    "mindfulness",
+    "burnout",
+    "side-effects"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of a woman reading in a hammock in a garden, bare feet, a glass of lemonade, afternoon light. Pastel rose and lemon.",
+    "alt_text": "A woman reads in a hammock in a garden on a sunny afternoon."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory",
+    "jean-hailes-womens-health"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-preside",
+      "title": "Sexual problems and distress in United States women: prevalence and correlates (PRESIDE)",
+      "publisher": "Obstetrics & Gynecology (Shifren et al.); figures via secondary summaries",
+      "url": "https://psychiatrist.com/?p=4580",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2008,
+      "note": "Original paper not opened."
+    },
+    {
+      "id": "src-jean-hailes-pain",
+      "title": "Everything you wanted to know about painful sex",
+      "publisher": "Jean Hailes for Women's Health (Australia)",
+      "url": "https://www.jeanhailes.org.au/articles/everything-you-wanted-to-know-about-painful-sex-but-were-too-embarrassed-to-ask/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm PRESIDE figures from the original paper."
+    ]
+  },
+  "across_cultures": "How much women are expected to want, enjoy, or initiate sex varies enormously by culture and religion, and shame can keep women from seeking help. Good care starts from the woman's own goals, not an outside standard."
+}

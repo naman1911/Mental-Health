@@ -1,0 +1,128 @@
+{
+  "topic_id": "male-hypoactive-sexual-desire-disorder",
+  "official_name": "Male Hypoactive Sexual Desire Disorder",
+  "plain_title": "When a man's interest in sex fades and it bothers him",
+  "also_known_as": [
+    "low libido (men)",
+    "low sexual desire",
+    "HSDD"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.0",
+  "language_convention": "person-first",
+  "one_liner": "Persistently low or absent sexual thoughts, fantasies, and desire in a man, causing distress, for six months or more.",
+  "in_simple_words": "Male hypoactive sexual desire disorder is when a man has little or no interest in sex, few sexual thoughts or fantasies, for at least six months, and it troubles him or his relationship. Desire naturally rises and falls. It's a diagnosis only when persistent and distressing. Common causes include depression, stress, low testosterone, medications, alcohol, other sexual problems, relationship difficulties, and simple exhaustion. A doctor and a psychosexual therapist can usually find and treat the cause.",
+  "what_it_can_feel_like": [
+    "I thought men were supposed to want sex all the time. Losing that made me feel like less of a man, which is ridiculous, and it still hurt.",
+    "Depression took my desire first and I didn't connect the two until treatment brought both back."
+  ],
+  "common_signs": [
+    "Few or no sexual thoughts, fantasies, or desire",
+    "Lasting at least six months, most of the time",
+    "Distress for the person or strain in a relationship",
+    "Often alongside depression, stress, fatigue, or other sexual difficulties"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Men always want sex; low desire means something is seriously wrong with you.",
+      "fact": "Desire varies between men and across life. Low desire is common and usually has understandable, treatable causes."
+    },
+    {
+      "myth": "Testosterone is the fix.",
+      "fact": "Only some men have low testosterone, and a doctor tests before treating. Depression, stress, medication, and relationship factors are at least as common."
+    }
+  ],
+  "how_common": {
+    "plain": "Good population figures are scarce. Low desire is one of the most common sexual complaints men bring to clinics, and it becomes more common with age and with depression.",
+    "figure": "Prevalence not well established; about 16% in one outpatient clinic sample",
+    "source_ref": "src-dsm",
+    "note": "Needs a population-based citation."
+  },
+  "what_helps": {
+    "plain_summary": "Assessment looks at mood, stress, sleep, alcohol, medication, relationship, and hormones, with blood tests if indicated. Treatment matches the cause: therapy and treatment for depression or anxiety; medication review; testosterone only where a doctor confirms it's low, prescribed and monitored; and psychosexual or couple therapy for the relationship and sexual side. There's no evidence-based 'libido pill' for men; be wary of supplements.",
+    "evidence_based_options": [
+      "Medical review including mood, medication, and hormone testing where appropriate",
+      "Treatment of depression, anxiety, or substance use",
+      "Psychosexual or couple therapy",
+      "Testosterone treatment only for confirmed deficiency, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Sleep, exercise, and less alcohol",
+      "Talking honestly with a partner about pressure and expectations",
+      "Noticing whether low mood came first",
+      "Avoiding unregulated 'testosterone boosters' and supplements"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If low desire has lasted months and is bothering you or your relationship, or came with low mood, tiredness, or other changes, see a doctor. A psychosexual therapist can help with the relationship and sexual side.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Having less desire than a partner isn't a disorder on its own; asexuality is an orientation, not a condition.",
+  "hope_note": "Desire usually returns when the cause is treated. Many men say getting their mood and sleep back brought their interest back too.",
+  "related_topics": [
+    "erectile-disorder",
+    "delayed-ejaculation",
+    "major-depressive-disorder",
+    "female-sexual-interest-arousal-disorder",
+    "alcohol-use-disorder"
+  ],
+  "glossary_terms": [
+    "gp-primary-care",
+    "side-effects",
+    "therapy",
+    "stress",
+    "burnout"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of a man jogging through a park at dawn, headphones on, trees in soft light. Pastel rose and mint.",
+    "alt_text": "A man jogs through a park at dawn."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a population-based prevalence source.",
+      "Add an endocrine or urology guideline reference."
+    ]
+  }
+}

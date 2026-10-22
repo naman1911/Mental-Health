@@ -1,0 +1,137 @@
+{
+  "topic_id": "premature-early-ejaculation",
+  "official_name": "Premature (Early) Ejaculation",
+  "plain_title": "When ejaculation keeps happening sooner than you want",
+  "also_known_as": [
+    "PE",
+    "rapid ejaculation",
+    "early ejaculation"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.4",
+  "language_convention": "person-first",
+  "one_liner": "Ejaculating within about a minute of penetration, before you want to, most of the time, for six months or more.",
+  "in_simple_words": "Premature or early ejaculation is when ejaculation regularly happens sooner than a person or couple wants, typically within about a minute of penetration, most of the time for at least six months, and it bothers them. It can be lifelong or start later. Timing varies hugely between people, and this is only a problem when it causes distress. It's among the most common sexual complaints, and behavioural techniques, psychosexual therapy, and medication prescribed by a doctor all help.",
+  "what_it_can_feel_like": [
+    "I avoided dating for years because of it. A sex therapist gave me a plan, and it turned out I wasn't broken.",
+    "We treated it as our problem, not his. That took most of the shame out of the room."
+  ],
+  "common_signs": [
+    "Ejaculation within about a minute of penetration, most of the time",
+    "Little or no sense of being able to delay it",
+    "Lasting at least six months",
+    "Distress, frustration, or avoiding sex because of it"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's a sign of selfishness or lack of self-control.",
+      "fact": "Timing is largely about reflexes, nerves, and anxiety, not character. It's a treatable condition, not a character flaw."
+    },
+    {
+      "myth": "Nothing can be done except distraction tricks.",
+      "fact": "Structured behavioural techniques taught by a therapist and medication prescribed by a doctor have good evidence, especially combined."
+    }
+  ],
+  "how_common": {
+    "plain": "Surveys suggest about 1 in 5 to 1 in 3 men report ejaculating earlier than they'd like, but the stricter lifelong form affects around 2 to 5 in 100.",
+    "figure": "Self-reported PE 20%–30%; lifelong PE under 1–2 minutes about 2%–5% (2019 review)",
+    "source_ref": "src-pe-review"
+  },
+  "what_helps": {
+    "plain_summary": "The best results come from combining approaches: behavioural techniques taught in psychosexual therapy, which train awareness and control, and help for anxiety; and medication, prescribed and monitored by a doctor, that delays ejaculation, either taken daily or before sex depending on the drug and country. Treating erectile problems if they coexist matters, since worry about losing an erection can speed things up. Partners are usually included where there is one.",
+    "evidence_based_options": [
+      "Psychosexual therapy with behavioural techniques",
+      "Medication to delay ejaculation, prescribed and monitored by a doctor",
+      "Treatment of coexisting erectile difficulty or anxiety",
+      "Couple-based approaches"
+    ],
+    "self_help_that_supports_care": [
+      "Reading reputable guides rather than forums selling 'cures'",
+      "Talking openly with a partner; shared, not solo, problem",
+      "Reducing performance pressure: not every encounter has to end a certain way",
+      "Managing anxiety and alcohol"
+    ],
+    "guideline_refs": [
+      "src-pe-review"
+    ]
+  },
+  "when_to_reach_out": "If early ejaculation is upsetting you or your relationship, or you're avoiding sex because of it, talk to a doctor or a psychosexual therapist. It's common and there are real options.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Faster ejaculation after a long gap, with a new partner, or when very aroused is normal.",
+  "hope_note": "Most people gain control with treatment. Many say the biggest change was dropping the shame.",
+  "related_topics": [
+    "erectile-disorder",
+    "delayed-ejaculation",
+    "male-hypoactive-sexual-desire-disorder",
+    "generalized-anxiety-disorder",
+    "social-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "therapy",
+    "gp-primary-care",
+    "stress",
+    "evidence-based"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of two people walking along a beach at sunset holding hands, relaxed, footprints behind them. Pastel rose and apricot.",
+    "alt_text": "Two people walk along a beach at sunset holding hands."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-pe-review",
+      "title": "Premature Ejaculation: Aetiology and Treatment Strategies",
+      "publisher": "Medical Sciences (PMC6915345)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6915345/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2019
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm prevalence ranges against the full review."
+    ]
+  }
+}

@@ -2427,6 +2427,194 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm HelpLine text keyword and group finder URL."
     },
     {
+      "community_id": "aasect-directory",
+      "name": "AASECT certified sex therapist, counsellor and educator directory",
+      "platform": "web",
+      "url": "https://www.aasect.org/find-professional",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "erectile-disorder",
+        "premature-early-ejaculation",
+        "delayed-ejaculation",
+        "male-hypoactive-sexual-desire-disorder",
+        "female-sexual-interest-arousal-disorder",
+        "female-orgasmic-disorder",
+        "genito-pelvic-pain-penetration-disorder"
+      ],
+      "region": "US (some international; telehealth listed)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Professional locator for AASECT-certified sex therapists, counsellors, and educators, searchable by country and state; listings show certification and whether telepractice is offered. Certification is voluntary, so a good therapist may not be listed."
+      },
+      "safety_notes": "Professional directory, not peer support. Fees apply.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the directory URL resolves."
+    },
+    {
+      "community_id": "cosrt-find-a-therapist",
+      "name": "COSRT Find a Therapist (College of Sexual and Relationship Therapists)",
+      "platform": "web",
+      "url": "https://www.cosrt.org.uk/",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "erectile-disorder",
+        "premature-early-ejaculation",
+        "delayed-ejaculation",
+        "male-hypoactive-sexual-desire-disorder",
+        "female-sexual-interest-arousal-disorder",
+        "female-orgasmic-disorder",
+        "genito-pelvic-pain-penetration-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "UK professional body for psychosexual and relationship therapy; public search for accredited members with location, registration level, and online availability. NHS psychosexual services may be available via GP referral."
+      },
+      "safety_notes": "Professional directory, not peer support. Private fees apply.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the search tool path on the site."
+    },
+    {
+      "community_id": "sexual-advice-association-uk",
+      "name": "Sexual Advice Association factsheets and helpline",
+      "platform": "web",
+      "url": "https://sexualadviceassociation.co.uk/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "erectile-disorder",
+        "premature-early-ejaculation",
+        "male-hypoactive-sexual-desire-disorder",
+        "female-sexual-interest-arousal-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Small UK charity (no. 1104691) with free factsheets on sexual problems and health conditions, and a helpline on 0207 486 7262 plus email. Does not recommend specific treatments; refers to specialists."
+      },
+      "safety_notes": "Information resource; very small charity, so check it is still active.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the charity is still operating and the helpline is staffed."
+    },
+    {
+      "community_id": "society-of-australian-sexologists-directory",
+      "name": "Society of Australian Sexologists accredited member directory",
+      "platform": "web",
+      "url": "https://societyaustraliansexologists.org.au/directory",
+      "type": "in-person-group-finder",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "erectile-disorder",
+        "premature-early-ejaculation",
+        "delayed-ejaculation",
+        "male-hypoactive-sexual-desire-disorder",
+        "female-sexual-interest-arousal-disorder",
+        "female-orgasmic-disorder",
+        "genito-pelvic-pain-penetration-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Public directory of accredited psychosexual therapists and sexuality educators across Australia, with online-session availability shown on profiles."
+      },
+      "safety_notes": "Professional directory, not peer support. Fees apply.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the directory URL resolves."
+    },
+    {
+      "community_id": "jean-hailes-womens-health",
+      "name": "Jean Hailes for Women's Health: sex and sexual health resources",
+      "platform": "web",
+      "url": "https://www.jeanhailes.org.au/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "female-sexual-interest-arousal-disorder",
+        "female-orgasmic-disorder",
+        "genito-pelvic-pain-penetration-disorder"
+      ],
+      "region": "Australia (resources global)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Australian national women's health organisation with plain-language articles and podcasts on low libido, painful sex, vaginismus, vulvodynia, and menopause, written with gynaecologists."
+      },
+      "safety_notes": "Information resource, not peer support.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the sexual health section URL."
+    },
+    {
       "community_id": "reddit-r-insomnia",
       "name": "r/insomnia",
       "platform": "reddit",

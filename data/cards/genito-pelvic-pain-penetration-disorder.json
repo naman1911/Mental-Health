@@ -1,0 +1,156 @@
+{
+  "topic_id": "genito-pelvic-pain-penetration-disorder",
+  "official_name": "Genito-Pelvic Pain/Penetration Disorder",
+  "plain_title": "When sex hurts, or your body won't allow it",
+  "also_known_as": [
+    "vaginismus",
+    "dyspareunia",
+    "painful sex",
+    "GPPPD"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.6",
+  "language_convention": "person-first",
+  "one_liner": "Persistent pain, fear, or tightening of pelvic muscles with attempted penetration, causing distress, for six months or more.",
+  "in_simple_words": "Genito-pelvic pain/penetration disorder combines what used to be called vaginismus and dyspareunia. It involves pain during penetration, intense fear of that pain, or pelvic floor muscles tightening so penetration is difficult or impossible, with distress, for at least six months. It's not 'in your head'. Causes include skin and nerve conditions, infections, hormonal changes, childbirth injury, endometriosis, and learned muscle guarding after pain or fear. Treatment that combines physiotherapy and therapy works well.",
+  "what_it_can_feel_like": [
+    "It felt like hitting a wall. For years I thought I was failing at something everyone else found easy.",
+    "Pelvic floor physio changed my life. Nobody had ever told me the muscles could learn to relax."
+  ],
+  "common_signs": [
+    "Pain in the vulva, vagina, or pelvis during penetration or intercourse",
+    "Fear or anxiety about pain before, during, or after penetration",
+    "Pelvic floor muscles tightening so penetration is difficult or impossible",
+    "Lasting at least six months and causing distress",
+    "Often avoiding sex, tampons, or gynaecological exams"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Painful sex is normal for women and something to put up with.",
+      "fact": "Pain is common but not normal, and it's treatable. Nobody should have to tolerate it."
+    },
+    {
+      "myth": "It's psychological, so just relax.",
+      "fact": "There's usually a physical starting point, and the muscle guarding that follows is involuntary. Pelvic physiotherapy and therapy together treat both."
+    },
+    {
+      "myth": "Having a drink first or pushing through will fix it.",
+      "fact": "Pushing through pain teaches the body to guard harder. Gradual, pain-free approaches work far better."
+    }
+  ],
+  "how_common": {
+    "plain": "Painful sex affects roughly 1 in 5 women at some point, and more after childbirth and around menopause. Severe muscle tightening (vaginismus) is less common but often undiagnosed.",
+    "figure": "About 1 in 5 women experience painful sex (Jean Hailes); dyspareunia estimates 10%–15%, vaginismus 1%–2% in older surveys",
+    "source_ref": "src-jean-hailes-pain",
+    "note": "Needs a primary epidemiological citation."
+  },
+  "what_helps": {
+    "plain_summary": "Assessment by a doctor or gynaecologist looks for treatable causes: infections, skin conditions, dryness after childbirth or at menopause, endometriosis, and nerve pain. Pelvic floor physiotherapy has the strongest evidence, teaching the muscles to relax and gradually restoring comfort, sometimes with graded trainers. Psychosexual therapy and CBT address fear, anxiety, and the relationship. Medical treatments target the underlying cause, prescribed and monitored by a doctor. Nothing should be forced or painful.",
+    "evidence_based_options": [
+      "Pelvic floor physiotherapy",
+      "Psychosexual therapy and CBT for pain-related fear",
+      "Treatment of the physical cause (skin, hormones, infection, endometriosis)",
+      "Gradual, pain-free desensitisation guided by a clinician"
+    ],
+    "self_help_that_supports_care": [
+      "Stopping anything that hurts; pain is information, not a test",
+      "Lubricant, and time for arousal, if dryness is part of it",
+      "Telling your partner what's happening so it isn't misread",
+      "Finding a pelvic health physiotherapist"
+    ],
+    "guideline_refs": [
+      "src-gpppd-review"
+    ]
+  },
+  "when_to_reach_out": "If sex, tampons, or exams are painful or impossible, or fear of pain is stopping you, see a doctor, gynaecologist, or pelvic health physiotherapist. You don't have to prove it hurts; they'll believe you.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Pain from a single infection, injury, or lack of lubrication that resolves isn't the disorder, but it's still worth treating.",
+  "hope_note": "This is one of the most treatable sexual problems. Many women go from 'impossible' to comfortable with the right team.",
+  "related_topics": [
+    "female-sexual-interest-arousal-disorder",
+    "female-orgasmic-disorder",
+    "posttraumatic-stress-disorder",
+    "somatic-symptom-disorder",
+    "panic-disorder"
+  ],
+  "glossary_terms": [
+    "therapy",
+    "avoidance",
+    "exposure-therapy",
+    "gp-primary-care"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms.",
+      "Pain after sexual trauma is acknowledged in related topics; trauma-informed wording."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of a woman doing gentle stretches on a yoga mat in a bright room, a physiotherapist's guide sheet beside her, a plant in the corner. Pastel rose and sky blue.",
+    "alt_text": "A woman does gentle stretches on a yoga mat in a bright room."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory",
+    "jean-hailes-womens-health"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-jean-hailes-pain",
+      "title": "Everything you wanted to know about painful sex",
+      "publisher": "Jean Hailes for Women's Health (Australia)",
+      "url": "https://www.jeanhailes.org.au/articles/everything-you-wanted-to-know-about-painful-sex-but-were-too-embarrassed-to-ask/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-gpppd-review",
+      "title": "Physiotherapeutic approach in genito-pelvic pain/penetration disorder: systematic review",
+      "publisher": "Manual Therapy, Posturology & Rehabilitation Journal",
+      "url": "https://mtprehabjournal.emnuvens.com.br/revista/article/view/857",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Pelvic health physiotherapist to review."
+    ]
+  }
+}
