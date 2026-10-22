@@ -12,17 +12,17 @@
   "card_type": "condition",
   "icd10cm_code": "G31.09 + F02.8x (major); G31.84 (mild)",
   "language_convention": "person-first",
-  "one_liner": "A dementia starting in the front and side parts of the brain, affecting behaviour, personality, or language before memory.",
-  "in_simple_words": "Frontotemporal dementia damages the frontal and temporal lobes, which handle behaviour, judgment, empathy, and language. Unlike Alzheimer's, it usually starts between 45 and 65 and memory is often spared early on. In the behavioural form, a person becomes socially inappropriate, impulsive, apathetic, or loses empathy, which families often mistake for depression. In the language forms, speech or understanding of words gradually breaks down. It's often misdiagnosed for years; support and planning help greatly.",
+  "one_liner": "A dementia that starts in the front and sides of the brain and changes behaviour, personality, or speech before memory.",
+  "in_simple_words": "Frontotemporal dementia damages the front and side parts of the brain. Those parts handle behaviour, judgment, empathy, and language. Unlike Alzheimer's, it usually starts between 45 and 65, and memory is often fine early on. In the behaviour form, a person may act rudely, on impulse, or without feeling. Families often mistake this for depression. In the language forms, speech or understanding slowly breaks down. It's often missed for years. Support and planning help a lot.",
   "what_it_can_feel_like": [
     "My husband started making crude jokes at work and spending our savings. We thought it was a breakdown. It was FTD.",
     "She lost the word for 'fork', then 'daughter'. Her memory of us was fine. That's what made it so cruel.",
     "The AFTD group was the first place anyone had heard of it."
   ],
   "common_signs": [
-    "Changes in personality, social behaviour, or judgment: tactlessness, impulsivity, apathy, loss of empathy",
+    "Changes in personality or judgment: being tactless, acting on impulse, not caring",
     "Or: progressive difficulty with speech, naming, or understanding words",
-    "Compulsive or repetitive behaviours, changes in eating",
+    "Repeating the same actions; changes in eating",
     "Memory relatively preserved in the early stages",
     "Usual onset between 45 and 65, often misdiagnosed as psychiatric illness",
     "Lack of insight into the changes"
@@ -42,13 +42,13 @@
     }
   ],
   "how_common": {
-    "plain": "Frontotemporal dementia is uncommon overall but is among the most common dementias in people under 65, where it may account for 1 in 10 to 1 in 5 cases.",
+    "plain": "FTD is uncommon overall. But among people under 65 it is one of the most common dementias, making up perhaps 1 in 10 to 1 in 5 cases.",
     "figure": "Estimated 2–10 per 100,000 in the general population; roughly 10–20% of dementia under 65 (reviews)",
     "source_ref": "src-dsm",
     "note": "Needs a primary citation."
   },
   "what_helps": {
-    "plain_summary": "There's no medication that slows FTD yet, and Alzheimer's drugs don't help. Care focuses on managing behaviour with structure, routine, and environment; speech and language therapy for language forms; occupational therapy; and sometimes medication for specific symptoms like agitation or compulsions, prescribed and monitored by a doctor. Because onset is often in working life, support with employment, finances, and family, and early legal planning, is vital. Carer support is essential; FTD is especially hard on families.",
+    "plain_summary": "No medicine slows FTD yet, and Alzheimer's drugs don't help. Care focuses on structure, routine, and a calm setting to manage behaviour. Speech therapy helps the language forms. Occupational therapy helps with daily life. Sometimes medication is used for agitation or compulsions, prescribed and monitored by a doctor. Because it often starts in working life, help with jobs, money, family, and early legal planning is vital. Carers need support. FTD is especially hard on families.",
     "evidence_based_options": [
       "Specialist diagnosis, including genetic counselling where relevant",
       "Behavioural and environmental strategies; structure and routine",
@@ -65,8 +65,8 @@
       "src-nice-ng97"
     ]
   },
-  "when_to_reach_out": "If a person in midlife shows striking changes in personality, behaviour, or language that aren't like them, especially with little insight, ask for a neurology or memory clinic referral and mention frontotemporal dementia.",
-  "is_not": "Depression, bipolar disorder, late-onset psychosis, and Alzheimer's can look similar; careful assessment tells them apart. A midlife change in behaviour with full insight is unlikely to be FTD.",
+  "when_to_reach_out": "Has someone in midlife changed in personality, behaviour, or speech in ways that aren't like them, and they don't seem to notice? Ask for a neurology or memory clinic referral. Say the words 'frontotemporal dementia'.",
+  "is_not": "Depression, bipolar disorder, psychosis starting late in life, and Alzheimer's can look similar. Careful assessment tells them apart. If the person fully sees the change in themselves, FTD is unlikely.",
   "hope_note": "Families facing FTD find strength in each other. Specialist support turns an isolating, misunderstood illness into one that can be faced together.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
@@ -135,7 +135,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.2,
+    "reading_grade_estimate": 8.0,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

@@ -38,12 +38,12 @@
     }
   ],
   "how_common": {
-    "plain": "Around 1 in 10 adults meets criteria for some personality disorder in a given year, by US survey estimates, though how the diagnosis is used varies a lot between countries.",
+    "plain": "About 1 in 10 adults meets criteria for some personality disorder in a given year, by US survey estimates. How the label is used varies a lot between countries.",
     "figure": "9.1% of US adults with any personality disorder in the past year (NCS-R)",
     "source_ref": "src-nimh-pd"
   },
   "what_helps": {
-    "plain_summary": "Treatment is mainly psychological and longer-term. For borderline personality disorder, several structured therapies work well. For other types, evidence is thinner but therapy that builds self-understanding, emotional skills, and relationships helps. Medication isn't a treatment for personality disorder itself, though it may be used for depression, anxiety, or crisis symptoms, prescribed and monitored by a doctor. Consistent, respectful care relationships matter as much as the technique. Services that exclude people because of the label are acting against guidelines.",
+    "plain_summary": "Treatment is mainly psychological and longer-term. For borderline personality disorder, several structured therapies work well. For other types, evidence is thinner but therapy that builds self-understanding, emotional skills, and relationships helps. Medication isn't a treatment for personality disorder itself, though it may be used for depression, anxiety, or crisis symptoms, prescribed and monitored by a doctor. Consistent, respectful care relationships matter as much as the technique. Services that turn people away because of the label are going against guidelines.",
     "evidence_based_options": [
       "Structured psychological therapies, especially for borderline personality disorder (DBT, MBT, schema therapy, transference-focused therapy)",
       "Longer-term therapy focused on self-understanding, emotions, and relationships",
@@ -60,9 +60,9 @@
       "src-nice-cg78"
     ]
   },
-  "when_to_reach_out": "If long-standing patterns in how you relate to yourself and others keep causing pain, broken relationships, or crises, a thorough assessment can help, and so can a therapist experienced with personality difficulties. If you're in crisis or thinking about ending your life, use the crisis strip now.",
-  "is_not": "Having strong traits, being difficult sometimes, or going through a bad patch isn't a personality disorder. Patterns caused by trauma, autism, ADHD, or mood disorders can look similar and are often misdiagnosed as personality disorders.",
-  "hope_note": "People diagnosed with personality disorders recover, build stable lives and relationships, and often become the most insightful supporters of others.",
+  "when_to_reach_out": "Do long-standing patterns in how you treat yourself and others keep causing pain, broken relationships, or crises? A full assessment can help. So can a therapist who works with personality difficulties. If you're in crisis or thinking about ending your life, use the crisis strip now.",
+  "is_not": "Having strong traits, being difficult sometimes, or going through a bad patch isn't a personality disorder. Trauma, autism, ADHD, and mood disorders can look similar. They are often wrongly labelled as personality disorders.",
+  "hope_note": "People with these diagnoses recover. They build stable lives and relationships, and often become the wisest supporters of others.",
   "related_topics": [
     "borderline-personality-disorder",
     "antisocial-personality-disorder",
@@ -145,7 +145,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 9.8,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,
@@ -155,7 +155,7 @@
       "Add verified PD-specific peer communities."
     ]
   },
-  "in_young_people": "Personality disorders are rarely diagnosed before 18, because personality is still forming. Teens with intense emotional difficulties can get early help without a label, and that's usually the better route.",
+  "in_young_people": "These disorders are rarely diagnosed before 18, because personality is still forming. Teens with intense emotional struggles can get early help without a label. That's usually the better route.",
   "across_cultures": "What counts as 'odd' or 'excessive' depends on culture. The diagnosis is used far more in some countries than others, and clinicians are advised to consider cultural context before applying it.",
   "sub_sections": [
     {

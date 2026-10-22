@@ -13,8 +13,8 @@
   "card_type": "condition",
   "icd10cm_code": "G21.x / G24.x / G25.x",
   "language_convention": "person-first",
-  "one_liner": "Movement problems caused by psychiatric medication, especially antipsychotics: stiffness, tremor, inner restlessness, or involuntary movements.",
-  "in_simple_words": "Some medications, mainly antipsychotics and a few others, can affect the brain's movement systems. Early effects include muscle spasms (dystonia), stiffness and tremor (parkinsonism), and an awful inner restlessness (akathisia). Tardive dyskinesia is a later effect: repetitive involuntary movements, often of the mouth, tongue, or limbs, that can persist. These aren't signs of the illness getting worse. Tell your prescriber early; most effects can be reduced by adjusting the medication or adding treatment.",
+  "one_liner": "Movement problems caused by mental health medicines, mainly antipsychotics: stiffness, shaking, inner restlessness, or movements you can't control.",
+  "in_simple_words": "Some medicines, mainly antipsychotics, can affect the parts of the brain that control movement. Early effects include muscle spasms (dystonia), stiffness and shaking (parkinsonism), and an awful inner restlessness (akathisia). Tardive dyskinesia comes later: repeated movements you can't control, often of the mouth, tongue, or limbs, which can last. These aren't signs of the illness getting worse. Tell your prescriber early. Most effects can be reduced by changing the medicine or adding a treatment.",
   "what_it_can_feel_like": [
     "I couldn't sit through a meal. I paced and paced and thought I was losing it. It was akathisia, and a dose change fixed it in days.",
     "My mum's mouth moved constantly and nobody at the home mentioned it. A new psychiatrist spotted tardive dyskinesia straight away."
@@ -41,7 +41,7 @@
     }
   ],
   "how_common": {
-    "plain": "Around 1 in 4 people on long-term antipsychotics has some tardive dyskinesia, with lower rates on newer medications. Akathisia and parkinsonism are common early on.",
+    "plain": "About 1 in 4 people on long-term antipsychotics has some tardive dyskinesia. Rates are lower on newer medicines. Akathisia and parkinsonism are common early on.",
     "figure": "Tardive dyskinesia mean prevalence 25.3% (20.7% on second-generation, 30.0% on first-generation antipsychotics; meta-analysis of 41 studies, 2000–2015)",
     "source_ref": "src-carbon-td"
   },
@@ -64,8 +64,8 @@
       "src-vmat2-review"
     ]
   },
-  "when_to_reach_out": "Tell your prescriber as soon as you notice stiffness, tremor, restlessness, or involuntary movements. Seek urgent care for a sudden painful spasm of the neck, jaw, eyes, or throat, or any trouble swallowing or breathing, which can be acute dystonia and is treatable quickly.",
-  "is_not": "Movement problems from Parkinson's disease, Huntington's, tics, anxiety, or other medical conditions are assessed separately. Agitation from the illness itself can look like akathisia; the difference matters for treatment.",
+  "when_to_reach_out": "Tell your prescriber as soon as you notice stiffness, shaking, restlessness, or movements you can't control. Get urgent care for a sudden painful spasm of the neck, jaw, eyes, or throat, or any trouble swallowing or breathing. That can be acute dystonia, and it's quickly treatable.",
+  "is_not": "Movement problems from Parkinson's disease, Huntington's, tics, anxiety, or other illnesses are checked separately. Agitation from the illness itself can look like akathisia. The difference matters for treatment.",
   "hope_note": "Most movement effects can be reduced or managed. Being heard by a prescriber who checks regularly makes all the difference.",
   "related_topics": [
     "neuroleptic-malignant-syndrome",
@@ -135,7 +135,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 10.9,
+    "reading_grade_estimate": 9.6,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

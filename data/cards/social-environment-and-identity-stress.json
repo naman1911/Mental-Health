@@ -13,8 +13,8 @@
   "card_type": "clinical-focus",
   "icd10cm_code": "Z60.x / Z65.8",
   "language_convention": "person-first",
-  "one_liner": "Stress from discrimination, exclusion, migration, isolation, or living as a minority, recorded as a focus of care.",
-  "in_simple_words": "Where you live, how you're treated, and whether you belong shape mental health. The DSM lists social problems such as discrimination, social exclusion, loneliness, difficulties adjusting to a new country, and persecution as a focus of care. Research on minority stress shows that prejudice, and the constant expectation of it, raises rates of depression and anxiety among LGBTQ+ people, minorities, disabled people, and migrants. Naming the cause matters: the problem is the environment, not the person.",
+  "one_liner": "Stress from unfair treatment, being left out, moving countries, loneliness, or living as a minority, noted in care.",
+  "in_simple_words": "Where you live, how you're treated, and whether you belong all shape mental health. The DSM lists social problems as part of care: being treated unfairly, being left out, loneliness, struggling to settle in a new country, and being persecuted. Research on minority stress shows that prejudice, and always expecting it, raises rates of depression and anxiety among LGBTQ+ people, minorities, disabled people, and migrants. Naming the cause matters. The problem is the setting, not the person.",
   "what_it_can_feel_like": [
     "My therapist kept asking about my 'negative thoughts'. I kept saying: they're not thoughts, they're what happened at work on Tuesday.",
     "Moving countries at 15 meant losing every friend and every word I knew for feelings. Finding a community that spoke my language brought me back."
@@ -37,12 +37,12 @@
     }
   ],
   "how_common": {
-    "plain": "Minority stress research finds consistently higher rates of depression and anxiety among people who face prejudice. Loneliness affects a large share of adults in every country surveyed.",
+    "plain": "Research keeps finding higher rates of depression and anxiety among people who face prejudice. Loneliness affects a large share of adults in every country surveyed.",
     "figure": "Meta-analyses in Meyer (2003) found higher prevalence of mental disorders among lesbian, gay, and bisexual people, explained by stigma-related stress",
     "source_ref": "src-meyer-2003"
   },
   "what_helps": {
-    "plain_summary": "Care that names the environment as the problem helps: therapy that understands minority stress, community and peer support with people who share your identity, and practical help with rights, immigration, or discrimination complaints. Treating depression, anxiety, or PTSD that result is important, with any medication prescribed and monitored by a doctor. Social prescribing, befriending, and group activities address loneliness. Clinicians can use the Cultural Formulation Interview to understand your situation in your terms.",
+    "plain_summary": "Care that names the setting as the problem helps. That means therapy that understands minority stress, peer support with people who share your identity, and practical help with rights, immigration, or complaints. Depression, anxiety, or PTSD that follow are treated, with any medication prescribed and monitored by a doctor. Befriending and group activities ease loneliness. Clinicians can use the Cultural Formulation Interview to understand your situation in your own terms.",
     "evidence_based_options": [
       "Culturally competent, affirming therapy that understands minority stress",
       "Peer and community support with people who share your identity",
@@ -59,7 +59,7 @@
       "src-meyer-2003"
     ]
   },
-  "when_to_reach_out": "If discrimination, isolation, or the stress of migration is affecting your mood, sleep, or safety, talk to a doctor or therapist and say so plainly, and reach out to a community organisation for people in your situation. If you're being threatened or persecuted, contact the police or a specialist advocacy service. If you're thinking about ending your life, use the crisis strip now.",
+  "when_to_reach_out": "If unfair treatment, being alone, or the stress of moving countries is hurting your mood, sleep, or safety, tell a doctor or therapist plainly. Reach out to a community group for people in your situation. If you're being threatened, contact the police or a specialist advocacy service. If you're thinking about ending your life, use the crisis strip now.",
   "is_not": "Being different isn't a problem. Being treated badly for it is. Identity itself is never the diagnosis.",
   "hope_note": "Belonging is medicine. People who find their community and name their experience describe a kind of relief that no therapy alone could give.",
   "related_topics": [
@@ -124,7 +124,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 10.9,
+    "reading_grade_estimate": 9.1,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

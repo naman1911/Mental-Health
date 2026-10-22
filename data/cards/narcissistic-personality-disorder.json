@@ -9,7 +9,7 @@
   "card_type": "condition",
   "icd10cm_code": "F60.81",
   "language_convention": "person-first",
-  "one_liner": "A pattern of grandiosity, need for admiration, and difficulty with empathy, usually covering a fragile sense of self-worth.",
+  "one_liner": "A pattern of feeling special, needing to be admired, and struggling to feel for others, usually covering fragile self-worth.",
   "in_simple_words": "Narcissistic personality disorder is a lasting pattern of feeling special and entitled, needing admiration, and finding it hard to recognize other people's feelings. Underneath there's often fragile, easily wounded self-esteem, with shame and rage when criticized. It causes real problems in relationships and work, and real suffering, especially when life brings failure or ageing. The word 'narcissist' is thrown around online at anyone selfish; the diagnosis is specific and uncommon. Treatment is possible, and people do change.",
   "what_it_can_feel_like": [
     "I needed to be the best in every room. When I wasn't, I fell apart, and I took it out on the people closest to me.",
@@ -20,9 +20,9 @@
     "An inflated sense of importance, achievements, or specialness",
     "Needing constant admiration; being preoccupied with success or status",
     "Feeling entitled, exploiting others, or envying them",
-    "Difficulty recognizing or caring about others' feelings",
+    "Finding it hard to notice or care about others' feelings",
     "Reacting to criticism with rage, contempt, or collapse",
-    "Underneath: fragile self-esteem, shame, and emptiness"
+    "Underneath: fragile self-worth, shame, and emptiness"
   ],
   "myths_vs_facts": [
     {
@@ -45,7 +45,7 @@
     "note": "Needs a primary citation."
   },
   "what_helps": {
-    "plain_summary": "Longer-term psychotherapy is the main treatment: approaches such as schema therapy, mentalization-based and transference-focused therapy, and psychodynamic therapy work on self-worth, empathy, and relationships. Treatment often begins after a loss, breakdown, or depression, and treating those is part of it. Medication isn't a treatment for NPD itself; it may be used for depression or anxiety, prescribed and monitored by a doctor. Therapy works best when it is steady, honest, and not humiliating.",
+    "plain_summary": "Longer-term talk therapy is the main treatment. Approaches such as schema therapy, mentalization-based therapy, and psychodynamic therapy work on self-worth, empathy, and relationships. Treatment often starts after a loss, a breakdown, or depression, and treating those is part of it. Medication isn't a treatment for NPD itself. It may be used for depression or anxiety, prescribed and monitored by a doctor. Therapy works best when it is steady, honest, and never humiliating.",
     "evidence_based_options": [
       "Longer-term psychotherapy: schema, mentalization-based, transference-focused, or psychodynamic",
       "Treatment of co-occurring depression, anxiety, or substance use",
@@ -62,9 +62,9 @@
       "src-nice-cg78"
     ]
   },
-  "when_to_reach_out": "If a need to be admired and a struggle to care about others keep costing you relationships or work, or if criticism sends you into rage or despair, a therapist experienced with personality difficulties can help, especially at a moment of crisis when motivation is high.",
+  "when_to_reach_out": "Does needing to be admired, or struggling to care about others, keep costing you relationships or work? Does criticism send you into rage or despair? A therapist who works with personality difficulties can help. A moment of crisis, when you most want change, is a good time to start.",
   "is_not": "Confidence, ambition, or vanity aren't NPD. Everyone is self-centred sometimes. The diagnosis needs a lasting pattern that causes significant impairment or distress.",
-  "hope_note": "People with narcissistic difficulties who commit to therapy describe something they never expected: relationships that feel real.",
+  "hope_note": "People who stick with therapy describe something they never expected: relationships that feel real.",
   "related_topics": [
     "about-personality-disorders",
     "antisocial-personality-disorder",
@@ -135,7 +135,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 9.2,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,
@@ -145,5 +145,5 @@
       "Only general PD communities listed; look for NPD-specific peer support (for example r/NPD) and verify."
     ]
   },
-  "across_cultures": "Cultures that reward self-promotion may normalize traits that elsewhere look narcissistic. Clinicians weigh this before diagnosing."
+  "across_cultures": "Some cultures reward selling yourself. Traits that look narcissistic elsewhere may be normal there. Clinicians weigh this before diagnosing."
 }

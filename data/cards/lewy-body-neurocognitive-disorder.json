@@ -11,7 +11,7 @@
   "card_type": "condition",
   "icd10cm_code": "G31.83 + F02.8x (major); G31.84 (mild)",
   "language_convention": "person-first",
-  "one_liner": "A dementia with fluctuating attention, detailed visual hallucinations, and Parkinson-like movement problems.",
+  "one_liner": "A dementia with attention that comes and goes, vivid visual hallucinations, and Parkinson's-like movement problems.",
   "in_simple_words": "Dementia with Lewy bodies is caused by protein deposits (Lewy bodies) in brain cells. Its signature features are attention and alertness that swing from hour to hour or day to day, vivid and detailed visual hallucinations (often people or animals), Parkinson's-like stiffness and slowness, and acting out dreams in sleep. Memory may be less affected early on. It's the third most common dementia and often misdiagnosed. Some antipsychotic medicines can be dangerous in this condition, so an accurate diagnosis matters.",
   "what_it_can_feel_like": [
     "Dad sees children in the garden who aren't there. He's not frightened by them. We've learned not to argue.",
@@ -20,11 +20,11 @@
   ],
   "common_signs": [
     "Attention and alertness that fluctuate markedly, like switching on and off",
-    "Detailed, well-formed visual hallucinations, often of people or animals",
+    "Seeing detailed things that aren't there, often people or animals",
     "Stiffness, slowness, shuffling walk, or tremor, like Parkinson's",
     "Acting out dreams, sometimes years before other symptoms",
     "Falls, fainting, or blood-pressure drops",
-    "Severe sensitivity to some antipsychotic medicines"
+    "Bad reactions to some antipsychotic medicines"
   ],
   "myths_vs_facts": [
     {
@@ -41,13 +41,13 @@
     }
   ],
   "how_common": {
-    "plain": "Lewy body dementia accounts for roughly 1 in 20 to 1 in 10 dementia cases, and is often under-diagnosed.",
+    "plain": "Lewy body dementia is about 1 in 20 to 1 in 10 of all dementia cases. It is often missed.",
     "figure": "Estimated 5%–10% of dementia cases; higher in autopsy studies (DSM-5-TR text and reviews)",
     "source_ref": "src-dsm",
     "note": "Needs a primary citation."
   },
   "what_helps": {
-    "plain_summary": "Cholinesterase inhibitors, prescribed and monitored by a doctor, often help thinking and hallucinations in Lewy body dementia, sometimes more than in Alzheimer's. Movement symptoms may be treated cautiously with Parkinson's medicines. Antipsychotics are avoided where possible and used only with great care. Non-drug approaches for hallucinations, good lighting, treating sleep problems, and physiotherapy for falls all help. Specialist assessment is strongly advised.",
+    "plain_summary": "Dementia medicines (cholinesterase inhibitors), prescribed and monitored by a doctor, often help thinking and hallucinations, sometimes more than in Alzheimer's. Movement problems may be treated carefully with Parkinson's medicines. Antipsychotics are avoided where possible and used only with great care. Good lighting, calm responses to hallucinations, treating sleep problems, and physio to prevent falls all help. A specialist check is strongly advised.",
     "evidence_based_options": [
       "Cholinesterase inhibitors, prescribed and monitored by a doctor",
       "Cautious treatment of movement symptoms; avoiding most antipsychotics",
@@ -64,9 +64,9 @@
       "src-nice-ng97"
     ]
   },
-  "when_to_reach_out": "If someone has vivid hallucinations, big day-to-day swings in alertness, Parkinson-like movement changes, or acts out dreams, ask for a specialist memory or neurology assessment and mention Lewy body dementia by name.",
-  "is_not": "Hallucinations from delirium, medication, or eye disease aren't Lewy body dementia. Parkinson's disease dementia has the same pathology but movement symptoms come first by a year or more.",
-  "hope_note": "With the right diagnosis and the right medicines, many people with Lewy body dementia see hallucinations ease and thinking steady. Specialist carer groups make the unpredictability bearable.",
+  "when_to_reach_out": "Does someone see vivid things that aren't there, swing in alertness from day to day, move like a person with Parkinson's, or act out dreams? Ask for a specialist memory or neurology check. Say the words 'Lewy body dementia'.",
+  "is_not": "Hallucinations from delirium, medication, or eye disease aren't Lewy body dementia. Parkinson's disease dementia has the same brain changes, but movement problems come first by a year or more.",
+  "hope_note": "With the right diagnosis and the right medicines, hallucinations often ease and thinking steadies. Carer groups make the ups and downs easier to bear.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
     "parkinsons-disease-neurocognitive-disorder",
@@ -145,7 +145,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.3,
+    "reading_grade_estimate": 9.5,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

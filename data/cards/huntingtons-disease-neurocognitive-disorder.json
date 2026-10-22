@@ -11,18 +11,18 @@
   "card_type": "condition",
   "icd10cm_code": "G10 + F02.8x (major); G31.84 (mild)",
   "language_convention": "person-first",
-  "one_liner": "Thinking decline and mood changes caused by Huntington's disease, an inherited condition that also affects movement.",
-  "in_simple_words": "Huntington's disease is a rare, inherited condition caused by a single gene; each child of a parent with it has a 50% chance of inheriting it. It usually begins between 30 and 50 and progresses over 15 to 20 years, affecting movement (jerky movements, clumsiness), thinking (planning, slowed processing), and mood (depression, irritability, apathy). Thinking and mood changes often come before movement problems. There's no cure, but symptoms can be treated and families can be supported, including with genetic counselling.",
+  "one_liner": "Thinking and mood changes caused by Huntington's disease, a condition passed down in families that also affects movement.",
+  "in_simple_words": "Huntington's disease is a rare condition caused by a single gene. Each child of a parent with it has a 50% chance of inheriting it. It usually starts between 30 and 50 and gets worse over 15 to 20 years. It affects movement (jerky movements, clumsiness), thinking (planning, slower thought), and mood (depression, short temper, not caring). Thinking and mood changes often come before movement problems. There's no cure, but symptoms can be treated and families supported.",
   "what_it_can_feel_like": [
     "I watched it take my mother. Then I had the test. Knowing changed how I live, not whether I live.",
     "The irritability came years before the movements. We blamed stress.",
     "HDSA connected us with families who'd walked this road. That mattered more than any drug."
   ],
   "common_signs": [
-    "Family history of Huntington's disease; positive genetic test",
+    "Huntington's in the family; a positive gene test",
     "Slowed thinking, trouble planning, organizing, and switching tasks",
-    "Depression, irritability, apathy, anxiety, or obsessive thinking",
-    "Involuntary jerky movements, clumsiness, or restlessness",
+    "Depression, short temper, not caring, anxiety, or stuck thoughts",
+    "Jerky movements you can't control, clumsiness, or restlessness",
     "Onset usually between 30 and 50; gradual progression",
     "Thinking and mood changes often preceding movement symptoms"
   ],
@@ -41,13 +41,13 @@
     }
   ],
   "how_common": {
-    "plain": "Huntington's disease is rare, affecting roughly 5 to 10 people in every 100,000 in populations of European descent, with lower rates elsewhere.",
+    "plain": "Huntington's disease is rare. It affects about 5 to 10 people in every 100,000 among people of European descent, and fewer elsewhere.",
     "figure": "About 5–10 per 100,000 in European-origin populations; lower in Asian and African populations (reviews)",
     "source_ref": "src-dsm",
     "note": "Needs a primary citation."
   },
   "what_helps": {
-    "plain_summary": "Care is multidisciplinary: neurologists, psychiatrists, therapists, dietitians, and social workers. Medications prescribed and monitored by a doctor can ease involuntary movements, depression, irritability, and other symptoms. Physiotherapy, speech therapy, occupational therapy, and nutrition support function. Genetic counselling supports families and at-risk relatives. Specialist HD clinics and organizations provide expertise, and planning for care and finances early makes a difference.",
+    "plain_summary": "Care comes from a team: nerve doctors, psychiatrists, therapists, dietitians, and social workers. Medicines, prescribed and monitored by a doctor, can ease the jerky movements, depression, short temper, and other symptoms. Physio, speech therapy, occupational therapy, and good nutrition keep people doing more for longer. Genetic counselling supports families and relatives at risk. Specialist clinics and charities know this disease well. Planning care and money early makes a difference.",
     "evidence_based_options": [
       "Specialist HD clinic and multidisciplinary care",
       "Medication for movement, mood, and behavioural symptoms, prescribed and monitored by a doctor",
@@ -65,8 +65,8 @@
     ]
   },
   "when_to_reach_out": "If you have a family history of Huntington's and notice mood, thinking, or movement changes, contact a doctor or HD clinic. For questions about testing, ask for genetic counselling. If you're feeling hopeless or thinking of ending your life, use the crisis strip now; depression in HD is treatable.",
-  "is_not": "Other movement disorders and dementias can look similar; a genetic test confirms Huntington's. Depression or anxiety in an at-risk person doesn't mean the disease has started.",
-  "hope_note": "Families with Huntington's are among the most resilient communities in medicine, and research toward treatments that slow the disease is moving faster than ever.",
+  "is_not": "Other movement disorders and dementias can look similar. A gene test confirms Huntington's. Depression or anxiety in someone at risk doesn't mean the disease has started.",
+  "hope_note": "Families living with Huntington's are among the strongest communities in medicine. Research into treatments that slow the disease is moving faster than ever.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
     "major-depressive-disorder",
@@ -134,7 +134,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 8.4,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

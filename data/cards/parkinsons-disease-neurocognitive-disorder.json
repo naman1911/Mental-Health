@@ -12,7 +12,7 @@
   "icd10cm_code": "G20.x + F02.8x (major); G31.84 (mild)",
   "language_convention": "person-first",
   "one_liner": "A decline in thinking that develops in a person who has had Parkinson's disease for a year or more.",
-  "in_simple_words": "Parkinson's disease is best known for tremor, stiffness, and slowness, but it also affects thinking in many people over time. Mild changes, such as slower thinking, trouble multitasking, and finding words, are common. Some people develop dementia, usually years into the illness, with problems in attention, planning, and visual judgment, and sometimes hallucinations. It shares its biology with Lewy body dementia. Managing it well means balancing movement medicines with thinking, and supporting the whole person and family.",
+  "in_simple_words": "Parkinson's disease is best known for shaking, stiffness, and slowness. But over time it also affects thinking in many people. Mild changes are common: slower thinking, trouble doing two things at once, and hunting for words. Some people develop dementia, usually years into the illness. That brings trouble with attention, planning, and judging what they see, and sometimes hallucinations. It shares its brain changes with Lewy body dementia. Good care balances movement medicines with clear thinking.",
   "what_it_can_feel_like": [
     "Fifteen years of Parkinson's, and the slowness crept from his body into his thinking. The nurse specialist saw it before we did.",
     "I can't do two things at once any more. One at a time, and I'm still me.",
@@ -23,8 +23,8 @@
     "Slowed thinking, trouble with attention, planning, and multitasking",
     "Difficulty with visual judgment and finding the way",
     "Memory problems, mainly with retrieval",
-    "Visual hallucinations, apathy, anxiety, or depression",
-    "Fluctuating alertness and daytime sleepiness"
+    "Seeing things that aren't there, loss of drive, anxiety, or depression",
+    "Alertness that comes and goes; sleepiness in the day"
   ],
   "myths_vs_facts": [
     {
@@ -41,13 +41,13 @@
     }
   ],
   "how_common": {
-    "plain": "Around 1 in 4 people with Parkinson's have mild thinking changes at diagnosis, and a majority develop dementia after many years with the disease.",
+    "plain": "About 1 in 4 people with Parkinson's have mild thinking changes when diagnosed. Most develop dementia after many years with the disease.",
     "figure": "Mild NCD in about 27% of people with Parkinson's; dementia in up to 75% after 10 or more years (DSM-5-TR text and reviews)",
     "source_ref": "src-dsm",
     "note": "Needs a primary citation."
   },
   "what_helps": {
-    "plain_summary": "Cholinesterase inhibitors, prescribed and monitored by a doctor, help thinking and hallucinations in Parkinson's dementia. Parkinson's medications are adjusted to balance movement and mental clarity. Antipsychotics are avoided or used very carefully, as in Lewy body dementia. Treating depression, sleep problems, and apathy helps. Occupational therapy, exercise, and cognitive strategies support daily life. Parkinson's nurse specialists and support organizations are invaluable.",
+    "plain_summary": "Dementia medicines (cholinesterase inhibitors), prescribed and monitored by a doctor, help thinking and hallucinations in Parkinson's dementia. Parkinson's medicines are adjusted to balance movement with clear thinking. Antipsychotics are avoided or used very carefully, as in Lewy body dementia. Treating depression, sleep problems, and loss of drive helps. Occupational therapy, exercise, and memory tricks support daily life. Parkinson's nurses and charities are a huge help.",
     "evidence_based_options": [
       "Cholinesterase inhibitors, prescribed and monitored by a doctor",
       "Careful adjustment of Parkinson's medication by a specialist",
@@ -64,9 +64,9 @@
       "src-nice-ng71"
     ]
   },
-  "when_to_reach_out": "If someone with Parkinson's is becoming confused, slower in thinking, or seeing things, tell the Parkinson's team or doctor; medication adjustments and treatments can help. Sudden confusion may be an infection or medication problem and needs prompt assessment.",
+  "when_to_reach_out": "If someone with Parkinson's is getting confused, slower in thinking, or seeing things, tell the Parkinson's team or doctor. Changes to medicines and other treatments can help. Sudden confusion may be an infection or a medicine problem and needs a prompt check.",
   "is_not": "Slowness of movement and speech in Parkinson's can look like cognitive decline without being it. Depression and medication side effects cause similar changes. Lewy body dementia is diagnosed when thinking problems come first.",
-  "hope_note": "Thinking changes in Parkinson's can be managed, and people continue to enjoy relationships, hobbies, and purpose with the right support.",
+  "hope_note": "Thinking changes in Parkinson's can be managed. With the right support, people go on enjoying their relationships, hobbies, and purpose.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
     "lewy-body-neurocognitive-disorder",
@@ -144,7 +144,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 8.9,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

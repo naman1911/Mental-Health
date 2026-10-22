@@ -9,8 +9,8 @@
   "card_type": "condition",
   "icd10cm_code": "F21",
   "language_convention": "person-first",
-  "one_liner": "A lasting pattern of eccentric thinking, unusual beliefs or perceptions, odd speech or appearance, and deep discomfort in close relationships.",
-  "in_simple_words": "Schizotypal personality disorder sits between personality and psychosis. People have unusual beliefs (telepathy, special signs, superstitions beyond their culture), odd perceptions (sensing a presence), eccentric speech or dress, and suspiciousness, along with intense social anxiety that doesn't ease with familiarity. Unlike schizophrenia, there are no sustained delusions or hallucinations, though a minority later develop a psychotic disorder. It is listed in both the personality and the psychotic disorders chapters. Therapy and, sometimes, medication help.",
+  "one_liner": "A lasting pattern of unusual beliefs, odd ways of seeing things, eccentric speech or dress, and deep unease with closeness.",
+  "in_simple_words": "Schizotypal personality disorder sits between personality and psychosis. People have unusual beliefs, such as mind-reading or special signs beyond what their culture holds. They may sense a presence, speak or dress in odd ways, and be suspicious. Social anxiety is intense and doesn't ease with time. Unlike schizophrenia, there are no lasting delusions or hallucinations, though a minority later develop psychosis. It appears in both the personality and the psychotic chapters. Therapy and sometimes medication help.",
   "what_it_can_feel_like": [
     "I've always known things before they happen. People think I'm strange. Maybe I am.",
     "Crowds feel like static. I can't make friends past a certain point; the wall goes up.",
@@ -20,9 +20,9 @@
     "Unusual beliefs or magical thinking beyond cultural norms",
     "Odd perceptions, like sensing presences or seeing meaning in coincidences",
     "Odd thinking, speech, or appearance",
-    "Suspiciousness or paranoid ideas",
+    "Being suspicious or feeling others are against you",
     "Intense social anxiety that doesn't fade with familiarity; few close friends",
-    "Flat or inappropriate emotional expression"
+    "Showing little emotion, or emotion that doesn't fit the moment"
   ],
   "myths_vs_facts": [
     {
@@ -45,7 +45,7 @@
     "note": "NESARC wave-2 figure from memory; needs confirmation."
   },
   "what_helps": {
-    "plain_summary": "Psychotherapy that builds social skills and tests unusual beliefs gently, cognitive-behavioural and supportive approaches, is the mainstay. Low-dose antipsychotic medication, prescribed and monitored by a doctor, sometimes helps with the perceptual and thinking symptoms. Treating social anxiety and depression matters. Because of the raised risk of psychosis, keeping in touch with services helps catch any change early.",
+    "plain_summary": "Talk therapy is the main treatment. It builds social skills and gently tests unusual beliefs, using CBT and supportive approaches. A low dose of antipsychotic medication, prescribed and monitored by a doctor, sometimes helps with odd perceptions and thinking. Treating social anxiety and depression matters. Because the risk of psychosis is raised, staying in touch with services helps catch any change early.",
     "evidence_based_options": [
       "CBT and social-skills training",
       "Supportive psychotherapy",
@@ -63,8 +63,8 @@
     ]
   },
   "when_to_reach_out": "If unusual experiences, suspicion, and social anxiety are isolating you or causing distress, an assessment can help. Reach out quickly if beliefs become fixed and certain, or if you start hearing voices.",
-  "is_not": "Spiritual, religious, or cultural beliefs shared by your community aren't symptoms. Schizophrenia involves sustained delusions and hallucinations. Autism and social anxiety overlap in places and are sometimes confused with STPD.",
-  "hope_note": "With understanding and support, people with schizotypal patterns find communities where being unusual is welcome, and most never develop psychosis.",
+  "is_not": "Spiritual, religious, or cultural beliefs that your community shares aren't symptoms. Schizophrenia involves lasting delusions and hallucinations. Autism and social anxiety can look similar and are sometimes confused with it.",
+  "hope_note": "With support, people with schizotypal patterns find places where being unusual is welcome. Most never develop psychosis.",
   "related_topics": [
     "about-personality-disorders",
     "schizophrenia",
@@ -146,7 +146,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.4,
+    "reading_grade_estimate": 9.5,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,

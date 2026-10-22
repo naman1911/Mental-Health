@@ -11,20 +11,20 @@
   "card_type": "condition",
   "icd10cm_code": "S06.2X9S + F02.8x (major); G31.84 (mild)",
   "language_convention": "person-first",
-  "one_liner": "Lasting problems with memory, attention, or thinking after a blow to the head, persisting beyond early recovery.",
-  "in_simple_words": "A traumatic brain injury, from a fall, crash, assault, sport, or blast, can leave lasting changes in thinking: slower processing, poor attention and memory, trouble planning, and often changes in mood, irritability, fatigue, and sleep. The diagnosis applies when these persist after the immediate injury period. Most mild injuries (concussions) recover within weeks; more severe or repeated injuries can cause lasting or progressive problems. Rehabilitation helps, and so does understanding that the person is dealing with a real injury.",
+  "one_liner": "Lasting trouble with memory, attention, or thinking after a blow to the head, long after the early recovery.",
+  "in_simple_words": "A brain injury from a fall, crash, assault, sport, or blast can leave lasting changes in thinking. People may think more slowly, lose focus, forget things, and struggle to plan. Mood, temper, energy, and sleep often change too. The diagnosis applies when these last beyond the early weeks. Most mild injuries (concussions) heal within weeks. Severe or repeated injuries can cause lasting problems. Rehab helps. So does knowing that the person has a real injury.",
   "what_it_can_feel_like": [
     "Six months after the crash I looked fine. I couldn't follow a recipe or a conversation in a noisy room.",
     "The anger scared me more than the memory problems. Nobody had warned me that was part of it.",
     "Brain injury rehab was slow and boring and it gave me my job back."
   ],
   "common_signs": [
-    "Head injury with loss of consciousness, confusion, amnesia, or neurological signs",
-    "Problems with attention, memory, processing speed, or planning persisting afterwards",
+    "A head injury with blackout, confusion, memory loss, or nerve signs",
+    "Lasting trouble with attention, memory, thinking speed, or planning",
     "Fatigue, headaches, sleep problems, sensitivity to noise or light",
-    "Irritability, mood swings, depression, anxiety, or personality change",
+    "Short temper, mood swings, depression, anxiety, or personality change",
     "Difficulties at work, school, or in relationships",
-    "Symptoms beyond what's expected for the injury's severity and recovery period"
+    "Problems that go on longer than expected for that injury"
   ],
   "myths_vs_facts": [
     {
@@ -47,7 +47,7 @@
     "note": "CDC figure from memory; needs confirmation."
   },
   "what_helps": {
-    "plain_summary": "Treatment is rehabilitation: cognitive rehabilitation to retrain and compensate for attention and memory problems, occupational therapy for daily tasks and work, physiotherapy, and psychological therapy for mood, anger, and adjustment. Medication, prescribed and monitored by a doctor, may be used for depression, sleep, or headaches. Education for the person and family about what to expect is a core part. Graded return to work or study, with adjustments, improves outcomes. Preventing further injury matters, especially in sport.",
+    "plain_summary": "Treatment is rehab. Thinking rehab retrains attention and memory and teaches ways around the gaps. Occupational therapy helps with daily tasks and work. Physio helps the body. Talk therapy helps with mood, anger, and adjusting. Medication, prescribed and monitored by a doctor, may be used for depression, sleep, or headaches. Teaching the person and family what to expect is a core part. A step-by-step return to work or study, with adjustments, improves results. Avoiding another injury matters, especially in sport.",
     "evidence_based_options": [
       "Cognitive rehabilitation and compensatory strategies",
       "Occupational, physio-, and speech therapy",
@@ -64,8 +64,8 @@
       "src-nice-ng232"
     ]
   },
-  "when_to_reach_out": "If thinking, mood, or energy haven't returned to normal weeks after a head injury, ask a doctor about brain injury assessment and rehabilitation. Seek emergency care for worsening headache, vomiting, confusion, seizures, or drowsiness after any head injury.",
-  "is_not": "Normal recovery from a concussion over a few weeks isn't a neurocognitive disorder. PTSD after the same accident can cause overlapping symptoms and is treated differently; both can occur. Dementia from other causes isn't TBI-related unless injury triggered it.",
+  "when_to_reach_out": "If thinking, mood, or energy haven't come back to normal weeks after a head injury, ask a doctor about a brain injury check and rehab. Go to emergency care for a worsening headache, vomiting, confusion, a seizure, or sleepiness after any head injury.",
+  "is_not": "Normal recovery from a concussion over a few weeks isn't this disorder. PTSD after the same accident can look similar and is treated differently; both can happen. Dementia from other causes isn't counted unless the injury set it off.",
   "hope_note": "The brain keeps healing for a long time after injury, and rehabilitation keeps building on it. Many people return to full lives, often with new strategies.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
@@ -144,7 +144,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.3,
+    "reading_grade_estimate": 8.2,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,
@@ -153,5 +153,5 @@
       "Add Brain Injury Association of America and Brain Injury Australia after verification."
     ]
   },
-  "in_young_people": "Children's brains are still developing, so the effects of injury can emerge over time, especially in learning and behaviour. Sport concussion protocols and school support plans matter."
+  "in_young_people": "Children's brains are still growing, so the effects of an injury can show up over time, especially in learning and behaviour. Sport concussion rules and school support plans matter."
 }

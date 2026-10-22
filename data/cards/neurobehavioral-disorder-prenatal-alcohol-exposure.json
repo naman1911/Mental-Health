@@ -11,16 +11,16 @@
   "card_type": "further-study",
   "icd10cm_code": "n/a (proposed; coded as other specified neurodevelopmental disorder)",
   "language_convention": "mixed",
-  "one_liner": "Thinking, self-regulation, and daily-living difficulties caused by alcohol exposure in the womb.",
-  "in_simple_words": "Neurobehavioral disorder associated with prenatal alcohol exposure is the DSM's proposed term for the brain-based effects of alcohol before birth, part of what's usually called fetal alcohol spectrum disorder. It involves difficulties with thinking (memory, learning, planning), self-regulation (mood, attention, impulse control), and daily living (social skills, independence), starting in childhood and lasting. Not every child has the facial features of FAS; most don't. It's often misdiagnosed as ADHD or 'bad behaviour'. The right support makes a large difference.",
+  "one_liner": "Lasting trouble with thinking, self-control, and daily life caused by alcohol before birth.",
+  "in_simple_words": "This is the DSM's proposed name for the brain effects of alcohol before birth. It's part of what's usually called fetal alcohol spectrum disorder (FASD). It brings trouble with thinking (memory, learning, planning), self-control (mood, attention, impulses), and daily life (social skills, independence). It starts in childhood and lasts. Most children with it don't have the facial features of FAS. It's often mistaken for ADHD or 'bad behaviour'. The right support makes a big difference.",
   "what_it_can_feel_like": [
     "He was labelled naughty for ten years. The FASD diagnosis rewrote the story: his brain works differently, and now school works with that.",
     "I'm an adult with FASD. I need lists, routine, and people who don't assume I'm being difficult."
   ],
   "common_signs": [
-    "Difficulty with memory, learning, planning, or understanding consequences",
+    "Trouble with memory, learning, planning, or seeing what will happen next",
     "Trouble regulating mood, attention, and impulses",
-    "Difficulties with social understanding, daily living skills, or independence",
+    "Trouble with social skills, daily living, or managing alone",
     "Starting in childhood, with confirmed or likely alcohol exposure before birth",
     "Often misdiagnosed as ADHD, ODD, or a learning disorder alone"
   ],
@@ -35,13 +35,13 @@
     }
   ],
   "how_common": {
-    "plain": "Estimates suggest FASD affects somewhere between 1 and 5 in 100 children in the US, depending on the study, making it one of the most common causes of developmental difficulty, and one of the most underdiagnosed.",
+    "plain": "Estimates suggest FASD affects between 1 and 5 in 100 children in the US, depending on the study. That makes it one of the most common causes of developmental difficulty, and one of the most often missed.",
     "figure": "National estimates of 2%–5% of individuals (US summaries); figures vary by study and region",
     "source_ref": "src-dsm",
     "note": "Needs the primary May 2018 JAMA prevalence study citation."
   },
   "what_helps": {
-    "plain_summary": "There's no cure, but tailored support changes lives: diagnosis by a specialist team, school plans built around memory and processing differences, structured routines, clear and concrete instructions, skills training for daily living and social situations, and support for parents and carers. Co-occurring ADHD, anxiety, or sleep problems are treated, with any medication prescribed and monitored by a doctor. Adult services, housing, and employment support matter for independence.",
+    "plain_summary": "There's no cure, but the right support changes lives. That means a diagnosis from a specialist team, school plans built around memory and thinking differences, set routines, clear and simple instructions, skills training for daily life and social situations, and support for parents and carers. ADHD, anxiety, or sleep problems alongside it are treated, with any medication prescribed and monitored by a doctor. Adult services, housing, and job support matter for independence.",
     "evidence_based_options": [
       "Multidisciplinary FASD assessment",
       "Individualised school plans and environmental supports",
@@ -56,7 +56,7 @@
     ],
     "guideline_refs": []
   },
-  "when_to_reach_out": "If a child or adult has learning, attention, and behaviour difficulties that don't fit ADHD alone, and there's known or possible alcohol exposure in pregnancy, ask about an FASD assessment. Family navigator services can help find one.",
+  "when_to_reach_out": "If a child or adult has learning, attention, and behaviour problems that don't fit ADHD alone, and alcohol in pregnancy is known or possible, ask about an FASD assessment. Family navigator services can help you find one.",
   "is_not": "ADHD, autism, learning disorders, and trauma can look similar and can co-occur. A single learning difficulty without the broader pattern isn't ND-PAE.",
   "hope_note": "With the right scaffolding, people with FASD finish school, hold jobs, and live well. Understanding changes everything.",
   "related_topics": [
@@ -118,7 +118,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 8.5,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

@@ -11,8 +11,8 @@
   "card_type": "clinical-focus",
   "icd10cm_code": "varies",
   "language_convention": "person-first",
-  "one_liner": "A catch-all for life circumstances a clinician records as relevant: caregiving, life transitions, religious struggles, lifestyle.",
-  "in_simple_words": "The DSM's final section lists dozens of circumstances that aren't disorders but matter to care: being a carer for someone ill, a phase-of-life problem such as retirement or leaving home, religious or spiritual struggles, problems related to lifestyle, wandering in dementia, and a history of self-harm or suicide attempt. There are also codes for borderline intellectual functioning and more. These codes tell the story around the symptoms, and sometimes the story is the whole point.",
+  "one_liner": "A catch-all for life situations a clinician may note: caring for someone, big life changes, faith struggles, lifestyle.",
+  "in_simple_words": "The DSM's last section lists dozens of life situations that aren't disorders but matter to care. They include caring for someone who is ill, a big life change such as retiring or leaving home, struggles with faith, lifestyle problems, wandering in dementia, and a past of self-harm or a suicide attempt. There are codes for borderline intellectual functioning and more. These codes tell the story around the symptoms. Sometimes the story is the whole point.",
   "what_it_can_feel_like": [
     "Caring for my husband with dementia was the hardest job I've ever had, and nobody asked how I was doing until a nurse wrote 'carer strain' in his notes.",
     "Leaving my faith community cost me every friend I had. My therapist treated it as the loss it was."
@@ -40,7 +40,7 @@
     "source_ref": "src-dsm"
   },
   "what_helps": {
-    "plain_summary": "Support matches the circumstance: carer assessments, respite, and carer groups; therapy for life transitions and identity change; spiritually integrated therapy or a chaplain for faith struggles where wanted; safety planning and follow-up where there's a history of self-harm or attempts; lifestyle support for sleep, movement, and substance use. The point of recording these is to make them part of the plan.",
+    "plain_summary": "Support matches the situation. Carers can get a carer's assessment, breaks, and carer groups. Big life changes respond to talk therapy. Faith struggles may be helped by a therapist who works with faith, or a chaplain, if wanted. A past of self-harm or attempts calls for a safety plan and follow-up. Lifestyle help covers sleep, movement, and drink or drugs. These things are recorded so they become part of the plan.",
     "evidence_based_options": [
       "Carer assessments, respite care, and carer support groups",
       "Therapy for life transitions, role loss, and identity change",
@@ -106,7 +106,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 8.3,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

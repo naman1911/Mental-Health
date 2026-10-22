@@ -11,8 +11,8 @@
   "card_type": "further-study",
   "icd10cm_code": "n/a (proposed)",
   "language_convention": "person-first",
-  "one_liner": "Mild, recent psychosis-like experiences with insight intact, proposed as a way to offer early help.",
-  "in_simple_words": "Attenuated psychosis syndrome is a proposed, not official, diagnosis for people, usually teens and young adults, who have mild psychosis-like experiences: unusual beliefs, suspiciousness, hearing things faintly, or disorganised speech, that have started or worsened in the past year, while they still know these experiences may not be real. It exists to get people early support. Most people with these experiences do not go on to develop a psychotic disorder, and early help improves outcomes for everyone.",
+  "one_liner": "Mild, recent experiences a bit like psychosis, while you still know they may not be real. Proposed for early help.",
+  "in_simple_words": "Attenuated psychosis syndrome is a proposed diagnosis, not an official one. It describes people, usually young, with mild experiences a bit like psychosis. They may have unusual beliefs, feel suspicious, hear faint things, or speak in a jumbled way. These began or got worse in the past year, and the person knows they may not be real. The label exists to get people early support. Most never develop a psychotic disorder, and early help improves things for everyone.",
   "what_it_can_feel_like": [
     "I kept feeling people were talking about me and I knew that was probably my mind. The early intervention team didn't label me; they just helped.",
     "Two years on, the experiences faded. I'm glad someone took them seriously without panicking."
@@ -34,12 +34,12 @@
     }
   ],
   "how_common": {
-    "plain": "Among people assessed as at high risk, around 1 in 5 develop a psychotic disorder within two years, and about 1 in 4 by three years.",
+    "plain": "Among people found to be at high risk, about 1 in 5 develop a psychotic disorder within two years, and about 1 in 4 within three.",
     "figure": "Cumulative transition risk 19% at 2 years, 25% at 3 years across 130 studies (9,222 people)",
     "source_ref": "src-chr-transition"
   },
   "what_helps": {
-    "plain_summary": "Early intervention services offer assessment, regular monitoring, CBT for psychosis-like experiences, family support, and treatment of depression, anxiety, or substance use, with help staying in school or work. Antipsychotic medication isn't recommended to prevent psychosis; if a disorder does develop, treatment starts immediately, which is the point of being connected.",
+    "plain_summary": "Early help services offer a full check, regular follow-up, CBT for these experiences, and family support. They treat depression, anxiety, or drug use, and help you stay in school or work. Antipsychotic medicines aren't advised to prevent psychosis. If a disorder does develop, treatment starts at once. That's the point of staying connected.",
     "evidence_based_options": [
       "Early intervention or at-risk mental state services with regular monitoring",
       "CBT for psychosis-like experiences",
@@ -56,8 +56,8 @@
       "src-chr-transition"
     ]
   },
-  "when_to_reach_out": "If you're having unusual experiences that worry you, and especially if they've grown over recent months, ask a doctor about an early intervention or at-risk service. If experiences become convincing or frightening, or you have thoughts of harming yourself, use the crisis strip now.",
-  "is_not": "Vivid imagination, spiritual experiences, brief oddities when exhausted, and experiences only under substances aren't this. A full psychotic episode is diagnosed and treated as such.",
+  "when_to_reach_out": "If unusual experiences are worrying you, especially if they've grown over recent months, ask a doctor about an early help service. If the experiences start to feel real or frightening, or you have thoughts of harming yourself, use the crisis strip now.",
+  "is_not": "A vivid imagination, spiritual experiences, odd moments when exhausted, and experiences only while on drugs aren't this. A full psychotic episode is diagnosed and treated as one.",
   "hope_note": "Most people with these experiences get better. Being watched over early is a safety net, not a sentence.",
   "related_topics": [
     "schizophrenia",
@@ -117,7 +117,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.2,
+    "reading_grade_estimate": 8.4,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_human_review",
     "needs_clinician_signoff": true,

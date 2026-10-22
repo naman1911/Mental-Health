@@ -13,7 +13,7 @@
   "card_type": "condition",
   "icd10cm_code": "varies",
   "language_convention": "person-first",
-  "one_liner": "Decline in thinking caused by HIV, prion disease, long-term substance use, other medical conditions, or several causes together.",
+  "one_liner": "Decline in thinking caused by HIV, prion disease, long-term drug or alcohol use, other illnesses, or several causes at once.",
   "in_simple_words": "Many conditions beyond the common dementias can cause lasting decline in thinking. HIV can affect the brain, though much less since effective treatment. Long-term heavy alcohol use can cause memory damage, including Korsakoff syndrome, some of which improves with abstinence and vitamin B1. Prion diseases like CJD are rare and rapidly progressive. Multiple sclerosis, brain tumours, infections, and thyroid or vitamin problems can all affect thinking. Finding the cause matters because some are treatable or reversible.",
   "what_it_can_feel_like": [
     "Years of drinking left my memory in pieces. Thiamine and sobriety gave some of it back.",
@@ -24,7 +24,7 @@
     "Decline in memory, attention, or thinking from a previous level",
     "A known medical cause: HIV, prion disease, MS, infection, tumour, or another condition",
     "Or long-term heavy substance use, especially alcohol",
-    "Or several causes together (multiple etiologies)",
+    "Or several causes at the same time",
     "Sometimes rapid progression, which needs urgent assessment",
     "Some causes partly reversible with treatment"
   ],
@@ -49,7 +49,7 @@
     "note": "Needs primary citations."
   },
   "what_helps": {
-    "plain_summary": "Treatment depends on the cause: antiretroviral therapy and management for HIV; abstinence, thiamine, and nutrition for alcohol-related damage; treating infections, thyroid, or vitamin problems; neurology care for MS, tumours, or prion disease. Rehabilitation and support follow the same principles as other dementias. Where several causes combine, each is addressed. Palliative care is central for rapidly progressive conditions like CJD.",
+    "plain_summary": "Treatment depends on the cause. HIV is treated with HIV medicines. Alcohol damage is treated with stopping drinking, vitamin B1, and good food. Infections, thyroid, and vitamin problems are treated directly. MS, tumours, and prion disease need a nerve specialist. Rehab and support work the same way as for other dementias. If several causes combine, each is treated. For fast-moving conditions like CJD, comfort care is central.",
     "evidence_based_options": [
       "Treating the underlying cause where possible",
       "Thiamine and abstinence for alcohol-related damage",
@@ -66,8 +66,8 @@
       "src-nice-ng97"
     ]
   },
-  "when_to_reach_out": "If thinking is declining and there's a medical condition, heavy alcohol use, or rapid change, see a doctor for a full assessment; some causes are treatable. Rapidly worsening confusion over weeks is urgent.",
-  "is_not": "The common dementias (Alzheimer's, vascular, Lewy body, frontotemporal) have their own cards. Delirium is sudden and fluctuating. Intoxication or withdrawal cause temporary confusion, not lasting neurocognitive disorder, though repeated episodes can.",
+  "when_to_reach_out": "If thinking is getting worse and there's an illness, heavy drinking, or fast change, see a doctor for a full check. Some causes can be treated. Confusion that worsens over weeks is urgent.",
+  "is_not": "The common dementias (Alzheimer's, vascular, Lewy body, frontotemporal) have their own cards. Delirium is sudden and comes and goes. Being drunk or in withdrawal causes short-term confusion, not a lasting disorder, though repeated bouts can.",
   "hope_note": "When the cause is found, some of these conditions improve, and all of them can be supported. Assessment is worth it.",
   "related_topics": [
     "major-and-mild-neurocognitive-disorder",
@@ -125,7 +125,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 11.0,
+    "reading_grade_estimate": 8.5,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

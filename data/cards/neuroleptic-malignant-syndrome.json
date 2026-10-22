@@ -9,8 +9,8 @@
   "card_type": "condition",
   "icd10cm_code": "G21.0",
   "language_convention": "person-first",
-  "one_liner": "A rare emergency reaction to antipsychotics: high fever, severe muscle stiffness, confusion, and unstable pulse or blood pressure.",
-  "in_simple_words": "Neuroleptic malignant syndrome is a rare but life-threatening reaction to antipsychotic medication, and occasionally to other drugs that affect dopamine, or to suddenly stopping Parkinson's medication. It usually develops within weeks of starting or increasing a dose. The signs are a high fever, severe muscle stiffness, confusion or reduced consciousness, and a fast or irregular pulse, sweating, or swinging blood pressure. It needs emergency hospital care. With quick treatment most people recover fully.",
+  "one_liner": "A rare emergency reaction to antipsychotics: high fever, severe stiffness, confusion, and a racing or unsteady pulse.",
+  "in_simple_words": "Neuroleptic malignant syndrome is a rare but life-threatening reaction to antipsychotic medicines. Now and then it follows other drugs that affect dopamine, or suddenly stopping Parkinson's medicines. It usually starts within weeks of starting or raising a dose. The signs are a high fever, severe muscle stiffness, confusion or sleepiness, and a fast or uneven pulse, sweating, or blood pressure that swings. It needs emergency hospital care. With quick treatment most people recover fully.",
   "what_it_can_feel_like": [
     "He went stiff and burning hot over two days and we thought it was flu. The ambulance crew knew what it was. He's fine now, on a different medication.",
     "Every psychiatrist since has asked about it. I carry a card in my wallet that says NMS, 2019."
@@ -18,7 +18,7 @@
   "common_signs": [
     "High fever with no obvious infection",
     "Severe muscle stiffness, often described as 'lead pipe'",
-    "Confusion, drowsiness, or reduced consciousness",
+    "Confusion, sleepiness, or being hard to wake",
     "Fast or irregular heartbeat, sweating, blood pressure swings",
     "Usually within weeks of starting or increasing an antipsychotic"
   ],
@@ -57,8 +57,8 @@
     ]
   },
   "when_to_reach_out": "If someone taking an antipsychotic develops a high fever with severe stiffness and confusion, call emergency services or go to an emergency department now. Don't wait to see if it passes.",
-  "is_not": "Fever from an infection, stiffness from ordinary side effects, catatonia, serotonin syndrome, and heatstroke can look similar and are sorted out in hospital.",
-  "hope_note": "Recognised and treated quickly, most people recover completely and go on to find a medication that suits them.",
+  "is_not": "Fever from an infection, stiffness from ordinary side effects, catatonia, serotonin syndrome, and heatstroke can look similar. Hospital tests sort them out.",
+  "hope_note": "Spotted and treated quickly, most people recover fully and go on to find a medicine that suits them.",
   "related_topics": [
     "medication-induced-movement-disorders",
     "schizophrenia",
@@ -116,7 +116,7 @@
   ],
   "review": {
     "last_researched": "2026-10-22",
-    "reading_grade_estimate": 10.8,
+    "reading_grade_estimate": 9.7,
     "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
     "verification_status": "needs_verification",
     "needs_clinician_signoff": false,

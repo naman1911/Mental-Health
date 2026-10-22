@@ -44,32 +44,14 @@ Generated 2026-10-22 from the build outputs. Everything in this report is reprod
 
 ## 4. Reading level
 
-The build computes a Flesch-Kincaid grade over all reader-facing prose on a card (one-liner, in simple words, signs, myths, what helps, reach out, is not, hope, optional blocks). Mean grade across 153 cards: **9.4**. Over the `in_simple_words` paragraph alone: **10.7**. 128 cards score above 8 on the full-card measure and 135 on the summary paragraph.
+The build computes a Flesch-Kincaid grade over all reader-facing prose on a card (one-liner, in simple words, signs, myths, what helps, reach out, is not, hope, optional blocks). Mean grade across 153 cards: **9.1**. Over the `in_simple_words` paragraph alone: **10.1**. 126 cards score above 8 on the full-card measure and 126 on the summary paragraph.
 
-Why: the estimator counts syllables, and condition names ('neurocognitive', 'depersonalization', 'antidepressant') and treatment names ('psychotherapy', 'physiotherapy') are unavoidable on a card about them; one 'schizotypal personality disorder' adds about a grade to a sentence. Sentence length is already moderate (mean 17.7 words per sentence in the summary paragraphs), but 16.8% of summary words have three or more syllables, which is what drives the score. The brief's 6–8 target is met in tone and sentence structure, and missed on vocabulary for medical topics. Note that the summary paragraph scores *higher* than the full card because it is where the condition name and treatment names are densest.
+Why: the estimator counts syllables, and condition names ('neurocognitive', 'depersonalization', 'antidepressant') and treatment names ('psychotherapy', 'physiotherapy') are unavoidable on a card about them; one 'schizotypal personality disorder' adds about a grade to a sentence. The brief's 6–8 target is met in tone and sentence structure, and missed on vocabulary for medical topics.
 
-Cards above grade 10 on the full-card measure (the simplification backlog, highest first):
+**Simplification pass 1 (2026-10-22):** the 20 highest-scoring cards were rewritten field by field (shorter sentences, condition name once then 'it', 'talk therapy' for 'psychotherapy', 'physio' for 'physiotherapy', 'medicines' for 'medication' where natural, questions instead of long conditionals in reach-out text). Their mean grade fell from 11.1 to 8.8; all 20 now score below 10. Site-wide mean fell from 9.4 to 9.1.
 
-- alternative-model-for-personality-disorders (11.7; summary paragraph 11.6)
-- hallucinogen-related-disorders (11.6; summary paragraph 13.4)
-- schizotypal-personality-disorder (11.4; summary paragraph 15.5)
-- traumatic-brain-injury-neurocognitive-disorder (11.3; summary paragraph 13.0)
-- lewy-body-neurocognitive-disorder (11.3; summary paragraph 11.0)
-- frontotemporal-neurocognitive-disorder (11.2; summary paragraph 12.4)
-- attenuated-psychosis-syndrome (11.2; summary paragraph 14.3)
-- depressive-episodes-with-short-duration-hypomania (11.1; summary paragraph 14.2)
-- parkinsons-disease-neurocognitive-disorder (11.0; summary paragraph 11.7)
-- other-circumstances-a-clinician-may-note (11.0; summary paragraph 14.3)
-- neurocognitive-disorder-other-causes (11.0; summary paragraph 10.0)
-- neurobehavioral-disorder-prenatal-alcohol-exposure (11.0; summary paragraph 12.5)
-- narcissistic-personality-disorder (11.0; summary paragraph 11.7)
-- huntingtons-disease-neurocognitive-disorder (11.0; summary paragraph 12.3)
-- delayed-ejaculation (11.0; summary paragraph 16.1)
-- about-personality-disorders (11.0; summary paragraph 11.0)
-- social-environment-and-identity-stress (10.9; summary paragraph 12.0)
-- medication-induced-movement-disorders (10.9; summary paragraph 12.2)
-- dependent-personality-disorder (10.9; summary paragraph 12.3)
-- neuroleptic-malignant-syndrome (10.8; summary paragraph 12.9)
+Cards still above grade 10 on the full-card measure (next backlog, highest first):
+
 - maladi-moun (10.8; summary paragraph 13.7)
 - schizoaffective-disorder (10.7; summary paragraph 10.5)
 - premature-early-ejaculation (10.7; summary paragraph 12.9)
@@ -108,7 +90,7 @@ Cards above grade 10 on the full-card measure (the simplification backlog, highe
 - delusional-disorder (10.0; summary paragraph 10.8)
 - bipolar-ii-disorder (10.0; summary paragraph 12.1)
 
-Recommended fix for the next pass: (a) a reader-facing glossary popover already handles the long words; (b) rewrite the `what_helps.plain_summary` blocks on the cards above, which are the longest sentences; (c) in `in_simple_words`, use the condition name once and then 'it', and prefer 'talk therapy' over 'psychotherapy', 'physio' over 'physiotherapy'; (d) split sentences over 22 words. Cards at or below grade 8 on the full measure: 25.
+Recipe that worked on pass 1 and should be applied to these next: (a) rewrite `what_helps.plain_summary` first, it is nearly always the highest-scoring field; (b) turn reach-out conditionals into short questions; (c) in `in_simple_words`, use the condition name once and then 'it'; (d) split any sentence over 22 words; (e) swap 'psychotherapy', 'physiotherapy', 'pharmacological', 'multidisciplinary', 'involuntary' for plain words. Cards at or below grade 8 on the full measure: 27.
 
 ## 5. Needs-human-review list
 
