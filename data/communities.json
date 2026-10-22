@@ -1,0 +1,717 @@
+{
+  "generated_on": "2026-10-22",
+  "notes": "Community directory. verification_status 'verified' requires every check in section 7.1 of the brief to have been performed by opening the community. In this session the build environment blocked outbound web access, so every entry is 'needs_verification' with reviewer_notes describing what was seen in search results and what remains to be checked.",
+  "communities": [
+    {
+      "community_id": "reddit-r-anxiety",
+      "name": "r/Anxiety",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Anxiety/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "generalized-anxiety-disorder",
+        "panic-disorder",
+        "social-anxiety-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 800000,
+        "as_of": "2026-10-22",
+        "note": "Third-party trackers showed ~780K–880K members; needs a direct count."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Rules seen via mirror: posts must relate to anxiety, no memes, offensive content removed, volunteers can't diagnose. Has a companion Discord (~13K members)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Check activity date, pinned crisis resources, and sample recent posts."
+    },
+    {
+      "community_id": "adaa-online-support-group",
+      "name": "ADAA Online Peer-to-Peer Anxiety and Depression Support Group",
+      "platform": "healthunlocked",
+      "url": "https://adaa.org/adaa-online-support-group",
+      "type": "peer-forum",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "both",
+      "topics": [
+        "generalized-anxiety-disorder",
+        "panic-disorder",
+        "social-anxiety-disorder",
+        "major-depressive-disorder"
+      ],
+      "region": "global (US-based)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 100000,
+        "as_of": "2026-10-22",
+        "note": "ADAA states over 100,000 members worldwide."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Run by the Anxiety & Depression Association of America on HealthUnlocked; actively monitored; age 16+; points US users to 988 and others to findahelpline.com."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open the HealthUnlocked community and record last post date."
+    },
+    {
+      "community_id": "anxiety-uk-peer-support-groups",
+      "name": "Anxiety UK online peer support groups",
+      "platform": "video-meeting",
+      "url": "https://www.anxietyuk.org.uk/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "generalized-anxiety-disorder",
+        "panic-disorder",
+        "social-anxiety-disorder",
+        "specific-phobia"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Facilitated Zoom groups for adults 18+; sources differ on schedule and whether a small fee or membership applies."
+      },
+      "safety_notes": "Facilitated by the charity; not a crisis service. Helpline 03444 775 774 (Mon–Fri daytime) seen in search; confirm.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current schedule, cost, and the exact group-booking URL."
+    },
+    {
+      "community_id": "beyondblue-forums",
+      "name": "Beyond Blue Forums",
+      "platform": "nonprofit-forum",
+      "url": "https://forums.beyondblue.org.au/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "generalized-anxiety-disorder",
+        "major-depressive-disorder",
+        "panic-disorder",
+        "social-anxiety-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Community-led, moderated and supported by Beyond Blue staff and clinicians; 18+; posts may be held for moderation."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record last post date in the anxiety board."
+    },
+    {
+      "community_id": "sane-forums-australia",
+      "name": "SANE Forums",
+      "platform": "nonprofit-forum",
+      "url": "https://saneforums.org/",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder",
+        "schizophrenia",
+        "generalized-anxiety-disorder",
+        "borderline-personality-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, anonymous, moderated 24/7 by mental health professionals; 18+ living in Australia; separate carers' forum; not a crisis service (points to Lifeline 13 11 14)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm eligibility wording and last post date."
+    },
+    {
+      "community_id": "reddit-r-bipolar",
+      "name": "r/bipolar",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/bipolar/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder",
+        "cyclothymic-disorder",
+        "schizoaffective-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 295000,
+        "as_of": "2026-10-22",
+        "note": "Third-party tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Described as peer support for people with bipolar disorder, cyclothymia, or schizoaffective disorder, or seeking diagnosis. Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read the sidebar rules; check for pinned crisis resources and whether family posts are redirected."
+    },
+    {
+      "community_id": "dbsa-online-support-groups",
+      "name": "DBSA online support groups",
+      "platform": "video-meeting",
+      "url": "https://www.dbsalliance.org/support/online-support-groups/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "young-adults"
+      ],
+      "for": "both",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder",
+        "major-depressive-disorder",
+        "persistent-depressive-disorder"
+      ],
+      "region": "US (some groups open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Depression and Bipolar Support Alliance; free peer-led groups, trained peer facilitators, hosted on HeyPeers and by local chapters; also family and parent groups; crisis page points to 988."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current meeting schedule and the family/friends group link."
+    },
+    {
+      "community_id": "reddit-r-bipolarsos",
+      "name": "r/BipolarSOs",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/BipolarSOs/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "bipolar-i-disorder",
+        "bipolar-ii-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 52000,
+        "as_of": "2026-10-22",
+        "note": "Trackers showed ~50K–55K."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "For partners and loved ones. Mods require posts to be about the poster's own relationship; posts generalizing about 'all bipolar people' are removed. Tone can be raw; vent-heavy."
+      },
+      "safety_notes": "Vent-heavy space for partners. Peer support, not professional advice. Reviewer to judge whether tone is appropriate to link from a condition card.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Sample recent posts for stigmatizing generalizations before approving."
+    },
+    {
+      "community_id": "beat-uk-helpline-and-online-groups",
+      "name": "Beat (UK): helpline, web chat and online support groups",
+      "platform": "web",
+      "url": "https://www.beateatingdisorders.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens",
+        "students"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder",
+        "avoidant-restrictive-food-intake-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "UK eating disorder charity. Helpline 0808 801 0677 (adults), Youthline 0808 801 0711, Studentline 0808 801 0811 seen in directories; hours vary by source. Moderated online groups named after birds (Swan: anorexia; Kingfisher: bulimia; Nightingale: binge eating; Hummingbird: ARFID; Nest: any). No diagnosis needed."
+      },
+      "safety_notes": "Charity-run and moderated. Not an emergency service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm numbers and hours on the official site; confirm group names still current."
+    },
+    {
+      "community_id": "beat-uk-carers-peer-support",
+      "name": "Beat (UK): online peer support for carers",
+      "platform": "video-meeting",
+      "url": "https://www.beateatingdisorders.org.uk/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "8-week online peer support groups for people supporting someone with anorexia, bulimia, binge eating disorder or OSFED; self-referral; seen on Beat's Scotland page."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Find the exact carers' page URL and current start dates."
+    },
+    {
+      "community_id": "butterfly-foundation-helpline",
+      "name": "Butterfly National Helpline and online groups (Australia)",
+      "platform": "phone",
+      "url": "https://butterfly.org.au/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens",
+        "young-people"
+      ],
+      "for": "both",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder",
+        "body-dysmorphic-disorder"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Helpline 1800 33 4673, 8am–midnight AEST, 7 days, plus email and webchat; video peer support groups for people 18+ and their supporters; some programmes need GP referral; points to Lifeline 13 11 14 for emergencies."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours and group pages on the official site."
+    },
+    {
+      "community_id": "reddit-r-eatingdisorders",
+      "name": "r/EatingDisorders",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/EatingDisorders/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "both",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Recovery-focused; wiki states pro-ED content leads to an immediate permanent ban. Member count not seen."
+      },
+      "safety_notes": "Recovery-focused but user-generated. Must be re-checked every 3 months for numbers, body talk, and pro-ED drift.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: sample at least 20 recent posts for numbers or methods before approving."
+    },
+    {
+      "community_id": "reddit-r-fuckeatingdisorders",
+      "name": "r/fuckeatingdisorders",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/fuckeatingdisorders/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "anorexia-nervosa",
+        "bulimia-nervosa",
+        "binge-eating-disorder",
+        "avoidant-restrictive-food-intake-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Recovery-only community; mod post seen stating rule breaks lead to temporary or permanent bans. Known in the recovery community for strict no-numbers rules; not confirmed directly."
+      },
+      "safety_notes": "Recovery-only. Same 3-month re-check requirement as all eating-disorder communities.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read the full rules and sample recent posts before approving."
+    },
+    {
+      "community_id": "reddit-r-autism",
+      "name": "r/autism",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/autism/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "both",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 378000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure (tool closed Nov 2025); likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "'Autism news, information and support.' Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check how parent posts and 'cure' content are handled."
+    },
+    {
+      "community_id": "reddit-r-autisticadults",
+      "name": "r/AutisticAdults",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/AutisticAdults/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 126000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure; likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "For autistic adults, diagnosed or not; describes itself as relaxed and rules-light; asks promoters and people seeking help 'dealing with' an autistic person to read the community guide first."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm moderation is active and check for pinned crisis resources."
+    },
+    {
+      "community_id": "reddit-r-autisminwomen",
+      "name": "r/AutismInWomen",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/AutismInWomen/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 276000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure; likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "For autistic women and marginalized genders, including LGBTQIA+ people; excludes cis men."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules and check moderation activity."
+    },
+    {
+      "community_id": "nas-online-community",
+      "name": "National Autistic Society Online Community",
+      "platform": "nonprofit-forum",
+      "url": "https://www.autism.org.uk/community",
+      "type": "peer-forum",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "autism-spectrum-disorder"
+      ],
+      "region": "UK (open worldwide)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 3500,
+        "as_of": "2026-10-22",
+        "note": "NAS cites over 3,500 active users; a vendor case study claimed 42,000. Use the NAS figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Separate areas for autistic adults and for parents and carers, plus women and girls, health and lifestyle, and mental health boards; registration required; stated rules for safety; 18+."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record last post date in the adults and parents boards."
+    },
+    {
+      "community_id": "reddit-r-griefsupport",
+      "name": "r/GriefSupport",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/GriefSupport/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "prolonged-grief-disorder",
+        "grief-and-bereavement"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 120000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure; likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Mod post from Jan 2026 seen: rules in sidebar, members asked not to question anyone's loss; community wiki with support groups and phone numbers; companion Discord."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read sidebar rules and confirm the wiki's crisis resources are current."
+    },
+    {
+      "community_id": "cruse-bereavement-support",
+      "name": "Cruse Bereavement Support (UK) helpline and CruseChat",
+      "platform": "phone",
+      "url": "https://www.cruse.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people"
+      ],
+      "for": "both",
+      "topics": [
+        "prolonged-grief-disorder",
+        "grief-and-bereavement"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free helpline 0808 808 1677 run by trained bereavement volunteers (hours differ between sources); CruseChat live chat Mon–Fri 9am–9pm run by a bereavement counsellor."
+      },
+      "safety_notes": "Charity-run support, not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm helpline hours on cruse.org.uk."
+    },
+    {
+      "community_id": "reddit-r-widowers",
+      "name": "r/widowers",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/widowers/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "prolonged-grief-disorder",
+        "grief-and-bereavement"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "For people who have lost a spouse or partner; seen in tracker listing only."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules, check moderation and crisis resources; record member count."
+    }
+  ]
+}

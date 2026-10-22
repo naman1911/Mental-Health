@@ -1,0 +1,190 @@
+{
+  "topic_id": "anorexia-nervosa",
+  "official_name": "Anorexia Nervosa",
+  "plain_title": "When fear of food and weight takes over",
+  "also_known_as": [
+    "anorexia",
+    "AN"
+  ],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F50.01x / F50.02x (by type, severity, remission)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with anorexia'. Never 'an anorexic'. No weights, BMIs, calories, or food amounts anywhere on this card, following safe-messaging guidance for eating disorders.",
+  "one_liner": "A serious illness where eating becomes severely restricted and fear of gaining weight takes over thinking and life.",
+  "in_simple_words": "Anorexia nervosa is an illness, not a choice or a diet gone too far. A person eats far less than their body needs, feels intense fear of gaining weight, and sees their body differently from how others see it. It affects the brain, heart, bones, and mood, and it can be life-threatening. It happens to people of every size, gender, age, and background. Full recovery is possible, and getting help early makes it more likely.",
+  "what_it_can_feel_like": [
+    "Food rules felt like the one thing I could control, until they controlled me.",
+    "Everyone said I looked ill. I honestly couldn't see it.",
+    "Recovery was the hardest and best thing I've done. The voice got quieter."
+  ],
+  "common_signs": [
+    "Eating much less, skipping meals, or cutting out whole food groups",
+    "Intense fear of gaining weight, even when others are worried about health",
+    "Seeing your body very differently from how others see it",
+    "Thinking about food, weight, or exercise most of the day",
+    "Feeling cold, tired, dizzy, or low; periods may stop",
+    "Pulling away from meals with friends and family"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "You can tell someone has anorexia by looking at them.",
+      "fact": "You can't. People at any size can have anorexia and be seriously unwell. 'Atypical anorexia' is just as dangerous."
+    },
+    {
+      "myth": "It's a girls' illness, a phase, or about vanity.",
+      "fact": "It affects boys, men, and people of all genders and ages, and it is a serious mental illness with the highest death rate of any."
+    },
+    {
+      "myth": "They just need to eat.",
+      "fact": "Eating is the treatment, and the illness makes it terrifying. Recovery needs skilled, patient support, not pressure or blame."
+    }
+  ],
+  "how_common": {
+    "plain": "Fewer than 1 in 100 US adults have had anorexia nervosa in their lifetime, with women affected about three times as often as men. Many more people have eating disorders that don't fit one label exactly.",
+    "figure": "0.6% lifetime prevalence among US adults (0.9% women, 0.3% men), NCS-R 2001–2003",
+    "source_ref": "src-nimh-stats",
+    "note": "A later US survey (NESARC-III, DSM-5 criteria) found 0.8%. Figures for teens and for other countries to be added when verified."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment works best with a team: a doctor to check physical health, a therapist, and often a dietitian. For teenagers, family-based treatment, where parents help with meals, has the best evidence. For adults, specialist talking therapies for eating disorders are first-line. Medication is never the only treatment. Some people need a hospital stay to get physically safe first.",
+    "evidence_based_options": [
+      "Family-based treatment (anorexia-focused family therapy) for children and teenagers",
+      "Specialist talking therapies for adults: CBT for eating disorders (CBT-ED), MANTRA, or specialist supportive clinical management (SSCM)",
+      "Regular physical health monitoring by a doctor",
+      "Hospital or day-programme care when physical health or safety requires it"
+    ],
+    "self_help_that_supports_care": [
+      "Telling one trusted person what is happening",
+      "Contacting an eating-disorder helpline or online support group",
+      "Unfollowing accounts that promote dieting or body comparison",
+      "Being patient with yourself: recovery is not a straight line"
+    ],
+    "guideline_refs": [
+      "src-nice-ng69"
+    ]
+  },
+  "when_to_reach_out": "If food, weight, or exercise rules are taking over your days, if you are frightened of eating, or if someone who cares about you is worried, please talk to a doctor or an eating-disorder helpline now. Don't wait until it 'looks serious'. If you feel faint, have chest pain, or have thoughts of ending your life, get urgent help.",
+  "is_not": "Dieting, healthy eating, or being naturally slim are not anorexia. Anorexia is driven by fear and distress, takes over life, and harms health. Avoiding food because of taste, texture, or fear of choking without fear of weight gain is more likely ARFID, a different condition.",
+  "hope_note": "People recover fully from anorexia, including after many years. Every step toward eating is a step toward getting your life and mind back.",
+  "in_young_people": "Anorexia often starts in the early to mid teens. In children it can show up as 'picky' eating, refusing to eat with family, sudden exercise, or stopping growing. Parents are the most important part of a young person's recovery team.",
+  "across_cultures": "Anorexia is found worldwide, and it is often missed in boys, in people of colour, and in people whose bodies don't match the stereotype. In some communities, food refusal is explained through fasting, religion, or 'fussiness' first. Treatment that respects family and food culture works better.",
+  "sub_sections": [
+    {
+      "title": "Atypical anorexia nervosa",
+      "icd10cm_code": "F50.89 (other specified feeding or eating disorder)",
+      "text": "All the same thoughts, fears, and behaviours, but the person's weight stays in or above the typical range. It is just as serious and needs the same care."
+    },
+    {
+      "title": "Restricting and binge-eating/purging types",
+      "icd10cm_code": "F50.01x / F50.02x",
+      "text": "Some people only restrict; others also have episodes of eating a lot or trying to 'undo' eating. Both are anorexia and both are treatable."
+    }
+  ],
+  "related_topics": [
+    "bulimia-nervosa",
+    "binge-eating-disorder",
+    "avoidant-restrictive-food-intake-disorder",
+    "body-dysmorphic-disorder",
+    "obsessive-compulsive-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "restriction",
+    "body-image",
+    "diet-culture",
+    "orthorexia",
+    "family-therapy",
+    "cbt-e",
+    "remission",
+    "relapse",
+    "inpatient"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food, anywhere on this card.",
+      "No 'how to' behaviours or descriptions of purging methods.",
+      "Crisis strip required; eating-disorder helplines shown alongside suicide lines.",
+      "Illustration must not show a thin body, scales, measuring tape, or food being refused."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of two people of unspecified body shape sitting at a small kitchen table sharing tea, warm light from a window, a plant on the sill. Pastel sage and peach. No scales, mirrors, food close-ups, or thin bodies.",
+    "alt_text": "Two people share tea at a small kitchen table in warm window light, with a plant on the sill."
+  },
+  "communities": [
+    "beat-uk-helpline-and-online-groups",
+    "beat-uk-carers-peer-support",
+    "butterfly-foundation-helpline",
+    "reddit-r-eatingdisorders",
+    "reddit-r-fuckeatingdisorders"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Eating Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nice-ng69",
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng69",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2017,
+      "note": "Recommendations seen only via secondary summaries; must be confirmed on the NICE page."
+    },
+    {
+      "id": "src-udo-grilo-2018",
+      "title": "Prevalence and correlates of DSM-5-defined eating disorders in a nationally representative sample of U.S. adults",
+      "publisher": "Biological Psychiatry (Udo & Grilo)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097933/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018
+    },
+    {
+      "id": "src-beat-info",
+      "title": "Anorexia nervosa",
+      "publisher": "Beat (UK)",
+      "url": "https://www.beateatingdisorders.org.uk/get-information-and-support/about-eating-disorders/types/anorexia/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "High-sensitivity card: clinician and lived-experience review required before publication.",
+      "Confirm the 'highest death rate of any mental illness' claim against a current source (commonly cited; often compared with opioid use disorder) or soften it.",
+      "Confirm NICE NG69 adult therapy list on the live page."
+    ]
+  }
+}

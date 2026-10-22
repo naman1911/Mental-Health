@@ -1,0 +1,204 @@
+{
+  "topic_id": "autism-spectrum-disorder",
+  "official_name": "Autism Spectrum Disorder",
+  "plain_title": "A different way of experiencing the world",
+  "also_known_as": [
+    "autism",
+    "ASD",
+    "Asperger's (older term, no longer used in DSM)"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F84.0",
+  "language_convention": "identity-first",
+  "language_convention_note": "'Autistic person' and 'autistic people', following the stated preference of the Autistic Self Advocacy Network and most autistic adults surveyed. Some families and clinicians prefer 'person with autism'; both appear in this card's sources.",
+  "one_liner": "A lifelong difference in how a person communicates, relates to others, senses the world, and handles change.",
+  "in_simple_words": "Autism is a neurodevelopmental difference: the brain is wired differently from birth. Autistic people often communicate and socialize in their own way, feel sounds, lights, and textures more or less strongly, prefer routine, and have deep interests. Every autistic person is different, and support needs vary a lot. Autism is not an illness to cure. The DSM calls it a 'disorder' because these differences can make life in a non-autistic world hard without the right support.",
+  "what_it_can_feel_like": [
+    "Small talk is like a language I never learned, but give me my topic and I can talk for hours.",
+    "The supermarket is lights, beeps, and smells all at once. I need my headphones.",
+    "Being diagnosed at 35 explained my whole life. I wasn't broken. I was autistic.",
+    "Routine isn't boring to me. It's what makes the world safe enough to enjoy."
+  ],
+  "common_signs": [
+    "Finding eye contact, small talk, or reading social cues hard or tiring",
+    "Communicating differently: very direct, very literal, or with few or no words",
+    "Strong reactions to sounds, lights, textures, or smells",
+    "Deep, focused interests and real expertise in them",
+    "Needing routine and finding sudden change very hard",
+    "Repeated movements like rocking or hand-flapping that help with calm"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Autistic people don't feel empathy or want friends.",
+      "fact": "Most autistic people feel deeply and want connection. They may show it differently, and non-autistic people often misread it."
+    },
+    {
+      "myth": "Vaccines cause autism.",
+      "fact": "Large studies in many countries have found no link. Autism is mostly genetic and is present from birth."
+    },
+    {
+      "myth": "Autism is a childhood condition, or only affects boys.",
+      "fact": "Autistic children become autistic adults. Girls, women, and nonbinary people are often diagnosed late because they mask more."
+    },
+    {
+      "myth": "Autistic people are either geniuses or can't do anything.",
+      "fact": "Autistic people have the full range of abilities. Support needs vary, and many need a lot of support in some areas and none in others."
+    }
+  ],
+  "how_common": {
+    "plain": "In the US, about 1 in every 31 eight-year-olds has been identified as autistic. Rates have risen mainly because of better awareness and wider criteria.",
+    "figure": "1 in 31 (3.2%) of 8-year-olds in 2022, CDC ADDM Network, published April 2025",
+    "source_ref": "src-cdc-addm",
+    "note": "Adult figures are less certain and generally lower because many adults were never assessed. UK and Australian figures to be added once verified."
+  },
+  "what_helps": {
+    "plain_summary": "There is no treatment for autism itself, and none is needed. What helps is support that fits the person: early support for communication and daily skills, adjustments at school and work, sensory tools, and help for things that often come alongside autism like anxiety, sleep problems, or depression. Autistic adults say the most useful things are being understood, accepted, and allowed to be autistic. Medication is not used for autism's core features, only for co-occurring conditions, prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Early, play-based support for communication and daily living, involving parents (children)",
+      "Speech and language therapy and occupational therapy, including sensory strategies",
+      "Reasonable adjustments at school and work, such as quiet spaces, written instructions, and predictable routines",
+      "Adapted CBT for anxiety or depression when they occur alongside autism"
+    ],
+    "self_help_that_supports_care": [
+      "Connecting with other autistic people online or in person",
+      "Sensory tools: noise-cancelling headphones, sunglasses, fidgets, a quiet space",
+      "Building routines and planning for transitions and change",
+      "Unmasking where it's safe: letting yourself stim, rest, and be direct"
+    ],
+    "guideline_refs": [
+      "src-nice-cg170",
+      "src-nice-cg142"
+    ]
+  },
+  "when_to_reach_out": "If you recognize yourself or your child here and it's causing struggle at school, work, or in daily life, ask a doctor about an autism assessment. Waits can be long, so ask what support is available in the meantime. Seek help promptly for burnout, depression, or thoughts of self-harm, which are more common in autistic people.",
+  "is_not": "Being shy, introverted, or socially awkward is not autism. Autism is lifelong and involves sensory and communication differences together, from early childhood. ADHD, social anxiety, and OCD can look similar in places and often co-occur, which is why assessment matters.",
+  "hope_note": "Autistic people are living, working, creating, and leading in every field. The right understanding and adjustments turn 'struggling' into 'thriving'.",
+  "strengths_and_differences": "Many autistic people bring deep focus, honesty, pattern-spotting, memory for detail, loyalty, and a strong sense of fairness. These are differences, not deficits. At the same time, some autistic people need substantial daily support, and that need is just as valid. The autism community uses 'support needs' rather than 'high-' or 'low-functioning' labels.",
+  "in_young_people": "Signs are often noticed by age two or three: differences in pointing, eye contact, responding to their name, play, and speech. Some children are identified much later, especially girls and children who mask. Early support helps, and so does acceptance at home and school.",
+  "across_cultures": "Autism exists in every culture, but what counts as 'typical' social behaviour differs, so signs can be read differently. Diagnosis comes later, on average, for children from minority and lower-income families. Some languages have no word for autism, and stigma can keep families from seeking help.",
+  "sub_sections": [
+    {
+      "title": "Support levels",
+      "icd10cm_code": "F84.0",
+      "text": "The DSM describes three levels of support need (requiring support, substantial support, or very substantial support), for social communication and for restricted or repetitive behaviours separately. Levels can change over time."
+    },
+    {
+      "title": "Co-occurring conditions",
+      "text": "Autism often goes together with ADHD, anxiety, depression, learning differences, epilepsy, sleep problems, and gut issues. Each deserves its own support."
+    }
+  ],
+  "related_topics": [
+    "adhd",
+    "intellectual-developmental-disorder",
+    "communication-disorders",
+    "social-anxiety-disorder",
+    "obsessive-compulsive-disorder"
+  ],
+  "glossary_terms": [
+    "stimming",
+    "masking",
+    "meltdown",
+    "shutdown",
+    "sensory-sensitivity",
+    "special-interest",
+    "autistic-burnout",
+    "neurodivergent",
+    "late-diagnosis",
+    "person-first-identity-first"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Autistic people have raised rates of suicidal thoughts; the site-wide crisis link stays one tap away, and the 'when to reach out' text points to it.",
+      "No puzzle-piece imagery; many autistic adults reject it."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a person wearing headphones happily arranging a collection of shells by colour on a windowsill, with a cat nearby and a calm garden outside. Pastel green and sand. No puzzle pieces.",
+    "alt_text": "A person wearing headphones arranges shells by colour on a windowsill while a cat watches, with a garden outside."
+  },
+  "communities": [
+    "reddit-r-autism",
+    "reddit-r-autisticadults",
+    "reddit-r-autisminwomen",
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cdc-addm",
+      "title": "Prevalence and Early Identification of Autism Spectrum Disorder Among Children Aged 4 and 8 Years, ADDM Network, 2022",
+      "publisher": "CDC, Morbidity and Mortality Weekly Report",
+      "url": "https://www.cdc.gov/mmwr/volumes/74/ss/ss7402a1.htm",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2025,
+      "note": "MMWR URL from memory; the 1-in-31 figure was confirmed via multiple news and university summaries. Must be confirmed on cdc.gov."
+    },
+    {
+      "id": "src-nice-cg170",
+      "title": "Autism spectrum disorder in under 19s: support and management (CG170)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg170",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2013
+    },
+    {
+      "id": "src-nice-cg142",
+      "title": "Autism spectrum disorder in adults: diagnosis and management (CG142)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg142",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2012
+    },
+    {
+      "id": "src-asan-language",
+      "title": "Identity-First Language",
+      "publisher": "Autistic Self Advocacy Network",
+      "url": "https://autisticadvocacy.org/about-asan/identity-first-language/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nimh-autism",
+      "title": "Autism Spectrum Disorder (health topic)",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Ask autistic reviewers to check tone and the strengths section.",
+      "Confirm CDC MMWR URL.",
+      "Add adult prevalence figure with a verified source."
+    ]
+  }
+}

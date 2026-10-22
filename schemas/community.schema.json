@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/naman1911/Mental-Health/schemas/community.schema.json",
+  "title": "Community directory",
+  "type": "object",
+  "required": ["generated_on", "communities"],
+  "properties": {
+    "generated_on": {"type": "string", "format": "date"},
+    "notes": {"type": "string"},
+    "communities": {"type": "array", "items": {"$ref": "#/$defs/community"}}
+  },
+  "$defs": {
+    "community": {
+      "type": "object",
+      "required": ["community_id", "name", "platform", "url", "type", "audience", "for", "topics", "region", "language", "cost", "size", "last_activity_seen", "moderation", "safety_notes", "verification_status", "verified_on", "reviewer_notes"],
+      "additionalProperties": false,
+      "properties": {
+        "community_id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+        "name": {"type": "string"},
+        "platform": {"type": "string", "enum": ["reddit", "discord", "nonprofit-forum", "healthunlocked", "7cups", "video-meeting", "in-person", "phone", "text", "web"]},
+        "url": {"type": "string", "pattern": "^https://"},
+        "type": {"type": "string", "enum": ["peer-forum", "subreddit", "discord", "online-group-meeting", "in-person-group-finder", "helpline", "text-line", "org-resource-hub"]},
+        "audience": {"type": "array", "items": {"type": "string"}},
+        "for": {"type": "string", "enum": ["people-with-experience", "family-and-carers", "both", "professionals"]},
+        "topics": {"type": "array", "items": {"type": "string"}},
+        "region": {"type": "string"},
+        "language": {"type": "string"},
+        "cost": {"type": "string"},
+        "size": {"type": "object", "required": ["members", "as_of"], "properties": {"members": {"type": ["integer", "null"]}, "as_of": {"type": ["string", "null"]}, "note": {"type": "string"}}},
+        "last_activity_seen": {"type": ["string", "null"]},
+        "moderation": {"type": "object", "required": ["has_rules", "active_mods", "pins_crisis_resources", "notes"],
+          "properties": {"has_rules": {"type": ["boolean", "null"]}, "active_mods": {"type": ["boolean", "null"]}, "pins_crisis_resources": {"type": ["boolean", "null"]}, "notes": {"type": "string"}}},
+        "safety_notes": {"type": "string"},
+        "verification_status": {"type": "string", "enum": ["verified", "needs_verification", "excluded"]},
+        "verified_on": {"type": ["string", "null"]},
+        "reviewer_notes": {"type": "string"}
+      }
+    }
+  }
+}
