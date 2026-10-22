@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plain-Language DSM Cards</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Fraunces:opsz,wght@9..144,400;9..144,600&display=swap">
+<style>
+/* Layout: sticky header with view tabs; a chapter rail on wide screens, stacked on phones; card pages follow docs/design-system.md section 5. Colours come straight from data/design-tokens.json. */
+:root{
+  --page:#fbfaf7;--card:#ffffff;--raised:#f3f1ec;
+  --ink:#23272f;--ink-2:#4b515c;--ink-3:#6b7280;--link:#2d5f8a;
+  --line:#e6e3dc;--line-2:#cfcbc2;
+  --crisis-bg:#fde8e6;--crisis-border:#c0392b;--crisis-ink:#6e1b14;--crisis-btn:#b8321f;--crisis-btn-ink:#ffffff;
+  --caution-bg:#fff4dc;--caution-ink:#6b4a00;--info-bg:#e6f0fa;--info-ink:#1f4e79;--ok-bg:#e6f4ea;--ok-ink:#1e5a35;
+  --tint:#eef0f5;--accent:#3d4f6b;--chip:#e2e6ee;--border:#b9c1d1;
+  --shadow:0 1px 2px rgba(35,39,47,.06),0 8px 24px rgba(35,39,47,.06);
+  --sans:"Atkinson Hyperlegible","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --display:"Fraunces","Georgia",serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --page:#15171c;--card:#1d2027;--raised:#262a33;--ink:#e9e7e1;--ink-2:#b5b3ac;--ink-3:#8e9099;--link:#8fbfe8;--line:#2b2f38;--line-2:#3b404b;
+  --crisis-bg:#3a1a17;--crisis-border:#f0948a;--crisis-ink:#ffd9d4;--crisis-btn:#f0948a;--crisis-btn-ink:#2a0f0c;
+  --caution-bg:#332a14;--caution-ink:#f0d28a;--info-bg:#1b2a3a;--info-ink:#9cc7f0;--ok-bg:#1b2e22;--ok-ink:#9fd7b1;
+  --tint:#1f2330;--accent:#aab7d4;--chip:#2a2f3d;--border:#4a5367;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}}
+:root[data-theme="dark"]{
+  --page:#15171c;--card:#1d2027;--raised:#262a33;--ink:#e9e7e1;--ink-2:#b5b3ac;--ink-3:#8e9099;--link:#8fbfe8;--line:#2b2f38;--line-2:#3b404b;
+  --crisis-bg:#3a1a17;--crisis-border:#f0948a;--crisis-ink:#ffd9d4;--crisis-btn:#f0948a;--crisis-btn-ink:#2a0f0c;
+  --caution-bg:#332a14;--caution-ink:#f0d28a;--info-bg:#1b2a3a;--info-ink:#9cc7f0;--ok-bg:#1b2e22;--ok-ink:#9fd7b1;
+  --tint:#1f2330;--accent:#aab7d4;--chip:#2a2f3d;--border:#4a5367;--shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--page);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.6;margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--page)}
+a{color:var(--link)}
+h1,h2,h3{text-wrap:balance;line-height:1.2;margin:0}
+.wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));max-width:1180px;margin:0 auto}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--page);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;padding-block:.6rem}
+.brand{font-family:var(--display);font-size:1.25rem;font-weight:600;text-decoration:none;color:var(--ink);margin-right:auto}
+.tabs{display:flex;flex-wrap:wrap;gap:.25rem}
+.tabs button,.btn{font:inherit;font-size:.9375rem;border:1px solid var(--line-2);background:var(--card);color:var(--ink);padding:.35rem .8rem;border-radius:999px;cursor:pointer}
+.tabs button[aria-current="true"]{background:var(--ink);color:var(--page);border-color:var(--ink)}
+.tabs button:focus-visible,.btn:focus-visible,.card-link:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--border);outline-offset:2px}
+main .wrap{padding-block:1.5rem 4rem}
+.lede{color:var(--ink-2);max-width:66ch}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:.75rem;margin:1.25rem 0}
+.stat{background:var(--raised);border-radius:.875rem;padding:.8rem 1rem}
+.stat b{display:block;font-size:1.5rem;font-family:var(--display);font-weight:600;font-variant-numeric:tabular-nums}
+.stat span{font-size:.8125rem;color:var(--ink-3);letter-spacing:.04em;text-transform:uppercase}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem;margin-top:1rem}
+.chapter{display:flex;gap:.75rem;align-items:flex-start;background:var(--tint);border-radius:1.25rem;padding:1rem;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);min-width:0}
+.chapter .ic{flex:none;width:44px;height:44px;border-radius:12px;background:var(--card);display:grid;place-items:center;color:var(--accent)}
+.chapter b{font-family:var(--display);font-size:1.1rem;font-weight:600;color:var(--accent)}
+.chapter small{display:block;color:var(--ink-2);font-size:.9rem}
+.card-link{display:block;background:var(--card);border-radius:1.25rem;padding:1rem 1.1rem;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);border-top:4px solid var(--accent);min-width:0}
+.card-link h3{font-family:var(--display);font-weight:600;font-size:1.2rem;color:var(--accent)}
+.card-link .off{font-size:.875rem;color:var(--ink-3)}
+.card-link p{margin:.4rem 0 0;font-size:.95rem;color:var(--ink-2)}
+.row{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.chipx{display:inline-block;font-size:.8125rem;padding:.15rem .6rem;border-radius:999px;background:var(--chip);color:var(--ink)}
+.chipx.cau{background:var(--caution-bg);color:var(--caution-ink)}
+.chipx.ok{background:var(--ok-bg);color:var(--ok-ink)}
+.chipx.info{background:var(--info-bg);color:var(--info-ink)}
+.chipx.cris{background:var(--crisis-bg);color:var(--crisis-ink)}
+.toolbar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1rem 0}
+select,input[type=search]{font:inherit;font-size:.95rem;padding:.4rem .6rem;border:1px solid var(--line-2);border-radius:.75rem;background:var(--card);color:var(--ink);max-width:100%}
+/* card page */
+.head{background:var(--tint);border-radius:1.25rem;padding:1.25rem 1.5rem;box-shadow:var(--shadow)}
+.crumb{font-size:.8125rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-weight:700;display:flex;gap:.5rem;align-items:center}
+.head h1{font-family:var(--display);font-weight:600;font-size:clamp(1.7rem,3.5vw,2.375rem);letter-spacing:-.01em;margin:.4rem 0 .3rem}
+.official{color:var(--ink-2);font-size:.9375rem}
+.official code{font-family:ui-monospace,"JetBrains Mono",monospace;font-size:.85rem;background:var(--card);padding:.05rem .4rem;border-radius:.4rem}
+.layout{display:grid;grid-template-columns:minmax(0,1fr);gap:1.25rem;margin-top:1.25rem}
+@media (min-width:860px){.layout{grid-template-columns:minmax(0,1fr) 320px}}
+.body>section{margin-bottom:1.5rem;min-width:0}
+.label{font-size:.8125rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin:0 0 .4rem;display:flex;gap:.4rem;align-items:center}
+.one{font-size:1.25rem;line-height:1.45;max-width:58ch}
+.body p{max-width:66ch;margin:.3rem 0}
+.quotes{background:var(--tint);border-radius:1rem;padding:.9rem 1.1rem;display:grid;gap:.6rem}
+.quotes p{margin:0;font-style:italic}
+.quotes p::before{content:"\201C";color:var(--accent);font-family:var(--display);font-size:1.4em;line-height:0;margin-right:.2rem}
+ul.plain{margin:.2rem 0 0;padding-left:1.2rem}
+ul.plain li{margin:.2rem 0}
+.note{font-size:.9rem;color:var(--ink-3)}
+.mf{display:grid;gap:.6rem}
+@media (min-width:700px){.mf{grid-template-columns:1fr 1fr}}
+.mf div{background:var(--card);border:1px solid var(--line);border-radius:.875rem;padding:.7rem .9rem}
+.mf .m{color:var(--ink-3)}
+.mf b{display:block;font-size:.8125rem;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3)}
+details{background:var(--raised);border-radius:.875rem;padding:.5rem .9rem}
+summary{cursor:pointer;font-weight:700;font-size:.95rem}
+.reach{background:var(--raised);border-radius:1rem;padding:.9rem 1.1rem}
+.hope{border-left:4px solid var(--accent);padding-left:1rem}
+.crisis{background:var(--crisis-bg);border-left:4px solid var(--crisis-border);color:var(--crisis-ink);border-radius:0 1rem 1rem 0;padding:.9rem 1.1rem;margin:1rem 0}
+.crisis p{margin:0 0 .5rem;max-width:66ch}
+.crisis .row{gap:.5rem}
+.cbtn{display:inline-block;background:var(--crisis-btn);color:var(--crisis-btn-ink);text-decoration:none;font-weight:700;padding:.5rem .9rem;border-radius:.875rem;min-height:44px;line-height:1.3}
+.cbtn small{display:block;font-weight:400;font-size:.8rem}
+aside{display:grid;gap:1rem;align-content:start;min-width:0}
+.panel{background:var(--card);border-radius:1.25rem;padding:1rem 1.1rem;box-shadow:var(--shadow)}
+.panel h2{font-family:var(--display);font-weight:600;font-size:1.2rem}
+.panel .sub{font-size:.875rem;color:var(--ink-3);margin:.1rem 0 .7rem}
+.comm{border-top:1px solid var(--line);padding:.6rem 0}
+.comm b{display:block}
+.comm small{display:block;color:var(--ink-2);font-size:.875rem}
+.gl{border-bottom:1px dotted var(--accent);cursor:pointer;background:none;border-top:0;border-left:0;border-right:0;font:inherit;color:var(--ink);padding:0}
+.src li{font-size:.9rem;margin:.3rem 0}
+.foot{font-size:.875rem;color:var(--ink-3);border-top:1px solid var(--line);padding-top:.8rem;margin-top:1rem}
+.rel{display:flex;flex-wrap:wrap;gap:.4rem}
+.rel a{text-decoration:none;background:var(--chip);color:var(--ink);padding:.2rem .65rem;border-radius:999px;font-size:.9rem}
+table{border-collapse:collapse;width:100%;font-size:.95rem}
+th,td{text-align:left;padding:.5rem .6rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:.8125rem;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3)}
+.tablewrap{overflow-x:auto}
+.sw{display:inline-block;width:1.1em;height:1.1em;border-radius:.3em;vertical-align:-.2em;margin-right:.3em;border:1px solid var(--line-2)}
+.pop{position:fixed;left:50%;bottom:max(16px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);width:min(92vw,520px);background:var(--card);color:var(--ink);box-shadow:var(--shadow);border:1px solid var(--line-2);border-radius:1rem;padding:1rem 1.1rem;z-index:20}
+.pop h3{font-family:var(--display);font-weight:600}
+.pop button{float:right;font:inherit;background:none;border:0;color:var(--link);cursor:pointer}
+.empty{color:var(--ink-3);padding:2rem 0}
+@media (prefers-reduced-motion:no-preference){.card-link,.chapter{transition:transform .2s cubic-bezier(.2,0,0,1)}.card-link:hover,.chapter:hover{transform:translateY(-2px)}}
+</style>
+
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#home" id="brand">Plain-Language DSM Cards</a>
+  <nav class="tabs" aria-label="Sections">
+    <button data-view="home">Chapters</button>
+    <button data-view="communities">Communities</button>
+    <button data-view="crisis">Crisis lines</button>
+    <button data-view="glossary">Glossary</button>
+    <button data-view="design">Design tokens</button>
+    <button data-view="about">About this preview</button>
+  </nav>
+</div></header>
+<main><div class="wrap" id="app"><p class="empty">Loading the card data…</p></div></main>
+<div id="pop" class="pop" hidden role="dialog" aria-label="Glossary term"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+<script>
+const app=document.getElementById('app');
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let DATA={};
+const state={country:'US'};
+try{state.country=localStorage.getItem('country')||'US'}catch(e){}
+const isDark=()=>document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
+function icon(name,size=20){return `<i data-lucide="${esc(name)}" style="width:${size}px;height:${size}px"></i>`;}
+function chapterVars(cid){const t=DATA.tokens.color.chapters[cid];if(!t)return'';const m=isDark()?t.dark:t.light;return `--tint:${m.tint};--accent:${m.accent};--chip:${m.chip};--border:${m.border}`;}
+function render(){
+  const h=(location.hash||'#home').slice(1);
+  document.querySelectorAll('.tabs button').forEach(b=>b.setAttribute('aria-current',String(b.dataset.view===h||(h.startsWith('ch-')||DATA.cards[h])&&b.dataset.view==='home')));
+  if(h==='home')return home();
+  if(h==='communities')return communities();
+  if(h==='crisis')return crisis();
+  if(h==='glossary')return glossary();
+  if(h==='design')return design();
+  if(h==='about')return about();
+  if(h.startsWith('ch-'))return chapter(h.slice(3));
+  if(DATA.cards[h])return card(h);
+  home();
+}
+function finish(){window.scrollTo(0,0);if(window.lucide)lucide.createIcons();}
+function home(){
+  const t=DATA.taxonomy,cards=DATA.cards;const n=Object.keys(cards).length;
+  const comms=DATA.communities.communities.length,lines=DATA.crisis.lines.length;
+  const hi=Object.values(cards).filter(c=>c.safety.sensitivity_level!=='standard').length;
+  const grade=(Object.values(cards).reduce((a,c)=>a+c.review.reading_grade_estimate,0)/n).toFixed(1);
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600;font-size:clamp(1.8rem,4vw,2.6rem)">Every DSM-5-TR topic, explained plainly</h1>
+  <p class="lede">A preview built from the project's data files. Pick a chapter, then a card. Nothing here diagnoses anyone; every card ends with where to find people who get it.</p>
+  <div class="stats">
+    <div class="stat"><b>${n}</b><span>cards</span></div><div class="stat"><b>${t.chapters.length}</b><span>chapters</span></div>
+    <div class="stat"><b>${DATA.glossary.terms.length}</b><span>glossary terms</span></div><div class="stat"><b>${comms}</b><span>communities</span></div>
+    <div class="stat"><b>${lines}</b><span>crisis lines</span></div><div class="stat"><b>${hi}</b><span>cards with crisis strip</span></div><div class="stat"><b>${grade}</b><span>mean reading grade</span></div>
+  </div>
+  <div class="grid">${t.chapters.map(ch=>`<a class="chapter" style="${chapterVars(ch.chapter_id)}" href="#ch-${ch.chapter_id}"><span class="ic">${icon(ch.icon,26)}</span><span style="min-width:0"><b>${esc(ch.plain_name)}</b><small>${esc(ch.official_name)}</small><small>${ch.topics.length} card${ch.topics.length===1?'':'s'}</small></span></a>`).join('')}</div>`;
+  finish();
+}
+function chapter(cid){
+  const ch=DATA.taxonomy.chapters.find(c=>c.chapter_id===cid);if(!ch)return home();
+  app.innerHTML=`<div class="head" style="${chapterVars(cid)}"><div class="crumb">${icon(ch.icon,18)} <a href="#home" style="color:inherit">Chapters</a> / ${esc(ch.official_name)}</div><h1>${esc(ch.plain_name)}</h1><p class="lede">${esc(ch.plain_summary||'')}</p></div>
+  <div class="grid">${ch.topics.map(tp=>{const c=DATA.cards[tp.topic_id];if(!c)return'';return `<a class="card-link" style="${chapterVars(cid)}" href="#${tp.topic_id}"><h3>${esc(c.plain_title)}</h3><div class="off">${esc(c.official_name)}</div><p>${esc(c.one_liner)}</p><div class="row" style="margin-top:.5rem">${c.safety.sensitivity_level!=='standard'?`<span class="chipx cris">${esc(c.safety.sensitivity_level)} · crisis strip</span>`:''}<span class="chipx">${esc(c.card_type)}</span></div></a>`}).join('')}</div>`;
+  finish();
+}
+function crisisStrip(c){
+  const L=DATA.crisis.lines.filter(l=>l.country===state.country&&l.priority===1);
+  const G=DATA.crisis.global_fallbacks[0];
+  const opts=['US','GB','IE','CA','AU','IN'].map(k=>`<option value="${k}" ${k===state.country?'selected':''}>${({US:'United States',GB:'United Kingdom',IE:'Ireland',CA:'Canada',AU:'Australia',IN:'India'})[k]}</option>`).join('');
+  return `<div class="crisis" role="region" aria-label="Crisis help">${icon('life-buoy',20)} <p><strong>If you're in danger or can't keep yourself safe right now, reach out.</strong> Lines for <label>your country: <select id="country" style="font-size:.9rem">${opts}</select></label></p>
+  <div class="row">${L.map(l=>{const c=l.contact;const main=c.phone?`Call ${c.phone}`:c.sms_number?`Text ${c.sms_keyword?c.sms_keyword+' to ':''}${c.sms_number}`:'Open';return `<span class="cbtn">${esc(main)}<small>${esc(l.name)}${c.sms_number&&c.phone?` · text ${esc((c.sms_keyword?c.sms_keyword+' to ':'')+c.sms_number)}`:''}</small></span>`}).join('')}<a class="cbtn" href="${esc(G.contact.chat_url)}" target="_blank" rel="noopener">More countries<small>${esc(G.name)}</small></a></div>
+  <p class="note" style="color:inherit;opacity:.85;margin-top:.5rem">Numbers are shown as text so you can copy them. All lines are marked needs-verification until a reviewer opens each one.</p></div>`;
+}
+function card(id){
+  const c=DATA.cards[id];const ch=DATA.taxonomy.chapters.find(x=>x.chapter_id===c.chapter_id);
+  const vars=chapterVars(c.chapter_id);const sens=c.safety.sensitivity_level;
+  const gl=id=>{const t=DATA.glossary.terms.find(x=>x.term_id===id);return t?`<button class="gl" data-term="${esc(id)}">${esc(t.term)}</button>`:esc(id)};
+  const comms=c.communities.map(cid=>DATA.communities.communities.find(x=>x.community_id===cid)).filter(Boolean);
+  const vbadge=s=>s==='verified'?`<span class="chipx ok">${icon('badge-check',14)} verified</span>`:`<span class="chipx cau">${icon('badge-help',14)} needs verification</span>`;
+  const medNote=/medicat|medicine/i.test(JSON.stringify(c.what_helps))?`<p class="chipx cau" style="display:inline-block">Medication is always prescribed and monitored by a doctor.</p>`:'';
+  app.innerHTML=`<div style="${vars}">
+  <div class="head"><div class="crumb">${icon(ch.icon,18)} <a href="#home" style="color:inherit">Chapters</a> / <a href="#ch-${ch.chapter_id}" style="color:inherit">${esc(ch.plain_name)}</a></div>
+    <h1>${esc(c.plain_title)}</h1>
+    <div class="official">${esc(c.official_name)} <code>${esc(c.icd10cm_code)}</code></div>
+    <div class="row" style="margin-top:.6rem">${c.also_known_as.map(a=>`<span class="chipx">${esc(a)}</span>`).join('')}</div>
+    ${c.language_convention_note?`<p class="note" style="margin:.6rem 0 0">${esc(c.language_convention_note)}</p>`:''}
+  </div>
+  ${sens!=='standard'?`<div class="row" style="margin-top:.8rem"><span class="chipx ${sens==='high'?'cris':''}">${icon(sens==='high'?'heart-handshake':'life-buoy',14)} ${sens==='high'?'High':'Elevated'} sensitivity</span></div>`:''}
+  ${c.safety.show_crisis_strip?crisisStrip(c):''}
+  <div class="layout"><div class="body">
+    <section><p class="one">${esc(c.one_liner)}</p></section>
+    <section><h2 class="label">In simple words</h2><p>${esc(c.in_simple_words)}</p></section>
+    <section><h2 class="label">${icon('message-circle',16)} What it can feel like</h2><div class="quotes">${c.what_it_can_feel_like.map(q=>`<p>${esc(q)}</p>`).join('')}</div><p class="note">Composite quotes written for this project, not real testimonials.</p></section>
+    <section><h2 class="label">Common signs</h2><p class="note">Lists like this describe, they don't diagnose. Only a clinician can do that.</p><ul class="plain">${c.common_signs.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></section>
+    <section><h2 class="label">Myths vs facts</h2><div class="mf">${c.myths_vs_facts.map(m=>`<div><b>${icon('x-circle',14)} Myth</b><p class="m">${esc(m.myth)}</p><b>${icon('check-circle',14)} Fact</b><p>${esc(m.fact)}</p></div>`).join('')}</div></section>
+    <section><h2 class="label">How common</h2><p>${esc(c.how_common.plain)}</p>${c.how_common.figure&&c.how_common.figure!=='n/a'&&!(sens==='high'&&ch.chapter_id==='eating')?`<details><summary>See the number</summary><p>${esc(c.how_common.figure)}</p><p class="note">Source: ${esc(c.how_common.source_ref)}${c.how_common.note?` · ${esc(c.how_common.note)}`:''}</p></details>`:''}</section>
+    <section><h2 class="label">${icon('sun',16)} What helps</h2><p>${esc(c.what_helps.plain_summary)}</p>${medNote}
+      <p><b>Evidence-based options</b></p><ul class="plain">${c.what_helps.evidence_based_options.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>
+      <p><b>Self-help that supports care</b></p><ul class="plain">${c.what_helps.self_help_that_supports_care.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></section>
+    <section class="reach"><h2 class="label">${icon('phone',16)} When to reach out</h2><p>${esc(c.when_to_reach_out)}</p></section>
+    <section><h2 class="label">What it isn't</h2><p>${esc(c.is_not)}</p></section>
+    <section class="hope"><h2 class="label">${icon('sun',16)} Hope</h2><p>${esc(c.hope_note)}</p></section>
+    ${c.in_young_people?`<section><h2 class="label">${icon('backpack',16)} In young people</h2><p>${esc(c.in_young_people)}</p></section>`:''}
+    ${c.across_cultures?`<section><h2 class="label">${icon('globe',16)} Across cultures</h2><p>${esc(c.across_cultures)}</p></section>`:''}
+    ${c.strengths_and_differences?`<section><h2 class="label">${icon('sparkles',16)} Strengths and differences</h2><p>${esc(c.strengths_and_differences)}</p></section>`:''}
+    ${c.sub_sections&&c.sub_sections.length?`<section><h2 class="label">Sub-types and specifiers</h2>${c.sub_sections.map(s=>`<details><summary>${esc(s.title)} <code style="font-weight:400;font-size:.8rem">${esc(s.icd10cm_code||'')}</code></summary><p>${esc(s.text)}</p></details>`).join('')}</section>`:''}
+    <section><h2 class="label">${icon('link',16)} Related topics</h2><div class="rel">${c.related_topics.map(r=>{const rc=DATA.cards[r];return rc?`<a href="#${r}" style="${chapterVars(rc.chapter_id)}">${esc(rc.plain_title)}</a>`:''}).join('')}</div></section>
+    <section><h2 class="label">${icon('book-open',16)} Glossary terms</h2><div class="row">${c.glossary_terms.map(gl).join(' · ')}</div></section>
+    <section><h2 class="label">${icon('file-text',16)} Sources</h2><details><summary>${c.sources.length} source${c.sources.length===1?'':'s'}</summary><ul class="src">${c.sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>, ${esc(s.publisher)}${s.year?` (${s.year})`:''} ${vbadge(s.verification_status)} <span class="note">${esc(s.access_method||'')}</span>${s.note?`<div class="note">${esc(s.note)}</div>`:''}</li>`).join('')}</ul></details></section>
+    <div class="foot">Reviewed: ${c.review.needs_clinician_signoff?'not yet; clinician sign-off requested':'not yet'} · reading grade ${c.review.reading_grade_estimate} (Flesch-Kincaid) · ${esc(c.language_convention)} language${c.review.open_questions.length?` · ${c.review.open_questions.length} open question${c.review.open_questions.length===1?'':'s'} for reviewers`:''}
+      ${c.review.open_questions.length?`<details style="margin-top:.5rem"><summary>Open questions</summary><ul class="plain">${c.review.open_questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ul></details>`:''}
+      <details style="margin-top:.5rem"><summary>Illustration brief</summary><p class="note">${esc(c.visual.illustration_prompt)}</p><p class="note">Alt text: ${esc(c.visual.alt_text)}</p></details></div>
+  </div>
+  <aside><div class="panel"><h2>You're not alone</h2><p class="sub">Moderated places to talk with people who get it. Peer support, not professional advice.</p>
+    ${comms.map(m=>`<div class="comm"><b>${icon(m.type==='helpline'?'phone':m.type==='text-line'?'message-square':'users',14)} <a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.name)}</a></b><small>${esc(m.moderation.notes)}</small><div class="row" style="margin-top:.3rem"><span class="chipx">${esc(m.region)}</span><span class="chipx">${esc(m.for.replace(/-/g,' '))}</span><span class="chipx cau">${icon('badge-help',12)} needs verification</span></div></div>`).join('')}
+    <p class="note" style="margin-top:.6rem">Every community is re-checked regularly. If one has become unsafe, tell us.</p></div></aside></div></div>`;
+  finish();
+}
+function communities(){
+  const L=DATA.communities.communities;
+  const regions=[...new Set(L.map(x=>x.region))].sort();
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600">Community directory</h1><p class="lede">${L.length} moderated communities, helplines and resource hubs, each linked to the cards it serves. None has been opened yet; the reviewer note on each says what to check.</p>
+  <div class="toolbar"><input type="search" id="cq" placeholder="Search name, region, topic"><select id="ctype"><option value="">All types</option>${[...new Set(L.map(x=>x.type))].map(t=>`<option>${t}</option>`).join('')}</select></div><div class="tablewrap"><table id="ctab"></table></div>`;
+  const draw=()=>{const q=(document.getElementById('cq').value||'').toLowerCase(),ty=document.getElementById('ctype').value;
+    const rows=L.filter(x=>(!ty||x.type===ty)&&(!q||JSON.stringify(x).toLowerCase().includes(q)));
+    document.getElementById('ctab').innerHTML=`<tr><th>Community</th><th>Type</th><th>Region</th><th>For</th><th>Cards</th><th>Reviewer must check</th></tr>`+rows.map(x=>`<tr><td><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a><div class="note">${esc(x.moderation.notes)}</div></td><td>${esc(x.type)}</td><td>${esc(x.region)}</td><td>${esc(x.for.replace(/-/g,' '))}</td><td>${x.topics.map(t=>DATA.cards[t]?`<a href="#${t}">${esc(DATA.cards[t].plain_title)}</a>`:esc(t)).join('<br>')}</td><td class="note">${esc(x.reviewer_notes.replace(/^NOT OPENED:.*?\. /,''))}</td></tr>`).join('')};
+  draw();document.getElementById('cq').oninput=draw;document.getElementById('ctype').onchange=draw;finish();
+}
+function crisis(){
+  const C=DATA.crisis;
+  const by={};C.lines.forEach(l=>(by[l.region_label.split(' (')[0]]=by[l.region_label.split(' (')[0]]||[]).push(l));
+  const st=s=>s==='verified'?'ok':s==='conflicting_sources'?'cris':'cau';
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600">Crisis and support lines</h1><p class="lede">${esc(C.notes)}</p>
+  ${Object.entries(by).map(([r,ls])=>`<h2 style="font-family:var(--display);font-weight:600;margin:1.5rem 0 .5rem">${esc(r)}</h2><div class="tablewrap"><table><tr><th>Line</th><th>Contact</th><th>Hours</th><th>Who it's for</th><th>Status</th></tr>${ls.map(l=>{const c=l.contact;return `<tr><td><b>${esc(l.name)}</b><div class="note">${esc(l.organization)}</div>${l.notes?`<div class="note">${esc(l.notes)}</div>`:''}</td><td>${c.phone?`Call <b>${esc(c.phone)}</b><br>`:''}${c.phone_alt?`or ${esc(c.phone_alt)}<br>`:''}${c.sms_number?`Text <b>${esc((c.sms_keyword?c.sms_keyword+' to ':'')+c.sms_number)}</b><br>`:''}${c.chat_url?`<a href="${esc(c.chat_url)}" target="_blank" rel="noopener">Chat / site</a><br>`:''}${c.email?esc(c.email)+'<br>':''}${(c.menu_options||[]).map(m=>`<div class="note">${esc(m)}</div>`).join('')}</td><td>${esc(l.hours)}</td><td>${l.audience.map(a=>esc(a.replace(/-/g,' '))).join(', ')}</td><td><span class="chipx ${st(l.verification_status)}">${esc(l.verification_status.replace(/_/g,' '))}</span><div class="note">${esc(l.reviewer_notes)}</div></td></tr>`}).join('')}</table></div>`).join('')}
+  <h2 style="font-family:var(--display);font-weight:600;margin:1.5rem 0 .5rem">Anywhere in the world</h2><ul class="plain">${C.global_fallbacks.map(g=>`<li><a href="${esc(g.contact.chat_url)}" target="_blank" rel="noopener">${esc(g.name)}</a>: ${esc(g.region_label)}. ${esc(g.notes)}</li>`).join('')}</ul>`;
+  finish();
+}
+function glossary(){
+  const T=DATA.glossary.terms;
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600">Glossary</h1><p class="lede">${T.length} terms in plain language: clinical words, everyday and internet words, treatment words, and rights.</p>
+  <div class="toolbar"><input type="search" id="gq" placeholder="Search a term"><select id="gg"><option value="">All groups</option><option>clinical</option><option>everyday</option><option>treatment</option><option>rights</option></select></div><div id="glist" class="grid"></div>`;
+  const draw=()=>{const q=(document.getElementById('gq').value||'').toLowerCase(),g=document.getElementById('gg').value;
+    const rows=T.filter(t=>(!g||t.group===g)&&(!q||(t.term+' '+t.also_called.join(' ')+' '+t.plain_definition).toLowerCase().includes(q)));
+    document.getElementById('glist').innerHTML=rows.map(t=>`<div class="card-link" style="border-top-color:var(--line-2)"><h3 style="color:var(--ink)">${esc(t.term)}</h3><div class="off">${esc(t.group)}${t.also_called.length?` · also: ${esc(t.also_called.join(', '))}`:''}</div><p>${esc(t.plain_definition)}</p><p class="note"><i>${esc(t.everyday_example)}</i></p>${t.common_misunderstanding?`<p class="note">${esc(t.common_misunderstanding)}</p>`:''}<div class="rel" style="margin-top:.4rem">${t.related_topics.map(r=>DATA.cards[r]?`<a href="#${r}">${esc(DATA.cards[r].plain_title)}</a>`:'').join('')}</div></div>`).join('')||'<p class="empty">No terms match.</p>'};
+  draw();document.getElementById('gq').oninput=draw;document.getElementById('gg').onchange=draw;finish();
+}
+function design(){
+  const t=DATA.tokens;const dark=isDark();
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600">Design tokens</h1><p class="lede">${esc(t.notes)}</p>
+  <div class="tablewrap"><table><tr><th>Chapter</th><th>Hue</th><th>Tint</th><th>Accent</th><th>Chip</th><th>Border</th><th>Accent on tint</th></tr>
+  ${Object.entries(t.color.chapters).map(([cid,c])=>{const m=dark?c.dark:c.light;const r=t.contrast_report.find(x=>x.chapter===cid);return `<tr style="${chapterVars(cid)}"><td><b>${esc(c.name)}</b><div class="note">${esc(cid)}</div></td><td>${c.hue}°</td><td><span class="sw" style="background:${m.tint}"></span>${m.tint}</td><td><span class="sw" style="background:${m.accent}"></span>${m.accent}</td><td><span class="sw" style="background:${m.chip}"></span>${m.chip}</td><td><span class="sw" style="background:${m.border}"></span>${m.border}</td><td style="font-variant-numeric:tabular-nums">${(dark?r.dark_accent_on_tint:r.light_accent_on_tint).toFixed(2)}:1</td></tr>`}).join('')}</table></div>
+  <p class="note">Showing the ${dark?'dark':'light'} theme values; switch your theme to see the other set. All ratios meet WCAG AA (4.5:1). Red appears only in the crisis strip.</p>
+  <h2 style="font-family:var(--display);font-weight:600;margin-top:1.5rem">Type and spacing</h2><div class="tablewrap"><table><tr><th>Token</th><th>Value</th></tr>${Object.entries(t.typography.size).map(([k,v])=>`<tr><td>size.${k}</td><td>${v}</td></tr>`).join('')}${Object.entries(t.radius).map(([k,v])=>`<tr><td>radius.${k}</td><td>${v}</td></tr>`).join('')}<tr><td>font.sans</td><td>${esc(t.typography.font_family.sans)}</td></tr><tr><td>font.display</td><td>${esc(t.typography.font_family.display)}</td></tr></table></div>`;
+  finish();
+}
+function about(){
+  const n=Object.keys(DATA.cards).length;const clin=Object.values(DATA.cards).filter(c=>c.review.needs_clinician_signoff).length;
+  app.innerHTML=`<h1 style="font-family:var(--display);font-weight:600">About this preview</h1>
+  <p class="lede">This page is generated from the repository's data files (<code>data/cards/*.json</code>, <code>communities.json</code>, <code>crisis-lines.json</code>, <code>glossary.json</code>, <code>design-tokens.json</code>) and follows the card anatomy in <code>docs/design-system.md</code>. It is a working preview, not the production site.</p>
+  <h2 style="font-family:var(--display);font-weight:600;margin-top:1.2rem">What is done</h2><ul class="plain"><li>${n} cards covering every DSM-5-TR topic in the taxonomy, including Section III and the Z-codes.</li><li>${DATA.glossary.terms.length} glossary terms, ${DATA.communities.communities.length} communities, ${DATA.crisis.lines.length} crisis lines across six countries plus global directories.</li><li>Schemas, a design system with WCAG-checked tokens, a style guide, a sources bibliography, and a QA report.</li></ul>
+  <h2 style="font-family:var(--display);font-weight:600;margin-top:1.2rem">What is not done</h2><ul class="plain"><li><b>Nothing external has been opened.</b> The build environment blocked outbound web access, so every source, community and helpline is marked needs-verification. A human must open and test each before launch.</li><li>${clin} cards are flagged for clinician sign-off; the suicide, self-harm and abuse cards also need a safe-messaging reviewer.</li><li>Reading grade averages about 9, against a 6–8 target; the QA report lists the backlog.</li><li>The feel-like quotes are composites written for the project, not real testimonials.</li></ul>
+  <p class="note">Branch <code>claude/determined-davinci-t7kr01</code> in naman1911/Mental-Health. Data generated 2026-10-22.</p>`;
+  finish();
+}
+document.addEventListener('click',e=>{
+  const b=e.target.closest('.tabs button');if(b){location.hash=b.dataset.view;return;}
+  const g=e.target.closest('.gl');if(g){const t=DATA.glossary.terms.find(x=>x.term_id===g.dataset.term);const p=document.getElementById('pop');p.innerHTML=`<button id="popx" aria-label="Close">Close</button><h3>${esc(t.term)}</h3><p>${esc(t.plain_definition)}</p><p class="note"><i>${esc(t.everyday_example)}</i></p>`;p.hidden=false;return;}
+  if(e.target.id==='popx'){document.getElementById('pop').hidden=true;}
+});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('pop').hidden=true;});
+document.addEventListener('change',e=>{if(e.target.id==='country'){state.country=e.target.value;try{localStorage.setItem('country',state.country)}catch(x){}render();}});
+window.addEventListener('hashchange',render);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',render);
+new MutationObserver(render).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+Promise.all(['cards','taxonomy','communities','crisis-lines','glossary','design-tokens'].map(f=>fetch(`data/${f}.json`).then(r=>r.json()))).then(([cards,taxonomy,communities,crisis,glossary,tokens])=>{DATA={cards,taxonomy,communities,crisis,glossary,tokens};render();}).catch(err=>{app.innerHTML=`<p class="empty">The data files could not be loaded (${esc(err.message)}).</p>`;});
+</script>
+
+</body>
+</html>
