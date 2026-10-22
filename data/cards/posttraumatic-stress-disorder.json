@@ -1,0 +1,196 @@
+{
+  "topic_id": "posttraumatic-stress-disorder",
+  "official_name": "Posttraumatic Stress Disorder",
+  "plain_title": "When the danger is over but your body doesn't know",
+  "also_known_as": [
+    "PTSD",
+    "post-traumatic stress disorder",
+    "shell shock (historical)"
+  ],
+  "chapter_id": "trauma",
+  "card_type": "condition",
+  "icd10cm_code": "F43.10",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with PTSD' or 'a survivor'. Avoids 'victim'.",
+  "one_liner": "After something terrifying, the mind and body stay stuck in danger mode for months: reliving, avoiding, on edge.",
+  "in_simple_words": "After a frightening event, such as an assault, accident, disaster, war, or abuse, it's normal to feel shaken for a while. PTSD is when, a month or more later, the event keeps intruding through flashbacks, nightmares, or unwanted memories; you avoid reminders; your mood and beliefs turn dark; and your body stays on high alert. It's a recognized injury, not weakness, and specific therapies work very well.",
+  "what_it_can_feel_like": [
+    "A car door slams and I'm back there. Not remembering it. There.",
+    "I stopped going anywhere that might remind me, which turned out to be everywhere.",
+    "Trauma therapy was the hardest thing I've done. The memory is still mine, but it stopped running my life."
+  ],
+  "common_signs": [
+    "Flashbacks, nightmares, or memories that force their way in",
+    "Avoiding people, places, thoughts, or feelings linked to the event",
+    "Feeling numb, guilty, ashamed, or that the world is unsafe",
+    "Being on constant alert, jumpy, irritable, or unable to sleep",
+    "Trouble concentrating or remembering parts of what happened",
+    "Lasting more than a month and affecting daily life"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "PTSD only happens to soldiers.",
+      "fact": "Anyone can develop PTSD after any kind of trauma. Sexual assault, accidents, childbirth, and abuse are among the most common causes."
+    },
+    {
+      "myth": "If you were strong you'd get over it.",
+      "fact": "PTSD is a predictable injury to the brain's threat system. Strength has nothing to do with it."
+    },
+    {
+      "myth": "Talking about it will make it worse.",
+      "fact": "Avoiding the memory keeps PTSD alive. Trauma-focused therapies work precisely by helping you process it safely."
+    },
+    {
+      "myth": "You'll have it forever.",
+      "fact": "Most people improve a great deal with trauma-focused therapy, even decades after the event."
+    }
+  ],
+  "how_common": {
+    "plain": "About 4 in 100 US adults have PTSD in a given year, and about 7 in 100 at some point in their lives. Women are affected nearly three times as often as men.",
+    "figure": "3.6% past-year and 6.8% lifetime prevalence among US adults (5.2% women, 1.8% men past-year), NCS-R",
+    "source_ref": "src-nimh-ptsd"
+  },
+  "what_helps": {
+    "plain_summary": "Trauma-focused talking therapies are the first-line treatment: trauma-focused CBT (including cognitive processing therapy and prolonged exposure) and EMDR. They help the brain file the memory as past rather than present. Medication is not first-line; an SSRI or venlafaxine, prescribed and monitored by a doctor, may be used if a person prefers it or therapy isn't enough. Benzodiazepines are not recommended for PTSD.",
+    "evidence_based_options": [
+      "Trauma-focused CBT, including cognitive processing therapy and prolonged exposure",
+      "EMDR (eye movement desensitization and reprocessing)",
+      "Trauma-focused CBT adapted for children and young people",
+      "SSRI or venlafaxine antidepressants if preferred or if therapy isn't enough, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Grounding techniques for flashbacks: naming what you can see, hear, and touch now",
+      "Keeping routines, sleep, and movement going",
+      "Reducing alcohol and drugs, which deepen PTSD",
+      "Connecting with other survivors in moderated peer spaces"
+    ],
+    "guideline_refs": [
+      "src-nice-ng116"
+    ]
+  },
+  "when_to_reach_out": "If, a month or more after something frightening, you are reliving it, avoiding life, or on constant alert, talk to a doctor or a trauma service. You don't have to describe what happened to ask for help. If you have thoughts of ending your life, use the crisis strip now.",
+  "is_not": "Being upset, shaken, or sleepless in the first weeks after a trauma is a normal reaction, and for most people it fades. Symptoms in the first month are called acute stress disorder. Long-term difficulties with emotions, self-worth, and relationships after repeated childhood trauma are called complex PTSD in ICD-11; in DSM-5-TR they are diagnosed as PTSD, often with the dissociative subtype.",
+  "hope_note": "PTSD is one of the most treatable serious mental health conditions. The memory stays, but the fear can let go.",
+  "in_young_people": "Children may show trauma through play that repeats the event, nightmares without clear content, clinginess, tantrums, bedwetting, or physical complaints. DSM-5-TR has separate criteria for children aged six and under. Trauma-focused CBT with a parent involved is the main treatment.",
+  "across_cultures": "Trauma is often expressed through the body or through spiritual language, and some communities have their own words for it. Refugees and people from communities facing violence carry high rates of PTSD and often face the most barriers to care. Treatment works across cultures when it respects how the person understands what happened.",
+  "sub_sections": [
+    {
+      "title": "Dissociative subtype",
+      "text": "Some people with PTSD also feel detached from themselves or the world much of the time. Therapy is adapted to help them stay present."
+    },
+    {
+      "title": "Other specified trauma- and stressor-related disorder",
+      "icd10cm_code": "F43.89",
+      "text": "Used when a stress reaction causes real trouble but doesn't fit PTSD, acute stress, or adjustment disorder patterns, including persistent trauma reactions that fall short of PTSD and some culturally specific reactions."
+    }
+  ],
+  "related_topics": [
+    "acute-stress-disorder",
+    "adjustment-disorders",
+    "dissociative-identity-disorder",
+    "depersonalization-derealization-disorder",
+    "major-depressive-disorder",
+    "child-abuse-and-neglect",
+    "partner-violence-and-adult-abuse",
+    "crime-disaster-and-legal-problems"
+  ],
+  "glossary_terms": [
+    "trauma",
+    "flashback",
+    "hypervigilance",
+    "avoidance",
+    "emotional-numbing",
+    "complex-trauma",
+    "cpt-and-pe",
+    "emdr",
+    "grounding",
+    "trigger",
+    "moral-injury"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Raised suicide risk; crisis strip required.",
+      "No graphic descriptions of traumatic events anywhere on the card.",
+      "Link to abuse and violence cards with their helplines."
+    ]
+  },
+  "visual": {
+    "color_token": "trauma",
+    "icon": "shield",
+    "illustration_prompt": "Soft line illustration of a person sitting on a porch step with a dog, a storm visible far off on the horizon but the sky overhead clear, a warm light in the window behind. Pastel lilac and warm grey. No weapons, no violence.",
+    "alt_text": "A person sits on a porch step with a dog under a clear sky, a storm far off on the horizon, warm light in the window behind."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "reddit-r-cptsd-nscommunity",
+    "reddit-r-cptsdpartners",
+    "open-arms-australia",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Trauma- and Stressor-Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-ptsd",
+      "title": "Post-Traumatic Stress Disorder (PTSD) statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/post-traumatic-stress-disorder-ptsd",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nice-ng116",
+      "title": "Post-traumatic stress disorder (NG116)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng116",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018,
+      "note": "Evidence-review documents seen in search; recommendations summarized from those and secondary summaries; confirm on the live page."
+    },
+    {
+      "id": "src-ncptsd",
+      "title": "National Center for PTSD",
+      "publisher": "US Department of Veterans Affairs",
+      "url": "https://www.ptsd.va.gov/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; widely known resource hub including family pages."
+    },
+    {
+      "id": "src-nhs-ptsd",
+      "title": "Post-traumatic stress disorder (PTSD)",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/post-traumatic-stress-disorder/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "No PTSD-specific (rather than C-PTSD) subreddit confirmed; r/ptsd to be checked.",
+      "Add UK and Australian prevalence."
+    ]
+  }
+}

@@ -12,3 +12,19 @@ COMMUNITIES = [
    ["prolonged-grief-disorder", "grief-and-bereavement"], "global", notes="For people who have lost a spouse or partner; seen in tracker listing only.",
    reviewer="Read rules, check moderation and crisis resources; record member count."),
 ]
+COMMUNITIES += [
+ c("reddit-r-cptsd", "r/CPTSD", "reddit", "https://www.reddit.com/r/CPTSD/", "subreddit", ["adults"], "people-with-experience",
+   ["posttraumatic-stress-disorder", "acute-stress-disorder", "child-abuse-and-neglect", "dissociative-identity-disorder"], "global",
+   has_rules=True, mods=True, crisis=True, notes="Peer support for complex trauma. Mods describe it as 'safe-ish', warn against sharing personal details, run weekly newcomer and vent threads, restrict self-promotion, and point BIPOC members to r/cptsd_bipoc. Member count not seen (large).",
+   safety="Trauma content is common and raw; read with care. Peer support, not therapy.", reviewer="Confirm rules, member count, and crisis resources."),
+ c("reddit-r-cptsd-nscommunity", "r/CPTSD_NSCommunity (Next Steps community)", "reddit", "https://www.reddit.com/r/CPTSD_NSCommunity/", "subreddit", ["adults"], "people-with-experience",
+   ["posttraumatic-stress-disorder"], "global", has_rules=True, mods=True, notes="Sister community to r/CPTSDNextSteps for people further along in recovery; takes advice and support requests; flair required.",
+   reviewer="Check activity and rules."),
+ c("reddit-r-cptsdpartners", "r/CPTSDpartners", "reddit", "https://www.reddit.com/r/CPTSDpartners/", "subreddit", ["adults"], "family-and-carers",
+   ["posttraumatic-stress-disorder"], "global", has_rules=True, mods=True, notes="For partners of people with complex PTSD. Restricted: only moderator-approved users can post, anyone can read (mod update seen, Oct 2021).",
+   safety="Restricted posting; reading is open. Peer support for partners.", reviewer="Check whether approval is still being granted and whether the sub is active."),
+ c("open-arms-australia", "Open Arms: Veterans & Families Counselling (Australia)", "phone", "https://www.openarms.gov.au/", "helpline", ["adults", "young-people"], "both",
+   ["posttraumatic-stress-disorder", "acute-stress-disorder", "crime-disaster-and-legal-problems"], "Australia", has_rules=True, mods=True, crisis=True,
+   notes="Government-funded 24-hour counselling line 1800 011 046 for veterans and families; free counselling for family members; 'Shoulder to Shoulder' online forums for veterans and for families, moderated by mental health professionals.",
+   safety="Government service; for veterans and their families.", reviewer="Confirm forum URL and current availability."),
+]

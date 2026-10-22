@@ -1122,6 +1122,144 @@
       "verification_status": "needs_verification",
       "verified_on": null,
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules, check moderation and crisis resources; record member count."
+    },
+    {
+      "community_id": "reddit-r-cptsd",
+      "name": "r/CPTSD",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/CPTSD/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "posttraumatic-stress-disorder",
+        "acute-stress-disorder",
+        "child-abuse-and-neglect",
+        "dissociative-identity-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Peer support for complex trauma. Mods describe it as 'safe-ish', warn against sharing personal details, run weekly newcomer and vent threads, restrict self-promotion, and point BIPOC members to r/cptsd_bipoc. Member count not seen (large)."
+      },
+      "safety_notes": "Trauma content is common and raw; read with care. Peer support, not therapy.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm rules, member count, and crisis resources."
+    },
+    {
+      "community_id": "reddit-r-cptsd-nscommunity",
+      "name": "r/CPTSD_NSCommunity (Next Steps community)",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/CPTSD_NSCommunity/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "posttraumatic-stress-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Sister community to r/CPTSDNextSteps for people further along in recovery; takes advice and support requests; flair required."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Check activity and rules."
+    },
+    {
+      "community_id": "reddit-r-cptsdpartners",
+      "name": "r/CPTSDpartners",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/CPTSDpartners/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "posttraumatic-stress-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "For partners of people with complex PTSD. Restricted: only moderator-approved users can post, anyone can read (mod update seen, Oct 2021)."
+      },
+      "safety_notes": "Restricted posting; reading is open. Peer support for partners.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Check whether approval is still being granted and whether the sub is active."
+    },
+    {
+      "community_id": "open-arms-australia",
+      "name": "Open Arms: Veterans & Families Counselling (Australia)",
+      "platform": "phone",
+      "url": "https://www.openarms.gov.au/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people"
+      ],
+      "for": "both",
+      "topics": [
+        "posttraumatic-stress-disorder",
+        "acute-stress-disorder",
+        "crime-disaster-and-legal-problems"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Government-funded 24-hour counselling line 1800 011 046 for veterans and families; free counselling for family members; 'Shoulder to Shoulder' online forums for veterans and for families, moderated by mental health professionals."
+      },
+      "safety_notes": "Government service; for veterans and their families.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm forum URL and current availability."
     }
   ]
 }

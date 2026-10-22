@@ -1,0 +1,145 @@
+{
+  "topic_id": "adjustment-disorders",
+  "official_name": "Adjustment Disorders",
+  "plain_title": "When a life change knocks you off your feet",
+  "also_known_as": [
+    "adjustment reaction",
+    "situational depression (popular term)"
+  ],
+  "chapter_id": "trauma",
+  "card_type": "condition",
+  "icd10cm_code": "F43.2x (by subtype)",
+  "language_convention": "person-first",
+  "one_liner": "Distress after a big life change, like a breakup or job loss, that is stronger than expected and disrupts life.",
+  "in_simple_words": "Big changes are stressful. An adjustment disorder is when the reaction to a stressful event or change is stronger than you'd expect and interferes with daily life: low mood, worry, tearfulness, trouble sleeping, or acting out, starting within three months of the change. It is one of the most common diagnoses in primary care and usually eases once the situation settles or the person finds new footing, often with some support.",
+  "what_it_can_feel_like": [
+    "After the redundancy I couldn't sleep or think straight. I wasn't 'depressed'. I was knocked sideways.",
+    "The diagnosis itself was the stress. Six months of just getting my head around it.",
+    "A few sessions with a counsellor helped me see the change as something I could handle."
+  ],
+  "common_signs": [
+    "Low mood, worry, or tearfulness clearly linked to a recent change or stress",
+    "Distress that's bigger than most people would have in that situation",
+    "Trouble sleeping, concentrating, or keeping up with work or school",
+    "In young people, acting out, skipping school, or risky behaviour",
+    "Starting within three months of the event",
+    "Easing within six months once the stress ends"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's not a 'real' diagnosis, just a label for being upset.",
+      "fact": "It's a recognized condition with real distress and real risk, including of suicide. It's just one that usually resolves."
+    },
+    {
+      "myth": "You should be able to cope with life events without help.",
+      "fact": "Some changes are enormous. Getting support early is sensible and shortens recovery."
+    },
+    {
+      "myth": "It's the same as depression.",
+      "fact": "It's tied to a specific stress and usually lifts as things settle. If symptoms deepen or last beyond six months, it may be depression or anxiety and treatment changes."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 3 in 100 people seeing a family doctor meet the criteria, and most of them are never recognized. Rates are much higher among people facing serious illness.",
+    "figure": "2.9% prevalence in a primary-care sample of 3,815 patients (Catalonia); general-population estimates 0.3%–2%",
+    "source_ref": "src-adj-prim",
+    "note": "Estimates vary widely by setting and method."
+  },
+  "what_helps": {
+    "plain_summary": "Support often makes the difference: talking it through with a counsellor, brief CBT or problem-solving therapy, and practical help with the stressor itself. Many people need only a few sessions. Medication is not usually the main treatment; a doctor may prescribe and monitor short-term help with sleep, or an antidepressant if symptoms become severe or long-lasting.",
+    "evidence_based_options": [
+      "Brief counselling, CBT, or problem-solving therapy",
+      "Practical support with the stressor (financial advice, workplace adjustments, medical information)",
+      "Peer support with people facing the same change",
+      "Short-term medication in some cases, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Naming the change and what it took from you",
+      "Keeping sleep, meals, and movement steady",
+      "Leaning on people; this is what they're for",
+      "Giving yourself permission to take longer than you'd like"
+    ],
+    "guideline_refs": [
+      "src-adj-prim"
+    ]
+  },
+  "when_to_reach_out": "If a life change has left you struggling to function for weeks, or if you've started thinking you can't go on, talk to a doctor or counsellor. Adjustment disorders carry real suicide risk, so take dark thoughts seriously.",
+  "is_not": "Normal stress and sadness after a change that you're still managing isn't a disorder. Grief after a death is its own thing, and PTSD follows events that were life-threatening rather than just stressful.",
+  "hope_note": "Adjustment disorders usually pass. Most people find their feet within months, often stronger for having asked for help.",
+  "in_young_people": "In children and teens, adjustment disorders often show as behaviour: anger, skipping school, fights, or risky choices after a move, divorce, or loss. Looking for the stress behind the behaviour is the key.",
+  "sub_sections": [
+    {
+      "title": "Subtypes",
+      "icd10cm_code": "F43.21–F43.25, F43.20",
+      "text": "With depressed mood, with anxiety, with mixed anxiety and depressed mood, with disturbance of conduct, with mixed disturbance of emotions and conduct, or unspecified. The subtype just describes the main flavour of the reaction."
+    }
+  ],
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "acute-stress-disorder",
+    "grief-and-bereavement",
+    "school-and-work-problems",
+    "family-and-relationship-problems",
+    "housing-and-money-problems"
+  ],
+  "glossary_terms": [
+    "stress",
+    "burnout",
+    "nervous-breakdown",
+    "coping-skills",
+    "resilience",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Adjustment disorders carry raised suicide risk; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "trauma",
+    "icon": "shield",
+    "illustration_prompt": "Soft line illustration of a person standing at a fork in a path with a small suitcase, looking toward the brighter branch, a signpost with blank signs, early morning light. Pastel lilac and gold.",
+    "alt_text": "A person with a small suitcase stands at a fork in a path, looking toward the brighter branch under early morning light."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "beyondblue-forums",
+    "adaa-online-support-group"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Trauma- and Stressor-Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-adj-prim",
+      "title": "Adjustment disorders in primary care: prevalence, recognition and use of services",
+      "publisher": "British Journal of Psychiatry (Fernández et al.)",
+      "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/adjustment-disorders-in-primary-care-prevalence-recognition-and-use-of-services/FCFF31580B65EEDE575FC2B689DC731E",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2012
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "No clinical guideline specific to adjustment disorder found; treatment summary follows general consensus and should be checked by a clinician."
+    ]
+  }
+}

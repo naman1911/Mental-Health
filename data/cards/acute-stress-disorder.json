@@ -1,0 +1,149 @@
+{
+  "topic_id": "acute-stress-disorder",
+  "official_name": "Acute Stress Disorder",
+  "plain_title": "The first weeks after something terrible",
+  "also_known_as": [
+    "ASD (not autism)",
+    "acute stress reaction"
+  ],
+  "chapter_id": "trauma",
+  "card_type": "condition",
+  "icd10cm_code": "F43.0",
+  "language_convention": "person-first",
+  "one_liner": "A strong stress reaction in the first month after a traumatic event, with reliving, numbness, and being on edge.",
+  "in_simple_words": "In the days and weeks right after something frightening, many people feel shaken, numb, unreal, jumpy, or haunted by what happened. When these reactions are strong, last from three days to a month, and get in the way of coping, clinicians call it acute stress disorder. For most people it eases with time, safety, and support. For some it continues into PTSD, which is why early check-ins matter.",
+  "what_it_can_feel_like": [
+    "The week after the crash I felt like I was watching my life through glass.",
+    "I couldn't sleep, couldn't stop seeing it, and couldn't explain it to anyone.",
+    "Someone told me it was a normal reaction to an abnormal event. That helped more than anything."
+  ],
+  "common_signs": [
+    "Intrusive memories, nightmares, or flashbacks of the event",
+    "Feeling numb, dazed, unreal, or detached from your body",
+    "Being unable to remember parts of what happened",
+    "Avoiding reminders, people, or places",
+    "Trouble sleeping, being jumpy, irritable, or unable to concentrate",
+    "Starting within a month of the event and lasting between three days and a month"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Everyone who goes through trauma should have counselling straight away.",
+      "fact": "Single-session 'debriefing' right after trauma doesn't help and can harm. What helps is safety, practical support, and watching for symptoms that persist."
+    },
+    {
+      "myth": "If you're falling apart in the first week, you'll definitely get PTSD.",
+      "fact": "Most people with early reactions recover without developing PTSD. Early symptoms are a reason to keep an eye on things, not a sentence."
+    },
+    {
+      "myth": "You should be over it in a month.",
+      "fact": "There's no deadline. After a month, if symptoms are still strong, the name changes to PTSD and effective treatment is available."
+    }
+  ],
+  "how_common": {
+    "plain": "Roughly 1 in 5 people have an acute stress reaction after a trauma, higher after violence from another person and lower after accidents or disasters.",
+    "figure": "Meta-analysis of 70 studies: acute stress disorder in about 14% (war-related) to 36% (interpersonal trauma) of trauma survivors",
+    "source_ref": "src-asd-meta",
+    "note": "Rates vary widely with trauma type and measurement method."
+  },
+  "what_helps": {
+    "plain_summary": "Safety, practical help, and the support of people you trust come first. Clinicians use 'watchful waiting' with a follow-up within a month. If symptoms are severe, a short course of trauma-focused CBT in the first weeks can prevent PTSD. Routine one-off debriefing sessions are not recommended. Sleep problems may be treated short-term, with any medication prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Practical and emotional support, and active monitoring with a follow-up appointment",
+      "Brief trauma-focused CBT for people with severe early symptoms",
+      "Treating sleep problems and pain, which worsen stress reactions",
+      "Not offering single-session psychological debriefing"
+    ],
+    "self_help_that_supports_care": [
+      "Getting back to routine, food, and sleep as far as possible",
+      "Letting trusted people help with practical tasks",
+      "Talking about it only as much as you want, when you want",
+      "Avoiding alcohol as a way to sleep or numb out"
+    ],
+    "guideline_refs": [
+      "src-nice-ng116"
+    ]
+  },
+  "when_to_reach_out": "If reactions in the first weeks are so strong that you can't function, feel unreal most of the time, or can't sleep at all, tell a doctor. If you are thinking about ending your life, get help now. And if symptoms are still strong a month on, ask about trauma-focused therapy.",
+  "is_not": "Feeling upset, tearful, or on edge for a few days after a scary event is a normal reaction and not a disorder. Symptoms that last beyond a month are PTSD, not acute stress disorder.",
+  "hope_note": "The first weeks are the hardest. Most people find their footing again, and for those who don't, treatment works.",
+  "in_young_people": "Children may become clingy, regress (bedwetting, baby talk), act out the event in play, or complain of tummy aches. Calm routines and the presence of trusted adults are the most protective things.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "adjustment-disorders",
+    "depersonalization-derealization-disorder",
+    "crime-disaster-and-legal-problems"
+  ],
+  "glossary_terms": [
+    "trauma",
+    "dissociation",
+    "emotional-numbing",
+    "hypervigilance",
+    "grounding",
+    "fight-flight-freeze-fawn"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required; refers to abuse and violence helplines.",
+      "No graphic event descriptions."
+    ]
+  },
+  "visual": {
+    "color_token": "trauma",
+    "icon": "shield",
+    "illustration_prompt": "Soft line illustration of a person wrapped in a blanket on a sofa holding a warm mug, a friend sitting nearby with a hand on the sofa back, a clock on the wall. Pastel lilac and warm grey. Safe, quiet.",
+    "alt_text": "A person wrapped in a blanket on a sofa holds a warm mug while a friend sits close by."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "open-arms-australia",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Trauma- and Stressor-Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng116",
+      "title": "Post-traumatic stress disorder (NG116)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng116",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018,
+      "note": "Evidence-review documents seen in search; recommendations summarized from those and secondary summaries; confirm on the live page."
+    },
+    {
+      "id": "src-asd-meta",
+      "title": "Prevalence of acute stress disorder after trauma: systematic review and meta-analysis (70 studies)",
+      "publisher": "Journal of Affective Disorders Reports / related meta-analysis (2020)",
+      "url": "https://doaj.org/article/8d1b44219a284ea89a9cec23f48dec26",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2020,
+      "note": "Seen as a DOAJ listing; confirm article and figures."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm the ASD meta-analysis citation.",
+      "No ASD-specific community exists; broader trauma communities listed."
+    ]
+  }
+}

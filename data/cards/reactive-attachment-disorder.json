@@ -1,0 +1,145 @@
+{
+  "topic_id": "reactive-attachment-disorder",
+  "official_name": "Reactive Attachment Disorder",
+  "plain_title": "When a young child has learned not to seek comfort",
+  "also_known_as": [
+    "RAD"
+  ],
+  "chapter_id": "trauma",
+  "card_type": "condition",
+  "icd10cm_code": "F94.1",
+  "language_convention": "person-first",
+  "language_convention_note": "'A child with RAD'. The card avoids blaming current caregivers, who are often adoptive or foster parents doing their best.",
+  "one_liner": "A rare condition in young children who, after severe early neglect, don't seek or accept comfort from caregivers.",
+  "in_simple_words": "Babies and toddlers learn to seek comfort from the adults who care for them. When early care has been severely neglectful, as in some institutions or chaotic homes, a few children stop seeking comfort at all. They rarely reach out when upset, don't respond much to soothing, and seem withdrawn, sad, or fearful with caregivers. This is reactive attachment disorder. It is rare, it's caused by what happened to the child, and it improves with stable, patient, loving care.",
+  "what_it_can_feel_like": [
+    "When she fell and hurt herself she didn't come to us. She just sat there. That broke my heart.",
+    "He'd flinch from a hug, then stare at the wall. Nobody had ever come when he cried.",
+    "Two years in, she climbed on my lap for comfort for the first time. We both cried."
+  ],
+  "common_signs": [
+    "Rarely seeking comfort when upset, and not responding to it when offered",
+    "Little joy, few smiles, and limited emotional response to caregivers",
+    "Unexplained sadness, irritability, or fear even during calm moments",
+    "A history of severe neglect, institutional care, or many changes of caregiver",
+    "Visible before age five, in a child at least nine months old"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Any adopted or fostered child has attachment disorder.",
+      "fact": "RAD is rare even among children with hard starts. Most children who've been through neglect do not have it, and many adopted children attach well."
+    },
+    {
+      "myth": "Children with RAD are manipulative or future criminals.",
+      "fact": "This myth is harmful and false. RAD is a withdrawn, sad pattern in young children. It has nothing to do with being 'bad'."
+    },
+    {
+      "myth": "'Attachment therapies' like holding or rebirthing cure it.",
+      "fact": "Coercive 'attachment therapies' are dangerous and have caused deaths. The treatment is a stable, responsive caregiver and support for the family."
+    }
+  ],
+  "how_common": {
+    "plain": "RAD is rare. One UK study of children in a deprived area found about 1 in 70; among maltreated toddlers in foster care, rates are much higher.",
+    "figure": "1.4% (95% CI 0.94–2.10) in a deprived UK general population sample of 6–8-year-olds; far higher in maltreated foster-care samples",
+    "source_ref": "src-rad-prev",
+    "note": "Population data are sparse."
+  },
+  "what_helps": {
+    "plain_summary": "The key treatment is making sure the child has a stable, emotionally available caregiver and helping that caregiver respond sensitively, often through therapies that work with the parent and child together. Many children improve considerably once they have consistent care. Harsh or coercive 'attachment therapies' are not recommended and can be dangerous. Medication is not a treatment for RAD.",
+    "evidence_based_options": [
+      "Ensuring a stable, consistent, emotionally available caregiver",
+      "Parent-child therapies that build sensitivity and responsiveness (for example video-feedback approaches)",
+      "Support and training for foster and adoptive parents",
+      "Treating co-occurring problems such as developmental delay or trauma symptoms"
+    ],
+    "self_help_that_supports_care": [
+      "Predictable routines and the same caregivers day after day",
+      "Responding warmly even when the child doesn't seem to want it",
+      "Looking after your own wellbeing as a carer; this is slow work",
+      "Connecting with other foster and adoptive parents"
+    ],
+    "guideline_refs": [
+      "src-nice-ng26"
+    ]
+  },
+  "when_to_reach_out": "If a young child who has had a difficult start rarely seeks comfort, seems withdrawn or fearful with caregivers, and shows little joy, ask a paediatrician or child mental health service for an assessment. Be wary of anyone offering 'attachment therapy' outside mainstream services.",
+  "is_not": "Autism can look similar but involves repetitive behaviours and sensory differences and doesn't require a history of neglect. A child who is shy with strangers but seeks comfort from parents does not have RAD. Children who are over-friendly with strangers may have disinhibited social engagement disorder instead.",
+  "hope_note": "Children with RAD can learn that comfort is safe. It takes time and steady love, and it happens.",
+  "in_young_people": "RAD is diagnosed only in young children and is thought to fade or change form as children grow. Older children with early neglect histories may show different difficulties and need their own assessment.",
+  "across_cultures": "What counts as neglect varies by context, and poverty is not neglect. Assessments should look at whether the child had any consistent caregiver, not at whether care matched one culture's norms.",
+  "related_topics": [
+    "disinhibited-social-engagement-disorder",
+    "child-abuse-and-neglect",
+    "autism-spectrum-disorder",
+    "posttraumatic-stress-disorder",
+    "family-and-relationship-problems"
+  ],
+  "glossary_terms": [
+    "attachment",
+    "trauma-informed",
+    "adverse-childhood-experiences",
+    "emotional-neglect"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Involves child neglect; links to child-protection helplines. Crisis strip required.",
+      "Explicitly warns against coercive 'attachment therapies'."
+    ]
+  },
+  "visual": {
+    "color_token": "trauma",
+    "icon": "shield",
+    "illustration_prompt": "Soft line illustration of a caregiver sitting on the floor at a small distance from a young child who is playing, the adult's hand open and resting, patient, warm light. Pastel lilac and peach.",
+    "alt_text": "A caregiver sits on the floor a little way from a young child who is playing, with an open hand resting patiently."
+  },
+  "communities": [
+    "nas-online-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Trauma- and Stressor-Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-rad-prev",
+      "title": "Prevalence of reactive attachment disorder in a deprived population",
+      "publisher": "British Journal of Psychiatry (Minnis et al.)",
+      "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/prevalence-of-reactive-attachment-disorder-in-a-deprivedpopulation/A41FDD96BBBF21FBFDCCED5D8B0F762B",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2013
+    },
+    {
+      "id": "src-nice-ng26",
+      "title": "Children's attachment: attachment in children and young people who are adopted from care, in care or at high risk of going into care (NG26)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng26",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2015,
+      "note": "Not opened; well-known guideline that recommends sensitivity-focused parent interventions and advises against coercive approaches."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Communities: no RAD-specific group confirmed; the NAS community is a placeholder for a foster/adoptive parent community. Find adoption/fostering peer groups (e.g. Adoption UK) and verify.",
+      "Clinician review of treatment wording."
+    ]
+  }
+}
