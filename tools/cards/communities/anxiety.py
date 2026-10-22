@@ -23,3 +23,16 @@ COMMUNITIES = [
    has_rules=True, mods=True, crisis=True, notes="Free, anonymous, moderated 24/7 by mental health professionals; 18+ living in Australia; separate carers' forum; not a crisis service (points to Lifeline 13 11 14).",
    reviewer="Confirm eligibility wording and last post date."),
 ]
+COMMUNITIES += [
+ c("reddit-r-socialanxiety", "r/socialanxiety", "reddit", "https://www.reddit.com/r/socialanxiety/", "subreddit", ["adults", "teens-16+"], "people-with-experience",
+   ["social-anxiety-disorder"], "global", members=450000, size_note="Trackers showed ~430K–486K.", notes="Rules not seen directly.", reviewer="Read rules; check moderation and crisis pins."),
+ c("reddit-r-agoraphobia", "r/Agoraphobia", "reddit", "https://www.reddit.com/r/Agoraphobia/", "subreddit", ["adults"], "people-with-experience",
+   ["agoraphobia", "panic-disorder"], "global", members=50000, size_note="Tracker figure.", notes="Rules not seen directly.", reviewer="Read rules; check moderation."),
+ c("reddit-r-panicattack", "r/PanicAttack", "reddit", "https://www.reddit.com/r/PanicAttack/", "subreddit", ["adults", "teens-16+"], "people-with-experience",
+   ["panic-disorder"], "global", members=41000, size_note="Tracker figure.", notes="Rules not seen directly.", reviewer="Read rules; check moderation."),
+ c("reddit-r-panicdisorder", "r/panicdisorder", "reddit", "https://www.reddit.com/r/panicdisorder/", "subreddit", ["adults"], "people-with-experience",
+   ["panic-disorder", "agoraphobia"], "global", members=22000, size_note="Tracker figure.", notes="Rules not seen directly.", reviewer="Read rules; check moderation."),
+ c("smira-selective-mutism-uk", "SMiRA (Selective Mutism Information & Research Association)", "web", "https://www.selectivemutism.org.uk/", "org-resource-hub", ["adults"], "family-and-carers",
+   ["selective-mutism"], "UK", has_rules=None, mods=None, notes="UK registered charity 1022673; information and mutual support for parents and professionals; runs a Facebook group (nonprofit-run, so allowed under project rules). Phone numbers differ between sources; not recorded.",
+   safety="Information and parent support charity; not a crisis service.", reviewer="Confirm the current support offer and the parents' group link."),
+]

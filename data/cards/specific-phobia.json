@@ -1,0 +1,147 @@
+{
+  "topic_id": "specific-phobia",
+  "official_name": "Specific Phobia",
+  "plain_title": "When one thing terrifies you out of all proportion",
+  "also_known_as": [
+    "phobia",
+    "simple phobia"
+  ],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F40.2xx (by type)",
+  "language_convention": "person-first",
+  "one_liner": "Intense, lasting fear of one specific thing or situation, far beyond the real danger, that you avoid or dread.",
+  "in_simple_words": "A phobia is a strong fear of a particular thing: animals, heights, flying, needles, blood, vomiting, enclosed spaces, storms. The fear is immediate and out of proportion, and the person goes out of their way to avoid it. Lots of people have fears; it becomes a phobia when it lasts months and limits life, like refusing needed medical care or never visiting family abroad. It's one of the most common and most treatable anxiety conditions.",
+  "what_it_can_feel_like": [
+    "I know a spider in the bath can't hurt me. My body doesn't know that.",
+    "I turned down a job because it meant flying. I told everyone it was the money.",
+    "Four sessions of exposure therapy. Thirty years of fear. I still can't believe it."
+  ],
+  "common_signs": [
+    "Immediate intense fear or panic when facing, or thinking about, the thing",
+    "Avoiding it, or enduring it with great distress",
+    "Fear far bigger than the actual risk",
+    "Lasting six months or more",
+    "Getting in the way of work, health, travel, or relationships"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Phobias are silly and people should just get over them.",
+      "fact": "Phobias are a learned fear response in the brain. Nobody chooses them, and willpower alone rarely shifts them."
+    },
+    {
+      "myth": "Treatment means being locked in a room with the thing.",
+      "fact": "Exposure therapy is gradual, planned, and in your control. You never go faster than you agree to."
+    },
+    {
+      "myth": "A phobia is just part of who you are.",
+      "fact": "Most specific phobias respond to a short course of exposure therapy, sometimes in a single long session."
+    }
+  ],
+  "how_common": {
+    "plain": "About 9 in 100 US adults have a specific phobia in a given year, making it the most common anxiety disorder. Women are affected about twice as often.",
+    "figure": "9.1% past-year prevalence among US adults (12.2% women, 5.8% men), NCS-R 2001–2003",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "Exposure therapy, a form of CBT where you face the feared thing in planned steps until the fear fades, is the treatment with the best evidence, and it often works fast. For blood and needle phobia, a technique called applied tension prevents fainting. Medication is rarely needed. Virtual reality exposure is an option for some phobias, like flying.",
+    "evidence_based_options": [
+      "Graded exposure therapy (CBT), sometimes in one extended session",
+      "Applied tension for blood-injection-injury phobia",
+      "Virtual reality exposure where available",
+      "CBT-based self-help for milder phobias"
+    ],
+    "self_help_that_supports_care": [
+      "Making a step-by-step fear ladder",
+      "Staying with each step until anxiety drops by half, then repeating",
+      "Avoiding reassurance-seeking and escape, which keep fear alive",
+      "Being kind to yourself about how long it has taken to seek help"
+    ],
+    "guideline_refs": [
+      "src-nhs"
+    ]
+  },
+  "when_to_reach_out": "If a fear is stopping you doing something that matters, such as getting medical care, travelling, or living where you want, ask a doctor or therapist about exposure therapy. It is short and effective.",
+  "is_not": "Disliking something, or sensible caution around real danger, is not a phobia. Fear of many situations because of possible panic is agoraphobia; fear of judgement is social anxiety.",
+  "hope_note": "Specific phobias are among the most curable conditions in all of mental health. Help is often a handful of sessions away.",
+  "in_young_people": "Fears of the dark, animals, or monsters are a normal part of childhood and usually fade. A phobia in a child is a fear that persists, causes real distress, and interferes with school, sleep, or family life. Children may show it as crying, freezing, or clinging.",
+  "sub_sections": [
+    {
+      "title": "Types",
+      "icd10cm_code": "F40.218 / F40.228 / F40.23x / F40.248 / F40.298",
+      "text": "Animal (spiders, dogs); natural environment (heights, storms, water); blood-injection-injury (needles, blood, medical procedures); situational (flying, lifts, enclosed spaces); and other (choking, vomiting, loud sounds, costumed characters). People often have more than one."
+    }
+  ],
+  "related_topics": [
+    "agoraphobia",
+    "panic-disorder",
+    "social-anxiety-disorder",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "exposure-therapy",
+    "avoidance",
+    "cbt",
+    "panic-attack"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a person climbing a short, sturdy ladder, each rung labelled with a tiny icon, a friend holding the base, blue sky. Pastel blue and mint. No spiders, needles, or threatening imagery.",
+    "alt_text": "A person climbs a short sturdy ladder with a tiny icon on each rung while a friend holds the base."
+  },
+  "communities": [
+    "adaa-online-support-group",
+    "anxiety-uk-peer-support-groups",
+    "reddit-r-anxiety"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Specific Phobia statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/specific-phobia",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-nhs",
+      "title": "NHS mental health conditions page",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/phobias/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NHS page; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a phobia-specific peer community that passes checks; none confirmed in this session."
+    ]
+  }
+}

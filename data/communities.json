@@ -185,6 +185,175 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm eligibility wording and last post date."
     },
     {
+      "community_id": "reddit-r-socialanxiety",
+      "name": "r/socialanxiety",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/socialanxiety/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "social-anxiety-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 450000,
+        "as_of": "2026-10-22",
+        "note": "Trackers showed ~430K–486K."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check moderation and crisis pins."
+    },
+    {
+      "community_id": "reddit-r-agoraphobia",
+      "name": "r/Agoraphobia",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/Agoraphobia/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "agoraphobia",
+        "panic-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 50000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check moderation."
+    },
+    {
+      "community_id": "reddit-r-panicattack",
+      "name": "r/PanicAttack",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/PanicAttack/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "panic-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 41000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check moderation."
+    },
+    {
+      "community_id": "reddit-r-panicdisorder",
+      "name": "r/panicdisorder",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/panicdisorder/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "panic-disorder",
+        "agoraphobia"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 22000,
+        "as_of": "2026-10-22",
+        "note": "Tracker figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen directly."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check moderation."
+    },
+    {
+      "community_id": "smira-selective-mutism-uk",
+      "name": "SMiRA (Selective Mutism Information & Research Association)",
+      "platform": "web",
+      "url": "https://www.selectivemutism.org.uk/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "selective-mutism"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "UK registered charity 1022673; information and mutual support for parents and professionals; runs a Facebook group (nonprofit-run, so allowed under project rules). Phone numbers differ between sources; not recorded."
+      },
+      "safety_notes": "Information and parent support charity; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the current support offer and the parents' group link."
+    },
+    {
       "community_id": "reddit-r-bipolar",
       "name": "r/bipolar",
       "platform": "reddit",
