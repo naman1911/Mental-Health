@@ -1,0 +1,170 @@
+{
+  "topic_id": "narcolepsy",
+  "official_name": "Narcolepsy",
+  "plain_title": "When sleep ambushes you",
+  "also_known_as": [
+    "narcolepsy type 1 and type 2",
+    "narcolepsy with or without cataplexy"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "G47.41x / G47.42x (by type)",
+  "language_convention": "person-first",
+  "one_liner": "A neurological condition causing overwhelming daytime sleepiness and sudden sleep, often with cataplexy: brief muscle weakness triggered by emotion.",
+  "in_simple_words": "Narcolepsy is a lifelong neurological condition where the brain can't regulate sleep and wakefulness. People feel overwhelmingly sleepy by day and can fall asleep suddenly in the middle of things. Type 1 also brings cataplexy: sudden muscle weakness when laughing, surprised, or angry, while fully awake. Sleep paralysis and vivid dream-like hallucinations at the edge of sleep are common. It usually starts in the teens and is often misdiagnosed for years. Treatment makes a big difference.",
+  "what_it_can_feel_like": [
+    "I'd fall asleep mid-sentence. Teachers thought I was being rude.",
+    "When I laugh hard my knees go. I used to think everyone's did.",
+    "Fifteen years to a diagnosis. Then one medication and my life came back."
+  ],
+  "common_signs": [
+    "Overwhelming daytime sleepiness, falling asleep suddenly, most days",
+    "Cataplexy: brief muscle weakness when laughing, surprised, or emotional (type 1)",
+    "Sleep paralysis on waking or falling asleep",
+    "Vivid, dream-like hallucinations at the edge of sleep",
+    "Disturbed night-time sleep",
+    "Going on for three months or more"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People with narcolepsy just collapse asleep randomly all the time.",
+      "fact": "Sudden sleep happens, but the main experience is relentless sleepiness. Cataplexy is weakness, not sleep, and the person is awake."
+    },
+    {
+      "myth": "It's rare and dramatic, so I'd know if I had it.",
+      "fact": "Most people with narcolepsy wait years for a diagnosis, often being told they're lazy, depressed, or have epilepsy."
+    },
+    {
+      "myth": "Nothing can be done.",
+      "fact": "Medication, scheduled naps, and routine let most people with narcolepsy work, study, and live fully."
+    }
+  ],
+  "how_common": {
+    "plain": "Narcolepsy affects roughly 1 in 2,000 people. Type 1 (with cataplexy) is more common than type 2. Many people are never diagnosed.",
+    "figure": "About 0.04%–0.05% of adults (roughly 1 in 2,000–2,500), population estimates",
+    "source_ref": "src-euro-sleep"
+  },
+  "what_helps": {
+    "plain_summary": "Diagnosis needs a sleep study with daytime nap tests, sometimes a spinal fluid test for hypocretin. Treatment combines medication, prescribed and monitored by a sleep specialist: wake-promoting drugs for sleepiness, and specific medicines for cataplexy and disturbed night sleep. Scheduled short naps, a regular schedule, and school or workplace adjustments are part of the plan. Peer support helps with the years of being misunderstood.",
+    "evidence_based_options": [
+      "Sleep study and specialist diagnosis",
+      "Wake-promoting medication, prescribed and monitored by a sleep specialist",
+      "Medication for cataplexy and night-time sleep, prescribed and monitored",
+      "Scheduled naps, regular routine, and workplace or school adjustments"
+    ],
+    "self_help_that_supports_care": [
+      "Short planned naps at the same times each day",
+      "Telling school or work and asking for adjustments",
+      "Not driving when sleepy; discussing driving rules with your doctor",
+      "Connecting with others with narcolepsy, who get it instantly"
+    ],
+    "guideline_refs": [
+      "src-aasm-hypersomnia"
+    ]
+  },
+  "when_to_reach_out": "If you fall asleep uncontrollably by day, or your muscles go weak when you laugh, ask a doctor for a sleep-clinic referral. Mention sleep paralysis and vivid hallucinations; they're common in narcolepsy and don't mean psychosis.",
+  "is_not": "Being very tired from poor sleep, shift work, or medication isn't narcolepsy. Sleep apnoea causes daytime sleepiness and needs its own test. Cataplexy is not fainting or a seizure.",
+  "hope_note": "Narcolepsy is lifelong, and so is living well with it. The right diagnosis and treatment change everything.",
+  "related_topics": [
+    "hypersomnolence-disorder",
+    "breathing-related-sleep-disorders",
+    "major-depressive-disorder",
+    "parasomnias"
+  ],
+  "glossary_terms": [
+    "cataplexy",
+    "sleep-paralysis",
+    "hallucination",
+    "circadian-rhythm"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a young person laughing with friends on a sofa, one friend's arm casually ready behind them, a clock showing a planned nap time on the wall. Pastel indigo and coral.",
+    "alt_text": "A young person laughs with friends on a sofa, a friend's arm ready behind them, a clock on the wall."
+  },
+  "communities": [
+    "narcolepsy-network",
+    "reddit-r-narcolepsy",
+    "wake-up-narcolepsy-heypeers",
+    "hypersomnia-foundation",
+    "sleep-disorders-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-euro-sleep",
+      "title": "Prevalence of sleep disorders in the adult population (European estimate summary)",
+      "publisher": "Secondary summary of a 2026 European analysis",
+      "url": "https://www.vol.at/so-many-europeans-suffer-from-sleep-disorders/9991844",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2026,
+      "note": "Secondary source; replace with the primary analysis."
+    },
+    {
+      "id": "src-aasm-hypersomnia",
+      "title": "Treatment of central disorders of hypersomnolence: an AASM clinical practice guideline",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2021,
+      "note": "Not opened; listing URL."
+    },
+    {
+      "id": "src-nn",
+      "title": "Narcolepsy Network: support groups",
+      "publisher": "Narcolepsy Network",
+      "url": "https://narcolepsynetwork.org/resources/support-groups/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-ninds-narc",
+      "title": "Narcolepsy",
+      "publisher": "National Institute of Neurological Disorders and Stroke",
+      "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "in_young_people": "Narcolepsy usually begins between ages 10 and 20. Falling asleep in class, sudden weight gain, and 'clumsiness' from cataplexy are common first signs, and misdiagnosis as laziness, ADHD, or depression is frequent.",
+  "sub_sections": [
+    {
+      "title": "Types",
+      "icd10cm_code": "G47.411 / G47.419 / G47.421 / G47.429",
+      "text": "Type 1: with cataplexy or low hypocretin. Type 2: without cataplexy and with normal hypocretin. Either can also be caused by another medical condition."
+    }
+  ]
+}

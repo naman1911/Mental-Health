@@ -1,0 +1,155 @@
+{
+  "topic_id": "pica",
+  "official_name": "Pica",
+  "plain_title": "Eating things that aren't food",
+  "also_known_as": [],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F98.3 (children) / F50.83 (adults)",
+  "language_convention": "person-first",
+  "one_liner": "Repeatedly eating non-food substances, like dirt, paper, chalk, or ice, for a month or more, past toddler age.",
+  "in_simple_words": "Pica is persistently eating things that aren't food and have no nutritional value: clay, dirt, paper, hair, chalk, paint, ice, and others. Toddlers mouth everything, so pica is only diagnosed from age two. It's most common in children with intellectual disability or autism, and it can also occur in pregnancy and with iron deficiency. The main concerns are safety: poisoning, blockages, infections, and dental damage. Treatment focuses on finding the cause, keeping the person safe, and gentle behavioural approaches.",
+  "what_it_can_feel_like": [
+    "I craved ice so badly in pregnancy I was crunching it all day. It turned out my iron was low.",
+    "My son eats paper when he's anxious. The behaviour team helped us see it as a signal, not a problem to punish.",
+    "I was ashamed of eating clay. The doctor just asked what else was going on. That mattered."
+  ],
+  "common_signs": [
+    "Eating non-food substances regularly for a month or more",
+    "Happening past the age when mouthing is normal (over age two)",
+    "Not part of a cultural or religious practice",
+    "Possible stomach pain, blockages, dental problems, or signs of poisoning",
+    "Often alongside intellectual disability, autism, pregnancy, or iron deficiency"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Pica is just attention-seeking or naughtiness.",
+      "fact": "It's a recognized condition often linked to developmental differences, nutritional deficiencies, stress, or sensory needs. Punishment doesn't help."
+    },
+    {
+      "myth": "It's harmless.",
+      "fact": "Depending on what's eaten, pica can cause lead poisoning, blockages, parasites, and tooth damage. Medical checks matter."
+    },
+    {
+      "myth": "It only happens in children.",
+      "fact": "Adults have pica too, including during pregnancy and in people with intellectual disabilities."
+    }
+  ],
+  "how_common": {
+    "plain": "Occasional pica behaviours are not rare, but the disorder itself is uncommon in the general population and much more common in children with autism and intellectual disability.",
+    "figure": "About 1% of adults in a German population study reported recurrent pica behaviour; one US study found about 28% of children with both autism and intellectual disability versus under 4% of children generally",
+    "source_ref": "src-pica-prev",
+    "note": "Child figures from a secondary summary of CDC data; needs the primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "First, medical assessment: blood tests for iron and other deficiencies, checks for lead or other toxins, and treatment of any blockage. Correcting a deficiency sometimes resolves pica. Then a behavioural approach: working out when and why the eating happens, making the environment safer, offering safe sensory alternatives, and teaching other ways to meet the need. Carers get support and training. Medication is not a treatment for pica itself.",
+    "evidence_based_options": [
+      "Medical screening and treatment of deficiencies or poisoning",
+      "Functional behavioural assessment and behaviour support plans",
+      "Environmental safety changes and safe sensory substitutes",
+      "Support and training for parents and carers"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping risky substances out of reach without turning the home into a fortress",
+      "Offering crunchy or chewy safe foods and chewable items",
+      "Tracking when it happens: time, place, mood",
+      "Telling the dentist and doctor so they can watch for harm"
+    ],
+    "guideline_refs": [
+      "src-nice-ng11"
+    ]
+  },
+  "when_to_reach_out": "If a child over two, or an adult, is regularly eating non-food items, see a doctor for blood tests and advice. Get urgent help for severe stomach pain, vomiting, constipation, or if something toxic or sharp has been swallowed.",
+  "is_not": "Toddlers mouthing and tasting objects is normal development. Eating clay or other substances as part of a cultural or religious practice isn't a disorder. Craving unusual but edible foods in pregnancy isn't pica.",
+  "hope_note": "With the cause found and the environment made safe, pica usually reduces, and families can relax a little.",
+  "in_young_people": "Pica is most common in children with developmental disabilities and often appears alongside other sensory behaviours. School and respite settings need to know what the child might eat and how to respond calmly.",
+  "across_cultures": "Eating clay or earth (geophagy) is a traditional practice in some parts of Africa, Asia, and the Americas, especially in pregnancy, and the DSM says this is not pica. Assessment should ask about cultural meaning first.",
+  "related_topics": [
+    "autism-spectrum-disorder",
+    "intellectual-developmental-disorder",
+    "rumination-disorder",
+    "avoidant-restrictive-food-intake-disorder",
+    "stereotypic-movement-disorder"
+  ],
+  "glossary_terms": [
+    "sensory-sensitivity",
+    "stimming",
+    "occupational-therapist"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food.",
+      "No 'how to' behaviours.",
+      "Crisis strip with eating-disorder helplines required.",
+      "Pica is in the feeding and eating chapter, so the chapter's high-sensitivity rule applies, although body-image content doesn't arise."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of a parent and child in a kitchen choosing from a bowl of crunchy snacks together, a chewable necklace on the child, a doctor's reminder note on the fridge. Pastel sage and peach.",
+    "alt_text": "A parent and child choose crunchy snacks from a bowl in a kitchen, a reminder note on the fridge."
+  },
+  "communities": [
+    "nas-online-community",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-pica-prev",
+      "title": "Prevalence of pica and rumination behaviours in adults and associations with eating disorder and general psychopathology: findings from a population-based study",
+      "publisher": "Eating and Weight Disorders (PMC9220787)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9220787/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022
+    },
+    {
+      "id": "src-nice-ng11",
+      "title": "Challenging behaviour and learning disabilities (NG11)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng11",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2015,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-apa-2024-coding",
+      "title": "DSM-5-TR ICD-10-CM coding update, September 2024 (new adult pica code F50.83)",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/getmedia/172db6ec-8146-4bb4-be2a-49e9c61bcc94/APA-DSM5TR-ICD10CM-Code-Updates-092024.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2024
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find the primary CDC/autism pica study.",
+      "Replace placeholder community with a verified developmental-disability family group."
+    ]
+  }
+}

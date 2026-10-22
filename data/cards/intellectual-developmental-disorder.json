@@ -1,0 +1,175 @@
+{
+  "topic_id": "intellectual-developmental-disorder",
+  "official_name": "Intellectual Developmental Disorder (Intellectual Disability)",
+  "plain_title": "Learning and everyday skills that develop more slowly",
+  "also_known_as": [
+    "intellectual disability",
+    "learning disability (UK usage)",
+    "ID",
+    "IDD",
+    "mental retardation (outdated and offensive)"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition",
+  "icd10cm_code": "F70–F73 (by severity)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with an intellectual disability' or, in the UK, 'with a learning disability'. Self-advocates in the UK use 'learning disability'. Never 'retarded' or 'mentally handicapped'.",
+  "one_liner": "A lifelong condition, from childhood, where reasoning, learning, and everyday skills develop more slowly and need more support.",
+  "in_simple_words": "Intellectual developmental disorder means that from childhood a person finds reasoning, learning, problem-solving, and practical and social skills harder than most people. It ranges from mild, where someone lives independently with some support, to profound, where a person needs help with most things. The diagnosis rests on how a person manages daily life, not a test score. People with intellectual disabilities have the same feelings, rights, and need for friendship as anyone, and with good support they live full lives.",
+  "what_it_can_feel_like": [
+    "I learn slower. I don't learn nothing. Give me time and I'll get it.",
+    "My son needs help with money and forms. He also remembers every birthday in the family.",
+    "The best thing anyone did for me was ask what I wanted, not decide for me."
+  ],
+  "common_signs": [
+    "Learning, reasoning, and problem-solving well below what's typical for age",
+    "Needing support with everyday skills: communication, self-care, money, safety, relationships",
+    "Delays noticed in early childhood: sitting, walking, talking, understanding",
+    "Difficulties present across home, school, and community",
+    "Lifelong, with support needs that can change over time"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People with intellectual disabilities can't learn, work, or have relationships.",
+      "fact": "Most can and do, with the right support. Many hold jobs, have partners, and live in their own homes."
+    },
+    {
+      "myth": "It's the same as mental illness.",
+      "fact": "It's a developmental difference, not an illness. People with intellectual disabilities can also have mental health conditions, and those are often missed."
+    },
+    {
+      "myth": "IQ is what defines it.",
+      "fact": "DSM-5-TR bases severity on adaptive functioning (daily skills), because that's what determines the support a person needs."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 people worldwide have an intellectual disability, with higher rates in lower-income countries. Most cases are mild.",
+    "figure": "Pooled prevalence 1.04% across 52 population studies (Maulik et al. 2011); Global Burden of Disease 2019 estimated 1.74% with wide regional variation",
+    "source_ref": "src-maulik"
+  },
+  "what_helps": {
+    "plain_summary": "There's no treatment for intellectual disability itself, and none is needed; what helps is support that fits the person: early intervention and therapies in childhood, inclusive education with a support plan, help with daily living skills, supported employment, and advocacy for rights. Mental health conditions, which are common and often missed, need their own treatment, adapted to the person. Any medication is prescribed and monitored by a doctor and should never be used just to manage behaviour.",
+    "evidence_based_options": [
+      "Early intervention services and speech, occupational, and physical therapy in childhood",
+      "Inclusive education with an individual support plan",
+      "Supported employment and supported living",
+      "Adapted mental health care; avoiding medication used only to control behaviour"
+    ],
+    "self_help_that_supports_care": [
+      "Easy-read information and extra time to understand choices",
+      "Self-advocacy groups where people with intellectual disabilities speak for themselves",
+      "Family connecting with other families",
+      "Planning for transitions: school leaving, adulthood, ageing parents"
+    ],
+    "guideline_refs": [
+      "src-nice-ng54"
+    ]
+  },
+  "when_to_reach_out": "If a young child is well behind others in understanding, talking, or learning skills, ask a doctor or health visitor for a developmental assessment. For adults, ask about a learning disability assessment, which opens the door to support and rights.",
+  "is_not": "A specific learning disorder like dyslexia affects one skill in a person of typical ability. Delays caused by lack of schooling, hearing or vision problems, or a different first language are not intellectual disability. Dementia is a loss of skills later in life, not a developmental condition.",
+  "hope_note": "With the right support and the chance to choose for themselves, people with intellectual disabilities live, work, love, and belong.",
+  "strengths_and_differences": "People with intellectual disabilities are often described by families and friends as honest, warm, loyal, and good at living in the present. Every person has particular strengths; support should be built around them.",
+  "in_young_people": "Delays are often noticed in the first years. 'Global developmental delay' is the label used under age five, before formal assessment is reliable. Early support makes a lasting difference.",
+  "across_cultures": "Rates are higher where poverty, malnutrition, infections, and lack of antenatal care are common. In some communities disability brings deep shame and families hide children; in others, extended family provides strong natural support. Services work best when they respect the family's understanding.",
+  "sub_sections": [
+    {
+      "title": "Severity levels",
+      "icd10cm_code": "F70 (mild) / F71 (moderate) / F72 (severe) / F73 (profound)",
+      "text": "Based on how much support a person needs in thinking, social, and practical skills, not on IQ alone."
+    },
+    {
+      "title": "Global developmental delay and unspecified IDD",
+      "icd10cm_code": "F88 / F79",
+      "text": "Used for young children under five, or when assessment isn't possible yet, so support can start without waiting for a full diagnosis."
+    }
+  ],
+  "related_topics": [
+    "autism-spectrum-disorder",
+    "communication-disorders",
+    "specific-learning-disorder",
+    "neurobehavioral-disorder-prenatal-alcohol-exposure",
+    "stereotypic-movement-disorder"
+  ],
+  "glossary_terms": [
+    "adaptive-functioning",
+    "learning-disability-vs-difficulty",
+    "neurodevelopmental",
+    "guardianship",
+    "reasonable-accommodations",
+    "capacity"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a young adult serving coffee at a café counter with a colleague, both smiling, a small plant and a handwritten menu board. Pastel green and warm yellow.",
+    "alt_text": "A young adult serves coffee at a café counter beside a smiling colleague, with a handwritten menu board."
+  },
+  "communities": [
+    "nas-online-community",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-maulik",
+      "title": "Prevalence of intellectual disability: a meta-analysis of population-based studies",
+      "publisher": "Research in Developmental Disabilities (Maulik et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21236634/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2011,
+      "note": "PubMed ID from memory; the figure (1.04%) was confirmed via search summaries."
+    },
+    {
+      "id": "src-nice-ng54",
+      "title": "Mental health problems in people with learning disabilities: prevention, assessment and management (NG54)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng54",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2016,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-mencap",
+      "title": "Mencap",
+      "publisher": "Mencap (UK)",
+      "url": "https://www.mencap.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Replace the placeholder community with verified self-advocacy and family groups (Mencap, The Arc, Inclusion International).",
+      "Confirm Maulik PubMed link."
+    ]
+  }
+}

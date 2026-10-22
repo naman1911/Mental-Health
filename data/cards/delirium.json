@@ -1,0 +1,153 @@
+{
+  "topic_id": "delirium",
+  "official_name": "Delirium",
+  "plain_title": "Sudden confusion with a medical cause",
+  "also_known_as": [
+    "acute confusional state",
+    "ICU delirium",
+    "hospital-acquired confusion"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "F05 (due to another medical condition); others vary",
+  "language_convention": "person-first",
+  "one_liner": "A sudden, fluctuating change in attention and awareness over hours or days, caused by illness, surgery, medication, or withdrawal.",
+  "in_simple_words": "Delirium is a sudden, fluctuating disturbance in attention, awareness, and thinking, caused by something physical: infection, surgery, dehydration, pain, medication, alcohol or drug withdrawal, or organ problems. The person may be confused, drowsy or agitated, see things that aren't there, and be worse at night. It's very common in hospitals, especially in older people, and it's a medical emergency because it signals something is wrong. It's often missed and often preventable, and most people recover once the cause is treated.",
+  "what_it_can_feel_like": [
+    "Grandma went into hospital with a chest infection and came out thinking it was 1975. Three weeks later she was herself again.",
+    "After the operation I saw spiders on the ceiling and was sure the nurses were poisoning me. I remember it vividly and I'm embarrassed, but they said it's common.",
+    "The delirium was the first sign Dad had an infection. Nobody noticed until he started wandering."
+  ],
+  "common_signs": [
+    "Sudden onset over hours or days, fluctuating through the day",
+    "Trouble focusing, following conversation, or staying alert",
+    "Confusion about where they are, the time, or who people are",
+    "Drowsy and withdrawn, or restless and agitated, or both",
+    "Hallucinations, often visual; suspicious or fearful thoughts",
+    "Worse in the evening and at night; disturbed sleep"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Confusion in an older person is just dementia getting worse.",
+      "fact": "A sudden change is delirium until proved otherwise, and delirium has a treatable cause. Dementia doesn't change over hours."
+    },
+    {
+      "myth": "The person will remember nothing, so it doesn't matter.",
+      "fact": "Many people remember delirium as terrifying. It also raises the risk of longer stays, falls, and lasting cognitive decline, so preventing it matters."
+    },
+    {
+      "myth": "Sedatives are the treatment.",
+      "fact": "The treatment is finding and fixing the cause. Sedatives are a last resort and can make delirium worse."
+    }
+  ],
+  "how_common": {
+    "plain": "Delirium affects around 1 in 7 older people in hospital at any time, and up to 1 in 4 develop it during an admission, with higher rates in intensive care and after surgery.",
+    "figure": "Point prevalence 14.7% in adults 65+ across 45 UK hospitals; about 25% of older admitted patients develop delirium (meta-analysis)",
+    "source_ref": "src-delirium-uk"
+  },
+  "what_helps": {
+    "plain_summary": "Find and treat the cause: infection, dehydration, pain, constipation, medication, withdrawal, or organ failure. Alongside that, supportive care: a calm, well-lit room, familiar faces and objects, glasses and hearing aids, reorientation, good sleep, mobility, and avoiding unnecessary medications and ward moves. Medication for distress is used sparingly and with care. Prevention programmes in hospitals cut delirium by a third. Follow-up afterwards checks for lingering problems.",
+    "evidence_based_options": [
+      "Identifying and treating the underlying cause",
+      "Multicomponent prevention and care: orientation, hydration, sleep, mobility, sensory aids",
+      "Reviewing and reducing medications that cause delirium",
+      "Careful, limited use of medication for severe distress; follow-up after recovery"
+    ],
+    "self_help_that_supports_care": [
+      "Family: being present, bringing glasses, hearing aids, photos, and familiar items",
+      "Calmly reminding the person where they are and why",
+      "Telling staff about any sudden change; you know the person best",
+      "Afterwards: talking about what happened, which helps recovery"
+    ],
+    "guideline_refs": [
+      "src-nice-cg103"
+    ]
+  },
+  "when_to_reach_out": "If someone becomes suddenly confused, drowsy, agitated, or starts seeing things, especially an older person or someone who is ill or just had surgery, get medical help the same day. Tell staff if a person in hospital isn't their usual self.",
+  "is_not": "Dementia develops over months and years, not hours. Psychosis in a young, physically well person is unlikely to be delirium. Normal post-anaesthetic grogginess clears within hours.",
+  "hope_note": "Most delirium resolves once the cause is treated. Families who recognize it early make all the difference.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "alzheimers-disease-neurocognitive-disorder",
+    "alcohol-use-disorder",
+    "sedative-hypnotic-anxiolytic-use-disorder",
+    "substance-medication-induced-mental-disorders",
+    "understanding-psychosis"
+  ],
+  "glossary_terms": [
+    "hallucination",
+    "dementia",
+    "sundowning",
+    "withdrawal"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Medical emergency framing; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of a hospital room with a family member sitting beside an older patient, a wall clock, a window with daylight, family photos and glasses on the bedside table. Pastel amber and sky blue.",
+    "alt_text": "A family member sits beside an older patient in a bright hospital room with photos and glasses on the bedside table."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-delirium-uk",
+      "title": "Delirium is prevalent in older hospital inpatients and associated with adverse outcomes: results of a prospective multi-centre study on World Delirium Awareness Day",
+      "publisher": "BMC Medicine (PMC6911703)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6911703/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2019
+    },
+    {
+      "id": "src-nice-cg103",
+      "title": "Delirium: prevention, diagnosis and management in hospital and long-term care (CG103)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg103",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2010,
+      "note": "Updated 2023."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "No delirium-specific peer community exists; family resources via dementia organizations."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Types by cause",
+      "icd10cm_code": "F05; others vary",
+      "text": "Substance intoxication delirium, substance withdrawal delirium, medication-induced delirium, delirium due to another medical condition, delirium due to multiple etiologies, other specified and unspecified delirium (R41.0)."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "topic_id": "parasomnias",
+  "official_name": "Parasomnias (Sleepwalking, Sleep Terrors, and REM Sleep Behaviour Disorder)",
+  "plain_title": "Strange things that happen during sleep",
+  "also_known_as": [
+    "sleepwalking",
+    "night terrors",
+    "REM behaviour disorder",
+    "RBD"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "F51.3 / F51.4 / G47.52",
+  "language_convention": "person-first",
+  "one_liner": "Unusual behaviours during sleep: walking, screaming in terror, or acting out dreams, that the person usually doesn't remember.",
+  "in_simple_words": "Parasomnias are things the body does while the brain is partly asleep. In sleepwalking and sleep terrors, a person gets up, talks, screams, or moves about in deep sleep, eyes open but not awake, and remembers nothing; common in children and usually fading. In REM sleep behaviour disorder, mostly in older adults, the paralysis of dreaming sleep fails, so people act out dreams. That one needs medical attention: it can injure a partner and is linked to later neurological conditions.",
+  "what_it_can_feel_like": [
+    "My son screams in terror at midnight, eyes wide open, and has no idea in the morning. It's worse for us than for him.",
+    "I found myself in the kitchen at 3am with no memory of getting there.",
+    "My husband punched the wall in his sleep, dreaming about a fight. The sleep clinic took it very seriously."
+  ],
+  "common_signs": [
+    "Getting up and walking or doing things while asleep, hard to wake, no memory after",
+    "Screaming and intense fear early in the night, not fully awake, no memory after",
+    "Acting out dreams: shouting, punching, kicking, falling out of bed (REM behaviour disorder)",
+    "Episodes causing distress, injury, or embarrassment",
+    "In children: usually harmless and outgrown; in adults: worth assessing"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Never wake a sleepwalker.",
+      "fact": "Waking them won't harm them, though they may be confused. Gently guiding them back to bed is usually easiest."
+    },
+    {
+      "myth": "Night terrors mean a child is traumatized.",
+      "fact": "Sleep terrors are a normal feature of deep sleep in young children and are not caused by trauma. Nightmares are different."
+    },
+    {
+      "myth": "Acting out dreams is just vivid dreaming.",
+      "fact": "REM sleep behaviour disorder is a specific condition that needs assessment, both for safety and because of its links to Parkinson's and related conditions."
+    }
+  ],
+  "how_common": {
+    "plain": "Sleepwalking and sleep terrors are common in children and uncommon in adults. REM sleep behaviour disorder is rare, affecting well under 1 in 100 people, mostly older men.",
+    "figure": "DSM-5-TR text: sleepwalking in 10–30% of children at some point, around 1–7% of adults; sleep terrors in up to about 40% of young children; RBD about 0.4–0.5% of the general population",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; need primary sources."
+  },
+  "what_helps": {
+    "plain_summary": "For sleepwalking and sleep terrors in children, the main treatment is safety (locks, gates, clear floors), good sleep routines, and reassurance; they usually fade. Scheduled brief awakenings can help frequent episodes. In adults, triggers like sleep loss, alcohol, stress, and some medicines are addressed, and a sleep study rules out apnoea. REM sleep behaviour disorder needs specialist assessment, bedroom safety measures, and often medication, prescribed and monitored by a doctor, plus follow-up for neurological health.",
+    "evidence_based_options": [
+      "Safety measures and reassurance for childhood sleepwalking and terrors",
+      "Scheduled awakenings for frequent childhood episodes",
+      "Treating triggers and ruling out sleep apnoea in adults",
+      "Specialist assessment and medication for REM sleep behaviour disorder, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Enough sleep; sleep loss is the biggest trigger",
+      "Bedroom safety: locks, alarms on doors, nothing sharp nearby",
+      "Less alcohol and no screens late",
+      "For partners: sleep separately if there's a risk of injury, without shame"
+    ],
+    "guideline_refs": [
+      "src-nhs-sleepwalking"
+    ]
+  },
+  "when_to_reach_out": "If sleep episodes are causing injury, happening most nights, starting in adulthood, or involve acting out dreams, ask a doctor for a sleep-clinic referral. Childhood sleepwalking and terrors usually need only reassurance unless they're frequent or dangerous.",
+  "is_not": "Nightmares, which wake you with a clear memory, are a different condition. Seizures during sleep and confusion from medication or apnoea need medical assessment. Talking in your sleep is normal.",
+  "hope_note": "Children grow out of sleepwalking and terrors. Adults with parasomnias, including REM behaviour disorder, can sleep safely with the right plan.",
+  "related_topics": [
+    "nightmare-disorder",
+    "breathing-related-sleep-disorders",
+    "parkinsons-disease-neurocognitive-disorder",
+    "lewy-body-neurocognitive-disorder",
+    "insomnia-disorder"
+  ],
+  "glossary_terms": [
+    "night-terrors",
+    "sleep-paralysis",
+    "sleep-hygiene"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a parent sitting calmly beside a child's bed at night with a small nightlight, a safety gate visible at the top of the stairs. Pastel indigo and peach.",
+    "alt_text": "A parent sits calmly beside a child's bed at night with a small nightlight, a safety gate at the top of the stairs."
+  },
+  "communities": [
+    "sleep-disorders-australia",
+    "reddit-r-insomnia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nhs-sleepwalking",
+      "title": "Sleepwalking",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/sleepwalking/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence sources.",
+      "Add an RBD-specific patient community after verification."
+    ]
+  },
+  "in_young_people": "Sleep terrors peak around ages 3 to 7 and sleepwalking around 8 to 12. They run in families and are triggered by tiredness, illness, and stress. Most children outgrow them without treatment.",
+  "sub_sections": [
+    {
+      "title": "NREM sleep arousal disorders",
+      "icd10cm_code": "F51.3 (sleepwalking) / F51.4 (sleep terror)",
+      "text": "Happen in deep sleep, usually in the first third of the night, with little or no memory."
+    },
+    {
+      "title": "REM sleep behaviour disorder",
+      "icd10cm_code": "G47.52",
+      "text": "Dream enactment in REM sleep, usually later in the night, with the person often remembering the dream. Needs specialist assessment."
+    }
+  ]
+}

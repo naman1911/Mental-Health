@@ -1,0 +1,154 @@
+{
+  "topic_id": "panic-disorder",
+  "official_name": "Panic Disorder",
+  "plain_title": "When panic attacks keep coming back",
+  "also_known_as": [
+    "panic attacks (the attacks themselves)"
+  ],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F41.0",
+  "language_convention": "person-first",
+  "one_liner": "Repeated, unexpected panic attacks, plus ongoing fear of the next one, that change how you live.",
+  "in_simple_words": "A panic attack is a sudden wave of intense fear with strong body symptoms: pounding heart, shaking, breathlessness, dizziness, feeling unreal, fear of dying or losing control. It peaks within minutes. Panic disorder is when attacks come out of the blue, again and again, and the person starts living in fear of the next one, often avoiding places or activities. It's frightening but not dangerous, and it's one of the most treatable anxiety conditions.",
+  "what_it_can_feel_like": [
+    "I was sure I was having a heart attack. Three ER visits later, they said 'panic'. I didn't believe them.",
+    "The attacks were bad. The fear of the attacks ate my whole life.",
+    "CBT taught me the feelings were a false alarm. Now when one comes, I ride it out."
+  ],
+  "common_signs": [
+    "Sudden surges of intense fear that peak within minutes",
+    "Racing heart, sweating, trembling, shortness of breath, chest tightness",
+    "Dizziness, chills or hot flushes, numbness, nausea",
+    "Feeling unreal or detached, fear of dying or losing control",
+    "Weeks of worrying about more attacks",
+    "Avoiding places or activities in case an attack happens"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "A panic attack can kill you or make you lose your mind.",
+      "fact": "Panic attacks are the body's alarm system firing by mistake. They are intensely unpleasant but not dangerous."
+    },
+    {
+      "myth": "You just need to breathe into a paper bag.",
+      "fact": "Slow breathing can help, but the real treatment is learning that the sensations are safe, through CBT."
+    },
+    {
+      "myth": "Having had a panic attack means you have panic disorder.",
+      "fact": "Many people have one or two panic attacks in their life. Panic disorder is repeated attacks plus ongoing fear and avoidance."
+    }
+  ],
+  "how_common": {
+    "plain": "About 3 in 100 US adults have panic disorder in a given year, women more than twice as often as men. Far more people have an occasional panic attack without the disorder.",
+    "figure": "2.7% past-year prevalence among US adults (3.8% women, 1.6% men), NCS-R 2001–2003",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "CBT for panic disorder is first-line and works well: it teaches what panic is, how to stop fighting the sensations, and how to gradually return to avoided situations. Antidepressants (SSRIs), prescribed and monitored by a doctor, also help. Benzodiazepines are not recommended as a long-term treatment. Cutting back caffeine and getting regular sleep reduce attacks.",
+    "evidence_based_options": [
+      "CBT for panic disorder, including interoceptive exposure (safely practising the body sensations)",
+      "Guided self-help based on CBT",
+      "SSRI antidepressants, prescribed and monitored by a doctor",
+      "Gradual return to avoided places and activities"
+    ],
+    "self_help_that_supports_care": [
+      "Learning the facts about panic, which alone reduces fear",
+      "Slow breathing out, longer than in, during an attack",
+      "Staying in the situation until the wave passes rather than escaping",
+      "Less caffeine, alcohol, and nicotine"
+    ],
+    "guideline_refs": [
+      "src-nice-cg113"
+    ]
+  },
+  "when_to_reach_out": "If you've had repeated unexpected panic attacks and are worrying about or avoiding things because of them, see a doctor. A first episode of chest pain should always be checked medically.",
+  "is_not": "A single panic attack during a stressful period is not panic disorder. Panic attacks triggered only by a specific fear, like spiders or public speaking, point to a phobia or social anxiety instead.",
+  "hope_note": "Panic disorder has one of the best treatment success rates in mental health. Most people who complete CBT get their lives back.",
+  "in_young_people": "Panic disorder usually starts in the late teens or twenties but can begin earlier. Teens may describe attacks as 'feeling like I'm dying' and start refusing school or outings.",
+  "related_topics": [
+    "agoraphobia",
+    "generalized-anxiety-disorder",
+    "social-anxiety-disorder",
+    "specific-phobia",
+    "depersonalization-derealization-disorder"
+  ],
+  "glossary_terms": [
+    "panic-attack",
+    "catastrophizing",
+    "avoidance",
+    "exposure-therapy",
+    "cbt",
+    "ssri",
+    "benzodiazepine",
+    "interoception"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a person standing on a shoreline as a wave rolls in and gently recedes, feet planted, breathing. Pastel blue and sand. Calm, no distress.",
+    "alt_text": "A person stands calmly on a shoreline as a wave rolls in and gently recedes around their feet."
+  },
+  "communities": [
+    "reddit-r-panicattack",
+    "reddit-r-panicdisorder",
+    "adaa-online-support-group",
+    "anxiety-uk-peer-support-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Panic Disorder statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/panic-disorder",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg113",
+      "title": "Generalised anxiety disorder and panic disorder in adults: management (CG113)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg113",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2011
+    },
+    {
+      "id": "src-nhs",
+      "title": "NHS mental health conditions page",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NHS page; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

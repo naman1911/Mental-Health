@@ -1,0 +1,2039 @@
+{
+  "generated_on": "2026-10-22",
+  "notes": "Crisis strip data. Show priority-1 lines for the visitor's country first, then the global fallbacks. Every entry is needs_verification or conflicting_sources: the build environment could not open any official page, so numbers and hours were taken from search-engine results on the generation date. A human must open each source_url and ideally test each line before launch, then set verification_status and verified_on. Re-verify quarterly; helpline numbers change (see the PAPYRUS and Childline India rows).",
+  "global_fallbacks": [
+    {
+      "line_id": "global-find-a-helpline",
+      "name": "Find A Helpline",
+      "organization": "ThroughLine",
+      "country": "GLOBAL",
+      "region_label": "150+ countries",
+      "kind": "directory",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://findahelpline.com/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Directory; lines listed with their own hours",
+      "is_24_7": null,
+      "languages": [
+        "many"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.iasp.info/crisis-centres/",
+      "notes": "Verified helplines by country with phone, text, chat, and WhatsApp options.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "global-befrienders",
+      "name": "Befrienders Worldwide directory",
+      "organization": "Befrienders Worldwide",
+      "country": "GLOBAL",
+      "region_label": "32 countries (349 centres)",
+      "kind": "directory",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://befrienders.org/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Directory",
+      "is_24_7": null,
+      "languages": [
+        "many"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://211lifeline.org/detail.php?id=7336963",
+      "notes": "",
+      "reviewer_notes": "URL from directory listing; confirm it resolves."
+    },
+    {
+      "line_id": "global-iasp",
+      "name": "IASP crisis centres directory",
+      "organization": "International Association for Suicide Prevention",
+      "country": "GLOBAL",
+      "region_label": "Global",
+      "kind": "directory",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.iasp.info/crisis-centres/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Directory",
+      "is_24_7": null,
+      "languages": [
+        "many"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.iasp.info/crisis-centres/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    }
+  ],
+  "lines": [
+    {
+      "line_id": "us-911",
+      "name": "Emergency services",
+      "organization": "Local emergency services",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "911",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://www.911.gov/",
+      "notes": "Call for immediate danger to life.",
+      "reviewer_notes": "Standard emergency number; no verification needed."
+    },
+    {
+      "line_id": "us-988",
+      "name": "988 Suicide & Crisis Lifeline",
+      "organization": "SAMHSA / Vibrant Emotional Health",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "988",
+        "phone_alt": null,
+        "sms_number": "988",
+        "sms_keyword": null,
+        "chat_url": "https://988lifeline.org/chat/",
+        "email": null,
+        "menu_options": [
+          "Press 1: Veterans Crisis Line",
+          "Press 2: Spanish",
+          "Press 3: LGBTQI+ support for under-25s",
+          "Text AYUDA to 988 for Spanish; type PRIDE in chat or text for LGBTQI+ support"
+        ]
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "es",
+        "interpreters"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://988lifeline.org/faq/calling-the-988-lifeline/",
+      "notes": "Call, text, or chat. Veterans can also text 838255.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-crisis-text-line",
+      "name": "Crisis Text Line",
+      "organization": "Crisis Text Line",
+      "country": "US",
+      "region_label": "United States and Puerto Rico",
+      "kind": "crisis-text",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": "741741",
+        "sms_keyword": "HOME",
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "audience": [
+        "everyone",
+        "teens"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.crisistextline.org/international",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-trevor",
+      "name": "TrevorLifeline, TrevorText, TrevorChat",
+      "organization": "The Trevor Project",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1-866-488-7386",
+        "phone_alt": null,
+        "sms_number": "678678",
+        "sms_keyword": "START",
+        "chat_url": "https://www.thetrevorproject.org/get-help/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "lgbtq-youth-under-25"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "gender-dysphoria",
+        "social-environment-and-identity-stress"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.thetrevorproject.org/get-help/",
+      "notes": "",
+      "reviewer_notes": "One outdated school listing shows limited text hours; the organisation announced 24/7 text and chat in 2019. Confirm."
+    },
+    {
+      "line_id": "us-trans-lifeline",
+      "name": "Trans Lifeline",
+      "organization": "Trans Lifeline",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "support-line",
+      "contact": {
+        "phone": "877-565-8860",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Mon–Fri 10am–6pm Pacific (1–9pm Eastern); holiday closures listed on the site",
+      "is_24_7": null,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "audience": [
+        "trans-and-questioning"
+      ],
+      "topics": [
+        "gender-dysphoria"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://translifeline.org/hotline/",
+      "notes": "Peer-run; does not call emergency services without the caller's consent.",
+      "reviewer_notes": "Official page lists weekday hours; some directories claim 24/7. Confirm current hours."
+    },
+    {
+      "line_id": "us-veterans-crisis-line",
+      "name": "Veterans Crisis Line",
+      "organization": "US Department of Veterans Affairs",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "988 then press 1",
+        "phone_alt": null,
+        "sms_number": "838255",
+        "sms_keyword": null,
+        "chat_url": "https://www.veteranscrisisline.net/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "veterans",
+        "service-members",
+        "families"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "posttraumatic-stress-disorder"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://988lifeline.org/faq/calling-the-988-lifeline/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-childhelp",
+      "name": "Childhelp National Child Abuse Hotline",
+      "organization": "Childhelp",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1-800-422-4453",
+        "phone_alt": null,
+        "sms_number": "800-422-4453",
+        "sms_keyword": "GO",
+        "chat_url": "https://childhelphotline.org/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "170+ languages via interpreters"
+      ],
+      "audience": [
+        "children",
+        "teens",
+        "adults",
+        "family"
+      ],
+      "topics": [
+        "child-abuse-and-neglect"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://childhelphotline.org/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-ndvh",
+      "name": "National Domestic Violence Hotline",
+      "organization": "The Hotline",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1-800-799-7233",
+        "phone_alt": null,
+        "sms_number": "88788",
+        "sms_keyword": "START",
+        "chat_url": "https://www.thehotline.org/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "es",
+        "interpreters"
+      ],
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "topics": [
+        "partner-violence-and-adult-abuse"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.thehotline.org/",
+      "notes": "Site has a quick-exit button; call if you think your internet use is monitored.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-rainn",
+      "name": "National Sexual Assault Hotline",
+      "organization": "RAINN",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "800-656-4673",
+        "phone_alt": null,
+        "sms_number": "64673",
+        "sms_keyword": "HOPE",
+        "chat_url": "https://hotline.rainn.org/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "topics": [
+        "partner-violence-and-adult-abuse",
+        "child-abuse-and-neglect",
+        "posttraumatic-stress-disorder"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://rainn.org/get-help",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "us-stop-it-now",
+      "name": "Stop It Now! Helpline",
+      "organization": "Stop It Now!",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1-888-773-8368",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://stopitnow.org/node/1612",
+        "email": "helpline@stopitnow.org",
+        "menu_options": []
+      },
+      "hours": "Hours in Eastern Time on the site; email answered during open hours",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "adults-worried-about-their-thoughts",
+        "family",
+        "survivors"
+      ],
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview",
+        "child-abuse-and-neglect"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://stopitnow.org/node/1612",
+      "notes": "Anonymous; no caller ID used.",
+      "reviewer_notes": "Confirm hours and email address."
+    },
+    {
+      "line_id": "us-samhsa",
+      "name": "SAMHSA National Helpline",
+      "organization": "SAMHSA",
+      "country": "US",
+      "region_label": "United States",
+      "kind": "support-line",
+      "contact": {
+        "phone": "1-800-662-4357",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "alcohol-use-disorder",
+        "opioid-use-disorder",
+        "health-care-access-and-treatment-adherence"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.samhsa.gov/find-help/national-helpline",
+      "notes": "Treatment referral and information, not a crisis counselling line.",
+      "reviewer_notes": "Already listed in communities.json; confirm hours."
+    },
+    {
+      "line_id": "us-211",
+      "name": "211",
+      "organization": "United Way",
+      "country": "US",
+      "region_label": "United States and Puerto Rico",
+      "kind": "support-line",
+      "contact": {
+        "phone": "211",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.211.org/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "180+ languages"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "housing-and-money-problems"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.211.org/",
+      "notes": "Housing, food, utilities, and health referrals.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-999",
+      "name": "Emergency services",
+      "organization": "Local emergency services",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "999",
+        "phone_alt": "112",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://www.gov.uk/",
+      "notes": "Call for immediate danger to life.",
+      "reviewer_notes": "Standard emergency number."
+    },
+    {
+      "line_id": "uk-samaritans",
+      "name": "Samaritans",
+      "organization": "Samaritans",
+      "country": "GB",
+      "region_label": "United Kingdom and Republic of Ireland",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "116 123",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "jo@samaritans.org",
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "Welsh line 0808 164 0123 (hours vary)"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "notes": "Free from any phone. Email replies can take several days.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-shout",
+      "name": "Shout",
+      "organization": "Mental Health Innovations",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "crisis-text",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": "85258",
+        "sms_keyword": "SHOUT",
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.crisistextline.org/international",
+      "notes": "Free, confidential text support. Keywords YM (YoungMinds) and MERMAIDS also route here.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-nhs-111-option-2",
+      "name": "NHS 111, option 2 (mental health)",
+      "organization": "NHS England",
+      "country": "GB",
+      "region_label": "England",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "111 then option 2",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://stayingsafe.net/node/18",
+      "notes": "Urgent mental health help in England; connects to local crisis teams.",
+      "reviewer_notes": "Seen in a Staying Safe listing; confirm national coverage."
+    },
+    {
+      "line_id": "uk-papyrus-hopeline247",
+      "name": "HOPELINE247",
+      "organization": "PAPYRUS Prevention of Young Suicide",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "0800 068 4141",
+        "phone_alt": "0300 102 2470",
+        "sms_number": "88247",
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "pat@papyrus-uk.org",
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "under-35s",
+        "anyone-worried-about-a-young-person"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://zerosuicidealliance.com/urgent-help",
+      "notes": "For young people under 35 and anyone worried about one.",
+      "reviewer_notes": "PAPYRUS announced a move to 0300 102 2470 and a 2026 listing uses it; older listings use 0800 068 4141. Confirm which is live and whether both work."
+    },
+    {
+      "line_id": "uk-calm",
+      "name": "CALM helpline and webchat",
+      "organization": "Campaign Against Living Miserably",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "0800 58 58 58",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.thecalmzone.net/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "5pm–midnight every day",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://zerosuicidealliance.com/urgent-help",
+      "notes": "",
+      "reviewer_notes": "Confirm hours and webchat URL on the official site; URL from memory of the organisation."
+    },
+    {
+      "line_id": "uk-childline",
+      "name": "Childline",
+      "organization": "NSPCC",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "0800 1111",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.childline.org.uk/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "under-19s"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "child-abuse-and-neglect",
+        "school-and-work-problems"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.childline.org.uk/",
+      "notes": "Free; calls don't show on bills.",
+      "reviewer_notes": "URL from memory of the organisation; confirm."
+    },
+    {
+      "line_id": "uk-nspcc-helpline",
+      "name": "NSPCC Helpline",
+      "organization": "NSPCC",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0808 800 5000",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "help@nspcc.org.uk",
+        "menu_options": []
+      },
+      "hours": "Listings disagree: 10am–4pm daily (2025) vs 24/7 (older)",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "adults-worried-about-a-child",
+        "professionals"
+      ],
+      "topics": [
+        "child-abuse-and-neglect"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://www.nspcc.org.uk/",
+      "notes": "",
+      "reviewer_notes": "Confirm hours."
+    },
+    {
+      "line_id": "uk-refuge",
+      "name": "National Domestic Abuse Helpline",
+      "organization": "Refuge",
+      "country": "GB",
+      "region_label": "England",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0808 2000 247",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 phone; live chat Mon–Fri 10am–10pm, weekends 10am–6pm (site); BSL weekdays",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters via Language Line",
+        "BSL"
+      ],
+      "audience": [
+        "adults"
+      ],
+      "topics": [
+        "partner-violence-and-adult-abuse"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "notes": "",
+      "reviewer_notes": "Chat hours differ between pages; confirm."
+    },
+    {
+      "line_id": "uk-victim-support",
+      "name": "Victim Support Supportline",
+      "organization": "Victim Support",
+      "country": "GB",
+      "region_label": "England and Wales",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0808 1689 111",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.victimsupport.org.uk/help-and-support/get-help/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "adults"
+      ],
+      "topics": [
+        "crime-disaster-and-legal-problems",
+        "partner-violence-and-adult-abuse"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.victimsupport.org.uk/help-and-support/get-help/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-mermaids",
+      "name": "Mermaids helpline and webchat",
+      "organization": "Mermaids",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0808 801 0400",
+        "phone_alt": null,
+        "sms_number": "85258",
+        "sms_keyword": "MERMAIDS",
+        "chat_url": null,
+        "email": "info@mermaidsuk.org.uk",
+        "menu_options": []
+      },
+      "hours": "Listings give Mon–Fri 9am–9pm (one older listing 1pm–8.30pm); text is 24/7 via Shout",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "trans-and-gender-diverse-under-20s",
+        "parents"
+      ],
+      "topics": [
+        "gender-dysphoria"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://findahelpline.com/organizations/mermaids-support-line",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-stop-it-now",
+      "name": "Stop It Now UK and Ireland helpline",
+      "organization": "Lucy Faithfull Foundation",
+      "country": "GB",
+      "region_label": "United Kingdom and Ireland",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0808 1000 900",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.stopitnow.org.uk/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Mon–Thu 9am–9pm, Fri 9am–5pm (Scotland listings: Fri to 7pm)",
+      "is_24_7": null,
+      "languages": [
+        "en",
+        "live translation"
+      ],
+      "audience": [
+        "adults-worried-about-their-thoughts",
+        "family"
+      ],
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview",
+        "child-abuse-and-neglect"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://www.stopitnow.org.uk/",
+      "notes": "Anonymous and free.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "uk-sobs",
+      "name": "Survivors of Bereavement by Suicide helpline",
+      "organization": "SOBS",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "0300 111 5065",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "email.support@uksobs.org",
+        "menu_options": []
+      },
+      "hours": "9am–7pm every day (most listings)",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "adults-bereaved-by-suicide"
+      ],
+      "topics": [
+        "grief-and-bereavement"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://uksobs.org/",
+      "notes": "",
+      "reviewer_notes": "One listing gives 9am–9pm; confirm. URL from directory listings."
+    },
+    {
+      "line_id": "uk-youngminds-parents",
+      "name": "YoungMinds Parents Helpline",
+      "organization": "YoungMinds",
+      "country": "GB",
+      "region_label": "United Kingdom",
+      "kind": "support-line",
+      "contact": {
+        "phone": "0808 802 5544",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+        "email": "parents@youngminds.org.uk",
+        "menu_options": []
+      },
+      "hours": "Mon–Fri; phone 9.30am–4pm Mon/Thu/Fri, 9.30am–6pm Tue/Wed; webchat 9.30am–4pm",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "parents-and-carers"
+      ],
+      "topics": [
+        "oppositional-defiant-disorder",
+        "conduct-disorder",
+        "adhd"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+      "notes": "Not a crisis service.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ie-112",
+      "name": "Emergency services",
+      "organization": "Local emergency services",
+      "country": "IE",
+      "region_label": "Ireland",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "112",
+        "phone_alt": "999",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://www.gov.ie/",
+      "notes": "",
+      "reviewer_notes": "Standard emergency number."
+    },
+    {
+      "line_id": "ie-samaritans",
+      "name": "Samaritans Ireland",
+      "organization": "Samaritans",
+      "country": "IE",
+      "region_label": "Ireland",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "116 123",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "jo@samaritans.ie",
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.hse.ie/mental-health/services-support/supports-services/",
+      "notes": "",
+      "reviewer_notes": "Email address differs between .org and .ie listings; both may work."
+    },
+    {
+      "line_id": "ie-pieta",
+      "name": "Pieta House",
+      "organization": "Pieta",
+      "country": "IE",
+      "region_label": "Ireland",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1800 247 247",
+        "phone_alt": null,
+        "sms_number": "51444",
+        "sms_keyword": "HELP",
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 freephone; text standard rates",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "grief-and-bereavement"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.hse.ie/mental-health/services-support/supports-services/",
+      "notes": "For self-harm, suicidal thoughts, and suicide bereavement.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ie-text-about-it",
+      "name": "Text About It",
+      "organization": "spunout",
+      "country": "IE",
+      "region_label": "Ireland",
+      "kind": "crisis-text",
+      "contact": {
+        "phone": null,
+        "phone_alt": null,
+        "sms_number": "50808",
+        "sms_keyword": "HELLO",
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.crisistextline.org/international",
+      "notes": "Keyword HOME also works per Crisis Text Line's listing.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ca-911",
+      "name": "Emergency services",
+      "organization": "Local emergency services",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "911",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://www.canada.ca/",
+      "notes": "",
+      "reviewer_notes": "Standard emergency number."
+    },
+    {
+      "line_id": "ca-988",
+      "name": "9-8-8 Suicide Crisis Helpline",
+      "organization": "CAMH / Government of Canada",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "988",
+        "phone_alt": null,
+        "sms_number": "988",
+        "sms_keyword": null,
+        "chat_url": "https://988.ca/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://988.ca/",
+      "notes": "Call or text.",
+      "reviewer_notes": "URL from search listings; confirm."
+    },
+    {
+      "line_id": "ca-kids-help-phone",
+      "name": "Kids Help Phone",
+      "organization": "Kids Help Phone",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1-800-668-6868",
+        "phone_alt": null,
+        "sms_number": "686868",
+        "sms_keyword": "CONNECT",
+        "chat_url": "https://kidshelpphone.ca/",
+        "email": null,
+        "menu_options": [
+          "Text PARLER for French",
+          "Text FIRST NATIONS, INUIT, or METIS to reach an Indigenous crisis responder"
+        ]
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "audience": [
+        "young-people"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "child-abuse-and-neglect"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://safety-planning-tool.c3p.ca/en/resources/crisis-resources/",
+      "notes": "Text needs no data plan or app.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ca-hope-for-wellness",
+      "name": "Hope for Wellness Help Line",
+      "organization": "Indigenous Services Canada",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1-855-242-3310",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.hopeforwellness.ca/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 (Cree, Ojibway, Inuktitut on request, not always staffed)",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "fr",
+        "cr",
+        "oj",
+        "iu"
+      ],
+      "audience": [
+        "indigenous-peoples"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.sac-isc.gc.ca/eng/1576089519527",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ca-trans-lifeline",
+      "name": "Trans Lifeline (Canada)",
+      "organization": "Trans Lifeline",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "support-line",
+      "contact": {
+        "phone": "877-330-6366",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Weekday hours as US line; check site",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "trans-and-questioning"
+      ],
+      "topics": [
+        "gender-dysphoria"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://translifeline.org/hotline/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "ca-talking-for-change",
+      "name": "Talking for Change",
+      "organization": "CAMH / Public Safety Canada",
+      "country": "CA",
+      "region_label": "Canada",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1-833-703-3303",
+        "phone_alt": "416-583-1310",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://findahelpline.com/organizations/talking-for-change",
+        "email": "talkingforchange@camh.ca",
+        "menu_options": []
+      },
+      "hours": "Mon–Fri 12–6pm Eastern (directory listings)",
+      "is_24_7": null,
+      "languages": [
+        "en",
+        "chat in 28+ languages"
+      ],
+      "audience": [
+        "adults-and-youth-worried-about-their-thoughts",
+        "bystanders"
+      ],
+      "topics": [
+        "pedophilic-disorder",
+        "paraphilic-disorders-overview"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://findahelpline.com/organizations/talking-for-change",
+      "notes": "Anonymous; free therapy for adults in most provinces. Official site talkingforchange.ca.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-000",
+      "name": "Emergency services",
+      "organization": "Local emergency services",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "000",
+        "phone_alt": "112 from mobiles",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://www.triplezero.gov.au/",
+      "notes": "",
+      "reviewer_notes": "Standard emergency number."
+    },
+    {
+      "line_id": "au-lifeline",
+      "name": "Lifeline",
+      "organization": "Lifeline Australia",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "13 11 14",
+        "phone_alt": null,
+        "sms_number": "0477 13 11 14",
+        "sms_keyword": null,
+        "chat_url": "https://www.lifeline.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://au.reachout.com/urgent-help",
+      "notes": "Call, text, or chat.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-kids-helpline",
+      "name": "Kids Helpline",
+      "organization": "yourtown",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1800 55 1800",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://kidshelpline.com.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "ages-5-25"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "child-abuse-and-neglect",
+        "school-and-work-problems"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://au.reachout.com/urgent-help",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-beyond-blue",
+      "name": "Beyond Blue Support Service",
+      "organization": "Beyond Blue",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "support-line",
+      "contact": {
+        "phone": "1300 22 4636",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.beyondblue.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 phone; webchat hours vary by listing (3pm–midnight or 24/7)",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "major-depressive-disorder",
+        "generalized-anxiety-disorder"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://www.health.nsw.gov.au/towardszerosuicides/Pages/help-for-suicide-and-depression.aspx",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-suicide-call-back",
+      "name": "Suicide Call Back Service",
+      "organization": "On the Line",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "1300 659 467",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.suicidecallbackservice.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "everyone",
+        "carers",
+        "bereaved"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury",
+        "grief-and-bereavement"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.health.nsw.gov.au/towardszerosuicides/Pages/help-for-suicide-and-depression.aspx",
+      "notes": "Phone, video, and online counselling.",
+      "reviewer_notes": "Chat URL from memory of the organisation; confirm."
+    },
+    {
+      "line_id": "au-13yarn",
+      "name": "13YARN",
+      "organization": "Lifeline (Aboriginal and Torres Strait Islander crisis supporters)",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "13 92 76",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "aboriginal-and-torres-strait-islander-people"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://absec.org.au/support-for-aboriginal-torres-strait-islander-young-people/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-1800respect",
+      "name": "1800RESPECT",
+      "organization": "Telstra Health for the Australian Government",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1800 737 732",
+        "phone_alt": null,
+        "sms_number": "0458 737 732",
+        "sms_keyword": null,
+        "chat_url": "https://www.1800respect.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 phone, text, chat; video on weekdays",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "interpreters"
+      ],
+      "audience": [
+        "adults",
+        "teens",
+        "supporters"
+      ],
+      "topics": [
+        "partner-violence-and-adult-abuse",
+        "crime-disaster-and-legal-problems"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.1800respect.org.au/general-and-media-enquiries",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-qlife",
+      "name": "QLife",
+      "organization": "LGBTIQ+ Health Australia",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "support-line",
+      "contact": {
+        "phone": "1800 184 527",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://www.qlife.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "3pm–9pm local time, every day (official FAQ; some directories say to midnight)",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "lgbtiqa-people-and-supporters"
+      ],
+      "topics": [
+        "gender-dysphoria",
+        "social-environment-and-identity-stress"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://www.qlife.org.au/faq",
+      "notes": "Peer support and referral, not a crisis service.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "au-national-debt-helpline",
+      "name": "National Debt Helpline",
+      "organization": "Financial Counselling Australia",
+      "country": "AU",
+      "region_label": "Australia",
+      "kind": "support-line",
+      "contact": {
+        "phone": "1800 007 007",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://ndh.org.au/",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "Mon–Fri 9.30am–4.30pm; chat 9am–8pm weekdays",
+      "is_24_7": null,
+      "languages": [
+        "en"
+      ],
+      "audience": [
+        "adults"
+      ],
+      "topics": [
+        "housing-and-money-problems"
+      ],
+      "priority": 3,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://www.lifeline.org.au/get-help/national-services/national-debt-helpline/",
+      "notes": "",
+      "reviewer_notes": "Chat URL from memory of the organisation; confirm."
+    },
+    {
+      "line_id": "in-112",
+      "name": "Emergency Response Support System",
+      "organization": "Government of India",
+      "country": "IN",
+      "region_label": "India",
+      "kind": "emergency-services",
+      "contact": {
+        "phone": "112",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "hi",
+        "en",
+        "regional languages"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "verified",
+      "verified_on": null,
+      "source_url": "https://112.gov.in/",
+      "notes": "",
+      "reviewer_notes": "Standard emergency number."
+    },
+    {
+      "line_id": "in-tele-manas",
+      "name": "Tele-MANAS",
+      "organization": "Ministry of Health and Family Welfare",
+      "country": "IN",
+      "region_label": "India",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "14416",
+        "phone_alt": "1-800-891-4416",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "20+ Indian languages"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://vikaspedia.in/health/mental-health/tele-manas",
+      "notes": "Free; callers choose a language and are routed to their state's cell. Official site telemanas.mohfw.gov.in.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "in-aasra",
+      "name": "AASRA",
+      "organization": "AASRA",
+      "country": "IN",
+      "region_label": "India (Mumbai-based, national)",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "+91 98204 66726",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "aasrahelpline@yahoo.com",
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://healthcollective.in/contact/helplines/",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "in-vandrevala",
+      "name": "Vandrevala Foundation helpline",
+      "organization": "Cyrus and Priya Vandrevala Foundation",
+      "country": "IN",
+      "region_label": "India",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "+91 9999 666 555",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7",
+      "is_24_7": true,
+      "languages": [
+        "en",
+        "hi",
+        "9+ other Indian languages"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 1,
+      "cost": "free",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "source_url": "https://yourstory.com/socialstory/2023/03/vandrevala-foundations-free-helpline-11-languages-mental-health-accessible-india",
+      "notes": "Phone, WhatsApp, and chat per listings.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "in-icall",
+      "name": "iCall",
+      "organization": "Tata Institute of Social Sciences",
+      "country": "IN",
+      "region_label": "India",
+      "kind": "support-line",
+      "contact": {
+        "phone": "+91 9152987821",
+        "phone_alt": null,
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": "icall@tiss.edu",
+        "menu_options": []
+      },
+      "hours": "Mon–Sat 8am–10pm (official site; a TISS page says 10am–8pm)",
+      "is_24_7": null,
+      "languages": [
+        "en",
+        "hi",
+        "several regional languages"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://icallhelpline.org/",
+      "notes": "Counselling by trained psychologists.",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "in-sneha",
+      "name": "Sneha",
+      "organization": "Sneha Suicide Prevention Centre",
+      "country": "IN",
+      "region_label": "India (Chennai)",
+      "kind": "crisis-line",
+      "contact": {
+        "phone": "044 2464 0050",
+        "phone_alt": "+91 44 2464 0060",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": "https://chat.findahelpline.com/organizations/sneha-suicide-prevention-helpline",
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "8am–10pm daily per most listings (not 24/7); webchat 7pm–1am",
+      "is_24_7": null,
+      "languages": [
+        "ta",
+        "en"
+      ],
+      "audience": [
+        "everyone"
+      ],
+      "topics": [
+        "suicidal-thoughts-and-behavior",
+        "nonsuicidal-self-injury"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://chat.findahelpline.com/organizations/sneha-suicide-prevention-helpline",
+      "notes": "",
+      "reviewer_notes": "Not opened; details seen in search results on 2026-10-22. Open the official page and, ideally, test the line before launch."
+    },
+    {
+      "line_id": "in-childline-1098",
+      "name": "Child Helpline 1098",
+      "organization": "Ministry of Women and Child Development (via ERSS-112)",
+      "country": "IN",
+      "region_label": "India",
+      "kind": "specialist-line",
+      "contact": {
+        "phone": "1098",
+        "phone_alt": "112",
+        "sms_number": null,
+        "sms_keyword": null,
+        "chat_url": null,
+        "email": null,
+        "menu_options": []
+      },
+      "hours": "24/7 (being integrated into 112 state by state since 2023)",
+      "is_24_7": null,
+      "languages": [
+        "hi",
+        "en",
+        "regional languages"
+      ],
+      "audience": [
+        "children",
+        "adults-worried-about-a-child"
+      ],
+      "topics": [
+        "child-abuse-and-neglect"
+      ],
+      "priority": 2,
+      "cost": "free",
+      "verification_status": "conflicting_sources",
+      "verified_on": null,
+      "source_url": "https://vikaspedia.in/education/child-rights/child-helpline-service",
+      "notes": "Calls are routed to state control rooms and district child protection units; coverage reportedly uneven during the transition.",
+      "reviewer_notes": "Confirm whether 1098 still connects in each state or whether 112 should be listed alone."
+    }
+  ]
+}

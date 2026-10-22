@@ -1,0 +1,133 @@
+{
+  "topic_id": "health-care-access-and-treatment-adherence",
+  "official_name": "Health Care Access and Treatment Adherence",
+  "plain_title": "When getting care, or sticking with it, is the hard part",
+  "also_known_as": [
+    "treatment nonadherence",
+    "barriers to care",
+    "unavailability of health facilities",
+    "treatment gap"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z75.x / Z91.19",
+  "language_convention": "person-first",
+  "one_liner": "Not being able to get care, or not following a treatment plan, recorded so the reasons can be addressed.",
+  "in_simple_words": "Two things get in the way of recovery far more often than the illness itself: not being able to get care at all, and not being able to stick with it. The DSM records both as a focus of clinical attention. Barriers include cost, waiting lists, distance, stigma, and language. 'Nonadherence' covers missed medication, appointments, or therapy, and it's usually about side effects, cost, confusion, or doubt, not laziness. Both are solvable once named.",
+  "what_it_can_feel_like": [
+    "I wasn't 'non-compliant'. I was taking a drug that made me feel like a zombie and nobody had asked how it felt.",
+    "The waiting list was 14 months. A peer support group kept me going until the therapy started."
+  ],
+  "common_signs": [
+    "Not being able to afford care, get an appointment, or reach a clinic",
+    "Long waits with no support in between",
+    "Stopping medication or therapy without telling anyone, often because of side effects",
+    "Language, stigma, or past bad experiences keeping you away",
+    "Confusion about what's prescribed or why"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People who stop their medication are being difficult.",
+      "fact": "Roughly half of people with any long-term condition don't take treatment as prescribed, usually for understandable reasons. Asking why, and adjusting, works far better than blame."
+    },
+    {
+      "myth": "If you can't get care, there's nothing to do but wait.",
+      "fact": "Helplines, peer groups, online programmes, sliding-scale clinics, and advocacy for faster referrals can bridge the gap."
+    }
+  ],
+  "how_common": {
+    "plain": "In many low- and middle-income countries, around 3 in 4 people with a mental health condition get no treatment at all. In high-income countries, waits and cost still leave many without care.",
+    "figure": "76%–85% of people with mental disorders in low- and middle-income countries receive no treatment (WHO mhGAP)",
+    "source_ref": "src-who-mhgap"
+  },
+  "what_helps": {
+    "plain_summary": "For access: ask about free or sliding-scale services, telehealth, peer support, and community programmes; advocacy from a GP, social worker, or charity can speed referrals. For adherence: an honest conversation with the prescriber about side effects, cost, and doubts; simpler regimens; reminders; involving a trusted person; and shared decisions about what the treatment is for. Long-acting formulations and pharmacy support help some people. The goal is a plan the person actually agrees with.",
+    "evidence_based_options": [
+      "Shared decision-making and side-effect review with the prescriber",
+      "Simplified regimens, reminders, and pharmacy or nurse support",
+      "Telehealth, sliding-scale, community, and peer support options to bridge access gaps",
+      "Advocacy and navigation help from social workers, charities, or helplines"
+    ],
+    "self_help_that_supports_care": [
+      "Telling your prescriber the truth about what you're taking and why",
+      "Writing down questions before appointments",
+      "Using helplines and peer groups while waiting",
+      "Knowing your rights to care, second opinions, and interpreters"
+    ],
+    "guideline_refs": [
+      "src-who-mhgap"
+    ]
+  },
+  "when_to_reach_out": "If you can't get the care you need, call a mental health information line in your country; they know the routes in. If you've stopped treatment or want to, tell your prescriber rather than going silent; there's almost always an alternative. If you're in crisis while waiting, use the crisis strip.",
+  "is_not": "Choosing, after discussion, not to have a treatment is your right and isn't 'nonadherence'. A clinician's job is to make sure the choice is informed.",
+  "hope_note": "Most barriers have workarounds, and most treatment problems are fixable once spoken. People who'd given up on the system find a way in, often through one good helpline call.",
+  "related_topics": [
+    "when-it-doesnt-fit-a-label",
+    "medication-induced-movement-disorders",
+    "antidepressant-discontinuation-syndrome",
+    "schizophrenia",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "waitlist",
+    "sliding-scale-fees",
+    "telehealth",
+    "informed-consent",
+    "patient-rights",
+    "second-opinion",
+    "peer-support",
+    "stepped-care"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a person on a video call with a clinician from a kitchen, a pill organiser and a notebook on the table, morning light. Pastel sky blue and teal.",
+    "alt_text": "A person talks with a clinician on a video call from their kitchen."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums",
+    "samhsa-national-helpline",
+    "rethink-advice-line",
+    "mind-infoline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-who-mhgap",
+      "title": "Mental Health Gap Action Programme (mhGAP)",
+      "publisher": "WHO Eastern Mediterranean Regional Office",
+      "url": "https://www.emro.who.int/mnh/mental-health-gap-action-programme/mhgap.html",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

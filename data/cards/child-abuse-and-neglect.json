@@ -1,0 +1,142 @@
+{
+  "topic_id": "child-abuse-and-neglect",
+  "official_name": "Child Abuse and Neglect",
+  "plain_title": "When a child is hurt or neglected, and what helps after",
+  "also_known_as": [
+    "child maltreatment",
+    "adverse childhood experiences (ACEs)",
+    "childhood trauma"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "T74.x / T76.x / Z62.81x / Z69.x (varies)",
+  "language_convention": "person-first",
+  "one_liner": "Physical, sexual, or emotional harm, or neglect, of a child by a caregiver, and its effects at any age.",
+  "in_simple_words": "Child abuse and neglect includes physical harm, sexual abuse, emotional abuse (constant criticism, threats, rejection), and neglect (not providing food, safety, care, or affection). The DSM records it both when it's happening now and as a history, because its effects can last into adulthood: anxiety, depression, PTSD, difficulty trusting, and physical health problems. It is never the child's fault. Children can be protected, and adults who were harmed as children can heal, however long ago it happened.",
+  "what_it_can_feel_like": [
+    "Nobody hit me. They just never once said a kind word. It took me until 40 to call that what it was.",
+    "I told a teacher. She believed me. Everything that's good in my life traces back to that afternoon.",
+    "Therapy didn't change what happened. It changed what it meant about me."
+  ],
+  "common_signs": [
+    "Unexplained injuries, fear of going home, flinching, or being very withdrawn or very watchful",
+    "Hunger, poor hygiene, missing school, or being left alone too young",
+    "Sudden changes in behaviour, sleep, or play; knowledge of sex beyond their age",
+    "In adults: PTSD, depression, trouble trusting, shame that doesn't make sense",
+    "A child saying something happened; always take it seriously"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Abuse is usually by strangers.",
+      "fact": "Most abuse is by someone the child knows and often trusts. That's why believing children and noticing changes matters more than fearing strangers."
+    },
+    {
+      "myth": "If it was years ago, there's no point dealing with it now.",
+      "fact": "Trauma-focused therapy helps adults at any age, and many describe it as finally setting down something they'd carried their whole life."
+    },
+    {
+      "myth": "People who were abused become abusers.",
+      "fact": "Most do not. Many become fiercely protective parents. The cycle is real for some, and it can be broken with support."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 6 in 10 US adults report at least one adverse childhood experience, and about 1 in 6 report four or more. Abuse and neglect are among the most common.",
+    "figure": "61% of US adults with at least one ACE; 1 in 6 with four or more (CDC BRFSS 2015–2017, 25 states)",
+    "source_ref": "src-cdc-aces"
+  },
+  "what_helps": {
+    "plain_summary": "For a child, safety comes first: child protection services, a safe adult, and medical care if needed. Then trauma-focused therapy such as TF-CBT, with a non-offending caregiver involved where possible. For adults, trauma-focused therapies (TF-CBT, EMDR, CPT) and longer-term work on trust, shame, and relationships help, along with treatment for depression, PTSD, or substance use. Peer support with other survivors reduces isolation. Any medication is prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Child protection and a safe environment first",
+      "Trauma-focused CBT for children and teens, with a safe caregiver",
+      "Trauma-focused therapies for adults: TF-CBT, EMDR, CPT, and phased therapy for complex trauma",
+      "Treatment of co-occurring PTSD, depression, or substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Telling someone, at any age; child protection and survivor helplines exist for this",
+      "Learning about trauma responses so your reactions make sense",
+      "Peer support with other survivors",
+      "Going at your own pace in therapy; you set the speed"
+    ],
+    "guideline_refs": [
+      "src-cdc-aces"
+    ]
+  },
+  "when_to_reach_out": "If a child is in immediate danger, call emergency services. If you're worried about a child, contact a child protection helpline; you don't have to be certain. If you're a child or teen being hurt, tell a trusted adult or call a children's helpline. If you're an adult carrying this from childhood and it's affecting you now, a trauma-informed therapist can help. If you're having thoughts of ending your life, use the crisis strip.",
+  "is_not": "Firm but safe parenting, ordinary family arguments, and poverty on its own aren't abuse, though families under strain deserve support. Grief for a childhood that wasn't what you needed is valid even without a formal label.",
+  "hope_note": "What was done to a child says nothing about who they are. Survivors build safe homes, deep friendships, and lives of their own making.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "acute-stress-disorder",
+    "reactive-attachment-disorder",
+    "borderline-personality-disorder",
+    "major-depressive-disorder",
+    "partner-violence-and-adult-abuse"
+  ],
+  "glossary_terms": [
+    "adverse-childhood-experiences",
+    "complex-trauma",
+    "emotional-neglect",
+    "trauma-informed",
+    "limits-of-confidentiality",
+    "inner-child"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Safe-messaging rules apply: no methods, no locations, no notes, no 'epidemic' framing.",
+      "Illustrations show connection and daylight, never isolation or danger.",
+      "No descriptions of abusive acts.",
+      "Helplines for children, parents, and adult survivors all shown."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a child and a trusted adult sitting on school steps, the adult listening, a backpack between them, bright morning light. Pastel sky blue and yellow. No distress shown.",
+    "alt_text": "A child and a trusted adult sit on school steps talking, a backpack between them."
+  },
+  "communities": [
+    "childhelp-hotline-us",
+    "childline-uk",
+    "nspcc-helpline-uk",
+    "kids-helpline-australia",
+    "reddit-r-cptsd",
+    "rainn-hotline-us"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cdc-aces",
+      "title": "Prevalence of adverse childhood experiences among US adults (BRFSS 2015–2017)",
+      "publisher": "CDC / JAMA Pediatrics summary (PMC6248156)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6248156/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2019
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  },
+  "in_young_people": "Children often don't have words for what's happening, or have been told to keep it secret. Changes in behaviour, play, sleep, or body are the language. Believe them, stay calm, and get help the same day."
+}

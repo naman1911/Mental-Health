@@ -1,0 +1,173 @@
+{
+  "topic_id": "cannabis-use-disorder",
+  "official_name": "Cannabis Use Disorder",
+  "plain_title": "When weed stops being a choice",
+  "also_known_as": [
+    "marijuana use disorder",
+    "cannabis dependence"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F12.10 (mild) / F12.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "A pattern of cannabis use that a person can't control and keeps up despite harm, often with withdrawal when stopping.",
+  "in_simple_words": "Cannabis is widely used and often seen as harmless, but some people develop a use disorder: using more than planned, failing to cut down, craving, needing it to feel normal, and continuing despite problems with motivation, memory, mood, money, or relationships. Withdrawal is real: irritability, poor sleep, anxiety, and low appetite for a week or two. Today's cannabis is often far stronger than in the past, and heavy use in the teens carries extra risks. It is treatable.",
+  "what_it_can_feel_like": [
+    "Everyone said you can't get addicted to weed. Then I tried to stop and couldn't sleep or eat for ten days.",
+    "I wasn't 'wasting my life'. I just couldn't do anything without smoking first, and that scared me.",
+    "r/leaves got me through the first month. Strangers who'd done it."
+  ],
+  "common_signs": [
+    "Using more or more often than intended",
+    "Trying to cut down and not managing",
+    "Needing cannabis to sleep, eat, relax, or feel normal",
+    "Irritability, insomnia, anxiety, or low appetite when stopping",
+    "Lost motivation, memory problems, or falling behind at school or work",
+    "Continuing despite problems with mood, money, or relationships"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Cannabis isn't addictive.",
+      "fact": "Around 1 in 10 people who use cannabis develop a use disorder, and more among those who start young or use daily. Withdrawal is real."
+    },
+    {
+      "myth": "It's natural, so it's safe.",
+      "fact": "Modern high-THC products are potent. Heavy use, especially in the teens, raises the risk of psychosis, anxiety, and lasting effects on learning."
+    },
+    {
+      "myth": "If it's legal, it can't be a problem.",
+      "fact": "Legal status says nothing about whether use has become hard to control."
+    }
+  ],
+  "how_common": {
+    "plain": "Cannabis is the most widely used illicit drug in the US, with over 1 in 5 people using it in the past year. A significant minority of users develop a use disorder; exact figures to be confirmed.",
+    "figure": "21.8% of people aged 12+ used cannabis in the past year (NSDUH 2023); cannabis use disorder prevalence to be confirmed from the same release",
+    "source_ref": "src-nsduh-2023",
+    "note": "The 2023 NSDUH cannabis use disorder figure was not confirmed in this session."
+  },
+  "what_helps": {
+    "plain_summary": "Talking therapies are the main treatment: CBT, motivational enhancement therapy, and contingency management (rewards for staying off), often combined. Brief interventions help people who want to cut down. There is no approved medication for cannabis use disorder itself, though a doctor may treat sleep or mood problems during withdrawal. Peer support online and in groups helps many people through the early weeks.",
+    "evidence_based_options": [
+      "CBT and motivational enhancement therapy",
+      "Contingency management",
+      "Brief interventions and guided self-help",
+      "Treatment of co-occurring anxiety, depression, or psychosis"
+    ],
+    "self_help_that_supports_care": [
+      "Planning for the first two weeks: sleep will be rough, then it improves",
+      "Removing paraphernalia and changing routines around use",
+      "Exercise, which helps withdrawal sleep and mood",
+      "Peer communities for quitting cannabis"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If you've tried to cut down and can't, need cannabis to function, or it's affecting school, work, mood, or motivation, talk to a doctor, a drug helpline, or a therapist. Seek help urgently if you experience paranoia, hearing voices, or confusion.",
+  "is_not": "Occasional use without loss of control or harm isn't a disorder. Medical cannabis taken as prescribed isn't a use disorder, though dependence can still develop.",
+  "hope_note": "Most people who quit cannabis find the fog lifting within weeks and wonder why they waited.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "understanding-psychosis",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "insomnia-disorder",
+    "adhd"
+  ],
+  "glossary_terms": [
+    "withdrawal",
+    "craving",
+    "tolerance",
+    "cbt",
+    "motivational-interviewing",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person on a morning walk with a dog, clear-headed, a calendar on the wall at home visible through a window with days crossed off. Pastel navy and green. No cannabis imagery.",
+    "alt_text": "A person walks a dog on a bright morning, a calendar with days crossed off visible through a window."
+  },
+  "communities": [
+    "reddit-r-leaves",
+    "smart-recovery-meetings",
+    "virtual-na",
+    "frank-uk",
+    "samhsa-national-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    },
+    {
+      "id": "src-nida-cannabis",
+      "title": "Cannabis (Marijuana) DrugFacts",
+      "publisher": "National Institute on Drug Abuse",
+      "url": "https://nida.nih.gov/publications/drugfacts/cannabis-marijuana",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm cannabis use disorder prevalence from NSDUH 2023."
+    ]
+  },
+  "in_young_people": "Teenage brains are more vulnerable to cannabis. Heavy use before age 18 is linked to a higher risk of use disorder, poorer school outcomes, and psychosis in those at risk. Family-based treatments work well for teens.",
+  "across_cultures": "Cannabis is legal, decriminalized, or strictly prohibited depending on country, which shapes stigma and access to help. In some cultures it has traditional or religious uses; the DSM's concern is loss of control and harm, not use itself.",
+  "sub_sections": [
+    {
+      "title": "Cannabis intoxication and withdrawal",
+      "icd10cm_code": "F12.x20 / F12.x3 (varies)",
+      "text": "Intoxication can include anxiety, paranoia, and, with high doses, brief psychotic symptoms. Withdrawal peaks in the first week and mostly resolves within two."
+    },
+    {
+      "title": "Cannabis-induced psychosis",
+      "text": "Heavy use can trigger psychotic symptoms, usually resolving with abstinence, but raising the risk of a lasting psychotic disorder in some people."
+    }
+  ]
+}

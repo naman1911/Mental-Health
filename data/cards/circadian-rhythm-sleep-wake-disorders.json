@@ -1,0 +1,156 @@
+{
+  "topic_id": "circadian-rhythm-sleep-wake-disorders",
+  "official_name": "Circadian Rhythm Sleep-Wake Disorders",
+  "plain_title": "When your body clock is out of step",
+  "also_known_as": [
+    "delayed sleep phase",
+    "advanced sleep phase",
+    "shift work disorder",
+    "non-24"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "G47.2x",
+  "language_convention": "person-first",
+  "one_liner": "Sleep problems caused by a mismatch between your internal body clock and the schedule you need to keep.",
+  "in_simple_words": "Your body clock decides when you feel sleepy and awake. In circadian rhythm disorders, that clock is set differently from the schedule life demands. Delayed sleep phase means you can't fall asleep until the early hours and can't wake for school or work. Advanced phase means sleeping and waking very early. Shift work and jet lag throw the clock off. In non-24, the clock drifts daily. The sleep is fine; the timing isn't, and timing can be shifted.",
+  "what_it_can_feel_like": [
+    "I'm not lazy. I physically cannot sleep before 3am. Mornings at school were torture.",
+    "Night shifts for ten years and my body never adjusted.",
+    "Light in the morning, melatonin in the evening, slowly. My clock moved two hours in a month."
+  ],
+  "common_signs": [
+    "Can't fall asleep until very late and can't wake in the morning (delayed phase)",
+    "Falling asleep in the early evening and waking in the small hours (advanced phase)",
+    "Sleep that's fine when allowed to follow your own timing",
+    "Exhaustion, poor performance, and low mood from fighting the clock",
+    "Caused or worsened by shift work, travel, or a drifting clock",
+    "Lasting three months or more"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Night owls just lack discipline.",
+      "fact": "Delayed sleep phase is biological and often runs in families. Willpower doesn't move a body clock; light and timing do."
+    },
+    {
+      "myth": "You can train yourself to need less sleep on shifts.",
+      "fact": "Shift work disorder is real. Smart scheduling, light, and naps help, but the clock can't be 'trained' away."
+    },
+    {
+      "myth": "Melatonin is just a sleeping pill.",
+      "fact": "Melatonin is mainly a timing signal. Used at the right time, it shifts the clock; used randomly, it does little."
+    }
+  ],
+  "how_common": {
+    "plain": "Delayed sleep phase affects up to 1 in 6 teenagers and young adults in some studies, and shift work disorder affects a meaningful share of the millions who work nights.",
+    "figure": "DSM-5-TR text: delayed sleep phase about 0.17% of the general population but up to 7–16% of adolescents and young adults; shift work disorder in 5–10% of night-shift workers",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; need primary sources."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment shifts the clock: timed bright light (morning for delayed phase, evening for advanced), timed low-dose melatonin, prescribed or advised by a doctor, and a gradual, consistent schedule. For shift workers, planned naps, light management, and strategic timing of sleep help. School or work flexibility, where possible, makes a big difference. CBT-I techniques help with the insomnia that builds on top.",
+    "evidence_based_options": [
+      "Timed bright light therapy",
+      "Timed melatonin, prescribed or advised by a doctor",
+      "Gradual schedule shifting and strict consistency",
+      "Chronotherapy and CBT-I techniques; adjustments at school or work"
+    ],
+    "self_help_that_supports_care": [
+      "Bright light within an hour of waking; dim light and no screens late evening",
+      "Moving bedtime and wake time by 15–30 minutes every few days, not all at once",
+      "The same wake time every day, including weekends",
+      "For shift work: dark glasses on the way home, blackout curtains, planned naps"
+    ],
+    "guideline_refs": [
+      "src-aasm-circadian"
+    ]
+  },
+  "when_to_reach_out": "If you can only sleep at the 'wrong' times and it's wrecking school, work, or mood, ask a doctor or sleep clinic about circadian rhythm treatment. Bring two weeks of a sleep diary.",
+  "is_not": "Preferring late nights but able to adjust when needed isn't a disorder. Insomnia (can't sleep at any time) is different from delayed phase (sleep is fine, just late).",
+  "hope_note": "Body clocks can be moved. With light, timing, and patience, most people shift to a schedule that works.",
+  "related_topics": [
+    "insomnia-disorder",
+    "hypersomnolence-disorder",
+    "major-depressive-disorder",
+    "bipolar-i-disorder",
+    "adhd"
+  ],
+  "glossary_terms": [
+    "circadian-rhythm",
+    "light-therapy",
+    "sleep-medication",
+    "sleep-hygiene",
+    "cbt-i"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person opening blinds to bright morning light with a glass of water, a wall clock and a calendar with gradually earlier times marked. Pastel indigo and gold.",
+    "alt_text": "A person opens blinds to bright morning light, a calendar on the wall marked with gradually earlier times."
+  },
+  "communities": [
+    "reddit-r-insomnia",
+    "sleep-disorders-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-aasm-circadian",
+      "title": "Clinical practice guideline for the treatment of intrinsic circadian rhythm sleep-wake disorders",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2015,
+      "note": "Not opened; listing URL."
+    },
+    {
+      "id": "src-nhs-insomnia",
+      "title": "Insomnia",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 6.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence sources.",
+      "Add a verified non-24 or delayed-phase community."
+    ]
+  },
+  "in_young_people": "Teenagers' clocks naturally run two hours later than adults', which is why early school starts cause so much harm. Delayed sleep phase disorder goes beyond this and needs treatment, but later school times help everyone.",
+  "sub_sections": [
+    {
+      "title": "Types",
+      "icd10cm_code": "G47.21 / G47.22 / G47.23 / G47.24 / G47.26 / G47.20",
+      "text": "Delayed sleep phase, advanced sleep phase, irregular sleep-wake (no clear pattern, often in dementia), non-24-hour (clock drifts daily, mostly in blind people), shift work type, and unspecified."
+    }
+  ]
+}

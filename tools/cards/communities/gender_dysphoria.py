@@ -1,0 +1,23 @@
+from helpers import D, NV, c
+COMMUNITIES = [
+ c("trevor-project", "The Trevor Project: TrevorLifeline, TrevorText and TrevorChat", "web", "https://www.thetrevorproject.org/get-help/", "helpline", ["teens", "young-adults"], "people-with-experience",
+   ["gender-dysphoria", "suicidal-thoughts-and-behavior", "social-environment-and-identity-stress"], "US",
+   notes="24/7 crisis support for LGBTQ+ young people under 25: call 1-866-488-7386, text START to 678678, or web chat. Trained counsellors.",
+   crisis=True, has_rules=None, mods=True, safety="Crisis service for LGBTQ+ young people; counsellors are trained, not peers.", reviewer="Confirm 24/7 text availability and age range on the official page."),
+ c("trans-lifeline", "Trans Lifeline peer support hotline", "web", "https://translifeline.org/", "helpline", ["adults", "teens"], "people-with-experience",
+   ["gender-dysphoria", "social-environment-and-identity-stress"], "US and Canada",
+   notes="Peer support phone line run by and for trans people: US 877-565-8860, Canada 877-330-6366. Anonymous; policy of not calling emergency services without the caller's consent. Hours vary; check the site.",
+   crisis=None, has_rules=None, mods=True, safety="Peer support by trans operators; not a clinical service.", reviewer="Confirm current hours and the Canada number."),
+ c("mermaids-uk", "Mermaids helpline and webchat for trans and gender-diverse young people and families", "web", "https://mermaidsuk.org.uk/", "helpline", ["teens", "family"], "both",
+   ["gender-dysphoria", "family-and-relationship-problems"], "UK",
+   notes="UK charity supporting trans and gender-diverse young people up to 20 and their parents: helpline 0808 801 0400 (listings give Mon–Fri 9am–9pm; one older listing gives 1pm–8.30pm), webchat, email info@mermaidsuk.org.uk, and text MERMAIDS to 85258 for 24/7 crisis text support via Shout.",
+   crisis=True, has_rules=None, mods=True, reviewer="Confirm hours on the official site."),
+ c("qlife-australia", "QLife LGBTIQ+ peer support and referral", "web", "https://www.qlife.org.au/", "helpline", ["adults", "teens", "family"], "both",
+   ["gender-dysphoria", "social-environment-and-identity-stress"], "Australia",
+   notes="Free, anonymous peer support and referral for LGBTIQA+ people and those who care about them, run by LGBTIQA+ peers: 1800 184 527 and webchat, 3pm–9pm local time every day per the official FAQ (some directories list 3pm–midnight). Not a crisis service.",
+   crisis=None, has_rules=None, mods=True, reviewer="Confirm hours on qlife.org.au."),
+ c("gender-spectrum-parent-groups", "Gender Spectrum online parent and caregiver groups", "web", "https://www.genderspectrum.org/family", "online-group-meeting", ["family"], "family-and-carers",
+   ["gender-dysphoria", "family-and-relationship-problems"], "US (online, international welcome)",
+   notes="Free, facilitated online peer groups for parents and caregivers of transgender, non-binary, and gender-questioning young people up to 24, including groups for fathers, grandparents, and parents of non-binary youth. Registration via the family page.",
+   crisis=None, has_rules=True, mods=True, safety="Peer groups facilitated by staff or trained volunteers; not therapy.", reviewer="Confirm current schedule and registration process."),
+]

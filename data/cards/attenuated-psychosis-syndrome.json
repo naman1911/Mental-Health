@@ -1,0 +1,126 @@
+{
+  "topic_id": "attenuated-psychosis-syndrome",
+  "official_name": "Attenuated Psychosis Syndrome",
+  "plain_title": "Early, mild psychosis-like experiences, watched with care",
+  "also_known_as": [
+    "clinical high risk for psychosis (CHR-P)",
+    "at-risk mental state",
+    "psychosis prodrome"
+  ],
+  "chapter_id": "further-study",
+  "card_type": "further-study",
+  "icd10cm_code": "n/a (proposed)",
+  "language_convention": "person-first",
+  "one_liner": "Mild, recent experiences a bit like psychosis, while you still know they may not be real. Proposed for early help.",
+  "in_simple_words": "Attenuated psychosis syndrome is a proposed diagnosis, not an official one. It describes people, usually young, with mild experiences a bit like psychosis. They may have unusual beliefs, feel suspicious, hear faint things, or speak in a jumbled way. These began or got worse in the past year, and the person knows they may not be real. The label exists to get people early support. Most never develop a psychotic disorder, and early help improves things for everyone.",
+  "what_it_can_feel_like": [
+    "I kept feeling people were talking about me and I knew that was probably my mind. The early intervention team didn't label me; they just helped.",
+    "Two years on, the experiences faded. I'm glad someone took them seriously without panicking."
+  ],
+  "common_signs": [
+    "Mild unusual beliefs, suspiciousness, or faint hallucination-like experiences",
+    "Started or got worse in the past year, happening at least weekly",
+    "Insight kept: the person knows the experiences may not be real",
+    "Distress or worry prompting someone to seek help"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "This means you're going to develop schizophrenia.",
+      "fact": "About 1 in 5 people meeting high-risk criteria develop a psychotic disorder within two years; most don't. Many improve completely."
+    },
+    {
+      "myth": "You should be put on antipsychotics straight away.",
+      "fact": "Guidelines favour monitoring, CBT, and support first. Antipsychotics are not recommended for prevention."
+    }
+  ],
+  "how_common": {
+    "plain": "Among people found to be at high risk, about 1 in 5 develop a psychotic disorder within two years, and about 1 in 4 within three.",
+    "figure": "Cumulative transition risk 19% at 2 years, 25% at 3 years across 130 studies (9,222 people)",
+    "source_ref": "src-chr-transition"
+  },
+  "what_helps": {
+    "plain_summary": "Early help services offer a full check, regular follow-up, CBT for these experiences, and family support. They treat depression, anxiety, or drug use, and help you stay in school or work. Antipsychotic medicines aren't advised to prevent psychosis. If a disorder does develop, treatment starts at once. That's the point of staying connected.",
+    "evidence_based_options": [
+      "Early intervention or at-risk mental state services with regular monitoring",
+      "CBT for psychosis-like experiences",
+      "Family support and psychoeducation",
+      "Treatment of co-occurring depression, anxiety, or substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Sleep, and reducing cannabis and stimulants",
+      "Telling someone what you're experiencing",
+      "Staying connected to school, work, and friends",
+      "Learning that unusual experiences are common and often pass"
+    ],
+    "guideline_refs": [
+      "src-chr-transition"
+    ]
+  },
+  "when_to_reach_out": "If unusual experiences are worrying you, especially if they've grown over recent months, ask a doctor about an early help service. If the experiences start to feel real or frightening, or you have thoughts of harming yourself, use the crisis strip now.",
+  "is_not": "A vivid imagination, spiritual experiences, odd moments when exhausted, and experiences only while on drugs aren't this. A full psychotic episode is diagnosed and treated as one.",
+  "hope_note": "Most people with these experiences get better. Being watched over early is a safety net, not a sentence.",
+  "related_topics": [
+    "schizophrenia",
+    "brief-psychotic-disorder",
+    "schizotypal-personality-disorder",
+    "major-depressive-disorder",
+    "cannabis-use-disorder"
+  ],
+  "glossary_terms": [
+    "prodrome",
+    "early-intervention-service",
+    "first-episode-psychosis",
+    "insight",
+    "psychosis"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Marked 'proposed, not official' on the card face: these are research criteria, not diagnoses."
+    ]
+  },
+  "visual": {
+    "color_token": "further-study",
+    "icon": "flask-conical",
+    "illustration_prompt": "Soft line illustration of a young person and a youth worker walking along a river path, talking, a bridge ahead in soft morning light. Pastel violet and mint.",
+    "alt_text": "A young person and a youth worker walk along a river path toward a bridge."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Section III: Conditions for Further Study chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-chr-transition",
+      "title": "Transition to psychosis in clinical high-risk individuals: meta-analysis of 130 studies",
+      "publisher": "JAMA Psychiatry (Salazar de Pablo et al.)",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2781884",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2021
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

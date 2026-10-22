@@ -1,0 +1,129 @@
+{
+  "topic_id": "encopresis",
+  "official_name": "Encopresis",
+  "plain_title": "Soiling, usually because of constipation",
+  "also_known_as": [
+    "soiling",
+    "faecal incontinence in children",
+    "fecal incontinence (US spelling)"
+  ],
+  "chapter_id": "elimination",
+  "card_type": "condition",
+  "icd10cm_code": "F98.1",
+  "language_convention": "person-first",
+  "one_liner": "Repeated soiling of underwear or other places by a child aged four or older, usually from constipation.",
+  "in_simple_words": "Encopresis is when a child aged four or older repeatedly passes stool into their clothes or in inappropriate places, at least once a month for three months, and it isn't caused by a medical condition. It usually comes from long-standing constipation: a hard mass builds up, the bowel stretches, and softer stool leaks around it without the child feeling it. Children don't do this on purpose. Treating the constipation, with routine and patience, usually fixes it.",
+  "what_it_can_feel_like": [
+    "We thought he was being defiant. The paediatrician explained his bowel was so stretched he genuinely couldn't feel it. I felt awful for the shouting.",
+    "The hardest part was school. Once the nurse knew, she helped him clean up quietly and nobody else needed to know."
+  ],
+  "common_signs": [
+    "Repeated soiling of clothes or inappropriate places, at age four or older",
+    "At least once a month for three months",
+    "Usually signs of constipation: hard or very large stools, tummy pain, avoiding the toilet",
+    "Child may not notice the smell or feel it happening",
+    "Shame, hiding soiled clothes, teasing at school"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Soiling is deliberate or attention-seeking.",
+      "fact": "In most cases the child can't feel the leak because a stretched bowel has lost sensation. It's a physical problem with a physical fix."
+    },
+    {
+      "myth": "It's about toilet training being done wrong.",
+      "fact": "Constipation, painful stools, illness, diet, and fear of the toilet are the usual roots. Parents can help now, whatever happened before."
+    },
+    {
+      "myth": "Laxatives are dangerous for children.",
+      "fact": "Doctors routinely prescribe and monitor child-safe laxatives to clear the build-up and keep stools soft while the bowel recovers. Stopping too early is the common mistake."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 five-year-olds have encopresis, more boys than girls. It becomes less common with age.",
+    "figure": "About 1% of 5-year-olds (DSM-5-TR text); estimates in studies range roughly 0.8%–7.8%",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The main treatment is medical: a doctor clears the built-up stool with laxatives, then keeps stools soft for months with a maintenance dose, prescribed and monitored, while the bowel shrinks back and sensation returns. Alongside that, a regular toilet routine (sitting after meals, feet supported, no pressure), a diet with enough fibre and fluids, and calm praise for sitting rather than for results. Behavioural support helps children who have become afraid of the toilet. If there's no constipation, a different assessment is needed.",
+    "evidence_based_options": [
+      "Disimpaction and maintenance laxatives prescribed and monitored by a doctor",
+      "Scheduled toilet sitting after meals with a footstool",
+      "Fibre, fluids, and physical activity",
+      "Behavioural support for toilet fear or refusal; family education"
+    ],
+    "self_help_that_supports_care": [
+      "No blame, no punishment; matter-of-fact clean-up kits at home and school",
+      "A sticker chart for sitting on the toilet, not for staying clean",
+      "Keeping going with the laxatives for as long as the doctor advises",
+      "A quiet word with the school so the child isn't shamed"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If a child aged four or older is regularly soiling, see a doctor. Treating constipation early is easier and kinder. See a doctor urgently if there's severe tummy pain, vomiting, or blood.",
+  "is_not": "Accidents during toilet training, a single bout of diarrhoea, or soiling caused by a bowel condition, nerve problem, or medication are not encopresis.",
+  "hope_note": "With the right treatment the bowel recovers, sensation returns, and the soiling stops. Children and families get their confidence back.",
+  "related_topics": [
+    "enuresis",
+    "autism-spectrum-disorder",
+    "adhd",
+    "separation-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "onset",
+    "gp-primary-care",
+    "school-support-plans"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "elimination",
+    "icon": "droplet",
+    "illustration_prompt": "Soft line illustration of a child sitting comfortably on a toilet with a footstool, a picture book open, a parent waiting at the door with a kind smile. Pastel blue and sand.",
+    "alt_text": "A child sits comfortably on a toilet with a footstool, reading a picture book."
+  },
+  "communities": [
+    "eric-uk-helpline",
+    "youngminds-parents-helpline",
+    "family-lives-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Elimination Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-eric",
+      "title": "ERIC, The Children's Bowel and Bladder Charity",
+      "publisher": "ERIC (UK)",
+      "url": "https://www.eric.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Site not opened; helpline details from directory listings."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence citation.",
+      "Add a NICE constipation guideline reference (CG99)."
+    ]
+  }
+}

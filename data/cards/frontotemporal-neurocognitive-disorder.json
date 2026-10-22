@@ -1,0 +1,153 @@
+{
+  "topic_id": "frontotemporal-neurocognitive-disorder",
+  "official_name": "Frontotemporal Neurocognitive Disorder",
+  "plain_title": "A dementia that changes personality or language first",
+  "also_known_as": [
+    "frontotemporal dementia",
+    "FTD",
+    "Pick's disease (one form)",
+    "primary progressive aphasia"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "G31.09 + F02.8x (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "A dementia that starts in the front and sides of the brain and changes behaviour, personality, or speech before memory.",
+  "in_simple_words": "Frontotemporal dementia damages the front and side parts of the brain. Those parts handle behaviour, judgment, empathy, and language. Unlike Alzheimer's, it usually starts between 45 and 65, and memory is often fine early on. In the behaviour form, a person may act rudely, on impulse, or without feeling. Families often mistake this for depression. In the language forms, speech or understanding slowly breaks down. It's often missed for years. Support and planning help a lot.",
+  "what_it_can_feel_like": [
+    "My husband started making crude jokes at work and spending our savings. We thought it was a breakdown. It was FTD.",
+    "She lost the word for 'fork', then 'daughter'. Her memory of us was fine. That's what made it so cruel.",
+    "The AFTD group was the first place anyone had heard of it."
+  ],
+  "common_signs": [
+    "Changes in personality or judgment: being tactless, acting on impulse, not caring",
+    "Or: progressive difficulty with speech, naming, or understanding words",
+    "Repeating the same actions; changes in eating",
+    "Memory relatively preserved in the early stages",
+    "Usual onset between 45 and 65, often misdiagnosed as psychiatric illness",
+    "Lack of insight into the changes"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Dementia always starts with memory loss.",
+      "fact": "FTD often starts with behaviour or language changes while memory stays intact, which is why it's missed."
+    },
+    {
+      "myth": "The person is being deliberately rude or selfish.",
+      "fact": "The disease damages the brain regions that control social behaviour and empathy. The person usually can't see the change."
+    },
+    {
+      "myth": "It's a rare condition that only affects the very old.",
+      "fact": "FTD is one of the commonest dementias in people under 65."
+    }
+  ],
+  "how_common": {
+    "plain": "FTD is uncommon overall. But among people under 65 it is one of the most common dementias, making up perhaps 1 in 10 to 1 in 5 cases.",
+    "figure": "Estimated 2–10 per 100,000 in the general population; roughly 10–20% of dementia under 65 (reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "No medicine slows FTD yet, and Alzheimer's drugs don't help. Care focuses on structure, routine, and a calm setting to manage behaviour. Speech therapy helps the language forms. Occupational therapy helps with daily life. Sometimes medication is used for agitation or compulsions, prescribed and monitored by a doctor. Because it often starts in working life, help with jobs, money, family, and early legal planning is vital. Carers need support. FTD is especially hard on families.",
+    "evidence_based_options": [
+      "Specialist diagnosis, including genetic counselling where relevant",
+      "Behavioural and environmental strategies; structure and routine",
+      "Speech and language therapy for language variants",
+      "Medication for specific symptoms where needed, prescribed and monitored by a doctor; carer support"
+    ],
+    "self_help_that_supports_care": [
+      "Simplifying choices and keeping routines",
+      "Protecting finances early, with legal advice",
+      "Not taking personality changes personally, however hard",
+      "FTD-specific carer groups, which understand behaviour others don't"
+    ],
+    "guideline_refs": [
+      "src-nice-ng97"
+    ]
+  },
+  "when_to_reach_out": "Has someone in midlife changed in personality, behaviour, or speech in ways that aren't like them, and they don't seem to notice? Ask for a neurology or memory clinic referral. Say the words 'frontotemporal dementia'.",
+  "is_not": "Depression, bipolar disorder, psychosis starting late in life, and Alzheimer's can look similar. Careful assessment tells them apart. If the person fully sees the change in themselves, FTD is unlikely.",
+  "hope_note": "Families facing FTD find strength in each other. Specialist support turns an isolating, misunderstood illness into one that can be faced together.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "alzheimers-disease-neurocognitive-disorder",
+    "major-depressive-disorder",
+    "bipolar-i-disorder",
+    "communication-disorders"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "aphasia",
+    "executive-function",
+    "anosognosia",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of a middle-aged person and their partner gardening together with a simple picture-labelled task list on a post, a neighbour waving. Pastel amber and green.",
+    "alt_text": "A middle-aged couple garden together beside a picture-labelled task list on a post."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "aftd-helpline-and-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng97",
+      "title": "Dementia: assessment, management and support for people living with dementia and their carers (NG97)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng97",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2018
+    },
+    {
+      "id": "src-aftd",
+      "title": "AFTD HelpLine and support groups",
+      "publisher": "Association for Frontotemporal Degeneration (US)",
+      "url": "https://www.theaftd.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "HelpLine 1-866-507-7222 seen on AFTD pages."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Add Rare Dementia Support (UK) after verification."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Variants",
+      "text": "Behavioural variant (changes in conduct and personality) and language variants (primary progressive aphasia: semantic, non-fluent, and logopenic types). Some people also develop motor neurone disease or movement disorders."
+    }
+  ]
+}

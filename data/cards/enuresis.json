@@ -1,0 +1,159 @@
+{
+  "topic_id": "enuresis",
+  "official_name": "Enuresis",
+  "plain_title": "Bedwetting past the age most children stay dry",
+  "also_known_as": [
+    "bedwetting",
+    "nocturnal enuresis",
+    "daytime wetting (diurnal enuresis)"
+  ],
+  "chapter_id": "elimination",
+  "card_type": "condition",
+  "icd10cm_code": "F98.0",
+  "language_convention": "person-first",
+  "one_liner": "Repeated wetting of the bed or clothes, by day or night, in a child aged five or older.",
+  "in_simple_words": "Enuresis is when a child aged five or older keeps wetting the bed or their clothes, at least twice a week for three months, and it isn't explained by a medical condition. Night-time bedwetting is by far the most common form. It's not laziness or naughtiness. Deep sleep, extra urine at night, constipation, and family history all play a part. Most children grow out of it, and simple treatments like bedwetting alarms work well.",
+  "what_it_can_feel_like": [
+    "She was mortified about sleepovers. The alarm took about eight weeks and she hasn't looked back.",
+    "My dad wet the bed till he was ten, and so did I. Knowing that helped more than any chart.",
+    "We stopped the punishments once we understood he couldn't wake up. That changed the whole mood at home."
+  ],
+  "common_signs": [
+    "Wetting the bed or clothes repeatedly, at age five or older",
+    "At least twice a week for three months, or causing real distress",
+    "Most often at night; sometimes in the day, or both",
+    "Not caused by a medical condition or medication",
+    "Often embarrassment, avoiding sleepovers, or low mood"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Bedwetting is laziness or attention-seeking.",
+      "fact": "Children who wet the bed are usually deeply asleep and can't feel the signal. It's a developmental and physical issue, not a behaviour choice."
+    },
+    {
+      "myth": "Punishing or shaming will stop it.",
+      "fact": "Punishment makes bedwetting worse and harms the child. Guidelines are clear that children should never be punished for wetting."
+    },
+    {
+      "myth": "You just have to wait it out.",
+      "fact": "Many children do grow out of it, but if it's upsetting the child, bedwetting alarms and sometimes medication help a lot and are worth asking about."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 5 children still wet the bed at five, 1 in 10 at six, and around 1 in 100 at fifteen or older. Almost all children grow out of it eventually.",
+    "figure": "About 20% at age 5, 10% at age 6 (Raising Children Network); roughly 5%–10% of 5-year-olds (DSM-5-TR text); about 99% dry by 15 (Nationwide Children's)",
+    "source_ref": "src-raisingchildren-bedwetting"
+  },
+  "what_helps": {
+    "plain_summary": "First steps are simple: treat constipation, keep daytime drinking regular, avoid caffeine, and never punish wetting. For children seven and over, or younger ones who are motivated, a bedwetting alarm is the first-line treatment in NICE guidance and has the best long-term results. Desmopressin, a medication that reduces night-time urine, can be prescribed and monitored by a doctor for quick results or special occasions. A doctor checks for urine infection, diabetes, or constipation first.",
+    "evidence_based_options": [
+      "Bedwetting (enuresis) alarm as first-line treatment",
+      "Treating constipation and reviewing fluids and toileting routine",
+      "Desmopressin prescribed and monitored by a doctor, when appropriate",
+      "Reward systems for agreed behaviours (like drinking well in the day), not for dry nights"
+    ],
+    "self_help_that_supports_care": [
+      "A calm, no-blame attitude: 'it's not your fault, and we'll fix it together'",
+      "Easy clean-up: waterproof mattress covers, spare sheets, the child helping without shame",
+      "Regular toilet visits before bed; no caffeine",
+      "Talking to the school and planning for trips and sleepovers"
+    ],
+    "guideline_refs": [
+      "src-nice-cg111"
+    ]
+  },
+  "when_to_reach_out": "If a child is five or older and still wetting, and it's upsetting them or you, ask a doctor, health visitor, school nurse, or continence service for help. See a doctor sooner if wetting starts again after months of being dry, or comes with pain, thirst, or daytime problems.",
+  "is_not": "Wetting in children under five, occasional accidents, wetting caused by urine infection, diabetes, or constipation, and a sudden return of wetting after a stressful event are assessed separately.",
+  "hope_note": "Almost every child becomes dry. With an alarm and patience, most do so within a few months.",
+  "related_topics": [
+    "encopresis",
+    "separation-anxiety-disorder",
+    "adhd",
+    "autism-spectrum-disorder"
+  ],
+  "glossary_terms": [
+    "onset",
+    "gp-primary-care",
+    "school-support-plans"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "elimination",
+    "icon": "droplet",
+    "illustration_prompt": "Soft line illustration of a child and parent making a bed together with fresh sheets, morning light, a small plant on the windowsill. Pastel blue and cream.",
+    "alt_text": "A child and parent make a bed together in morning light."
+  },
+  "communities": [
+    "eric-uk-helpline",
+    "youngminds-parents-helpline",
+    "family-lives-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Elimination Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg111",
+      "title": "Bedwetting in under 19s (CG111)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg111",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2010
+    },
+    {
+      "id": "src-raisingchildren-bedwetting",
+      "title": "Bedwetting",
+      "publisher": "Raising Children Network (Australia)",
+      "url": "https://raisingchildren.net.au/guides/a-z-health-reference/bedwetting",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nationwide-enuresis",
+      "title": "Enuresis (Bedwetting)",
+      "publisher": "Nationwide Children's Hospital (US)",
+      "url": "https://nationwidechildrens.org/conditions/enuresis-bedwetting",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-eric",
+      "title": "ERIC, The Children's Bowel and Bladder Charity",
+      "publisher": "ERIC (UK)",
+      "url": "https://www.eric.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Site not opened; helpline details from directory listings."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm current ERIC helpline number and hours."
+    ]
+  },
+  "in_young_people": "Teens with enuresis often feel intense shame and hide it. It's still treatable at any age, and a doctor or continence service will have seen it many times."
+}

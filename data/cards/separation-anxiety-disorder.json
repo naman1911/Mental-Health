@@ -1,0 +1,142 @@
+{
+  "topic_id": "separation-anxiety-disorder",
+  "official_name": "Separation Anxiety Disorder",
+  "plain_title": "When being apart feels unbearable",
+  "also_known_as": [],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F93.0",
+  "language_convention": "person-first",
+  "one_liner": "Intense, lasting fear of being away from the people you're closest to, beyond what's expected for your age.",
+  "in_simple_words": "It's normal for toddlers to cry when a parent leaves. Separation anxiety disorder is when that fear is much stronger, lasts far longer, and shows up past the age when it's expected: a ten-year-old who can't sleep alone or go to school, or an adult who panics when a partner travels. The person fears something terrible will happen to a loved one, or to themselves, while apart. It affects children, teens, and adults, and it responds well to treatment.",
+  "what_it_can_feel_like": [
+    "Every school morning was a battle. He wasn't being naughty; he was terrified something would happen to me.",
+    "As an adult I check my partner's location constantly. I hate it, and I can't stop.",
+    "Therapy gave us a plan. Now the goodbyes are short and the days are okay."
+  ],
+  "common_signs": [
+    "Extreme distress when apart from a parent, partner, or home, or when expecting to be",
+    "Constant worry that harm will come to loved ones, or that something will separate you",
+    "Refusing school, work, or sleepovers; not wanting to sleep alone",
+    "Nightmares about separation",
+    "Headaches or stomach aches when separation is coming",
+    "Lasting at least a month in children or six months in adults"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's clinginess, and giving in makes it worse.",
+      "fact": "It's real fear. The answer isn't harshness or endless accommodation but a gradual plan, which treatment provides."
+    },
+    {
+      "myth": "Only small children get it.",
+      "fact": "Teens and adults have separation anxiety too; adult cases are more common than once thought."
+    },
+    {
+      "myth": "Children grow out of it on their own.",
+      "fact": "Some do, but untreated separation anxiety can lead to other anxiety disorders and depression later. Early help is worth it."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 4 in 100 people have separation anxiety disorder in childhood, and surveys suggest it may be even more common in adults than previously thought.",
+    "figure": "Lifetime prevalence 4.1% for childhood-onset and 6.6% for adult cases (NCS-R)",
+    "source_ref": "src-ncsr-sad",
+    "note": "Adult figure from lay interviews without clinical validation; treat as an estimate."
+  },
+  "what_helps": {
+    "plain_summary": "CBT is the main treatment, for children often with parents fully involved: learning about anxiety, building coping skills, and practising short separations that get gradually longer. Schools are usually part of the plan. Antidepressants (SSRIs), prescribed and monitored by a doctor, are sometimes used when therapy isn't enough, more often in older children and adults.",
+    "evidence_based_options": [
+      "CBT with graded separation practice",
+      "Parent-involved CBT programmes for children",
+      "School-based plans for gradual return",
+      "SSRI antidepressants when needed, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Calm, brief, predictable goodbyes",
+      "Practising short separations and building up",
+      "Not avoiding separations entirely, which strengthens the fear",
+      "For adults: noticing checking behaviours and gently reducing them"
+    ],
+    "guideline_refs": [
+      "src-nhs"
+    ]
+  },
+  "when_to_reach_out": "If fear of separation is stopping a child from going to school or sleeping, or stopping an adult from working or letting loved ones live their lives, and it's lasted weeks or months, ask a doctor for help.",
+  "is_not": "Normal separation distress in babies and toddlers, missing someone, or worry after a real loss or danger is not a disorder. In adults, fear of a partner leaving as part of a wider pattern may point to other conditions.",
+  "hope_note": "With a clear plan and patient practice, children and adults learn that being apart is safe, and that reunions come.",
+  "in_young_people": "This is the most common anxiety disorder in young children. School refusal is a frequent sign. Treating it early protects against later anxiety and depression.",
+  "related_topics": [
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "selective-mutism",
+    "dependent-personality-disorder",
+    "reactive-attachment-disorder"
+  ],
+  "glossary_terms": [
+    "attachment",
+    "exposure-therapy",
+    "cbt",
+    "avoidance"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a child waving from a school gate while a parent waves back from a short distance, a thin kite string connecting a kite above them. Pastel blue and yellow.",
+    "alt_text": "A child waves from a school gate and a parent waves back from a short distance, a kite flying above them."
+  },
+  "communities": [
+    "adaa-online-support-group",
+    "anxiety-uk-peer-support-groups",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-ncsr-sad",
+      "title": "Prevalence of separation anxiety disorder in the National Comorbidity Survey Replication",
+      "publisher": "American Journal of Psychiatry (Shear et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16741209/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2006
+    },
+    {
+      "id": "src-nhs",
+      "title": "NHS mental health conditions page",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/separation-anxiety/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NHS page; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "No separation-anxiety-specific community found; parent-facing anxiety groups to be added when verified.",
+      "Confirm the NHS page slug."
+    ]
+  }
+}

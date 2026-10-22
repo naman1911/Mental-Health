@@ -1,0 +1,157 @@
+{
+  "topic_id": "avoidant-personality-disorder",
+  "official_name": "Avoidant Personality Disorder",
+  "plain_title": "Wanting closeness, too afraid of rejection to risk it",
+  "also_known_as": [
+    "AvPD",
+    "anxious personality disorder (ICD-10 term)"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.6",
+  "language_convention": "person-first",
+  "one_liner": "Avoiding people and situations out of intense fear of criticism and rejection, and feeling inadequate, despite wanting connection.",
+  "in_simple_words": "Avoidant personality disorder is a deep, long-standing fear of being judged and found wanting. People with it long for closeness but avoid relationships, work, and social situations unless they're sure of being liked, see themselves as inferior and unappealing, and read criticism into neutral reactions. It overlaps heavily with social anxiety disorder and is often seen as its more pervasive form. It usually starts in childhood or the teens and is treatable with the same therapies, over a longer run.",
+  "what_it_can_feel_like": [
+    "I want friends more than anything. I also can't bear the thought of being seen.",
+    "I turned down two promotions because they involved meeting people. I told myself I didn't want them.",
+    "Schema therapy got at the 'I'm defective' belief I'd had since I was eight. Things changed after that."
+  ],
+  "common_signs": [
+    "Avoiding work or activities that involve a lot of contact with people",
+    "Unwilling to get involved with people unless sure of being liked",
+    "Holding back in relationships for fear of shame or ridicule",
+    "Preoccupied with being criticized or rejected",
+    "Seeing yourself as socially inept, unappealing, or inferior",
+    "Very reluctant to try new things in case they're embarrassing"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just shyness.",
+      "fact": "Shyness is a trait. AvPD causes pervasive avoidance and a damaged self-image that limits a whole life."
+    },
+    {
+      "myth": "People with AvPD don't want relationships.",
+      "fact": "They want them badly. The fear of rejection, not lack of desire, keeps them away. That's the difference from schizoid patterns."
+    },
+    {
+      "myth": "Exposure will fix it quickly.",
+      "fact": "Social anxiety treatments help, but AvPD usually needs longer work on the core belief of being defective, often with schema or psychodynamic therapy."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 2 in 100 adults meet criteria, by US survey estimates, with similar rates in men and women.",
+    "figure": "About 2.4% of US adults (NESARC 2001–02, roughly 4.9 million)",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment combines what works for social anxiety, CBT with graded exposure and social-skills work, with longer-term therapy on the beliefs underneath, such as schema therapy or psychodynamic approaches. Group therapy, once tolerable, can be powerful. Antidepressants, prescribed and monitored by a doctor, may help the anxiety and depression that often accompany it. Progress is gradual and tends to last.",
+    "evidence_based_options": [
+      "CBT with graded exposure and social-skills training",
+      "Schema therapy or psychodynamic therapy for the core beliefs",
+      "Group therapy at the right stage",
+      "SSRI antidepressants for co-occurring anxiety or depression, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Small social experiments with a planned exit, repeated",
+      "Writing down the evidence against 'I'm inferior'",
+      "Online peer communities as a lower-risk starting point",
+      "Celebrating attempts, not just outcomes"
+    ],
+    "guideline_refs": [
+      "src-nice-cg159"
+    ]
+  },
+  "when_to_reach_out": "If fear of rejection has shaped most of your choices for years, and loneliness or missed chances are the price, a therapist experienced with social anxiety and personality difficulties can help. Online or written first contact is a fine way to start.",
+  "is_not": "Shyness, introversion, or avoiding one specific situation isn't AvPD. Social anxiety disorder is similar but narrower. Schizoid personality disorder involves not wanting closeness, which is the opposite.",
+  "hope_note": "People with avoidant patterns, treated with patience, go on to friendships, partnerships, and work they never thought they could have.",
+  "related_topics": [
+    "about-personality-disorders",
+    "social-anxiety-disorder",
+    "dependent-personality-disorder",
+    "schizoid-personality-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "shyness-vs-social-anxiety",
+    "inner-critic",
+    "avoidance",
+    "exposure-therapy",
+    "schema-therapy",
+    "rejection-sensitivity"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster C."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person at the doorway of a community class, one foot inside, the instructor smiling and holding the door, warm light. Pastel plum and yellow.",
+    "alt_text": "A person stands at the doorway of a community class with one foot inside as the instructor holds the door and smiles."
+  },
+  "communities": [
+    "reddit-r-avoidant",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg159",
+      "title": "Social anxiety disorder: recognition, assessment and treatment (CG159)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg159",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2013
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk."
+    ]
+  },
+  "in_young_people": "Avoidant patterns usually begin in childhood with extreme shyness and fear of new people, and worsen in adolescence. Early treatment of social anxiety can prevent the pattern setting."
+}

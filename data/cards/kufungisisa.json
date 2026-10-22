@@ -1,0 +1,125 @@
+{
+  "topic_id": "kufungisisa",
+  "official_name": "Kufungisisa",
+  "plain_title": "'Thinking too much', in Zimbabwe and beyond",
+  "also_known_as": [
+    "thinking too much",
+    "excessive thinking"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "A Shona term for 'thinking too much', used for both the cause and the experience of depression and anxiety.",
+  "in_simple_words": "Kufungisisa, Shona for 'thinking too much', is how many people in Zimbabwe, and in similar terms elsewhere, describe what clinicians might call depression or anxiety. It's both a cause (thinking too much makes you ill) and the experience itself: ruminating, worry, headaches, sleeplessness, and a heavy heart, often brought on by poverty, loss, or family trouble. It's known worldwide because of the Friendship Bench, where trained grandmothers deliver problem-solving therapy on benches outside clinics, with strong trial results.",
+  "what_it_can_feel_like": [
+    "The grandmother on the bench didn't ask about symptoms. She asked what I was thinking too much about. Then we solved one thing at a time.",
+    "In my language we don't say depression. We say the person is thinking too much. Everyone knows what that means."
+  ],
+  "common_signs": [
+    "Ruminating and worrying that won't stop",
+    "Headaches, sleeplessness, tiredness, a heavy heart",
+    "Brought on by poverty, loss, illness, or family problems",
+    "Withdrawing, losing interest, not managing daily tasks"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "'Thinking too much' is too vague to treat.",
+      "fact": "It's specific enough that a trial of problem-solving therapy for kufungisisa, delivered by lay health workers, cut depression and anxiety substantially."
+    },
+    {
+      "myth": "It's a weaker version of real depression.",
+      "fact": "It's the same suffering described in local terms, and local terms are what make help acceptable and effective."
+    }
+  ],
+  "how_common": {
+    "plain": "'Thinking too much' idioms are found in dozens of cultures. In Zimbabwe, kufungisisa is among the most common presentations in primary care; exact figures depend on how it's measured.",
+    "figure": "Prevalence not established; common in Zimbabwean primary care and the basis of the Friendship Bench trial",
+    "source_ref": "src-friendship-bench"
+  },
+  "what_helps": {
+    "plain_summary": "The Friendship Bench model, problem-solving therapy delivered by trained lay health workers on a bench outside a clinic, with peer support groups and referral for severe cases, has strong evidence and has spread to several countries. Standard treatments for depression and anxiety also apply, including CBT and, where needed, medication prescribed and monitored by a doctor. Addressing the practical problems, such as money, food, and illness, is part of the therapy, not separate from it.",
+    "evidence_based_options": [
+      "Problem-solving therapy delivered by trained lay or community health workers (Friendship Bench)",
+      "Peer support groups",
+      "CBT or other therapy for depression and anxiety",
+      "Referral and medication for severe depression, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Naming what you're thinking too much about",
+      "Breaking one problem into a first step",
+      "Talking to a trusted elder or community worker",
+      "Sleep, food, and connection, even when hard"
+    ],
+    "guideline_refs": [
+      "src-friendship-bench"
+    ]
+  },
+  "when_to_reach_out": "If you're thinking too much and it's affecting your sleep, energy, or ability to manage, talk to a community health worker, a Friendship Bench if one is near, a doctor, or a counsellor. If you're thinking about ending your life, reach out to a crisis line or someone you trust now.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Ordinary worry that passes isn't kufungisisa; it's the persistence and the weight that matter.",
+  "hope_note": "Grandmothers on benches have helped tens of thousands of people stop thinking too much. The model is simple because the problem is human.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "culture-and-mental-health",
+    "housing-and-money-problems",
+    "shenjing-shuairuo"
+  ],
+  "glossary_terms": [
+    "rumination",
+    "stress",
+    "peer-support",
+    "lived-experience"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of an older woman and a younger person sitting on a wooden bench under a tree outside a small clinic, talking, warm light. Pastel ochre and sky blue.",
+    "alt_text": "An older woman and a younger person talk on a wooden bench under a tree outside a clinic."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-friendship-bench",
+      "title": "The Friendship Bench",
+      "publisher": "Centre for Global Mental Health",
+      "url": "https://www.centreforglobalmentalhealth.org/research-projects/the-friendship-bench/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

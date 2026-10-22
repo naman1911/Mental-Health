@@ -1,0 +1,134 @@
+{
+  "topic_id": "disinhibited-social-engagement-disorder",
+  "official_name": "Disinhibited Social Engagement Disorder",
+  "plain_title": "When a young child is too trusting of strangers",
+  "also_known_as": [
+    "DSED",
+    "disinhibited attachment (older term)"
+  ],
+  "chapter_id": "trauma",
+  "card_type": "condition",
+  "icd10cm_code": "F94.2",
+  "language_convention": "person-first",
+  "one_liner": "A rare pattern after severe early neglect: a young child approaches and goes off with strangers without any wariness.",
+  "in_simple_words": "Most toddlers are a bit wary of strangers and check back with a trusted adult. After severe neglect or many changes of caregiver, a few children lose that wariness entirely. They'll climb onto a stranger's lap, wander off with anyone, and never check back. This is disinhibited social engagement disorder. It's caused by what the child went through, not by their character, and the main risk is safety. With stable care and support it improves, though it can take years.",
+  "what_it_can_feel_like": [
+    "In the park he'd hold any adult's hand and walk away with them. Terrifying.",
+    "She called the plumber 'Daddy' within five minutes. People thought it was cute. It wasn't.",
+    "Teaching her who's safe took years. Now she checks with me first. That's huge."
+  ],
+  "common_signs": [
+    "Approaching and interacting with unfamiliar adults with no hesitation",
+    "Over-familiar behaviour, like hugging or sitting on strangers' laps",
+    "Wandering off with unfamiliar adults without checking back",
+    "A history of severe neglect, institutional care, or repeated changes of caregiver",
+    "Visible in children aged at least nine months"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "The child is just friendly and outgoing.",
+      "fact": "Friendly children still check with their caregiver and show some caution. DSED is a lack of the normal wariness that keeps children safe."
+    },
+    {
+      "myth": "Once the child has a loving home, it goes away quickly.",
+      "fact": "Unlike RAD, DSED can persist for years even in good homes. Patience and supervision are needed."
+    },
+    {
+      "myth": "It's the adoptive parents' fault.",
+      "fact": "DSED stems from early neglect before the child reached their current family. Supportive caregivers are the solution, not the cause."
+    }
+  ],
+  "how_common": {
+    "plain": "DSED is rare in the general population but is seen in a notable minority of children who spent their early years in institutions or very neglectful homes.",
+    "figure": "No reliable general-population figure; around 20% in some samples of children raised in institutions",
+    "source_ref": "src-dsm",
+    "note": "Prevalence drawn from DSM-5-TR summary of research on institutionalized children; needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Stable, consistent caregiving is the foundation. Therapies that help parents respond sensitively and teach the child about safe and unsafe people help over time. Practical safety measures, like close supervision in public, matter. Behaviour may improve slowly, so support for parents is important. Medication is not a treatment for DSED.",
+    "evidence_based_options": [
+      "A stable, emotionally available caregiver and consistent routines",
+      "Parent-child therapies focused on sensitivity and responsiveness",
+      "Explicit teaching about safe adults and checking back",
+      "Support and respite for foster and adoptive parents"
+    ],
+    "self_help_that_supports_care": [
+      "Close supervision in public places, planned rather than panicked",
+      "Clear, repeated, kind rules about strangers",
+      "Praise for checking back with you",
+      "Peer support from other adoptive and foster families"
+    ],
+    "guideline_refs": [
+      "src-nice-ng26"
+    ]
+  },
+  "when_to_reach_out": "If a young child who has had an unsettled start shows no wariness of strangers and would go off with anyone, ask a paediatrician or child mental health team for an assessment, and ask for support with safety planning now.",
+  "is_not": "A sociable, confident child who still checks in with their caregiver does not have DSED. Impulsive, overly familiar behaviour in a child with ADHD and no history of neglect is a different thing.",
+  "hope_note": "Children with DSED can learn who is safe and build real bonds. The progress is slow, and it is progress.",
+  "in_young_people": "DSED is diagnosed in young children but, unlike RAD, can continue into middle childhood and the teens, sometimes showing as over-familiarity with peers and adults and risky trust. Ongoing support helps.",
+  "related_topics": [
+    "reactive-attachment-disorder",
+    "child-abuse-and-neglect",
+    "adhd",
+    "posttraumatic-stress-disorder"
+  ],
+  "glossary_terms": [
+    "attachment",
+    "trauma-informed",
+    "adverse-childhood-experiences",
+    "impulsivity"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Involves child neglect and child safety; crisis strip and child-protection links required."
+    ]
+  },
+  "visual": {
+    "color_token": "trauma",
+    "icon": "shield",
+    "illustration_prompt": "Soft line illustration of a child in a playground looking back over their shoulder toward a caregiver who waves from a bench, a safe fenced area, soft light. Pastel lilac and green.",
+    "alt_text": "A child in a fenced playground looks back over their shoulder at a caregiver waving from a bench."
+  },
+  "communities": [
+    "nas-online-community",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Trauma- and Stressor-Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng26",
+      "title": "Children's attachment (NG26)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng26",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2015,
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source for institutionalized samples.",
+      "Replace placeholder community with a verified adoption/fostering peer group."
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "topic_id": "insomnia-disorder",
+  "official_name": "Insomnia Disorder",
+  "plain_title": "When sleep won't come, or won't stay",
+  "also_known_as": [
+    "chronic insomnia",
+    "sleeplessness"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "F51.01",
+  "language_convention": "person-first",
+  "one_liner": "Trouble falling or staying asleep, or waking too early, three nights a week for three months or more.",
+  "in_simple_words": "Everyone has bad nights. Insomnia disorder is when they become the pattern: lying awake for ages, waking in the night and not getting back off, or waking far too early, several nights a week for months, with tiredness, low mood, and poor concentration by day. It often starts with stress and then gets kept going by worry about sleep itself and by habits that make sense but backfire. It's very common, and the best treatment isn't a pill.",
+  "what_it_can_feel_like": [
+    "Bedtime became the scariest part of the day. The more I tried, the less I slept.",
+    "I'd lie there doing maths about how many hours I had left.",
+    "CBT for insomnia felt counterintuitive. Less time in bed, more sleep. It worked in six weeks."
+  ],
+  "common_signs": [
+    "Taking a long time to fall asleep, or waking and not getting back to sleep",
+    "Waking much earlier than planned",
+    "At least three nights a week for three months or more",
+    "Tiredness, irritability, low mood, or poor concentration by day",
+    "Worrying about sleep and dreading bedtime",
+    "Happening even when there's enough time and a decent place to sleep"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Everyone needs eight hours.",
+      "fact": "Sleep needs vary. The problem in insomnia is distress and daytime effects, not a number."
+    },
+    {
+      "myth": "Sleeping tablets are the answer.",
+      "fact": "They help short-term but lose effect, cause dependence, and don't fix the pattern. CBT for insomnia works better and lasts."
+    },
+    {
+      "myth": "Lying in bed resting is almost as good as sleep.",
+      "fact": "Lying awake in bed teaches the brain that bed means wakefulness. Getting up until sleepy is part of the cure."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 10 adults has insomnia disorder, and many more have occasional sleep trouble. Women and older adults are affected more often.",
+    "figure": "About 10% of adults (European population estimate); higher rates with broader definitions",
+    "source_ref": "src-euro-sleep"
+  },
+  "what_helps": {
+    "plain_summary": "Cognitive behavioural therapy for insomnia (CBT-I) is the recommended first treatment and works for most people in four to eight sessions, in person, online, or through apps. It resets the link between bed and sleep, tightens the sleep window, and calms worry about sleep. Medication, prescribed and monitored by a doctor, is for short-term use or when CBT-I isn't enough. Treating depression, anxiety, pain, or sleep apnoea often improves insomnia too.",
+    "evidence_based_options": [
+      "CBT for insomnia (CBT-I), including digital versions",
+      "Treating co-occurring conditions such as depression, anxiety, pain, or sleep apnoea",
+      "Short-term medication in some cases, prescribed and monitored by a doctor",
+      "Sleep-restriction and stimulus-control techniques within CBT-I"
+    ],
+    "self_help_that_supports_care": [
+      "Same wake time every day, even after a bad night",
+      "Getting up if awake for more than 20 minutes and returning when sleepy",
+      "No clock-watching, and bed only for sleep and sex",
+      "Daylight in the morning, less caffeine and alcohol in the evening"
+    ],
+    "guideline_refs": [
+      "src-aasm-insomnia"
+    ]
+  },
+  "when_to_reach_out": "If poor sleep has gone on for a month or more and is affecting your days, ask a doctor about CBT for insomnia. Mention snoring, restless legs, or low mood too, as they change the plan.",
+  "is_not": "A few bad nights during stress, jet lag, shift work, or a new baby aren't insomnia disorder. Sleep trouble caused mainly by sleep apnoea, restless legs, or a body-clock problem is treated differently.",
+  "hope_note": "Insomnia is one of the most treatable sleep conditions. Most people who complete CBT-I sleep better within weeks and keep the gains.",
+  "related_topics": [
+    "circadian-rhythm-sleep-wake-disorders",
+    "breathing-related-sleep-disorders",
+    "restless-legs-syndrome",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "sedative-hypnotic-anxiolytic-use-disorder"
+  ],
+  "glossary_terms": [
+    "cbt-i",
+    "sleep-hygiene",
+    "sleep-medication",
+    "circadian-rhythm",
+    "rumination",
+    "revenge-bedtime-procrastination"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person reading in a dim armchair at night with a small lamp, bedroom door open to a calm dark bed, a clock turned to face the wall. Pastel indigo and cream.",
+    "alt_text": "A person reads in a dim armchair at night, a clock turned to the wall, a calm bedroom visible beyond."
+  },
+  "communities": [
+    "reddit-r-insomnia",
+    "sleep-disorders-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-aasm-insomnia",
+      "title": "Behavioral and psychological treatments for chronic insomnia disorder in adults: an AASM clinical practice guideline",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/new-guideline-supports-behavioral-psychological-treatments-for-insomnia/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2021
+    },
+    {
+      "id": "src-nhs-insomnia",
+      "title": "Insomnia",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-euro-sleep",
+      "title": "Prevalence of sleep disorders in the adult population (European estimate summary)",
+      "publisher": "Secondary summary of a 2026 European analysis",
+      "url": "https://www.vol.at/so-many-europeans-suffer-from-sleep-disorders/9991844",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2026,
+      "note": "Secondary source; replace with the primary analysis."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Replace the secondary prevalence source with a primary one.",
+      "Add a verified UK/US insomnia community."
+    ]
+  },
+  "in_young_people": "Teenagers' body clocks run late, so 'insomnia' at 11pm is often biology plus screens. CBT-I works for teens; for younger children, behavioural approaches with parents are used.",
+  "across_cultures": "Sleep norms differ: co-sleeping, siestas, late dinners, and prayer schedules all shape what's normal. Night-shift and gig work push insomnia rates up in many communities.",
+  "sub_sections": [
+    {
+      "title": "Other specified and unspecified insomnia disorder",
+      "icd10cm_code": "G47.09 / G47.00",
+      "text": "Used for insomnia that doesn't yet meet the full pattern, for example shorter than three months."
+    }
+  ]
+}

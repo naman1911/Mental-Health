@@ -1,0 +1,169 @@
+{
+  "topic_id": "medication-induced-movement-disorders",
+  "official_name": "Medication-Induced Movement Disorders",
+  "plain_title": "Movement side effects: stiffness, restlessness, tremor",
+  "also_known_as": [
+    "extrapyramidal side effects (EPS)",
+    "tardive dyskinesia (TD)",
+    "akathisia",
+    "drug-induced parkinsonism",
+    "acute dystonia"
+  ],
+  "chapter_id": "medication-induced",
+  "card_type": "condition",
+  "icd10cm_code": "G21.x / G24.x / G25.x",
+  "language_convention": "person-first",
+  "one_liner": "Movement problems caused by mental health medicines, mainly antipsychotics: stiffness, shaking, inner restlessness, or movements you can't control.",
+  "in_simple_words": "Some medicines, mainly antipsychotics, can affect the parts of the brain that control movement. Early effects include muscle spasms (dystonia), stiffness and shaking (parkinsonism), and an awful inner restlessness (akathisia). Tardive dyskinesia comes later: repeated movements you can't control, often of the mouth, tongue, or limbs, which can last. These aren't signs of the illness getting worse. Tell your prescriber early. Most effects can be reduced by changing the medicine or adding a treatment.",
+  "what_it_can_feel_like": [
+    "I couldn't sit through a meal. I paced and paced and thought I was losing it. It was akathisia, and a dose change fixed it in days.",
+    "My mum's mouth moved constantly and nobody at the home mentioned it. A new psychiatrist spotted tardive dyskinesia straight away."
+  ],
+  "common_signs": [
+    "Painful muscle spasms of the neck, jaw, or eyes soon after a dose change",
+    "Stiffness, slowness, shuffling walk, or tremor",
+    "Intense inner restlessness; needing to pace or shift constantly",
+    "Repetitive involuntary movements of the mouth, tongue, face, or limbs that develop over time",
+    "Movements that other people notice before you do"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Restlessness or stiffness means the mental illness is getting worse.",
+      "fact": "These are usually medication effects, and they're treatable. Mistaking akathisia for agitation can lead to dose increases that make it worse."
+    },
+    {
+      "myth": "Tardive dyskinesia is untreatable, so there's no point mentioning it.",
+      "fact": "Catching it early gives the most options, and newer medications specifically treat it. Always mention new movements."
+    },
+    {
+      "myth": "You should stop the medication if you notice movements.",
+      "fact": "Stopping suddenly can be dangerous. Tell your prescriber and decide together; adjustments are often enough."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 4 people on long-term antipsychotics has some tardive dyskinesia. Rates are lower on newer medicines. Akathisia and parkinsonism are common early on.",
+    "figure": "Tardive dyskinesia mean prevalence 25.3% (20.7% on second-generation, 30.0% on first-generation antipsychotics; meta-analysis of 41 studies, 2000–2015)",
+    "source_ref": "src-carbon-td"
+  },
+  "what_helps": {
+    "plain_summary": "Your prescriber may lower the dose, switch to a medication less likely to cause movement effects, or add a medication that counters the effect. Akathisia often responds to dose changes and specific add-on medications. Tardive dyskinesia can be treated with newer medications (VMAT2 inhibitors) in some countries, alongside review of the antipsychotic. Regular movement checks, ideally every few months, catch problems early. Never stop or change doses on your own.",
+    "evidence_based_options": [
+      "Dose reduction or switch to a lower-risk antipsychotic, with your prescriber",
+      "Add-on medication for dystonia, parkinsonism, or akathisia, prescribed and monitored by a doctor",
+      "VMAT2 inhibitors for tardive dyskinesia where available, prescribed and monitored by a doctor",
+      "Regular structured movement monitoring (for example, the AIMS check)"
+    ],
+    "self_help_that_supports_care": [
+      "Telling your prescriber about any new movement, stiffness, or restlessness",
+      "Asking for a movement check at each review",
+      "Keeping a short note or video of movements to show the clinician",
+      "Peer groups where people share what helped"
+    ],
+    "guideline_refs": [
+      "src-carbon-td",
+      "src-vmat2-review"
+    ]
+  },
+  "when_to_reach_out": "Tell your prescriber as soon as you notice stiffness, shaking, restlessness, or movements you can't control. Get urgent care for a sudden painful spasm of the neck, jaw, eyes, or throat, or any trouble swallowing or breathing. That can be acute dystonia, and it's quickly treatable.",
+  "is_not": "Movement problems from Parkinson's disease, Huntington's, tics, anxiety, or other illnesses are checked separately. Agitation from the illness itself can look like akathisia. The difference matters for treatment.",
+  "hope_note": "Most movement effects can be reduced or managed. Being heard by a prescriber who checks regularly makes all the difference.",
+  "related_topics": [
+    "neuroleptic-malignant-syndrome",
+    "schizophrenia",
+    "bipolar-i-disorder",
+    "parkinsons-disease-neurocognitive-disorder",
+    "tic-disorders"
+  ],
+  "glossary_terms": [
+    "antipsychotic",
+    "side-effects",
+    "long-acting-injectable",
+    "informed-consent"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "No doses or tapering schedules given; always 'with your prescriber'."
+    ]
+  },
+  "visual": {
+    "color_token": "medication-induced",
+    "icon": "stethoscope",
+    "illustration_prompt": "Soft line illustration of a person and a pharmacist talking across a counter, a medication box and a notepad between them, calm light. Pastel teal and sand.",
+    "alt_text": "A person talks with a pharmacist across a counter."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "hearing-voices-network-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Medication-Induced Movement Disorders and Other Adverse Effects of Medication chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-carbon-td",
+      "title": "Tardive dyskinesia prevalence in the period of second-generation antipsychotic use: a meta-analysis",
+      "publisher": "Journal of Clinical Psychiatry (Carbon et al.)",
+      "url": "https://www.psychiatrist.com/jcp/tardive-dyskinesia-prevalence",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2017
+    },
+    {
+      "id": "src-vmat2-review",
+      "title": "Role of VMAT2 inhibitors in tardive dyskinesia management",
+      "publisher": "PubMed Central (PMC6802812)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6802812/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Not opened; one cited review was industry-sponsored."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add a prescribing guideline reference.",
+      "Pharmacist or psychiatrist to review."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Acute dystonia",
+      "icd10cm_code": "G24.02",
+      "text": "Sudden muscle spasms within days of starting or increasing a dose. Treated quickly with medication."
+    },
+    {
+      "title": "Akathisia",
+      "icd10cm_code": "G25.71",
+      "text": "Inner restlessness and the need to keep moving. Often mistaken for anxiety or agitation."
+    },
+    {
+      "title": "Drug-induced parkinsonism",
+      "icd10cm_code": "G21.11",
+      "text": "Stiffness, tremor, slow movement, reduced facial expression."
+    },
+    {
+      "title": "Tardive dyskinesia",
+      "icd10cm_code": "G24.01",
+      "text": "Involuntary repetitive movements that develop after months or years and may persist."
+    }
+  ]
+}

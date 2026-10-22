@@ -1,0 +1,142 @@
+{
+  "topic_id": "schizoid-personality-disorder",
+  "official_name": "Schizoid Personality Disorder",
+  "plain_title": "Preferring to be alone, with little pull to others",
+  "also_known_as": [
+    "SzPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.1",
+  "language_convention": "person-first",
+  "one_liner": "A lasting pattern of detachment from relationships and a narrow range of expressed emotion, with little wish for closeness.",
+  "in_simple_words": "Schizoid personality disorder describes people who consistently prefer solitude, have little desire for close relationships, including sexual ones, take pleasure in few activities, and seem emotionally cool or distant to others. They're not lonely in the usual sense, not anxious about people, and in touch with reality. It's one of the least understood types, and many people with it live quietly and ask nothing of services. It becomes a concern when it causes distress or blocks things the person wants.",
+  "what_it_can_feel_like": [
+    "I don't dislike people. I just don't need them the way everyone assumes I should.",
+    "Family thought I was depressed. I wasn't. I was fine alone, and they couldn't accept that.",
+    "Therapy wasn't about making me social. It was about finding what I actually want from life."
+  ],
+  "common_signs": [
+    "Not wanting or enjoying close relationships, including family",
+    "Almost always choosing solitary activities",
+    "Little interest in sex with another person",
+    "Taking pleasure in few, if any, activities",
+    "Appearing indifferent to praise or criticism; emotionally flat or detached"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Schizoid means schizophrenia.",
+      "fact": "Schizoid personality disorder has no psychosis. The word shares a root but the conditions are different."
+    },
+    {
+      "myth": "People with schizoid traits are secretly lonely and need pushing into social life.",
+      "fact": "Many are genuinely content alone. Pressure to socialize usually causes distress rather than helping."
+    },
+    {
+      "myth": "It's the same as being an introvert or autistic.",
+      "fact": "Introverts enjoy some closeness. Autism involves communication and sensory differences from childhood. Schizoid patterns are about not desiring connection; the three can be confused."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 3 in 100 adults meet criteria, by US survey estimates, though few seek help.",
+    "figure": "About 3.1% of US adults (NESARC 2001–02, roughly 6.5 million)",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is only needed if the person wants something to change. When it is, individual therapy that respects their need for distance and explores what they value works best; group therapy may help some people practise connection at their own pace. Depression or anxiety, if present, is treated, with any medication prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Individual psychotherapy at the person's own pace",
+      "Cognitive or psychodynamic approaches focused on the person's goals",
+      "Group therapy in some cases",
+      "Treatment of co-occurring depression"
+    ],
+    "self_help_that_supports_care": [
+      "Deciding for yourself what kind of connection, if any, you want",
+      "Choosing work and living arrangements that suit you",
+      "One low-demand regular contact, if that appeals",
+      "Noticing if solitude has tipped into depression"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If detachment is causing you distress, or blocking something you want, like a job or a relationship, a therapist who won't push can help. If low mood or hopelessness creep in, reach out.",
+  "is_not": "Introversion, preferring a quiet life, or choosing solitude after a hard time isn't a disorder. Autism and schizotypal personality disorder are different and are sometimes confused with it.",
+  "hope_note": "People with schizoid patterns build lives that fit them, and some find connection on their own terms.",
+  "related_topics": [
+    "about-personality-disorders",
+    "schizotypal-personality-disorder",
+    "avoidant-personality-disorder",
+    "autism-spectrum-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "affect",
+    "social-battery",
+    "psychodynamic-therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster A."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person contentedly tending a rooftop vegetable garden alone at dawn, city soft in the background, a cat on the wall. Pastel plum and green.",
+    "alt_text": "A person tends a rooftop vegetable garden alone at dawn, a cat on the wall."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Look for r/Schizoid and verify."
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "topic_id": "dhat-syndrome",
+  "official_name": "Dhat Syndrome",
+  "plain_title": "Distress about losing semen, in South Asia",
+  "also_known_as": [
+    "dhat",
+    "semen-loss anxiety",
+    "jiryan"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "Anxiety, weakness, and low mood attributed to losing semen, recognised across South Asia.",
+  "in_simple_words": "Dhat syndrome is a way of experiencing distress found across South Asia and among South Asian communities elsewhere. A man, and sometimes a woman, attributes fatigue, weakness, anxiety, low mood, or sexual difficulties to the loss of 'dhat', a vital fluid, through urine or emissions. The belief draws on traditional ideas about semen as a source of vitality. The suffering is real and often reflects depression, anxiety, or sexual worry. Treatment that respects the explanation works well.",
+  "what_it_can_feel_like": [
+    "I was sure I was wasting away. The doctor didn't laugh. He explained the body, treated the depression, and the weakness went.",
+    "Every clinic in my town sees this. Some sell expensive 'cures'. The honest doctors talk about anxiety."
+  ],
+  "common_signs": [
+    "Fatigue, weakness, or low energy attributed to loss of semen",
+    "Anxiety, guilt, or low mood, often with sexual worry",
+    "Concern about a whitish discharge in urine",
+    "Seeking help from many clinics, sometimes being sold unproven remedies"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's a sign of ignorance.",
+      "fact": "It reflects a coherent traditional understanding of the body, shared by many educated people. The distress deserves respect and treatment."
+    },
+    {
+      "myth": "Nothing is actually wrong.",
+      "fact": "Depression, anxiety, and sexual difficulties are very common underneath, and treating them resolves the 'weakness'."
+    }
+  ],
+  "how_common": {
+    "plain": "Dhat syndrome is common in sexual health and primary care clinics across South Asia, though population figures are lacking. One study found it in about 1 in 8 men with depression.",
+    "figure": "Prevalence not established in the general population; 12.9% among men with depression in one 2026 study; majority of psychosexual clinic patients in some reports",
+    "source_ref": "src-dhat",
+    "note": "Clinic-based figures only."
+  },
+  "what_helps": {
+    "plain_summary": "The most effective approach combines respectful education about the body, reassurance that the discharge is harmless, and treatment of underlying depression, anxiety, or sexual dysfunction with counselling or CBT, and medication where needed, prescribed and monitored by a doctor. Dismissing the belief tends to push people toward unregulated practitioners. Clinicians trained in culturally sensitive sexual health do best.",
+    "evidence_based_options": [
+      "Culturally respectful psychoeducation about the body",
+      "CBT or counselling for anxiety and sexual worry",
+      "Treatment of depression or sexual dysfunction, with any medication prescribed and monitored by a doctor",
+      "Avoiding unproven or expensive 'cures'"
+    ],
+    "self_help_that_supports_care": [
+      "Seeing a qualified doctor or psychologist rather than a roadside clinic",
+      "Learning about normal bodily functions from reputable sources",
+      "Treating low mood and sleep as problems in their own right",
+      "Talking openly with a clinician who understands the concept"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If weakness, anxiety, or low mood attributed to semen loss is affecting your life, see a qualified doctor or mental health professional, and name the concern directly. Be cautious of anyone offering expensive cures.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Genuine urinary or sexual health conditions are checked by a doctor.",
+  "hope_note": "With respectful care, the weakness lifts, the worry eases, and people get their energy and confidence back.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "somatic-symptom-disorder",
+    "erectile-disorder",
+    "culture-and-mental-health"
+  ],
+  "glossary_terms": [
+    "somatic-symptoms",
+    "stress",
+    "psychoeducation",
+    "gp-primary-care"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a young man talking with a doctor in a clinic with a window onto a busy street, a poster of the human body on the wall, daylight. Pastel saffron and sky blue.",
+    "alt_text": "A young man talks with a doctor in a clinic with a window onto a busy street."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-dhat",
+      "title": "Dhat syndrome in relation to demographic characteristics",
+      "publisher": "PubMed Central (PMC2918320)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2918320/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "topic_id": "oppositional-defiant-disorder",
+  "official_name": "Oppositional Defiant Disorder",
+  "plain_title": "When a child's anger and defiance take over family life",
+  "also_known_as": [
+    "ODD"
+  ],
+  "chapter_id": "disruptive",
+  "card_type": "condition",
+  "icd10cm_code": "F91.3",
+  "language_convention": "person-first",
+  "one_liner": "A lasting pattern of angry mood, arguing, and defiance toward adults that goes well beyond normal childhood pushback.",
+  "in_simple_words": "All children argue, test limits, and lose their temper sometimes. Oppositional defiant disorder is a persistent pattern, lasting six months or more, of being angry or irritable, arguing and defying adults, and being spiteful, causing real problems at home or school. It usually shows up before age eight and is very often found alongside ADHD, anxiety, or learning difficulties. The best treatments work with parents and the child together, and most children improve.",
+  "what_it_can_feel_like": [
+    "Every request became a battle. Bedtime, homework, shoes. I was exhausted and ashamed, and I thought it was my parenting.",
+    "Once we learned he wasn't choosing to be difficult, that his brain got flooded, we could actually help him.",
+    "I'm 15. I know I argue with everything. I don't know how to stop once I've started."
+  ],
+  "common_signs": [
+    "Often loses temper, easily annoyed, or angry and resentful much of the time",
+    "Argues with adults and refuses to follow rules or requests",
+    "Deliberately annoys others and blames others for their mistakes",
+    "Spiteful or vindictive behaviour at times",
+    "Pattern lasting at least six months and causing problems at home or school"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "ODD is just bad parenting.",
+      "fact": "Temperament, ADHD, anxiety, stress, and family circumstances all play a part. Parents didn't cause it, but parent-focused therapy is one of the most effective treatments."
+    },
+    {
+      "myth": "A child with ODD is a bad kid who'll end up in trouble.",
+      "fact": "Most children with ODD do not go on to conduct disorder or crime, especially with early support. Many are anxious, sensitive, or overwhelmed children."
+    },
+    {
+      "myth": "Punishment harder and more often will fix it.",
+      "fact": "Escalating punishment usually makes defiance worse. Predictable routines, praise for what goes well, and calm, consistent limits work far better."
+    }
+  ],
+  "how_common": {
+    "plain": "Roughly 3 in 100 children and teens have ODD, and estimates range from about 1 to 11 in 100 depending on the study. It's a bit more common in boys before puberty.",
+    "figure": "About 3.3% average prevalence, range 1%–11% (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The strongest evidence is for parent training programmes, in groups or one-to-one, that teach calm, consistent ways to respond to behaviour and to notice what's going well. Child-focused therapy builds problem-solving and emotion skills; family therapy helps older children and teens. Treating ADHD or anxiety when present often improves behaviour a lot. Medication isn't a treatment for ODD itself, though a doctor may prescribe and monitor it for co-occurring ADHD.",
+    "evidence_based_options": [
+      "Parent training programmes (for example, Incredible Years, Triple P, PCIT for younger children)",
+      "Child and teen skills therapy for problem solving and emotion regulation",
+      "Family-based therapy for older children and adolescents",
+      "Treatment of co-occurring ADHD, anxiety, or learning difficulties"
+    ],
+    "self_help_that_supports_care": [
+      "Predictable routines and a few clear, calm rules",
+      "Noticing and praising cooperative moments, however small",
+      "Picking battles and avoiding power struggles",
+      "Support for parents' own stress; this is hard work"
+    ],
+    "guideline_refs": [
+      "src-nice-cg158"
+    ]
+  },
+  "when_to_reach_out": "If a child's anger and defiance have gone on for months, are much worse than other children their age, and are harming family life or school, ask a doctor, school counsellor, or children's mental health service for an assessment. Earlier support makes a bigger difference.",
+  "is_not": "Normal toddler and teenage pushback, a reaction to a stressful change like divorce or bullying, trauma responses, autism-related distress, and ADHD impulsivity can all look like ODD. A good assessment looks at the whole picture.",
+  "hope_note": "With the right support, most children with ODD grow into teens and adults who manage their anger and build good relationships.",
+  "related_topics": [
+    "conduct-disorder",
+    "intermittent-explosive-disorder",
+    "adhd",
+    "disruptive-mood-dysregulation-disorder",
+    "generalized-anxiety-disorder",
+    "family-and-relationship-problems"
+  ],
+  "glossary_terms": [
+    "irritability",
+    "emotional-dysregulation",
+    "family-therapy",
+    "school-support-plans",
+    "comorbidity",
+    "meltdown"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Behaviour labels carry stigma for children and families; wording reviewed for blame."
+    ]
+  },
+  "visual": {
+    "color_token": "disruptive",
+    "icon": "compass",
+    "illustration_prompt": "Soft line illustration of a parent and child sitting side by side on a doorstep, both calm, the child holding a football, the parent's hand resting lightly on the step. Pastel teal and warm orange.",
+    "alt_text": "A parent and child sit calmly side by side on a doorstep."
+  },
+  "communities": [
+    "youngminds-parents-helpline",
+    "family-lives-helpline",
+    "chadd-online-communities",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Disruptive, Impulse-Control, and Conduct Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg158",
+      "title": "Antisocial behaviour and conduct disorders in children and young people: recognition and management (CG158)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg158",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2013,
+      "note": "April 2026 exceptional surveillance document listed; content not opened."
+    },
+    {
+      "id": "src-youngminds-parents",
+      "title": "Parents Helpline",
+      "publisher": "YoungMinds (UK)",
+      "url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence citation.",
+      "Check NICE CG158 April 2026 surveillance for changes."
+    ]
+  },
+  "in_young_people": "ODD is a childhood and teenage diagnosis. For teens, the defiance often sits on top of anxiety, low self-esteem, or feeling misunderstood. Being listened to, not just corrected, is part of treatment.",
+  "strengths_and_differences": "Children described as oppositional are often persistent, independent-minded, and strong-willed, qualities that serve them well when channelled."
+}

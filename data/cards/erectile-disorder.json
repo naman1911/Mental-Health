@@ -1,0 +1,144 @@
+{
+  "topic_id": "erectile-disorder",
+  "official_name": "Erectile Disorder",
+  "plain_title": "When erections are hard to get or keep",
+  "also_known_as": [
+    "erectile dysfunction",
+    "ED",
+    "impotence (outdated, avoid)"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.21",
+  "language_convention": "person-first",
+  "one_liner": "Ongoing difficulty getting or keeping an erection firm enough for sex, causing distress, for six months or more.",
+  "in_simple_words": "Erectile disorder is diagnosed when, most of the time for at least six months, a person has trouble getting or keeping an erection firm enough for sex, and it bothers them. Occasional difficulty is normal. Causes are usually mixed: blood flow, diabetes, hormones, medication, alcohol, smoking, stress, and anxiety. It's extremely common, especially with age, and one of the most treatable sexual problems. Because it can be an early sign of heart disease, it's worth seeing a doctor.",
+  "what_it_can_feel_like": [
+    "The more I worried about it, the worse it got. My doctor checked my heart, gave me options, and the pressure came off.",
+    "Nobody tells you this is normal at 55. I felt like the only one. I wasn't close to the only one."
+  ],
+  "common_signs": [
+    "Trouble getting an erection on most occasions",
+    "Trouble keeping an erection until sex is finished",
+    "Erections not firm enough for penetration",
+    "Lasting six months or more and causing distress",
+    "Often worry, avoidance of sex, or lower confidence"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Erectile problems are all in your head.",
+      "fact": "Most cases have a physical component, often blood flow or hormones, and anxiety adds to it. A medical check comes first."
+    },
+    {
+      "myth": "It's just a normal part of ageing you have to accept.",
+      "fact": "It gets more common with age, but it's treatable at any age, and it can flag heart or diabetes problems worth catching early."
+    },
+    {
+      "myth": "Pills are the only answer.",
+      "fact": "Medication helps many, but so do treating the cause, lifestyle changes, psychosexual therapy, and talking with a partner."
+    }
+  ],
+  "how_common": {
+    "plain": "About half of men aged 40 to 70 have some degree of erectile difficulty, by one large US study, and it becomes more common with age.",
+    "figure": "52% any degree of ED among men aged 40–70 (Massachusetts Male Aging Study); about 10% complete ED",
+    "source_ref": "src-mmas",
+    "note": "Older data (1987–89 baseline)."
+  },
+  "what_helps": {
+    "plain_summary": "A doctor checks for underlying causes: heart health, blood pressure, diabetes, hormones, and medications. Treatment often combines medication that improves blood flow, prescribed and monitored by a doctor, with lifestyle changes (exercise, less alcohol, stopping smoking) and psychosexual therapy for anxiety, confidence, and the relationship. Other medical options exist when tablets don't suit. Including a partner, where there is one, improves results.",
+    "evidence_based_options": [
+      "Medical assessment of heart, metabolic, and hormonal health",
+      "Medication to improve erections, prescribed and monitored by a doctor",
+      "Psychosexual therapy, individual or couple",
+      "Exercise, weight, alcohol, and smoking changes; other medical options via a specialist"
+    ],
+    "self_help_that_supports_care": [
+      "Seeing a doctor rather than buying unregulated products online",
+      "Taking the pressure off: intimacy that doesn't depend on an erection",
+      "Talking with your partner about it, if you have one",
+      "Cutting back alcohol and smoking; moving more"
+    ],
+    "guideline_refs": [
+      "src-mmas"
+    ]
+  },
+  "when_to_reach_out": "If erections are a problem most of the time for a few months, or it's affecting your confidence or relationship, see a doctor. Don't be embarrassed: it's one of the most common things they hear. See a doctor promptly if it comes with chest pain, breathlessness, or other new symptoms.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Difficulty only in certain situations usually points to anxiety rather than a physical cause, which is useful to know.",
+  "hope_note": "Erectile problems respond well to treatment. Most people find a combination that works and get their confidence back.",
+  "related_topics": [
+    "male-hypoactive-sexual-desire-disorder",
+    "premature-early-ejaculation",
+    "delayed-ejaculation",
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "alcohol-use-disorder"
+  ],
+  "glossary_terms": [
+    "gp-primary-care",
+    "side-effects",
+    "therapy",
+    "stress"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of two people sitting close on a sofa, one with a hand on the other's knee, mugs of tea, a cat on the armrest, warm lamplight. Pastel rose and sage.",
+    "alt_text": "Two people sit close together on a sofa with mugs of tea and a cat on the armrest."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-mmas",
+      "title": "Massachusetts Male Aging Study: prevalence of erectile dysfunction",
+      "publisher": "Journal of Urology (Feldman et al. 1994); longitudinal follow-up PubMed 10647654",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10647654/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 1994
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add a current urology guideline reference (AUA or EAU)."
+    ]
+  }
+}

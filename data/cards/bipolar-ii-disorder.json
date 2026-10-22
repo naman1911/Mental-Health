@@ -1,0 +1,162 @@
+{
+  "topic_id": "bipolar-ii-disorder",
+  "official_name": "Bipolar II Disorder",
+  "plain_title": "Deep lows with milder highs",
+  "also_known_as": [
+    "bipolar 2",
+    "bipolar type II"
+  ],
+  "chapter_id": "bipolar",
+  "card_type": "condition",
+  "icd10cm_code": "F31.81",
+  "language_convention": "person-first",
+  "one_liner": "Episodes of depression plus at least one hypomanic episode: a milder high that doesn't tip into mania.",
+  "in_simple_words": "Bipolar II involves the same deep depressions as bipolar I, but the highs are hypomania: several days of unusually high energy, confidence, and productivity, with less need for sleep, without the severe disruption or loss of reality of mania. Because hypomania can feel good, people often only seek help for the depression, so bipolar II is often mistaken for depression alone. That matters, because antidepressants on their own can make things worse. It responds well to the right treatment.",
+  "what_it_can_feel_like": [
+    "For a week I'd be brilliant: no sleep, ten projects, charming everyone. Then months in a hole.",
+    "Three doctors treated my depression. The fourth asked about the good weeks. That changed everything.",
+    "Now I know the signs. When I start needing less sleep, I call my team instead of booking flights."
+  ],
+  "common_signs": [
+    "Repeated episodes of depression, often long and severe",
+    "At least one hypomanic episode: days of high energy, fast thinking, little sleep, big confidence",
+    "Hypomania that's noticeable to others but doesn't wreck life or involve losing touch with reality",
+    "Irritability or restlessness during highs",
+    "Mood that cycles over weeks or months, not within a day"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Bipolar II is 'bipolar lite'.",
+      "fact": "The depressions in bipolar II are just as severe as in bipolar I and often last longer. The suicide risk is comparable. 'Milder' only describes the highs."
+    },
+    {
+      "myth": "If I've never been manic, I can't be bipolar.",
+      "fact": "Bipolar II is diagnosed by hypomania, which is milder and easy to miss. Many people with it have never been manic."
+    },
+    {
+      "myth": "Antidepressants are the main treatment.",
+      "fact": "Used alone, antidepressants can trigger hypomania or rapid cycling in bipolar II. Mood stabilizers or certain antipsychotics come first, prescribed and monitored by a doctor."
+    }
+  ],
+  "how_common": {
+    "plain": "Fewer than 1 in 100 people have bipolar II, though many more have milder patterns, and many people with it are misdiagnosed with depression for years.",
+    "figure": "Lifetime prevalence about 0.4% worldwide (World Mental Health Survey); all bipolar types combined about 2.8% past-year in US adults",
+    "source_ref": "src-nimh-stats",
+    "note": "Bipolar II-specific figure from Merikangas et al. 2011, needs direct verification."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is long-term and combines medication, prescribed and monitored by a doctor, with psychological support. For bipolar depression, certain mood stabilizers (such as lamotrigine or lithium) and some antipsychotics (such as quetiapine) are used; antidepressants are added only with a mood stabilizer, if at all. Psychoeducation, CBT, and therapy that keeps daily rhythms steady reduce relapses. Tracking mood and sleep lets people and their teams act early.",
+    "evidence_based_options": [
+      "Mood stabilizers or specific antipsychotics for bipolar depression and prevention, prescribed and monitored by a doctor",
+      "Psychoeducation, individual or in groups",
+      "CBT, interpersonal and social rhythm therapy, or family-focused therapy",
+      "Mood and sleep tracking with an agreed early-warning plan"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping sleep regular; lost sleep can tip into hypomania",
+      "Noticing personal early signs: talking faster, spending, big plans",
+      "Avoiding alcohol and drugs",
+      "Peer support with others who have bipolar II"
+    ],
+    "guideline_refs": [
+      "src-nice-cg185"
+    ]
+  },
+  "when_to_reach_out": "If you have had depressions and also periods of several days when you needed little sleep and felt unusually energetic or confident, tell a doctor about both, even if the highs felt good. If depression is deepening or you have thoughts of ending your life, use the crisis strip now.",
+  "is_not": "Ordinary good weeks, or feeling productive after a depression lifts, are not hypomania. Fast mood changes within hours or a day point to other conditions, such as borderline personality disorder or ADHD, which can also co-occur.",
+  "hope_note": "Once bipolar II is recognized, many people describe finally getting the right treatment and years of stability they'd stopped hoping for.",
+  "in_young_people": "Bipolar II often starts in the late teens or twenties, usually with depression first. Teens' hypomania can look like irritability, risk-taking, or a sudden burst of confidence. A family history of bipolar disorder is a reason to ask.",
+  "across_cultures": "Hypomania is easy to miss in any culture, and especially where high energy and productivity are prized. Families often notice the change before the person does; involving them in assessment, with consent, helps.",
+  "related_topics": [
+    "bipolar-i-disorder",
+    "cyclothymic-disorder",
+    "major-depressive-disorder",
+    "borderline-personality-disorder",
+    "adhd",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "hypomania",
+    "mania",
+    "euthymia",
+    "rapid-cycling",
+    "mood-stabilizer",
+    "antidepressant",
+    "psychoeducation"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicide risk comparable to bipolar I; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "bipolar",
+    "icon": "waves",
+    "illustration_prompt": "Soft line illustration of a person reading on a balcony at dusk with a mood journal open and a sleep tracker on the table, the sky shifting from gold to deep blue. Pastel teal and lavender.",
+    "alt_text": "A person reads on a balcony at dusk with a mood journal open and a sleep tracker on the table."
+  },
+  "communities": [
+    "reddit-r-bipolar",
+    "bipolar-uk-ecommunity",
+    "dbsa-online-support-groups",
+    "reddit-r-bipolarsos",
+    "ibpf-resources"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Bipolar and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Bipolar Disorder statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/bipolar-disorder",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg185",
+      "title": "Bipolar disorder: assessment and management (CG185)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg185",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2014,
+      "note": "Not opened; recommendations summarized from secondary sources."
+    },
+    {
+      "id": "src-merikangas-2011",
+      "title": "Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Survey Initiative",
+      "publisher": "Archives of General Psychiatry (Merikangas et al.)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21383262/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2011,
+      "note": "PubMed ID from memory; confirm."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Confirm bipolar II prevalence citation.",
+      "Clinician to check medication wording (lamotrigine, quetiapine) against CG185."
+    ]
+  }
+}

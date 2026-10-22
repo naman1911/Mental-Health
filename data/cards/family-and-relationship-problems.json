@@ -1,0 +1,116 @@
+{
+  "topic_id": "family-and-relationship-problems",
+  "official_name": "Family and Relationship Problems",
+  "plain_title": "When the people closest to you are the source of the strain",
+  "also_known_as": [
+    "relationship distress",
+    "parent-child relational problem",
+    "sibling relational problem",
+    "family conflict"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z62.x / Z63.x",
+  "language_convention": "person-first",
+  "one_liner": "Serious strain in a family or couple that affects wellbeing, recorded so it can be a focus of care.",
+  "in_simple_words": "Conflict, distance, or upheaval in close relationships is one of the most common reasons people struggle, and the DSM gives it codes so clinicians can make it a focus of care without calling anyone ill. It covers things like parent-child conflict, high-conflict separation, a partner's illness, a family member's substance use, sibling estrangement, and relationship distress between partners. These problems can cause or worsen depression and anxiety, and treating the relationship often helps more than treating one person alone.",
+  "what_it_can_feel_like": [
+    "Every holiday was a minefield. Family therapy didn't fix my parents. It gave me a way to be in the room without losing myself.",
+    "We weren't fighting about the dishes. We were fighting about being unseen. Couples therapy named it."
+  ],
+  "common_signs": [
+    "Ongoing conflict, coldness, or walking on eggshells at home",
+    "Stress, low mood, or anxiety that tracks what's happening in the relationship",
+    "Children caught in parental conflict or separation",
+    "A family member's illness, substance use, or behaviour dominating family life"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Family problems are private and should stay in the family.",
+      "fact": "Family and couples therapy exist because outside help works. Keeping it private is often what keeps it stuck."
+    },
+    {
+      "myth": "Couples therapy is for people about to break up.",
+      "fact": "It works best earlier, when both people still want to make things better. It also helps couples separate well when that's the right outcome."
+    }
+  ],
+  "how_common": {
+    "plain": "Relationship and family strain is among the most common things people bring to therapy. There's no single prevalence figure; it affects most families at some point.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Couples therapy (such as emotionally focused therapy or behavioural couples therapy) and family therapy have strong evidence for relationship distress and for child and teen problems that are tangled up with family dynamics. Parenting programmes help with parent-child conflict. Mediation and co-parenting support help families through separation. Individual therapy helps people set boundaries, grieve, or decide what they want. Where there's abuse, safety comes before any joint therapy.",
+    "evidence_based_options": [
+      "Couples therapy (emotionally focused therapy, behavioural couples therapy)",
+      "Family therapy and parenting programmes",
+      "Mediation and co-parenting support during separation",
+      "Individual therapy for boundaries, decisions, and recovery"
+    ],
+    "self_help_that_supports_care": [
+      "Parent and relationship helplines for a first conversation",
+      "Learning about boundaries and repair, from reputable sources",
+      "Keeping children out of adult conflict",
+      "Noticing whether it's conflict or control; control is a safety issue"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If relationship strain is affecting your mood, sleep, or health, or children are being hurt by conflict, a family or couples therapist, a parent helpline, or your doctor can help. If there's any violence, intimidation, or control, see the partner violence card and contact a domestic abuse service; joint therapy isn't safe in that situation.",
+  "is_not": "Ordinary disagreement isn't a relational problem. Abuse and coercive control are not 'relationship problems' and are covered on their own cards. A child's behaviour problem isn't automatically a family problem, though families are part of the solution.",
+  "hope_note": "Relationships change when one person changes how they show up. Families repair, couples reconnect, and people find peace even where repair isn't possible.",
+  "related_topics": [
+    "partner-violence-and-adult-abuse",
+    "child-abuse-and-neglect",
+    "oppositional-defiant-disorder",
+    "adjustment-disorders",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "family-therapy",
+    "boundaries",
+    "enmeshment",
+    "codependency",
+    "attachment"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a family of four around a kitchen table with a board game, a therapist's leaflet on the fridge, warm evening light. Pastel sky blue and apricot.",
+    "alt_text": "A family of four sits around a kitchen table playing a board game."
+  },
+  "communities": [
+    "family-lives-helpline",
+    "youngminds-parents-helpline",
+    "al-anon-electronic-meetings",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "in_young_people": "For children and teens, family conflict is one of the biggest drivers of anxiety and low mood. Keeping them out of adult arguments and giving them one steady adult to talk to protects them most."
+}

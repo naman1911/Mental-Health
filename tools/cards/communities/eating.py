@@ -1,0 +1,33 @@
+from helpers import D, NV, c
+COMMUNITIES = [
+ c("beat-uk-helpline-and-online-groups", "Beat (UK): helpline, web chat and online support groups", "web", "https://www.beateatingdisorders.org.uk/", "helpline",
+   ["adults", "teens", "students"], "people-with-experience", ["anorexia-nervosa", "bulimia-nervosa", "binge-eating-disorder", "avoidant-restrictive-food-intake-disorder"], "UK",
+   has_rules=True, mods=True, crisis=True, notes="UK eating disorder charity. Helpline 0808 801 0677 (adults), Youthline 0808 801 0711, Studentline 0808 801 0811 seen in directories; hours vary by source. Moderated online groups named after birds (Swan: anorexia; Kingfisher: bulimia; Nightingale: binge eating; Hummingbird: ARFID; Nest: any). No diagnosis needed.",
+   safety="Charity-run and moderated. Not an emergency service.", reviewer="Confirm numbers and hours on the official site; confirm group names still current."),
+ c("beat-uk-carers-peer-support", "Beat (UK): online peer support for carers", "video-meeting", "https://www.beateatingdisorders.org.uk/", "online-group-meeting",
+   ["adults"], "family-and-carers", ["anorexia-nervosa", "bulimia-nervosa", "binge-eating-disorder"], "UK",
+   has_rules=True, mods=True, notes="8-week online peer support groups for people supporting someone with anorexia, bulimia, binge eating disorder or OSFED; self-referral; seen on Beat's Scotland page.",
+   reviewer="Find the exact carers' page URL and current start dates."),
+ c("butterfly-foundation-helpline", "Butterfly National Helpline and online groups (Australia)", "phone", "https://butterfly.org.au/", "helpline",
+   ["adults", "teens", "young-people"], "both", ["anorexia-nervosa", "bulimia-nervosa", "binge-eating-disorder", "body-dysmorphic-disorder"], "Australia",
+   has_rules=True, mods=True, crisis=True, notes="Helpline 1800 33 4673, 8am–midnight AEST, 7 days, plus email and webchat; video peer support groups for people 18+ and their supporters; some programmes need GP referral; points to Lifeline 13 11 14 for emergencies.",
+   reviewer="Confirm hours and group pages on the official site."),
+ c("reddit-r-eatingdisorders", "r/EatingDisorders", "reddit", "https://www.reddit.com/r/EatingDisorders/", "subreddit", ["adults", "teens-16+"], "both",
+   ["anorexia-nervosa", "bulimia-nervosa", "binge-eating-disorder"], "global",
+   has_rules=True, mods=True, notes="Recovery-focused; wiki states pro-ED content leads to an immediate permanent ban. Member count not seen.",
+   safety="Recovery-focused but user-generated. Must be re-checked every 3 months for numbers, body talk, and pro-ED drift.",
+   reviewer="HIGH-SENSITIVITY: sample at least 20 recent posts for numbers or methods before approving."),
+ c("reddit-r-fuckeatingdisorders", "r/fuckeatingdisorders", "reddit", "https://www.reddit.com/r/fuckeatingdisorders/", "subreddit", ["adults", "teens-16+"], "people-with-experience",
+   ["anorexia-nervosa", "bulimia-nervosa", "binge-eating-disorder", "avoidant-restrictive-food-intake-disorder"], "global",
+   has_rules=True, mods=True, notes="Recovery-only community; mod post seen stating rule breaks lead to temporary or permanent bans. Known in the recovery community for strict no-numbers rules; not confirmed directly.",
+   safety="Recovery-only. Same 3-month re-check requirement as all eating-disorder communities.",
+   reviewer="HIGH-SENSITIVITY: read the full rules and sample recent posts before approving."),
+]
+COMMUNITIES += [
+ c("reddit-r-arfid", "r/ARFID", "reddit", "https://www.reddit.com/r/ARFID/", "subreddit", ["adults", "teens-16+", "parents"], "both",
+   ["avoidant-restrictive-food-intake-disorder"], "global", has_rules=True, mods=True, notes="Mod posts (July 2023) seen describing a rules revamp on food photos, advertising and treatment discussion, subtype flairs, and a flair for support people.",
+   safety="Eating-disorder community: 3-month re-check rule applies.", reviewer="HIGH-SENSITIVITY: read rules and sample recent posts."),
+ c("reddit-r-bingeeatingdisorder", "r/BingeEatingDisorder", "reddit", "https://www.reddit.com/r/BingeEatingDisorder/", "subreddit", ["adults", "teens-16+"], "people-with-experience",
+   ["binge-eating-disorder"], "global", members=112000, size_note="Directory listing figure.", notes="Rules not seen.",
+   safety="Eating-disorder community: 3-month re-check rule applies.", reviewer="HIGH-SENSITIVITY: read rules; check for diet promotion, numbers, or weight-loss content."),
+]

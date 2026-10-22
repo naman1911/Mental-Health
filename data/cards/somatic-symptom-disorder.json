@@ -1,0 +1,137 @@
+{
+  "topic_id": "somatic-symptom-disorder",
+  "official_name": "Somatic Symptom Disorder",
+  "plain_title": "Real symptoms, and a worry about them that takes over",
+  "also_known_as": [
+    "somatization (older term)",
+    "SSD"
+  ],
+  "chapter_id": "somatic",
+  "card_type": "condition",
+  "icd10cm_code": "F45.1",
+  "language_convention": "person-first",
+  "one_liner": "One or more distressing physical symptoms, plus excessive thoughts, worry, or time spent on them, lasting six months or more.",
+  "in_simple_words": "Somatic symptom disorder is not about imaginary symptoms. The pain, tiredness, dizziness, or stomach problems are real, whether or not tests explain them. What defines the disorder is the response: constant worry about the symptoms, thinking they're far more serious than doctors say, and life revolving around them, for six months or more. Mind and body are one system, and stress, trauma, and mood change how the body feels. Treatment addresses both, and it helps.",
+  "what_it_can_feel_like": [
+    "Eleven specialists, no diagnosis, and a GP who finally asked how I was coping instead of ordering another scan.",
+    "The pain was real. So was the fact that I'd stopped living while I waited for an answer.",
+    "CBT didn't make the symptoms vanish. It gave me my life back around them."
+  ],
+  "common_signs": [
+    "One or more physical symptoms that cause distress or disrupt daily life",
+    "Constant worry about the symptoms, or believing they're very serious",
+    "Lots of time and energy spent on symptoms or health concerns",
+    "Lasting six months or more, even if the specific symptom changes",
+    "Often many appointments and tests without relief",
+    "Frequently alongside anxiety, depression, or a past trauma"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It means the symptoms are all in your head.",
+      "fact": "The symptoms are real and felt in the body. The diagnosis is about the distress and preoccupation around them, which treatment can reduce."
+    },
+    {
+      "myth": "If a test is normal, there's nothing wrong.",
+      "fact": "Many real conditions have normal tests. Normal tests mean certain things are ruled out, not that nothing is happening."
+    },
+    {
+      "myth": "Seeing a therapist means the doctor has given up.",
+      "fact": "Mind-body treatment is the recommended care, often alongside medical management, because it's what works for this pattern."
+    }
+  ],
+  "how_common": {
+    "plain": "Somatic symptom disorder is common, affecting an estimated 4 to 6 in 100 adults, and a large share of people seen repeatedly in primary care.",
+    "figure": "Estimated 4%–6% of adults (DSM-5-TR text and secondary summaries); around 5–7% in some reviews",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The best approach is a steady relationship with one doctor who takes symptoms seriously, limits repeated tests, and schedules regular check-ins, combined with CBT or similar therapy focused on coping, reducing health worry, and getting back to activity. Treating depression and anxiety, often with an antidepressant prescribed and monitored by a doctor, improves symptoms too. Physiotherapy and graded activity help with pain and fatigue. Mindfulness-based approaches have some evidence.",
+    "evidence_based_options": [
+      "CBT for somatic symptoms and health anxiety",
+      "A consistent primary care doctor with scheduled reviews rather than crisis visits",
+      "Antidepressants for co-occurring depression, anxiety, or pain, prescribed and monitored by a doctor",
+      "Graded activity, physiotherapy, and mindfulness-based approaches"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping a symptom and stress diary to see links",
+      "Returning to valued activities gradually rather than waiting to feel well",
+      "Limiting online symptom searching",
+      "Peer support with others living with persistent symptoms"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "If physical symptoms and the worry about them have taken over your life for months, ask your doctor about a mind-body approach alongside medical care. Keep seeing one trusted doctor rather than many.",
+  "is_not": "Having a medical illness, even a serious one, isn't somatic symptom disorder unless the worry and preoccupation are excessive. Illness anxiety disorder is fear of illness with few or no symptoms. Functional neurological disorder involves specific nervous-system symptoms.",
+  "hope_note": "People with somatic symptom disorder often get their lives back long before their symptoms fully fade, and many symptoms ease once the fear around them does.",
+  "related_topics": [
+    "illness-anxiety-disorder",
+    "functional-neurological-symptom-disorder",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder",
+    "psychological-factors-affecting-other-medical-conditions"
+  ],
+  "glossary_terms": [
+    "somatic-symptoms",
+    "all-in-your-head",
+    "catastrophizing",
+    "cbt",
+    "mindfulness"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "somatic",
+    "icon": "activity",
+    "illustration_prompt": "Soft line illustration of a person walking a gentle path with a walking pole, a doctor's appointment card in their pocket, and a friend alongside, trees and light. Pastel terracotta and sage.",
+    "alt_text": "A person walks a gentle path with a walking pole alongside a friend under trees."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "adaa-online-support-group",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Somatic Symptom and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng193",
+      "title": "Chronic pain (primary and secondary) in over 16s: assessment and management (NG193)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng193",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2021,
+      "note": "Not opened; relevant for persistent pain."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  },
+  "across_cultures": "In many cultures, distress is expressed through the body first, and physical symptoms are the normal language of suffering. This is not a disorder in itself. Clinicians are advised to understand the person's own explanation for symptoms."
+}

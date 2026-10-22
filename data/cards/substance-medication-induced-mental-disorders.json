@@ -1,0 +1,146 @@
+{
+  "topic_id": "substance-medication-induced-mental-disorders",
+  "official_name": "Substance/Medication-Induced Mental Disorders (explainer)",
+  "plain_title": "When a substance or medicine causes the symptoms",
+  "also_known_as": [
+    "drug-induced psychosis",
+    "alcohol-induced depression",
+    "medication-induced anxiety"
+  ],
+  "chapter_id": "substance",
+  "card_type": "explainer",
+  "icd10cm_code": "varies by substance and disorder",
+  "language_convention": "person-first",
+  "one_liner": "Depression, anxiety, psychosis, mania, sleep, or sexual problems caused directly by a substance or a medicine.",
+  "in_simple_words": "Sometimes mental health symptoms are caused by a substance, during intoxication or withdrawal, or by a prescribed medicine. Heavy drinking can cause depression; stimulants or cannabis can cause psychosis; steroids can cause mania; some medicines cause anxiety or sleep problems. The DSM has a 'substance/medication-induced' version of most disorders. The key sign is timing: symptoms start with use and usually fade within a month of stopping. Treatment focuses on stopping or changing the substance, with support for the symptoms meanwhile.",
+  "what_it_can_feel_like": [
+    "The paranoia started after a weekend of heavy use and faded in two weeks. The doctor called it substance-induced. That mattered for what came next.",
+    "I was told I had depression. It was the drinking. Three months sober and it lifted.",
+    "A steroid prescription turned my husband into someone I didn't know for a month."
+  ],
+  "common_signs": [
+    "Symptoms that start during or soon after using a substance or starting a medicine",
+    "Symptoms that are more than the usual effects of the substance",
+    "Symptoms fading within about a month of stopping",
+    "No history of the same symptoms before the substance",
+    "Any disorder: depression, anxiety, psychosis, mania, sleep, sexual, or thinking problems"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If a drug caused the psychosis, it isn't real psychosis.",
+      "fact": "The symptoms are just as real and need care. 'Induced' tells you about the cause, not the seriousness."
+    },
+    {
+      "myth": "Substance-induced means it will always go away on its own.",
+      "fact": "Most cases improve with abstinence, but some, especially psychosis after heavy stimulant or cannabis use, continue and become a primary disorder. Follow-up matters."
+    },
+    {
+      "myth": "Prescribed medicines can't cause mental health symptoms.",
+      "fact": "Several can, including steroids, some heart and asthma medicines, and others. Tell your doctor about new symptoms after starting a medicine."
+    }
+  ],
+  "how_common": {
+    "plain": "Substance-induced disorders are common in emergency and addiction settings. Exact rates depend on the substance and the symptom.",
+    "figure": "No single figure; the DSM-5-TR gives rates by substance and disorder",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "The main treatment is stopping, reducing, or changing the substance or medicine, safely and with medical advice. Symptoms are supported meanwhile: a safe setting and sometimes short-term medication for psychosis or severe agitation, prescribed and monitored by a doctor. If symptoms don't fade within a month of stopping, the diagnosis is reviewed and treated as a primary disorder. Treatment for the substance use disorder, if there is one, prevents it happening again.",
+    "evidence_based_options": [
+      "Stopping or changing the substance or medicine, with medical guidance",
+      "Short-term symptom treatment where needed, prescribed and monitored by a doctor",
+      "Reassessment if symptoms persist beyond a month",
+      "Treatment for any underlying substance use disorder"
+    ],
+    "self_help_that_supports_care": [
+      "Telling clinicians honestly what you've taken, including prescribed and over-the-counter medicines",
+      "Not stopping a prescribed medicine suddenly without advice",
+      "Avoiding the substance while recovering",
+      "Follow-up even when symptoms have gone"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "If mental health symptoms started after using a substance or starting a medicine, tell a doctor and say exactly what you've taken. Get urgent help for psychosis, severe agitation, confusion, or thoughts of ending your life.",
+  "is_not": "The ordinary effects of a substance (being drunk, being high) aren't an induced disorder; it's when the symptoms go beyond that. Symptoms that were present before the substance, or that last long after stopping, point to a primary disorder.",
+  "hope_note": "When the cause is a substance, stopping it often brings recovery faster than people expect.",
+  "sub_sections": [
+    {
+      "title": "Which disorders have an induced version",
+      "text": "Psychotic, bipolar, depressive, anxiety, obsessive-compulsive, sleep, sexual dysfunction, delirium, and neurocognitive disorders. Each is coded under the substance involved."
+    },
+    {
+      "title": "Common culprits",
+      "text": "Alcohol (depression, anxiety, psychosis, memory problems), stimulants and cannabis (psychosis, anxiety), steroids (mania, depression), sedatives and opioids (depression, delirium in withdrawal), and some prescribed medicines."
+    }
+  ],
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "understanding-psychosis",
+    "major-depressive-disorder",
+    "bipolar-i-disorder",
+    "delirium",
+    "mental-disorders-due-to-another-medical-condition",
+    "medication-induced-movement-disorders"
+  ],
+  "glossary_terms": [
+    "intoxication",
+    "withdrawal",
+    "psychosis",
+    "differential-diagnosis",
+    "side-effects"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a doctor and a person reviewing a short list together on a clipboard, a calendar with a month marked, calm consulting room. Pastel navy and sage. No pills visible.",
+    "alt_text": "A doctor and a person review a short list on a clipboard beside a calendar with a month marked."
+  },
+  "communities": [
+    "samhsa-national-helpline",
+    "frank-uk",
+    "smart-recovery-meetings"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nida-addiction",
+      "title": "Drugs, Brains, and Behavior: The Science of Addiction",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Clinician to review the 'one month' framing and the list of culprits."
+    ]
+  }
+}

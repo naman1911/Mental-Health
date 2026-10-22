@@ -1,0 +1,146 @@
+{
+  "topic_id": "dependent-personality-disorder",
+  "official_name": "Dependent Personality Disorder",
+  "plain_title": "Needing others to decide, fearing coping alone",
+  "also_known_as": [
+    "DPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.7",
+  "language_convention": "person-first",
+  "one_liner": "Needing to be looked after, going along with others, a deep fear of being left, and trouble deciding alone.",
+  "in_simple_words": "Dependent personality disorder is a long-standing pattern of feeling unable to cope alone. People with it struggle to make everyday decisions without lots of advice, let others take responsibility for major areas of their life, find it hard to disagree for fear of losing support, go to great lengths to get care, and feel helpless when alone. When a relationship ends they urgently seek another. It often follows a childhood where independence was discouraged or unsafe, and it is treatable.",
+  "what_it_can_feel_like": [
+    "I couldn't order at a restaurant without checking what my husband thought. When he left, I didn't know who I was.",
+    "I stayed in a bad relationship for a decade because being alone felt impossible.",
+    "Therapy was the first place I made a decision and nobody told me I'd got it wrong."
+  ],
+  "common_signs": [
+    "Trouble making everyday decisions without lots of advice and reassurance",
+    "Needing others to take responsibility for major areas of life",
+    "Hard to disagree with others for fear of losing their support",
+    "Feeling helpless or uncomfortable alone",
+    "Urgently seeking a new relationship when one ends",
+    "Going to great lengths to get care and support"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Dependent people are just weak or lazy.",
+      "fact": "The pattern is driven by fear and a learned belief in one's own incompetence, often from early experiences. It's painful, not comfortable."
+    },
+    {
+      "myth": "It's only a problem for women.",
+      "fact": "It's diagnosed more in women, but men have it too, and gender roles shape how it's noticed."
+    },
+    {
+      "myth": "Leaving the relationship fixes it.",
+      "fact": "Without therapy, the pattern repeats in the next relationship. The work is on the belief about coping alone."
+    }
+  ],
+  "how_common": {
+    "plain": "Dependent personality disorder is uncommon. It affects well under 1 in 100 adults, by US survey estimates.",
+    "figure": "About 0.5% of US adults (NESARC 2001–02, roughly 1 million)",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Talk therapy is the treatment. CBT and schema approaches build confidence in deciding things, speaking up, and being alone. Psychodynamic work looks at where the pattern came from. Therapists take care not to become the new person the client leans on. Anxiety or depression alongside it may be treated with medication, prescribed and monitored by a doctor. Progress comes from practising independence in small steps.",
+    "evidence_based_options": [
+      "CBT and assertiveness training",
+      "Schema therapy or psychodynamic therapy",
+      "Graded practice of independent decisions",
+      "Treatment of co-occurring anxiety or depression"
+    ],
+    "self_help_that_supports_care": [
+      "Making one small decision a day without asking anyone",
+      "Spending planned short periods alone and noticing you cope",
+      "Saying a small 'no' or 'I disagree' and surviving it",
+      "Support groups for people leaving controlling relationships, where relevant"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If you can't make decisions or be alone without intense anxiety, or you've stayed in harmful relationships because leaving felt impossible, a therapist can help. If you're in an abusive relationship, domestic abuse services can help you plan safely.",
+  "is_not": "Depending on others during illness, disability, or crisis is normal. Cultures that value interdependence aren't disordered. The diagnosis needs fear and submission that cause harm across life.",
+  "hope_note": "People with dependent patterns discover, decision by decision, that they can run their own lives, and often that they're good at it.",
+  "related_topics": [
+    "about-personality-disorders",
+    "avoidant-personality-disorder",
+    "borderline-personality-disorder",
+    "separation-anxiety-disorder",
+    "partner-violence-and-adult-abuse"
+  ],
+  "glossary_terms": [
+    "people-pleasing",
+    "codependency",
+    "attachment",
+    "boundaries",
+    "schema-therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster C.",
+      "Links to domestic abuse resources because of vulnerability to controlling relationships."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person studying a train timetable alone at a station, ticket in hand, a small confident smile, morning light. Pastel plum and sky blue.",
+    "alt_text": "A person studies a train timetable alone at a station, ticket in hand, with a small confident smile."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk."
+    ]
+  },
+  "across_cultures": "In cultures where decisions are made by family and interdependence is valued, deference isn't a disorder. The diagnosis applies only when the pattern causes distress or harm within the person's own context."
+}

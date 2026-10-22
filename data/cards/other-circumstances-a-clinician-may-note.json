@@ -1,0 +1,115 @@
+{
+  "topic_id": "other-circumstances-a-clinician-may-note",
+  "official_name": "Other Circumstances a Clinician May Note",
+  "plain_title": "Caregiving, life transitions, faith, and other Z-codes",
+  "also_known_as": [
+    "Z-codes",
+    "V-codes",
+    "psychosocial and contextual factors"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "varies",
+  "language_convention": "person-first",
+  "one_liner": "A catch-all for life situations a clinician may note: caring for someone, big life changes, faith struggles, lifestyle.",
+  "in_simple_words": "The DSM's last section lists dozens of life situations that aren't disorders but matter to care. They include caring for someone who is ill, a big life change such as retiring or leaving home, struggles with faith, lifestyle problems, wandering in dementia, and a past of self-harm or a suicide attempt. There are codes for borderline intellectual functioning and more. These codes tell the story around the symptoms. Sometimes the story is the whole point.",
+  "what_it_can_feel_like": [
+    "Caring for my husband with dementia was the hardest job I've ever had, and nobody asked how I was doing until a nurse wrote 'carer strain' in his notes.",
+    "Leaving my faith community cost me every friend I had. My therapist treated it as the loss it was."
+  ],
+  "common_signs": [
+    "Exhaustion or low mood from caring for someone who's ill",
+    "Distress around a life transition: leaving home, retirement, empty nest, a diagnosis",
+    "Religious or spiritual struggle, loss of faith, or conflict with a community",
+    "A history of self-harm or a suicide attempt that shapes current care",
+    "Lifestyle factors like sleep, activity, or substance use affecting health"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If it's not a disorder, it's not something to bring to a clinician.",
+      "fact": "These circumstances are listed precisely so clinicians address them. Carer strain, spiritual struggle, and life transitions are common reasons people need support."
+    },
+    {
+      "myth": "Carers should cope; it's just what family does.",
+      "fact": "Carers have high rates of depression and burnout. Carer assessments, respite, and support groups exist and improve outcomes for both people."
+    }
+  ],
+  "how_common": {
+    "plain": "These circumstances are common; for example, a large share of adults in every country covered are unpaid carers at some point. No single figure applies.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Support matches the situation. Carers can get a carer's assessment, breaks, and carer groups. Big life changes respond to talk therapy. Faith struggles may be helped by a therapist who works with faith, or a chaplain, if wanted. A past of self-harm or attempts calls for a safety plan and follow-up. Lifestyle help covers sleep, movement, and drink or drugs. These things are recorded so they become part of the plan.",
+    "evidence_based_options": [
+      "Carer assessments, respite care, and carer support groups",
+      "Therapy for life transitions, role loss, and identity change",
+      "Spiritually integrated therapy or pastoral support where wanted",
+      "Follow-up and safety planning after self-harm or a suicide attempt"
+    ],
+    "self_help_that_supports_care": [
+      "Asking to be assessed as a carer in your own right",
+      "Naming the transition you're in; it helps to know it's a thing",
+      "Finding others in the same situation: carers, people leaving a faith, new retirees",
+      "Telling your clinician about history that matters, even if it's old"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If caring, a life change, a spiritual crisis, or your own history is weighing on you, raise it with a doctor or therapist; it belongs in your care plan. Carer and specialist helplines exist. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Everyday life changes and ordinary doubt aren't clinical. They become a focus of care when they're causing distress or shaping treatment.",
+  "hope_note": "Carers get rest, people find their way through transitions, and the circumstances that once felt like the whole story become one chapter.",
+  "related_topics": [
+    "grief-and-bereavement",
+    "adjustment-disorders",
+    "major-and-mild-neurocognitive-disorder",
+    "suicidal-thoughts-and-behavior",
+    "nonsuicidal-self-injury"
+  ],
+  "glossary_terms": [
+    "carer-rights",
+    "resilience",
+    "wellbeing",
+    "self-care",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a carer sitting in a garden with a cup of tea while a visiting nurse chats with an older relative inside, afternoon light. Pastel sky blue and lilac.",
+    "alt_text": "A carer rests in a garden with tea while a nurse chats with an older relative inside."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "mind-side-by-side",
+    "nami-connection-and-helpline",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

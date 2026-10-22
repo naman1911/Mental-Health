@@ -1,0 +1,165 @@
+{
+  "topic_id": "borderline-personality-disorder",
+  "official_name": "Borderline Personality Disorder",
+  "plain_title": "Intense feelings, unstable relationships, shaky self",
+  "also_known_as": [
+    "BPD",
+    "emotionally unstable personality disorder (ICD-10 term)",
+    "EUPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.3",
+  "language_convention": "person-first",
+  "one_liner": "Intense, fast-changing emotions, fear of abandonment, unstable relationships, impulsive actions, and an unsure sense of self.",
+  "in_simple_words": "Borderline personality disorder is a condition of emotional intensity. Feelings come fast, hit hard, and take a long time to settle. Relationships swing between closeness and conflict, driven by deep fear of abandonment. The sense of self can feel unstable or empty. Many people self-harm or feel suicidal when overwhelmed. It usually follows early trauma or invalidation, though not always. It carries heavy stigma, and it is one of the most treatable personality disorders, with several therapies that work.",
+  "what_it_can_feel_like": [
+    "My emotions are a radio with the volume stuck on full. Everyone else seems to have a dial.",
+    "I'd push people away to test whether they'd stay. Then hate myself when they left.",
+    "DBT gave me the dial. I still feel everything. I'm not drowning in it any more."
+  ],
+  "common_signs": [
+    "Intense emotions that shift quickly and are hard to settle",
+    "Frantic efforts to avoid real or imagined abandonment",
+    "Relationships that swing between idealizing and devaluing people",
+    "An unstable or empty sense of self",
+    "Impulsive actions when upset, or self-harm and suicidal feelings",
+    "Intense anger, or feeling unreal or paranoid under stress"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People with BPD are manipulative and attention-seeking.",
+      "fact": "Behaviour that looks that way is usually a desperate attempt to manage unbearable feelings or fear of abandonment. This stigma keeps people from care."
+    },
+    {
+      "myth": "BPD is untreatable and lifelong.",
+      "fact": "Several therapies have strong evidence, and most people no longer meet criteria within ten years. Remission is the norm, not the exception."
+    },
+    {
+      "myth": "BPD is just a label for difficult women.",
+      "fact": "Men have BPD at similar rates but are diagnosed less often. The diagnosis has been misused, which is why careful assessment matters."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 or 2 in 100 adults have borderline personality disorder in a given year, with higher rates among people in mental health services.",
+    "figure": "1.4% past-year prevalence among US adults (NCS-R)",
+    "source_ref": "src-nimh-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Structured psychological therapy is the treatment: dialectical behaviour therapy (DBT), mentalization-based treatment (MBT), schema therapy, and transference-focused therapy all have evidence. They teach skills for managing emotions and relationships and work on the patterns underneath. Medication is not a treatment for BPD itself, though it may be used short-term or for co-occurring conditions, prescribed and monitored by a doctor. A crisis plan, continuity of care, and being treated with respect are essential.",
+    "evidence_based_options": [
+      "Dialectical behaviour therapy (DBT), usually a year or more with group and individual sessions",
+      "Mentalization-based treatment (MBT) or schema therapy",
+      "A written crisis plan and consistent care team",
+      "Treatment for co-occurring depression, PTSD, or substance use"
+    ],
+    "self_help_that_supports_care": [
+      "DBT skills workbooks and apps, ideally alongside therapy",
+      "Naming the emotion and its intensity out of ten before acting",
+      "Delaying impulsive actions by a set time",
+      "Peer support from others with BPD, where shame drops away"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If intense emotions, unstable relationships, and fear of abandonment keep leading to crises or self-harm, ask a doctor or mental health service for an assessment and for therapy designed for BPD. If you're having thoughts of ending your life, use the crisis strip now.",
+  "is_not": "Strong emotions in your teens, mood swings in a stressful time, or being hurt by a breakup aren't BPD. Bipolar disorder involves mood episodes lasting days to weeks, not hours. Complex PTSD and ADHD overlap with BPD and are often confused with it.",
+  "hope_note": "Most people with BPD get much better, and many say the sensitivity that once hurt them became their greatest strength in relationships and work.",
+  "related_topics": [
+    "about-personality-disorders",
+    "posttraumatic-stress-disorder",
+    "nonsuicidal-self-injury",
+    "major-depressive-disorder",
+    "bipolar-ii-disorder",
+    "adhd",
+    "child-abuse-and-neglect"
+  ],
+  "glossary_terms": [
+    "emotional-dysregulation",
+    "splitting",
+    "identity-disturbance",
+    "dbt",
+    "mbt",
+    "schema-therapy",
+    "crisis-plan",
+    "manipulative-label",
+    "stigma"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster B.",
+      "Self-harm and suicide risk; crisis strip required; no methods."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person on a jetty at sunset with a friend, feet in the water, a notebook of DBT skills open between them, calm lake. Pastel plum and amber.",
+    "alt_text": "Two people sit on a jetty at sunset with their feet in the water and a notebook open between them."
+  },
+  "communities": [
+    "nea-bpd-family-connections",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-pd",
+      "title": "Personality Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/personality-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    },
+    {
+      "id": "src-neabpd",
+      "title": "National Education Alliance for Borderline Personality Disorder: Family Connections",
+      "publisher": "NEA-BPD",
+      "url": "https://www.borderlinepersonalitydisorder.org/family-connections/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Brochure URL seen; programme page from memory."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Add a verified peer community for people with BPD (r/BPD, Emotions Matter) once rules are read."
+    ]
+  },
+  "in_young_people": "BPD can be diagnosed in adolescence when the pattern is clear and lasting, and early DBT-based treatment works well. Many clinicians prefer to treat the difficulties without the label in teens.",
+  "across_cultures": "Diagnosis rates vary widely by country and are higher among women, people in poverty, and people with trauma histories. Some cultures express emotional pain through the body or through family conflict rather than self-harm."
+}

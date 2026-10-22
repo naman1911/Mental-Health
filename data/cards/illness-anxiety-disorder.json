@@ -1,0 +1,136 @@
+{
+  "topic_id": "illness-anxiety-disorder",
+  "official_name": "Illness Anxiety Disorder",
+  "plain_title": "Constant fear of having a serious illness",
+  "also_known_as": [
+    "health anxiety",
+    "hypochondriasis (outdated)"
+  ],
+  "chapter_id": "somatic",
+  "card_type": "condition",
+  "icd10cm_code": "F45.21",
+  "language_convention": "person-first",
+  "one_liner": "Being preoccupied with having or getting a serious illness despite few symptoms, either checking constantly or avoiding care.",
+  "in_simple_words": "Illness anxiety disorder is intense, lasting fear of having or developing a serious illness, when there are few or no physical symptoms, or only mild ones. The person checks their body, researches symptoms, seeks repeated reassurance and tests, or, in the other pattern, avoids doctors entirely out of fear. Reassurance helps for a moment and then the fear returns. It's exhausting, it's very common, and it responds well to CBT.",
+  "what_it_can_feel_like": [
+    "Every headache was a tumour. Every ache was the start of something. I had more scans than my grandmother.",
+    "The relief after a normal test lasted about a day. Then I'd find a new symptom.",
+    "Therapy taught me that checking was the problem, not the solution."
+  ],
+  "common_signs": [
+    "Preoccupation with having or getting a serious illness",
+    "Few or mild physical symptoms, or none",
+    "High anxiety about health; easily alarmed by bodily sensations",
+    "Repeatedly checking the body, researching, or seeking reassurance",
+    "Or: avoiding doctors and hospitals out of fear",
+    "Lasting six months or more, even if the feared illness changes"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Hypochondriacs just want attention.",
+      "fact": "The fear is genuine and distressing. Many people with health anxiety are ashamed of it and hide it."
+    },
+    {
+      "myth": "One more test will settle it.",
+      "fact": "Reassurance and testing feed the cycle. Learning to tolerate uncertainty is what ends it."
+    },
+    {
+      "myth": "It's harmless worrying.",
+      "fact": "Untreated health anxiety damages quality of life, relationships, and finances, and can delay care for real problems."
+    }
+  ],
+  "how_common": {
+    "plain": "Health anxiety affects somewhere between 1 and 5 in 100 adults, with higher rates in people attending medical clinics.",
+    "figure": "Estimates range from 1.3% to 10% in the general population; around 3%–8% in medical outpatient settings (DSM-5-TR text and reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "CBT for health anxiety is the first-line treatment, with strong evidence: it works on the beliefs about symptoms, reduces checking and reassurance-seeking, and builds tolerance of uncertainty. Internet-delivered CBT is effective too. Antidepressants (SSRIs), prescribed and monitored by a doctor, help many people, especially where there's depression. A steady relationship with one doctor who agrees a plan for tests and reviews helps.",
+    "evidence_based_options": [
+      "CBT for health anxiety, in person or online",
+      "SSRI antidepressants, prescribed and monitored by a doctor",
+      "An agreed plan with one doctor for check-ups and tests",
+      "Mindfulness-based approaches as an addition"
+    ],
+    "self_help_that_supports_care": [
+      "Stopping symptom searching and body checking, gradually",
+      "Asking loved ones to stop giving reassurance, by agreement",
+      "Noticing anxiety's own body symptoms: racing heart, tingling, dizziness",
+      "Scheduled 'worry time' instead of all-day worry"
+    ],
+    "guideline_refs": [
+      "src-nice-cg113"
+    ]
+  },
+  "when_to_reach_out": "If fear of illness is taking up hours of your day, driving repeated tests, or keeping you away from doctors, ask for CBT for health anxiety. Keep one doctor for real medical questions, and let them know about the anxiety too.",
+  "is_not": "Sensible attention to health, worry while awaiting results, or anxiety with a real diagnosis are not the disorder. Somatic symptom disorder involves significant symptoms; illness anxiety involves few or none. Fear of contamination with rituals is more likely OCD.",
+  "hope_note": "Health anxiety has one of the best responses to CBT of any condition. People who checked their bodies hourly learn to live without the dread.",
+  "related_topics": [
+    "somatic-symptom-disorder",
+    "generalized-anxiety-disorder",
+    "obsessive-compulsive-disorder",
+    "panic-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "catastrophizing",
+    "intrusive-thoughts",
+    "cbt",
+    "ssri",
+    "rumination"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "somatic",
+    "icon": "activity",
+    "illustration_prompt": "Soft line illustration of a person closing a laptop and going out to meet friends at a market, a phone with a 'worry time 6pm' reminder on the table. Pastel terracotta and sky blue.",
+    "alt_text": "A person closes a laptop and heads out to meet friends at a market, a reminder note on the table."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "adaa-online-support-group",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Somatic Symptom and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg113",
+      "title": "Generalised anxiety disorder and panic disorder in adults (CG113)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg113",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2011,
+      "note": "Health anxiety is often treated under anxiety pathways; CBT-HA evidence from trials such as CHAMP (Tyrer et al.)."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add CHAMP trial citation and a primary prevalence source.",
+      "Verify a health-anxiety peer community (r/HealthAnxiety, No More Panic)."
+    ]
+  }
+}

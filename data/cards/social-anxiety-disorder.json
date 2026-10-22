@@ -1,0 +1,159 @@
+{
+  "topic_id": "social-anxiety-disorder",
+  "official_name": "Social Anxiety Disorder",
+  "plain_title": "When being seen feels dangerous",
+  "also_known_as": [
+    "social phobia",
+    "SAD (confusingly, also used for seasonal affective disorder)"
+  ],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F40.10",
+  "language_convention": "person-first",
+  "one_liner": "Intense fear of being judged, embarrassed, or rejected in social situations, strong enough to limit life.",
+  "in_simple_words": "Everyone feels nervous sometimes about speaking up or meeting new people. Social anxiety disorder is when that fear is so strong and constant that it stops you doing things you want or need to do: talking in class, eating in public, making calls, dating, job interviews. The fear is of being judged and found wanting. The person usually knows it's out of proportion but can't switch it off. It's very common and very treatable.",
+  "what_it_can_feel_like": [
+    "I rehearse every sentence before I say it, then replay it for days afterwards.",
+    "People think I'm stuck-up. I'm actually terrified.",
+    "Therapy didn't make me an extrovert. It made the fear small enough to live around."
+  ],
+  "common_signs": [
+    "Strong fear of situations where you might be watched or judged",
+    "Worrying for days before, and replaying afterwards",
+    "Blushing, shaking, sweating, or a racing heart around people",
+    "Avoiding speaking up, eating in public, phone calls, or meeting new people",
+    "Fear that others will see your anxiety and think less of you",
+    "Lasting six months or more and getting in the way of life"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just shyness.",
+      "fact": "Shyness is a normal trait. Social anxiety disorder causes real distress and stops people living the life they want."
+    },
+    {
+      "myth": "Pushing people into social situations cures it.",
+      "fact": "Unplanned 'throwing in the deep end' usually makes fear worse. Planned, gradual practice with new ways of thinking is what works."
+    },
+    {
+      "myth": "Alcohol helps social anxiety.",
+      "fact": "It takes the edge off for an evening and feeds the anxiety long-term. Many people with social anxiety develop drinking problems this way."
+    }
+  ],
+  "how_common": {
+    "plain": "About 7 in 100 US adults have social anxiety disorder in a given year. It usually starts in the early teens.",
+    "figure": "7.1% past-year prevalence among US adults (8.0% women, 6.1% men), NCS-R 2001–2003",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "Individual CBT designed specifically for social anxiety is the first-choice treatment, with strong evidence. It targets the self-focused attention, safety behaviours, and harsh self-judgement that keep the fear going, and includes practising feared situations. Antidepressants (SSRIs), prescribed and monitored by a doctor, are an option if therapy isn't available or isn't enough. Group CBT and parent-supported CBT help young people.",
+    "evidence_based_options": [
+      "Individual CBT built for social anxiety disorder",
+      "CBT-based supported self-help as an alternative",
+      "SSRI antidepressants, prescribed and monitored by a doctor",
+      "Group CBT for teenagers; parent-delivered CBT for younger children"
+    ],
+    "self_help_that_supports_care": [
+      "Shifting attention outward, onto the conversation, not onto yourself",
+      "Dropping one safety behaviour at a time, like avoiding eye contact",
+      "Small planned social experiments, repeated",
+      "Noticing that other people are mostly thinking about themselves"
+    ],
+    "guideline_refs": [
+      "src-nice-cg159"
+    ]
+  },
+  "when_to_reach_out": "If fear of being judged is stopping you from school, work, friendships, or everyday tasks, and has for months, talk to a doctor or therapist. You can ask for online or written first contact if phone calls are too hard.",
+  "is_not": "Being introverted, reserved, or simply preferring small groups is not a disorder. Nervousness before a performance that doesn't take over life is normal. Fear of all situations with people, from birth, with sensory and communication differences, may point to autism, which can also co-occur.",
+  "hope_note": "Social anxiety disorder has excellent treatment outcomes. People who thought they'd never give a talk or go on a date do both.",
+  "in_young_people": "Social anxiety usually starts around 13. Teens may refuse school, avoid presentations, or seem rude or withdrawn. Group CBT for teens and parent-supported CBT for children have good evidence. Early treatment prevents years of missed experiences.",
+  "across_cultures": "What counts as embarrassing differs by culture. In Japan and Korea, a related pattern called taijin kyofusho centres on fear of offending others rather than embarrassing oneself. In cultures that prize modesty, social anxiety can be mistaken for good manners.",
+  "related_topics": [
+    "avoidant-personality-disorder",
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "selective-mutism",
+    "autism-spectrum-disorder",
+    "taijin-kyofusho",
+    "alcohol-use-disorder"
+  ],
+  "glossary_terms": [
+    "shyness-vs-social-anxiety",
+    "avoidance",
+    "cbt",
+    "exposure-therapy",
+    "ssri",
+    "inner-critic",
+    "people-pleasing"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a person at a café table mid-conversation with a friend, both relaxed, a spotlight-shaped patch of sunlight on the floor that nobody is looking at. Pastel blue and warm cream.",
+    "alt_text": "Two friends talk at a café table in relaxed poses, with a patch of sunlight on the floor beside them."
+  },
+  "communities": [
+    "reddit-r-socialanxiety",
+    "adaa-online-support-group",
+    "anxiety-uk-peer-support-groups",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Social Anxiety Disorder statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/social-anxiety-disorder",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg159",
+      "title": "Social anxiety disorder: recognition, assessment and treatment (CG159)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg159",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2013
+    },
+    {
+      "id": "src-nhs",
+      "title": "NHS mental health conditions page",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NHS page; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm which SSRIs CG159 names (sources conflicted)."
+    ]
+  }
+}

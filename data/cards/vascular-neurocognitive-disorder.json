@@ -1,0 +1,144 @@
+{
+  "topic_id": "vascular-neurocognitive-disorder",
+  "official_name": "Vascular Neurocognitive Disorder",
+  "plain_title": "Dementia caused by problems with blood flow to the brain",
+  "also_known_as": [
+    "vascular dementia",
+    "multi-infarct dementia",
+    "post-stroke dementia"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "F01.5x / F01.A–C (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "A decline in thinking caused by damage to the brain's blood supply, from strokes or disease of small blood vessels.",
+  "in_simple_words": "Vascular neurocognitive disorder happens when reduced blood flow damages brain tissue, through strokes, mini-strokes, or disease of the small vessels deep in the brain. Thinking problems often involve slowed thinking, trouble planning and organizing, and difficulty with attention, sometimes more than memory. It may start suddenly after a stroke or build gradually, often in steps. It's the second most common cause of dementia and shares risk factors with heart disease, so managing blood pressure, diabetes, and smoking matters.",
+  "what_it_can_feel_like": [
+    "After the stroke, Mum's memory was okay but she couldn't plan a meal any more. The neurologist explained it was vascular.",
+    "He's had three small strokes. Each one took something. Keeping his blood pressure down is the fight now.",
+    "The stroke support group understands this version of dementia better than anyone."
+  ],
+  "common_signs": [
+    "Slowed thinking, trouble planning, organizing, or concentrating",
+    "Memory problems, often less prominent than in Alzheimer's",
+    "Onset after a stroke, or gradual, stepwise worsening",
+    "Walking difficulties, unsteadiness, or bladder problems",
+    "Mood changes, apathy, or emotional swings",
+    "History of strokes, high blood pressure, diabetes, or heart disease"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just Alzheimer's by another name.",
+      "fact": "The cause and pattern differ, and vascular dementia often progresses in steps. Many people have both, called mixed dementia."
+    },
+    {
+      "myth": "Once it starts, nothing slows it.",
+      "fact": "Controlling blood pressure, diabetes, cholesterol, and smoking, and preventing further strokes, can slow or stall progression."
+    },
+    {
+      "myth": "Memory loss is the main sign.",
+      "fact": "Slowed thinking and trouble planning are often the first and biggest problems."
+    }
+  ],
+  "how_common": {
+    "plain": "Vascular disease causes or contributes to around 1 in 5 cases of dementia, and it commonly occurs together with Alzheimer's changes.",
+    "figure": "Estimated 15–20% of dementia cases, with mixed pathology common (DSM-5-TR text and reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The main treatment is preventing further damage: controlling blood pressure, diabetes, and cholesterol, stopping smoking, and medication to prevent further strokes, all prescribed and monitored by a doctor. Alzheimer's medications are sometimes used in mixed dementia. Rehabilitation, cognitive stimulation, exercise, and support for mood help. Carer support and planning are as important as in any dementia.",
+    "evidence_based_options": [
+      "Treatment of vascular risk factors and stroke prevention, prescribed and monitored by a doctor",
+      "Rehabilitation after stroke, including occupational and physiotherapy",
+      "Cognitive stimulation and physical activity",
+      "Treatment of depression and apathy; carer support"
+    ],
+    "self_help_that_supports_care": [
+      "Taking blood pressure and other medications consistently",
+      "Regular walking or other exercise as able",
+      "A heart-healthy diet and no smoking",
+      "Stroke and dementia support groups for the person and carers"
+    ],
+    "guideline_refs": [
+      "src-nice-ng97"
+    ]
+  },
+  "when_to_reach_out": "If thinking has changed after a stroke, or someone with heart disease or diabetes is becoming slower and more muddled, see a doctor. Sudden confusion, weakness, or speech problems are emergency signs of stroke: call emergency services.",
+  "is_not": "A single stroke that affects one function, like speech, without broader decline isn't vascular dementia. Delirium during illness is different. Alzheimer's has a different pattern, though the two often overlap.",
+  "hope_note": "Vascular dementia is the one form where lifestyle and medical care can genuinely slow things down. Every stroke prevented is thinking preserved.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "alzheimers-disease-neurocognitive-disorder",
+    "major-depressive-disorder",
+    "delirium"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "cognition",
+    "executive-function",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of an older person taking a brisk walk with a friend, blood-pressure monitor at home visible through a window, autumn trees. Pastel amber and green.",
+    "alt_text": "An older person walks briskly with a friend under autumn trees."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng97",
+      "title": "Dementia: assessment, management and support for people living with dementia and their carers (NG97)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng97",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2018
+    },
+    {
+      "id": "src-nia-dementia",
+      "title": "What Is Dementia? Symptoms, Types, and Diagnosis",
+      "publisher": "National Institute on Aging (US)",
+      "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Add stroke association communities (Stroke Association UK, American Stroke Association) after verification."
+    ]
+  }
+}

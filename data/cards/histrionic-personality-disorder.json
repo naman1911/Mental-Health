@@ -1,0 +1,142 @@
+{
+  "topic_id": "histrionic-personality-disorder",
+  "official_name": "Histrionic Personality Disorder",
+  "plain_title": "Needing to be the centre of attention",
+  "also_known_as": [
+    "HPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.4",
+  "language_convention": "person-first",
+  "one_liner": "Seeking attention and approval through dramatic emotion, appearance, or charm, with feelings that are intense but shift quickly.",
+  "in_simple_words": "Histrionic personality disorder is a lasting pattern where a person feels uncomfortable unless they're the centre of attention, and uses dramatic emotion, flirtation, appearance, or charm to get it. Feelings are expressed strongly but can seem shallow and change fast, and relationships feel closer than they really are. Underneath there's often a fear of being unnoticed or unloved. It's diagnosed less now than it once was, and it's treatable with therapy that builds a steadier sense of worth.",
+  "what_it_can_feel_like": [
+    "If I wasn't performing, I felt invisible. And invisible felt like dying.",
+    "People called me dramatic. I just didn't know how to be seen any other way.",
+    "Therapy helped me find out who I was when nobody was watching."
+  ],
+  "common_signs": [
+    "Discomfort when not the centre of attention",
+    "Dramatic, rapidly shifting, or exaggerated emotions",
+    "Using appearance, charm, or flirtation to draw attention",
+    "Speech that's impressionistic and short on detail",
+    "Feeling relationships are closer than they are; easily influenced by others"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just being dramatic or 'extra'.",
+      "fact": "Being expressive is a personality style. HPD is a lasting pattern driven by distress and causing real problems in relationships."
+    },
+    {
+      "myth": "It only affects women.",
+      "fact": "It's diagnosed more in women, partly because of bias in how 'dramatic' behaviour is read. Men have it too."
+    },
+    {
+      "myth": "People with HPD are shallow.",
+      "fact": "The intensity is real; what's hard is sustaining feelings and connection, often because of a deep fear of being unnoticed."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 to 2 in 100 adults meet criteria, by US survey estimates.",
+    "figure": "About 1.8% of US adults (NESARC 2001–02, roughly 3.8 million)",
+    "source_ref": "src-nesarc-pd"
+  },
+  "what_helps": {
+    "plain_summary": "Psychotherapy is the treatment, usually longer-term: psychodynamic, schema, or cognitive approaches that help the person notice the fear beneath the performance, build a steadier self-worth, and form relationships that don't depend on constant attention. Medication isn't a treatment for HPD itself; co-occurring depression or anxiety may be treated, prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Psychodynamic, schema, or cognitive therapy",
+      "Group therapy, with care",
+      "Treatment of co-occurring depression or anxiety",
+      "Couples therapy where relationships are strained"
+    ],
+    "self_help_that_supports_care": [
+      "Noticing what you feel when attention moves elsewhere, and sitting with it",
+      "Practising listening in conversations",
+      "Journalling to find the detail behind big feelings",
+      "Peer support with people who value you quietly"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "If a need for attention and intense, shifting emotions keep damaging relationships or leaving you feeling empty, a therapist experienced with personality difficulties can help.",
+  "is_not": "Being outgoing, expressive, or flamboyant isn't a disorder. Many cultures and professions reward exactly these traits.",
+  "hope_note": "People with histrionic patterns learn that they can be seen and loved without a performance.",
+  "related_topics": [
+    "about-personality-disorders",
+    "narcissistic-personality-disorder",
+    "borderline-personality-disorder",
+    "dependent-personality-disorder"
+  ],
+  "glossary_terms": [
+    "emotional-lability",
+    "psychodynamic-therapy",
+    "schema-therapy",
+    "attachment"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster B."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person sitting quietly in a park sketching, a friend reading nearby, both content, no audience. Pastel plum and sage.",
+    "alt_text": "A person sketches quietly in a park while a friend reads nearby."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nesarc-pd",
+      "title": "Prevalence, correlates, and disability of personality disorders in the United States (NESARC)",
+      "publisher": "Journal of Clinical Psychiatry (Grant et al.); summarized in Psychiatric News",
+      "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.39.17.0390012",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2004
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk."
+    ]
+  },
+  "across_cultures": "Expressiveness that's normal in one culture can look 'histrionic' in another. Diagnosis requires impairment, not just style."
+}

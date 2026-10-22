@@ -1,0 +1,126 @@
+{
+  "topic_id": "caffeine-related-disorders",
+  "official_name": "Caffeine-Related Disorders",
+  "plain_title": "Too much coffee, or the headache when you stop",
+  "also_known_as": [
+    "caffeine intoxication",
+    "caffeine withdrawal"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F15.920 / F15.93",
+  "language_convention": "person-first",
+  "one_liner": "Problems from caffeine: intoxication after too much, or withdrawal symptoms like headache and tiredness when stopping.",
+  "in_simple_words": "Caffeine is the world's most used psychoactive substance, and for most people it's fine. The DSM recognizes two caffeine problems: intoxication, when a large amount causes restlessness, racing heart, insomnia, stomach upset, and anxiety; and withdrawal, when a regular user stops and gets headache, tiredness, low mood, and poor concentration for a few days. Energy drinks and caffeine powders make intoxication more likely. 'Caffeine use disorder' is listed as a condition for further study, not an official diagnosis.",
+  "what_it_can_feel_like": [
+    "Four energy drinks before an exam and I thought I was having a heart attack.",
+    "I didn't know the Monday headaches were because I skipped coffee at weekends.",
+    "Cutting down slowly over two weeks was the trick. No headache, better sleep."
+  ],
+  "common_signs": [
+    "After a lot of caffeine: restlessness, nervousness, racing heart, insomnia, upset stomach, muscle twitches",
+    "After stopping: headache, marked tiredness, low mood, irritability, trouble concentrating",
+    "Withdrawal starting within a day of the last caffeine and lasting a few days",
+    "Symptoms causing real distress or disruption"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Caffeine isn't a drug.",
+      "fact": "It's a stimulant with real intoxication and withdrawal syndromes, both recognized by the DSM."
+    },
+    {
+      "myth": "Caffeine withdrawal is just being a bit grumpy.",
+      "fact": "For regular users, withdrawal headaches and exhaustion can be bad enough to miss work, which is why cutting down gradually helps."
+    },
+    {
+      "myth": "Energy drinks are the same as coffee.",
+      "fact": "Energy drinks and caffeine powders can deliver very large amounts quickly, which is where most serious caffeine intoxication comes from, especially in young people."
+    }
+  ],
+  "how_common": {
+    "plain": "Most adults use caffeine daily. Intoxication is uncommon but rising with energy drinks; withdrawal symptoms affect a large share of regular users who stop suddenly.",
+    "figure": "DSM-5-TR text: around 7% of caffeine users may have intoxication symptoms in a year; about half of regular users report headache on abrupt stopping",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; need primary citations."
+  },
+  "what_helps": {
+    "plain_summary": "Intoxication is managed by stopping caffeine and, rarely, medical care for very high intakes. Withdrawal is prevented by cutting down gradually over a week or two rather than stopping dead; simple painkillers and rest help if it happens. Anyone with anxiety, panic, or insomnia is often advised to reduce caffeine, as it worsens all three. No specialist treatment is needed for most people.",
+    "evidence_based_options": [
+      "Gradual reduction to avoid withdrawal",
+      "Medical care for severe intoxication, especially from powders or many energy drinks",
+      "Reducing caffeine as part of treatment for anxiety, panic, and insomnia"
+    ],
+    "self_help_that_supports_care": [
+      "Knowing how much caffeine is in what you drink",
+      "Swapping one drink a day to decaf, then another",
+      "No caffeine after early afternoon if sleep is a problem",
+      "Avoiding caffeine powders and limiting energy drinks"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "Get medical help if someone has a racing or irregular heartbeat, chest pain, vomiting, or confusion after a lot of caffeine, especially from powders or energy drinks. Talk to a doctor if caffeine seems tied to anxiety, panic, or insomnia.",
+  "is_not": "Enjoying coffee daily isn't a disorder. Feeling a bit tired without it isn't withdrawal unless it causes real distress.",
+  "hope_note": "Caffeine problems are easy to fix. Most people feel better within a couple of weeks of adjusting their intake.",
+  "related_topics": [
+    "caffeine-use-disorder",
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "insomnia-disorder"
+  ],
+  "glossary_terms": [
+    "intoxication",
+    "withdrawal",
+    "sleep-hygiene"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person enjoying a single cup of coffee on a quiet porch in the morning, a glass of water beside it, birds on a wire. Pastel navy and cream.",
+    "alt_text": "A person enjoys a single cup of coffee on a quiet morning porch with a glass of water beside it."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary sources for intoxication and withdrawal prevalence."
+    ]
+  },
+  "in_young_people": "Energy drinks are heavily marketed to teenagers, and emergency visits for caffeine intoxication in young people have risen. Several countries restrict sales to minors.",
+  "across_cultures": "Coffee, tea, yerba mate, kola, and guarana are woven into cultures worldwide. Typical intake varies hugely, and what counts as 'a lot' depends on where you are.",
+  "sub_sections": [
+    {
+      "title": "Caffeine use disorder (Section III)",
+      "text": "A proposed diagnosis for people who can't cut down despite harm. It's being studied and is not an official diagnosis; see its own card."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "topic_id": "agoraphobia",
+  "official_name": "Agoraphobia",
+  "plain_title": "When leaving safe places feels impossible",
+  "also_known_as": [],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F40.00",
+  "language_convention": "person-first",
+  "one_liner": "Intense fear of places where escape or help might be hard, such as crowds, transport, or being out alone.",
+  "in_simple_words": "Agoraphobia is not just 'fear of open spaces'. It's fear and avoidance of situations where you might panic and be unable to get away or get help: buses and trains, queues, shops, crowds, open spaces, or simply being outside the house alone. Many people with agoraphobia have had panic attacks and now avoid wherever one might happen. At its worst, a person's world shrinks to a few rooms. Treatment can open it up again, step by step.",
+  "what_it_can_feel_like": [
+    "The supermarket was fine for years. Then one attack in aisle three and I couldn't go back.",
+    "My 'safe zone' got smaller until it was the house, then just the bedroom.",
+    "First trip to the corner shop in two years. I cried in the car park. Good tears."
+  ],
+  "common_signs": [
+    "Strong fear of two or more: transport, open spaces, enclosed spaces, crowds, being out alone",
+    "Fear that escape would be hard or help unavailable if panic struck",
+    "Avoiding these situations or needing a companion to face them",
+    "Fear out of proportion to any real danger",
+    "Lasting six months or more and limiting daily life"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Agoraphobia means you're afraid of open spaces.",
+      "fact": "It's fear of being stuck somewhere you can't escape or get help, which can include very enclosed places too."
+    },
+    {
+      "myth": "People with agoraphobia just like staying home.",
+      "fact": "Most desperately want to go out. The fear, not preference, keeps them in."
+    },
+    {
+      "myth": "Once you're housebound, it's permanent.",
+      "fact": "Even severe, long-standing agoraphobia responds to graded exposure. Online and home-based therapy exist for exactly this situation."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 US adults has agoraphobia in a given year. It often begins after panic attacks.",
+    "figure": "0.9% past-year prevalence among US adults, NCS-R 2001–2003",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "CBT with graded exposure is the main treatment: building a ladder from the easiest feared situation to the hardest and climbing it with support, so the brain learns the places are safe. Where panic attacks are part of it, panic treatment comes too. Antidepressants, prescribed and monitored by a doctor, can help. Therapy can start at home or online if leaving is too hard.",
+    "evidence_based_options": [
+      "CBT with graded exposure, in person, at home, or online",
+      "Treatment for panic disorder where present",
+      "SSRI antidepressants, prescribed and monitored by a doctor",
+      "Involving a trusted person as a support in early exposure steps"
+    ],
+    "self_help_that_supports_care": [
+      "Writing a fear ladder of situations from easiest to hardest",
+      "One small step beyond the current comfort zone, repeated until it feels ordinary",
+      "Not using 'safety behaviours' (like always carrying water) as a crutch forever",
+      "Celebrating every step, however small"
+    ],
+    "guideline_refs": [
+      "src-nice-cg113"
+    ]
+  },
+  "when_to_reach_out": "If you are avoiding more and more places, or need someone with you to go out, and it's been going on for months, ask a doctor about CBT. Say if leaving the house for appointments is itself a barrier; services can adapt.",
+  "is_not": "Preferring quiet places, or avoiding somewhere after a one-off bad experience, is not agoraphobia. Fear of social judgement points to social anxiety instead.",
+  "hope_note": "People who have been housebound for years have recovered. The world comes back one street at a time.",
+  "in_young_people": "Agoraphobia usually starts in the late teens or twenties. In teens it can look like refusing school, outings, or public transport after a panic attack.",
+  "related_topics": [
+    "panic-disorder",
+    "specific-phobia",
+    "social-anxiety-disorder",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "avoidance",
+    "exposure-therapy",
+    "panic-attack",
+    "cbt",
+    "ssri"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a person stepping out of a front door onto a sunny path, one hand on the door frame, a friend waiting at the gate with a wave. Pastel blue and yellow. Hopeful.",
+    "alt_text": "A person steps out of a front door onto a sunny path while a friend waves from the gate."
+  },
+  "communities": [
+    "reddit-r-agoraphobia",
+    "adaa-online-support-group",
+    "anxiety-uk-peer-support-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Agoraphobia statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/agoraphobia",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg113",
+      "title": "Generalised anxiety disorder and panic disorder in adults: management (CG113)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg113",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2011
+    },
+    {
+      "id": "src-nhs",
+      "title": "NHS mental health conditions page",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/mental-health/conditions/agoraphobia/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NHS page; not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

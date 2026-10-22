@@ -1,0 +1,136 @@
+{
+  "topic_id": "susto",
+  "official_name": "Susto",
+  "plain_title": "'Fright' or soul loss, in Latin American communities",
+  "also_known_as": [
+    "fright",
+    "espanto",
+    "soul loss"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "An illness following a frightening event, understood as the soul leaving the body, with sadness, poor appetite, and sleep trouble.",
+  "in_simple_words": "Susto, 'fright', is a Latin American explanation for illness that follows a frightening event. The soul is believed to leave the body, leaving the person unhappy, sick, and struggling: poor appetite and sleep, sadness, low energy, lack of motivation, feelings of worthlessness, and body aches. Symptoms may appear days or years after the fright. Ritual healings aim to call the soul back. Susto overlaps with depression and PTSD, and research links it to higher rates of both.",
+  "what_it_can_feel_like": [
+    "After the accident my aunt said I had susto. The curandera did the limpia, and I also saw a counsellor. Both helped me come back to myself.",
+    "I didn't have words for what the robbery did to me. Susto was the word my community had, and it fit."
+  ],
+  "common_signs": [
+    "Sadness, low energy, poor appetite, and sleep trouble after a frightening event",
+    "Feeling the self has gone; lack of motivation or worth",
+    "Body aches, headaches, stomach trouble",
+    "Symptoms appearing soon after or years later",
+    "Healing sought through ritual as well as clinics"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Susto is superstition.",
+      "fact": "It's a coherent way of describing the aftermath of trauma and shock, with its own healing practices. It maps closely onto conditions clinicians recognise."
+    },
+    {
+      "myth": "A ritual healing is all that's needed.",
+      "fact": "Ritual healing can be meaningful and helpful. When symptoms persist, treatment for depression or trauma adds to it."
+    }
+  ],
+  "how_common": {
+    "plain": "Susto is widely recognised across Latin America; studies link it to higher rates of depression and PTSD, but general prevalence figures aren't available.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Care that respects susto as the person's explanation, asks about the frightening event, and treats what's there, often depression, PTSD, or an adjustment reaction, works best. Trauma-focused therapy, culturally adapted CBT, and, where needed, medication prescribed and monitored by a doctor are combined with the healing practices the person values. Clinicians should ask whether a curandero or healer is involved and work alongside.",
+    "evidence_based_options": [
+      "Cultural Formulation Interview and assessment for depression and PTSD",
+      "Trauma-focused or culturally adapted therapy",
+      "Medication for depression where needed, prescribed and monitored by a doctor",
+      "Collaboration with traditional healers the person trusts"
+    ],
+    "self_help_that_supports_care": [
+      "Naming the fright and telling someone what happened",
+      "Using community healing alongside clinical help",
+      "Sleep, food, and gentle routine while the soul 'returns'",
+      "Trauma support if memories keep intruding"
+    ],
+    "guideline_refs": [
+      "src-cfi"
+    ]
+  },
+  "when_to_reach_out": "If sadness, exhaustion, or body symptoms after a fright are lasting, see a doctor or counsellor and tell them about the susto. If memories of the event keep intruding, trauma therapy helps. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Medical causes of fatigue and appetite loss are checked.",
+  "hope_note": "The soul comes back. People recover from susto with community, ritual, and care, in whatever combination fits them.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "major-depressive-disorder",
+    "adjustment-disorders",
+    "culture-and-mental-health",
+    "nervios"
+  ],
+  "glossary_terms": [
+    "trauma",
+    "grief",
+    "somatic-symptoms",
+    "support-system"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a person sitting in a garden with an older healer offering a cup of herbal tea, marigolds in bloom, afternoon light. Pastel marigold and sky blue.",
+    "alt_text": "A person sits in a garden as an older healer offers a cup of herbal tea among marigolds."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-fpr-culture",
+      "title": "DSM-5 on culture: a significant advance",
+      "publisher": "Foundation for Psychocultural Research",
+      "url": "https://thefpr.org/dsm-5-on-culture-a-significant-advance/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-cfi",
+      "title": "DSM-5 Cultural Formulation Interview and the evolution of cultural assessment in psychiatry",
+      "publisher": "Psychiatric Times",
+      "url": "https://www.psychiatrictimes.com/view/dsm-5-cultural-formulation-interview-and-evolution-cultural-assessment-psychiatry",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

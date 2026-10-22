@@ -1,0 +1,162 @@
+{
+  "topic_id": "bulimia-nervosa",
+  "official_name": "Bulimia Nervosa",
+  "plain_title": "Caught in a cycle of bingeing and trying to undo it",
+  "also_known_as": [
+    "bulimia",
+    "BN"
+  ],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F50.2x (by severity, remission)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with bulimia'. Never 'a bulimic'. No numbers or method detail anywhere on this card.",
+  "one_liner": "Repeated episodes of eating a large amount while feeling out of control, followed by harmful attempts to 'undo' it.",
+  "in_simple_words": "Bulimia nervosa is a cycle: eating a lot in a short time while feeling unable to stop, then intense guilt and fear of weight gain, then doing something harmful to try to cancel it out. The cycle repeats, often in secret, and self-worth becomes tied to weight and shape. People with bulimia are usually in or above the typical weight range, so it's often invisible from outside. It harms the heart, teeth, and gut, and it is very treatable.",
+  "what_it_can_feel_like": [
+    "Nobody knew. I was 'the healthy one'. The bathroom was my secret.",
+    "The binge felt like the only time I wasn't controlling everything. Then the shame hit.",
+    "Guided self-help sounded too simple. It broke the cycle in three months."
+  ],
+  "common_signs": [
+    "Eating unusually large amounts in a short time, feeling out of control",
+    "Harmful attempts to compensate afterwards, repeated over months",
+    "Secrecy around food, disappearing after meals",
+    "Self-worth driven by weight and body shape",
+    "Swollen cheeks, dental problems, sore throat, tiredness, or dizziness",
+    "Mood swings, shame, and withdrawing from people"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "You can tell someone has bulimia by their weight.",
+      "fact": "Most people with bulimia are at a typical weight or above. It is hidden, not visible."
+    },
+    {
+      "myth": "It's a way of controlling weight.",
+      "fact": "Compensating does not do what people hope it does, and the cycle usually increases bingeing. It is an illness, not a strategy."
+    },
+    {
+      "myth": "It's less serious than anorexia.",
+      "fact": "Bulimia causes serious heart, electrolyte, and dental harm and carries real risk to life. It deserves the same urgency."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 US adults have bulimia nervosa at some point in life, women more often than men, and around 1 in 100 teenagers.",
+    "figure": "Lifetime prevalence 1.0% among US adults (NCS-R); 0.9% among adolescents aged 13–18 (NCS-A)",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "Specialist talking therapy is the main treatment. For adults, a guided self-help programme based on CBT for eating disorders is often the first step, with full CBT-ED if more is needed. For young people, family therapy focused on bulimia comes first. Some adults also benefit from an antidepressant, prescribed and monitored by a doctor, but medication alone isn't enough. Dental and medical checks are part of care.",
+    "evidence_based_options": [
+      "Guided self-help based on CBT for eating disorders (adults)",
+      "CBT for eating disorders (CBT-ED), individual",
+      "Bulimia-focused family therapy for children and young people",
+      "Medical and dental monitoring; an SSRI in some adults, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Regular eating through the day, which cuts the urge to binge",
+      "Telling one person and contacting a helpline",
+      "Delaying the compensating behaviour, even briefly, as a first step",
+      "Muting diet and 'body goals' content"
+    ],
+    "guideline_refs": [
+      "src-nice-ng69"
+    ]
+  },
+  "when_to_reach_out": "If you are bingeing and compensating, even occasionally, talk to a doctor or an eating-disorder helpline now; early treatment works best. Get urgent help for chest pain, fainting, or blood when being sick, and if you have thoughts of ending your life.",
+  "is_not": "Overeating at a celebration isn't a binge. Bingeing without compensating is binge-eating disorder. Restricting with a low weight, even with bingeing, is anorexia nervosa.",
+  "hope_note": "Bulimia has some of the best treatment outcomes of any eating disorder. Many people are free of the cycle within months of starting therapy.",
+  "in_young_people": "Bulimia usually begins in the mid to late teens, often after dieting. Parents may notice food disappearing, long bathroom visits, or dental problems. Family-based treatment has the best evidence for young people.",
+  "across_cultures": "Bulimia is found in every culture, including where thinness isn't the ideal. Boys, men, and people of colour are under-diagnosed because of stereotypes about who gets eating disorders.",
+  "sub_sections": [
+    {
+      "title": "Other specified: low-frequency or limited-duration bulimia; purging disorder",
+      "icd10cm_code": "F50.89",
+      "text": "When the cycle happens less often or has lasted a shorter time, or when a person compensates without bingeing, it is still an eating disorder that needs the same care."
+    }
+  ],
+  "related_topics": [
+    "binge-eating-disorder",
+    "anorexia-nervosa",
+    "body-dysmorphic-disorder",
+    "major-depressive-disorder",
+    "borderline-personality-disorder",
+    "substance-use-disorders-overview"
+  ],
+  "glossary_terms": [
+    "binge",
+    "purging",
+    "body-image",
+    "diet-culture",
+    "cbt-e",
+    "family-therapy",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food.",
+      "No 'how to' behaviours.",
+      "Crisis strip with eating-disorder helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of a person setting a small table for a regular meal with a friend, a clock showing midday, plants on the sill. Pastel sage and peach. No food close-ups, no bathroom, no scales.",
+    "alt_text": "A person sets a small table for a midday meal with a friend, plants on the windowsill."
+  },
+  "communities": [
+    "beat-uk-helpline-and-online-groups",
+    "butterfly-foundation-helpline",
+    "reddit-r-eatingdisorders",
+    "reddit-r-fuckeatingdisorders",
+    "beat-uk-carers-peer-support",
+    "feast-around-the-dinner-table",
+    "anad-peer-support-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Eating Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-ng69",
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng69",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2017,
+      "note": "Not opened; recommendations summarized from secondary sources."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "High-sensitivity card: clinician and lived-experience review required."
+    ]
+  }
+}

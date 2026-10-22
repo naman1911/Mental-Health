@@ -1,0 +1,183 @@
+{
+  "topic_id": "understanding-psychosis",
+  "official_name": "Psychosis (explainer)",
+  "plain_title": "Losing touch with what's real, and recovering",
+  "also_known_as": [
+    "psychotic episode",
+    "first episode psychosis",
+    "early psychosis"
+  ],
+  "chapter_id": "psychotic",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a",
+  "language_convention": "person-first",
+  "one_liner": "When thoughts and perceptions lose contact with reality for a time: hearing or seeing things, or false beliefs.",
+  "in_simple_words": "Psychosis is a symptom, not a diagnosis, and not a life sentence. It means the mind has lost touch with reality for a while: hearing voices or seeing things others don't, believing things that aren't true, or thinking so jumbled it's hard to follow. It can be part of schizophrenia, bipolar disorder, severe depression, drug use, or a medical illness, and it can happen once and never again. Early help gives the best chance of full recovery.",
+  "what_it_can_feel_like": [
+    "The voices started as whispers. By the time I told anyone, they were running my days.",
+    "I was certain the news was about me. Certain. That certainty is the strangest thing to remember.",
+    "The early intervention team treated me like a person with a future. Five years on, I have one."
+  ],
+  "common_signs": [
+    "Hearing, seeing, or sensing things others don't",
+    "Strong beliefs that don't match reality and don't shift with evidence",
+    "Thinking or speech that's confused, jumbled, or hard to follow",
+    "Withdrawing, suspicion, or big changes in behaviour or self-care",
+    "Often, in the months before: sleep changes, odd ideas, pulling away from people",
+    "Experiences that frighten the person, or that they're sure are real"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Psychosis means you're dangerous.",
+      "fact": "People experiencing psychosis are far more likely to be harmed than to harm anyone. Violence is rare and usually linked to substance use or untreated illness."
+    },
+    {
+      "myth": "Once psychotic, always psychotic.",
+      "fact": "Many people have one episode and recover fully. Others have episodes and long stable stretches. Early treatment makes full recovery more likely."
+    },
+    {
+      "myth": "Hearing voices always means schizophrenia.",
+      "fact": "Voices occur in many conditions, in grief, with some drugs, and in some people with no illness at all. Schizophrenia is one possibility among several."
+    },
+    {
+      "myth": "Medication is the only treatment.",
+      "fact": "Antipsychotics are important for many people, and so are talking therapy, family support, work and study support, and peer groups. Guidelines recommend all of them."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 3 in 100 people experience psychosis at some point in life. Schizophrenia and related disorders affect fewer than 1 in 100.",
+    "figure": "Lifetime prevalence of any psychotic experience about 3% (population studies); schizophrenia and related psychotic disorders 0.25%–0.64% of US adults (NIMH)",
+    "source_ref": "src-nimh-scz",
+    "note": "The 3% lifetime figure is widely cited (for example by NHS and NIMH) but not directly confirmed here."
+  },
+  "what_helps": {
+    "plain_summary": "Get help early: early intervention in psychosis services, in many countries, offer a team for the first few years with medication, talking therapy, family work, and support with work and study. Antipsychotic medication, prescribed and monitored by a doctor, reduces voices and delusions for most people. CBT for psychosis helps people cope with experiences that remain. Family intervention reduces relapse. Peer support, including Hearing Voices groups, helps people make sense of what happened. Avoiding cannabis and stimulants matters a lot.",
+    "evidence_based_options": [
+      "Early intervention in psychosis services",
+      "Antipsychotic medication, prescribed and monitored by a doctor, with physical health checks",
+      "CBT for psychosis and family intervention",
+      "Supported employment and education; peer support groups"
+    ],
+    "self_help_that_supports_care": [
+      "Telling someone early, even if you're not sure what's happening",
+      "Sleep, which protects against relapse",
+      "Avoiding cannabis, stimulants, and heavy drinking",
+      "Learning your personal early warning signs and sharing them with your team"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If you or someone close to you is hearing or seeing things others don't, holding beliefs that frighten you, or thinking in ways that don't make sense, contact a doctor or mental health service now and ask about early intervention. If someone is in danger or can't keep themselves safe, use the crisis strip or emergency services.",
+  "is_not": "Vivid imagination, spiritual experiences shared by a community, grief hallucinations, and the strange perceptions at the edge of sleep are not psychosis. Intense anxiety or dissociation can feel unreal without being psychotic.",
+  "hope_note": "Recovery from psychosis is common. With early help, most people return to study, work, relationships, and a life that's theirs.",
+  "related_topics": [
+    "schizophrenia",
+    "brief-psychotic-disorder",
+    "schizophreniform-disorder",
+    "schizoaffective-disorder",
+    "delusional-disorder",
+    "bipolar-i-disorder",
+    "major-depressive-disorder",
+    "cannabis-use-disorder",
+    "substance-medication-induced-mental-disorders",
+    "attenuated-psychosis-syndrome"
+  ],
+  "glossary_terms": [
+    "psychosis",
+    "hallucination",
+    "delusion",
+    "hearing-voices",
+    "prodrome",
+    "first-episode-psychosis",
+    "early-intervention-service",
+    "antipsychotic",
+    "anosognosia",
+    "recovery"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a young person walking out of a clinic door into sunlight with a support worker beside them, a backpack and a college folder in hand. Pastel violet and gold. No shadows, no hands over ears.",
+    "alt_text": "A young person walks out of a clinic door into sunlight beside a support worker, holding a college folder."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-scz",
+      "title": "Schizophrenia statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2014
+    },
+    {
+      "id": "src-nice-cg155",
+      "title": "Psychosis and schizophrenia in children and young people: recognition and management (CG155)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg155",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2013,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-hvn",
+      "title": "Hearing Voices Network",
+      "publisher": "Hearing Voices Network (England)",
+      "url": "https://www.hearing-voices.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm the 3% lifetime figure with a primary source."
+    ]
+  },
+  "in_young_people": "Psychosis usually starts between the late teens and early thirties. In young people it can be mistaken for moodiness, drug effects, or 'a phase'. Early intervention services often take people from 14 up.",
+  "across_cultures": "Hearing voices or seeing visions is understood as spiritual in many cultures, and some people find that framing helps. Services that work with the person's own understanding, and with family, do better. People from some minority groups are more likely to be diagnosed with psychosis and less likely to get early help."
+}

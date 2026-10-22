@@ -1,0 +1,165 @@
+{
+  "topic_id": "functional-neurological-symptom-disorder",
+  "official_name": "Functional Neurological Symptom Disorder (Conversion Disorder)",
+  "plain_title": "Real neurological symptoms from a 'software' problem",
+  "also_known_as": [
+    "FND",
+    "functional neurological disorder",
+    "conversion disorder",
+    "dissociative seizures",
+    "non-epileptic attacks"
+  ],
+  "chapter_id": "somatic",
+  "card_type": "condition",
+  "icd10cm_code": "F44.4–F44.7 (by symptom type)",
+  "language_convention": "person-first",
+  "one_liner": "Genuine weakness, seizures, tremor, or numbness caused by a problem in how the nervous system functions, not damage.",
+  "in_simple_words": "Functional neurological disorder causes real, often disabling symptoms: limb weakness or paralysis, shaking, blackouts or seizure-like attacks, numbness, trouble walking, speaking, or swallowing. Scans and tests are normal because the structure of the nervous system is fine; the problem is in how the brain sends and receives signals, like a software fault in a working computer. It's one of the commonest reasons to see a neurologist. It's not faking and not 'all in the mind', and specific treatments help.",
+  "what_it_can_feel_like": [
+    "My legs stopped working at 28. Every scan was clear. One neurologist said it was stress and walked out. The next one explained FND and I finally had a plan.",
+    "The seizures looked like epilepsy. They weren't. Understanding that was the start of them stopping.",
+    "Specialist physio retrained my brain to trust my leg. I'm walking without the stick now."
+  ],
+  "common_signs": [
+    "Weakness, paralysis, tremor, or abnormal movements",
+    "Blackouts or seizure-like attacks that aren't epilepsy",
+    "Numbness, loss of sensation, vision or hearing changes",
+    "Difficulty walking, speaking, or swallowing",
+    "Symptoms that can vary with attention or distraction",
+    "Normal scans; diagnosis by positive signs on examination"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "FND means you're faking or imagining it.",
+      "fact": "FND is a genuine disorder of nervous-system function with recognizable signs on examination. Nobody chooses it."
+    },
+    {
+      "myth": "FND is always caused by trauma.",
+      "fact": "Trauma raises the risk, but many people with FND have no trauma history. Physical injury, illness, and stress can all trigger it."
+    },
+    {
+      "myth": "Nothing can be done because the scans are normal.",
+      "fact": "Normal scans are expected in FND. Specialist physiotherapy, psychological therapy, and education lead to real improvement."
+    }
+  ],
+  "how_common": {
+    "plain": "FND is common in neurology clinics, where it accounts for around 1 in 6 new patients. In the general population, new cases arise at roughly 4 to 12 per 100,000 people a year.",
+    "figure": "Incidence of persistent functional neurological symptoms about 4–12 per 100,000 per year; around 16% of neurology outpatient referrals",
+    "source_ref": "src-nhs-fnd",
+    "note": "Figures from secondary summaries; needs a primary citation (e.g. Stone et al.)."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment starts with a clear, confident diagnosis and explanation; understanding the condition is itself therapeutic. Specialist physiotherapy retrains movement for weakness, tremor, and gait problems. Psychological therapy, especially CBT adapted for dissociative seizures, helps attacks. Occupational therapy and speech therapy address daily function. Treating co-occurring anxiety, depression, or pain helps. Multidisciplinary FND clinics exist in some areas. Medication isn't a treatment for FND itself.",
+    "evidence_based_options": [
+      "Clear diagnosis and education about FND",
+      "Specialist FND physiotherapy for motor symptoms",
+      "CBT adapted for dissociative (functional) seizures",
+      "Multidisciplinary rehabilitation; treatment of co-occurring conditions"
+    ],
+    "self_help_that_supports_care": [
+      "Reading trusted FND resources, such as neurosymptoms.org",
+      "Distraction techniques when symptoms flare, which can interrupt them",
+      "Pacing activity rather than boom-and-bust",
+      "Peer support with others who have FND"
+    ],
+    "guideline_refs": [
+      "src-neurosymptoms"
+    ]
+  },
+  "when_to_reach_out": "If you have neurological symptoms like weakness, seizures, or numbness, see a doctor for assessment. If you're told it's FND, ask for an explanation you understand and a referral to FND-informed physiotherapy or therapy. Any new seizure or sudden weakness needs emergency assessment.",
+  "is_not": "Epilepsy, stroke, multiple sclerosis, and other neurological diseases cause similar symptoms and are ruled out by neurologists; the two can co-exist. Factitious disorder and malingering involve deliberate deception, which FND does not.",
+  "hope_note": "FND is treatable, and many people improve substantially or recover fully once they get the right diagnosis and the right rehabilitation.",
+  "related_topics": [
+    "somatic-symptom-disorder",
+    "dissociative-amnesia",
+    "posttraumatic-stress-disorder",
+    "panic-disorder",
+    "major-depressive-disorder",
+    "factitious-disorder"
+  ],
+  "glossary_terms": [
+    "functional-symptoms",
+    "dissociation",
+    "all-in-your-head",
+    "occupational-therapist"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "somatic",
+    "icon": "activity",
+    "illustration_prompt": "Soft line illustration of a person and a physiotherapist practising walking between parallel bars in a bright clinic, the person smiling, a whiteboard with 'brain retraining' sketched. Pastel terracotta and teal.",
+    "alt_text": "A person practises walking between parallel bars with a physiotherapist in a bright clinic."
+  },
+  "communities": [
+    "fnd-hope-peer-support",
+    "mind-side-by-side",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Somatic Symptom and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nhs-fnd",
+      "title": "Functional neurological disorder (FND)",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/functional-neurological-disorder/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-neurosymptoms",
+      "title": "neurosymptoms.org: a guide to functional neurological disorder",
+      "publisher": "Prof Jon Stone (University of Edinburgh)",
+      "url": "https://neurosymptoms.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; widely used patient resource."
+    },
+    {
+      "id": "src-fndhope",
+      "title": "FND Hope: peer support",
+      "publisher": "FND Hope International",
+      "url": "https://fndhope.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add a primary epidemiology source (Stone et al.).",
+      "Verify FND Action UK and r/FND before listing."
+    ]
+  },
+  "in_young_people": "FND occurs in children and teenagers, often as functional seizures or weakness, and is frequently triggered by illness, injury, or stress. Outcomes are generally better in young people with early diagnosis.",
+  "sub_sections": [
+    {
+      "title": "Symptom types",
+      "icd10cm_code": "F44.4 / F44.5 / F44.6 / F44.7",
+      "text": "With weakness or paralysis, abnormal movement, swallowing or speech symptoms (F44.4); with attacks or seizures (F44.5); with anaesthesia, sensory loss, or special sensory symptoms (F44.6); with mixed symptoms (F44.7)."
+    }
+  ]
+}

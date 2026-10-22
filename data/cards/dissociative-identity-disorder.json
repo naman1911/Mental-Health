@@ -1,0 +1,162 @@
+{
+  "topic_id": "dissociative-identity-disorder",
+  "official_name": "Dissociative Identity Disorder",
+  "plain_title": "More than one self, sharing one life",
+  "also_known_as": [
+    "DID",
+    "multiple personality disorder (outdated)",
+    "a 'system' (community term)"
+  ],
+  "chapter_id": "dissociative",
+  "card_type": "condition",
+  "icd10cm_code": "F44.81",
+  "language_convention": "mixed",
+  "one_liner": "Two or more distinct identity states that take turns, with memory gaps, usually rooted in severe childhood trauma.",
+  "in_simple_words": "Dissociative identity disorder is a way the mind survived overwhelming, repeated trauma in early childhood, usually before about age nine. Instead of one unified sense of self, the person has two or more distinct identity states, often called alters or parts, which may have different names, ages, ways of speaking, and memories. Switching between them causes gaps in memory for everyday events. It is real, more common than once thought, often misdiagnosed for years, and treatable with long-term, trauma-focused therapy.",
+  "what_it_can_feel_like": [
+    "I'd find clothes in my wardrobe I'd never buy, and notes in handwriting that wasn't mine. For years I thought I was going mad.",
+    "We're a system. The young parts carry what happened; the adult parts carry the job and the bills. Therapy is helping us talk to each other.",
+    "Films made it a horror story. The reality is a lot of tiredness, a lot of missing time, and a lot of courage."
+  ],
+  "common_signs": [
+    "Two or more distinct identity states, noticed by the person or by others",
+    "Gaps in memory for everyday events, personal information, or past trauma",
+    "Finding evidence of things done or said with no memory of them",
+    "Hearing inner voices or conversations between parts",
+    "Feeling like a passenger in your own body at times",
+    "Distress or problems in daily life, not explained by culture, substances, or another condition"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "DID isn't real; it's faked or made up by therapists.",
+      "fact": "DID is recognized in the DSM and ICD, supported by decades of research, and found worldwide. People with it are far more likely to hide it than fake it."
+    },
+    {
+      "myth": "People with DID have a violent 'evil' alter.",
+      "fact": "This is a film trope. People with DID are much more likely to be harmed than to harm anyone."
+    },
+    {
+      "myth": "Treatment means getting rid of the other personalities.",
+      "fact": "Treatment aims for cooperation, communication, and safety among parts. Some people choose to integrate; many live well as a working system."
+    }
+  ],
+  "how_common": {
+    "plain": "Studies suggest around 1 in 100 people may have DID, similar to schizophrenia, though most are never correctly diagnosed. It's far more common among people with severe childhood trauma.",
+    "figure": "About 1%–1.5% 12-month prevalence in community studies (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The recommended treatment is long-term, phased, trauma-focused psychotherapy with a clinician trained in dissociation: first building safety, stability, and communication between parts; then, when ready, processing traumatic memories; then integrating daily life. Medication, prescribed and monitored by a doctor, treats co-occurring depression, anxiety, or PTSD, but there's no medication for DID itself. Grounding skills, routine, and a safe support network are central. Forceful 'memory recovery' techniques are not recommended.",
+    "evidence_based_options": [
+      "Phased, trauma-informed psychotherapy with a dissociation-trained clinician",
+      "Stabilization and grounding skills before trauma processing",
+      "Treatment of co-occurring PTSD, depression, or anxiety, with any medication prescribed and monitored by a doctor",
+      "Peer support with others who have DID"
+    ],
+    "self_help_that_supports_care": [
+      "Grounding tools for switching or losing time",
+      "A shared notebook or app for parts to communicate",
+      "Routines and a calm, predictable home",
+      "Peer communities where 'system' language is understood"
+    ],
+    "guideline_refs": [
+      "src-isstd"
+    ]
+  },
+  "when_to_reach_out": "If you lose time, find evidence of actions you don't remember, or sense other parts of yourself, and especially if you have a history of childhood trauma, ask for an assessment by a clinician who knows dissociation. If you're in crisis or any part of you is thinking about ending your life, use the crisis strip now.",
+  "is_not": "Daydreaming, mood changes, or 'feeling like a different person' in different settings aren't DID. Hearing voices in psychosis is different, though people with DID are often misdiagnosed with psychosis. Culturally normal possession or trance states are not a disorder.",
+  "hope_note": "People with DID build cooperative, stable, meaningful lives. Many describe their system as the reason they survived.",
+  "related_topics": [
+    "dissociative-amnesia",
+    "depersonalization-derealization-disorder",
+    "posttraumatic-stress-disorder",
+    "borderline-personality-disorder",
+    "child-abuse-and-neglect",
+    "schizophrenia"
+  ],
+  "glossary_terms": [
+    "alters-and-systems",
+    "dissociation",
+    "complex-trauma",
+    "grounding",
+    "trauma-informed",
+    "identity-disturbance"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Trauma-related content; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "dissociative",
+    "icon": "layers",
+    "illustration_prompt": "Soft line illustration of a person sitting at a round table with several empty chairs each holding a different small object: a book, a toy, a mug, a notebook, all in gentle light, the person calm. Pastel slate and lavender. No mirrors or fractured faces.",
+    "alt_text": "A person sits calmly at a round table where each empty chair holds a different small object."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "an-infinite-mind",
+    "sane-forums-australia",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Dissociative Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-isstd",
+      "title": "ISSTD guidelines for treating dissociative identity disorder in adults (third revision)",
+      "publisher": "International Society for the Study of Trauma and Dissociation",
+      "url": "https://www.isst-d.org/resources/adult-treatment-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2011,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-mind-diss",
+      "title": "Dissociation and dissociative disorders",
+      "publisher": "Mind (UK)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/dissociation-and-dissociative-disorders/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-aim",
+      "title": "An Infinite Mind",
+      "publisher": "An Infinite Mind (nonprofit)",
+      "url": "https://www.aninfinitemind.com/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Organization and conference seen in search; site not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Clinician with dissociation expertise to review."
+    ]
+  },
+  "language_convention_note": "'Person with DID' and 'system' are both used, following community usage. Avoids 'multiple personality'."
+}

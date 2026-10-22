@@ -1,0 +1,182 @@
+{
+  "topic_id": "tic-disorders",
+  "official_name": "Tic Disorders (including Tourette's Disorder)",
+  "plain_title": "Tics and Tourette's",
+  "also_known_as": [
+    "Tourette syndrome",
+    "TS",
+    "tics",
+    "persistent tic disorder",
+    "provisional tic disorder"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition-group",
+  "icd10cm_code": "F95.x",
+  "language_convention": "mixed",
+  "language_convention_note": "'Person with Tourette's' and 'Touretter' are both used in the community; the card uses person-first by default.",
+  "one_liner": "Sudden, repeated movements or sounds that are hard to control, starting in childhood. Tourette's means both for over a year.",
+  "in_simple_words": "Tics are quick, repeated movements (blinking, head jerks, shrugging) or sounds (sniffing, throat clearing, words) that a person feels an urge to do and can only hold back briefly. They start in childhood, come and go, and worsen with stress, tiredness, or excitement. Tourette's means both motor and vocal tics for over a year. Tics are not deliberate, not a sign of anything 'wrong', and often ease by adulthood. Only a minority of people with Tourette's say rude words.",
+  "what_it_can_feel_like": [
+    "It's like a sneeze. You can hold it, but it builds until you have to let it out.",
+    "People filmed my son in a shop. He was seven. Tourette's isn't a joke to the kids living it.",
+    "My tics are part of me. I'd rather people understood them than that I spent my life hiding them."
+  ],
+  "common_signs": [
+    "Sudden, fast, repeated movements: blinking, grimacing, jerking, shrugging",
+    "Sudden sounds: sniffing, throat clearing, grunting, or words",
+    "An urge or itch-like feeling that builds before the tic",
+    "Tics that come and go, change over time, and worsen with stress",
+    "Starting before age 18, usually around five to seven",
+    "In Tourette's, both movement and sound tics for over a year"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Tourette's means shouting swear words.",
+      "fact": "Swearing tics (coprolalia) affect only around one in ten people with Tourette's. Most tics are small movements and sounds."
+    },
+    {
+      "myth": "People can stop tics if they really try.",
+      "fact": "Tics can be held back briefly, at a cost; the urge builds and the tics come out later. Suppressing all day is exhausting."
+    },
+    {
+      "myth": "Tics are caused by bad parenting or attention-seeking.",
+      "fact": "Tic disorders are neurological and run in families. They have nothing to do with parenting or wanting attention."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in every 160 children has Tourette's, counting those not yet diagnosed, and around 1 in 330 has a diagnosis. Simpler, temporary tics are much more common, affecting perhaps 1 in 5 children at some point.",
+    "figure": "Tourette's: 1 in 162 children (0.6%) including undiagnosed; 1 in 333 (0.3%) diagnosed, CDC. Persistent tic disorders may affect about 1.4 million people in the US",
+    "source_ref": "src-cdc-tourette"
+  },
+  "what_helps": {
+    "plain_summary": "Many tics need no treatment beyond understanding and school awareness. When tics hurt, embarrass, or interfere, a behavioural therapy called CBIT (comprehensive behavioural intervention for tics, built on habit reversal training) is the first choice. Medication can reduce tics when they are severe, prescribed and monitored by a specialist. Treating the ADHD, OCD, or anxiety that often come with tics usually helps most of all.",
+    "evidence_based_options": [
+      "Psychoeducation for the child, family, and school",
+      "CBIT / habit reversal training",
+      "Medication for severe tics, prescribed and monitored by a specialist",
+      "Treatment of co-occurring ADHD, OCD, or anxiety"
+    ],
+    "self_help_that_supports_care": [
+      "Not drawing attention to tics; they fade when ignored and grow under scrutiny",
+      "Good sleep and lower stress, which reduce tics",
+      "A note for school: tic breaks, no penalties for noises, seating choices",
+      "Peer support with other families and adults with tics"
+    ],
+    "guideline_refs": [
+      "src-cdc-tourette"
+    ]
+  },
+  "when_to_reach_out": "If a child's tics have lasted more than a few months, cause pain or embarrassment, or come with attention, mood, or obsessive problems, ask a doctor for a referral. Sudden, dramatic onset of tic-like movements in teens should also be assessed, as it can have other causes.",
+  "is_not": "Fidgeting, habits like nail-biting, and the brief tics many young children have for a few weeks are not tic disorders. Repetitive movements that are rhythmic and soothing, like rocking, are stereotypies, a different thing. Compulsions in OCD are done on purpose to relieve anxiety, while tics are involuntary.",
+  "hope_note": "Tics usually peak around age 10 to 12 and ease for most people by adulthood. Whether they fade or stay, people with Tourette's thrive in every walk of life.",
+  "strengths_and_differences": "Many people with Tourette's describe quick reflexes, humour, creativity, and a deep sense of empathy for anyone who is different. The community is strong and often funny about itself, on its own terms.",
+  "in_young_people": "Tics usually start around age five to seven and peak in the early teens. Schools can make a huge difference with simple adjustments. Bullying is common and should be addressed directly.",
+  "across_cultures": "Tourette's exists worldwide with similar rates. In some communities tics are interpreted as spiritual or as bad behaviour, which can delay diagnosis. Awareness is improving thanks to advocacy by people with Tourette's.",
+  "sub_sections": [
+    {
+      "title": "Tourette's disorder",
+      "icd10cm_code": "F95.2",
+      "text": "Multiple motor tics and at least one vocal tic for more than a year, starting before 18."
+    },
+    {
+      "title": "Persistent (chronic) motor or vocal tic disorder",
+      "icd10cm_code": "F95.1",
+      "text": "Either motor or vocal tics, not both, for more than a year."
+    },
+    {
+      "title": "Provisional tic disorder",
+      "icd10cm_code": "F95.0",
+      "text": "Tics present for less than a year. Many children's tics resolve in this window."
+    },
+    {
+      "title": "Other specified and unspecified tic disorder",
+      "icd10cm_code": "F95.8 / F95.9",
+      "text": "For tic patterns that don't fit the above, for example tics starting after 18."
+    }
+  ],
+  "related_topics": [
+    "adhd",
+    "obsessive-compulsive-disorder",
+    "stereotypic-movement-disorder",
+    "autism-spectrum-disorder",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "tic",
+    "habit-reversal-training",
+    "compulsion",
+    "stimming",
+    "neurodivergent"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a group of friends laughing around a picnic blanket in a park, one wearing a 'Tourette's awareness' badge, a frisbee mid-air. Pastel green and sky blue.",
+    "alt_text": "Friends laugh around a picnic blanket in a park, one wearing an awareness badge, a frisbee in the air."
+  },
+  "communities": [
+    "tourettes-action-uk",
+    "tourette-scotland",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cdc-tourette",
+      "title": "Data and Statistics on Tourette Syndrome",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/tourette-syndrome/data/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-taa",
+      "title": "Tourette Association of America",
+      "publisher": "Tourette Association of America",
+      "url": "https://tourette.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-tourettes-action",
+      "title": "Tourettes Action",
+      "publisher": "Tourettes Action (UK)",
+      "url": "https://www.tourettes-action.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Service listings seen on NHS and council directories; site itself not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify Tourette Association of America support groups and r/Tourettes.",
+      "Confirm CBIT guideline reference (AAN practice guideline 2019)."
+    ]
+  }
+}

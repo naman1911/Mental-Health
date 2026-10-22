@@ -1,0 +1,136 @@
+{
+  "topic_id": "school-and-work-problems",
+  "official_name": "School and Work Problems",
+  "plain_title": "When school or work is making you unwell",
+  "also_known_as": [
+    "academic problems",
+    "occupational problems",
+    "bullying",
+    "burnout",
+    "unemployment"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z55.x / Z56.x",
+  "language_convention": "person-first",
+  "one_liner": "Problems at school or work, including bullying, burnout, failure, and job loss, that affect mental health.",
+  "in_simple_words": "School and work are where most people spend their days, so trouble there hits hard. The DSM lists problems like academic failure, bullying, job loss, stressful work schedules, discrimination at work, and burnout as a focus of care, because they cause or worsen anxiety, depression, and sleep problems and are often the thing that needs changing. Burnout isn't a DSM diagnosis, but it's real and treatable. Rights to adjustments at school and work exist in many countries and are underused.",
+  "what_it_can_feel_like": [
+    "I thought I was depressed. I was being bullied by my manager. The depression lifted within weeks of leaving.",
+    "My son's 'laziness' was dyslexia nobody had spotted. A support plan changed his whole relationship with school."
+  ],
+  "common_signs": [
+    "Dread on Sunday nights or before school; stomach aches, headaches, trouble sleeping",
+    "Exhaustion, cynicism, and feeling ineffective (burnout)",
+    "Being bullied, excluded, or discriminated against at school or work",
+    "Falling grades, missed deadlines, or job loss, with mood dropping alongside",
+    "Problems that ease on holidays and return at the gate"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Burnout is just stress; push through it.",
+      "fact": "Burnout is exhaustion plus cynicism plus feeling ineffective, from chronic unaddressed workplace stress. Pushing through deepens it. Rest, changes, and sometimes leave are needed."
+    },
+    {
+      "myth": "Bullying is a childhood thing you grow out of.",
+      "fact": "Workplace bullying is common and damaging. Both child and adult bullying are linked to depression and anxiety, and both have remedies."
+    },
+    {
+      "myth": "Asking for adjustments means admitting you can't cope.",
+      "fact": "Reasonable adjustments are a legal right in many countries and a normal part of managing a condition at school or work."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 5 US students aged 12 to 18 report being bullied at school in a year. Burnout figures vary widely by survey, but most full-time workers report it at least sometimes.",
+    "figure": "19% of US students aged 12–18 bullied at school in 2021–22 (NCES); burnout estimates vary widely by definition",
+    "source_ref": "src-nces-bullying"
+  },
+  "what_helps": {
+    "plain_summary": "The most effective step is often changing the situation: a school support plan, anti-bullying action, adjustments at work, a change of role, or leave. Therapy (CBT, problem-solving therapy) helps with the anxiety, low mood, and confidence that follow, and with deciding what to do. Employee assistance programmes, school counsellors, unions, and advocacy services help with the practical side. Treating any underlying condition such as ADHD, dyslexia, anxiety, or depression often resolves 'performance' problems.",
+    "evidence_based_options": [
+      "School support plans and anti-bullying procedures",
+      "Reasonable adjustments at work; occupational health; employee assistance programmes",
+      "CBT or problem-solving therapy for the mental health effects",
+      "Assessment and treatment of underlying conditions such as ADHD or dyslexia"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping a written record of bullying or discrimination",
+      "Knowing your rights; unions, advice services, and student services can help",
+      "Protecting sleep and time off when work or study is heavy",
+      "Talking to a tutor, manager, or HR early rather than late"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If school or work is causing persistent dread, exhaustion, or low mood, or you're being bullied or discriminated against, talk to someone with power to change it (a tutor, manager, HR, union) and to a counsellor or doctor about the effects. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Ordinary exam nerves, a busy season, or not enjoying a job aren't disorders. But 'just stress' that lasts months and affects sleep and mood deserves attention.",
+  "hope_note": "Changing the situation changes the symptoms. People leave bad jobs, get the support they needed at school, and discover the problem was never them.",
+  "related_topics": [
+    "adjustment-disorders",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "adhd",
+    "specific-learning-disorder",
+    "social-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "burnout",
+    "reasonable-accommodations",
+    "school-support-plans",
+    "employee-assistance-programme",
+    "sick-leave",
+    "disability-rights-law"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a person closing a laptop at the end of the day and stepping out onto a balcony with a plant, sunset light. Pastel sky blue and coral.",
+    "alt_text": "A person closes a laptop and steps out onto a balcony with a plant at sunset."
+  },
+  "communities": [
+    "youngminds-parents-helpline",
+    "mind-side-by-side",
+    "beyondblue-forums",
+    "nami-connection-and-helpline",
+    "ditch-the-label-community",
+    "kidscape-parent-advice-line"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nces-bullying",
+      "title": "Bullying at school and electronic bullying",
+      "publisher": "National Center for Education Statistics (NCES) Fast Facts",
+      "url": "https://nces.ed.gov/fastfacts/display.asp?id=719",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2024
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "in_young_people": "School refusal often has anxiety, bullying, or an unrecognised learning difficulty underneath. Early meetings with the school, and an assessment where needed, work far better than pressure."
+}

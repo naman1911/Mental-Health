@@ -1,0 +1,131 @@
+{
+  "topic_id": "crime-disaster-and-legal-problems",
+  "official_name": "Crime, Disaster, and Legal Problems",
+  "plain_title": "After a crime, a disaster, prison, or war",
+  "also_known_as": [
+    "victim of crime",
+    "disaster survivor",
+    "imprisonment",
+    "exposure to war",
+    "legal stress"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z65.x",
+  "language_convention": "person-first",
+  "one_liner": "Being a victim of crime, surviving a disaster or war, imprisonment, or legal trouble, as a focus of care.",
+  "in_simple_words": "The DSM groups together big external events that can shape mental health: being a victim of crime or terrorism, surviving a flood, fire, or earthquake, being exposed to war, being arrested or imprisoned, or facing a court case. They're recorded so clinicians treat the context, and because effects such as PTSD, depression, anxiety, and sleep problems are common and treatable. Most people recover with time and support; some need specific help, especially after violence or long-running stress.",
+  "what_it_can_feel_like": [
+    "After the burglary I couldn't sleep in my own house. Victim support called every week until I could.",
+    "The flood took the house. What nobody warned me about was the second year, when everyone else had moved on."
+  ],
+  "common_signs": [
+    "Reliving the event, nightmares, jumpiness, avoiding reminders",
+    "Anxiety, low mood, anger, or numbness after a crime or disaster",
+    "Ongoing stress of court cases, insurance, rebuilding, or legal processes",
+    "Isolation or shame after prison, or fear after release",
+    "Sleep problems and difficulty feeling safe"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Most people who go through a disaster get PTSD.",
+      "fact": "Most recover naturally with support. A significant minority develop PTSD or depression, and they respond well to treatment."
+    },
+    {
+      "myth": "Legal and insurance processes are just admin, not a mental health issue.",
+      "fact": "Drawn-out legal and financial processes after a crime or disaster are a major, measurable source of ongoing distress, often outlasting the event itself."
+    }
+  ],
+  "how_common": {
+    "plain": "After floods, around 1 in 6 to 1 in 3 survivors show PTSD depending on the study; rates after crime and war vary widely. Most people do recover.",
+    "figure": "Pooled PTSD prevalence after floods about 15.7% (2015 review) to 29.5% (2022 review of 23 studies); about 28% after earthquakes",
+    "source_ref": "src-flood-ptsd"
+  },
+  "what_helps": {
+    "plain_summary": "In the immediate aftermath, practical support, safety, and information help most; formal 'debriefing' sessions are not recommended. Those still struggling after a month benefit from trauma-focused therapy (CBT, EMDR, CPT), and from treatment for depression or sleep problems, with any medication prescribed and monitored by a doctor. Victim support services, disaster recovery services, and advocacy help with the legal and practical burden. For people leaving prison, continuity of mental health care and housing support reduce relapse and reoffending.",
+    "evidence_based_options": [
+      "Practical support and psychological first aid early on; no mandatory debriefing",
+      "Trauma-focused CBT, EMDR, or CPT if symptoms persist beyond a month",
+      "Victim support, disaster recovery, and legal advocacy services",
+      "Continuity of care and housing support after prison"
+    ],
+    "self_help_that_supports_care": [
+      "Contacting victim or disaster support services, which exist for exactly this",
+      "Keeping routines where possible: sleep, meals, movement",
+      "Letting people help with the practical load",
+      "Limiting repeated exposure to news or footage of the event"
+    ],
+    "guideline_refs": [
+      "src-flood-ptsd"
+    ]
+  },
+  "when_to_reach_out": "If you've been through a crime, disaster, or war and symptoms are still strong after a month, or you can't function, see a doctor or a trauma-informed therapist, and contact a victim or disaster support service. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Normal upset, grief, and anger after a frightening event aren't disorders. Most people recover without treatment. Trouble sleeping for a week or two after a shock is expected.",
+  "hope_note": "Communities rebuild, survivors recover, and people leaving prison start again. Support in the months after, not just the days, makes the difference.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "acute-stress-disorder",
+    "adjustment-disorders",
+    "major-depressive-disorder",
+    "partner-violence-and-adult-abuse"
+  ],
+  "glossary_terms": [
+    "trauma",
+    "trauma-informed",
+    "hypervigilance",
+    "startle-response",
+    "resilience",
+    "moral-injury"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "No graphic event descriptions."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of neighbours rebuilding a garden fence together after a storm, tools and tea, clearing sky. Pastel sky blue and sand.",
+    "alt_text": "Neighbours rebuild a garden fence together under a clearing sky."
+  },
+  "communities": [
+    "victim-support-uk",
+    "rainn-hotline-us",
+    "open-arms-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-flood-ptsd",
+      "title": "Prevalence of post-traumatic stress disorder after flood: a systematic review and meta-analysis",
+      "publisher": "PubMed Central (PMC9259936)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9259936/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

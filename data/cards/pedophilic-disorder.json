@@ -1,0 +1,163 @@
+{
+  "topic_id": "pedophilic-disorder",
+  "official_name": "Pedophilic Disorder",
+  "plain_title": "Attraction to children, and help before anyone is harmed",
+  "also_known_as": [
+    "paedophilic disorder (UK spelling)",
+    "minor-attracted (community term, contested)"
+  ],
+  "chapter_id": "paraphilic",
+  "card_type": "condition",
+  "icd10cm_code": "F65.4",
+  "language_convention": "person-first",
+  "one_liner": "Persistent sexual attraction to prepubescent children, acted on or causing distress, in an adult. Help exists before harm.",
+  "in_simple_words": "Pedophilic disorder is a persistent sexual attraction to children who haven't reached puberty, in someone aged 16 or older, that the person has acted on or that causes them distress. The attraction isn't chosen. Acting on it is always abuse and always wrong. Not everyone with this attraction offends, and not everyone who abuses children has it. Confidential help exists for people who are worried about their thoughts and want to make sure they never harm a child.",
+  "what_it_can_feel_like": [
+    "I have never touched a child and I never will. For years I thought that meant I had to carry this alone. A helpline proved me wrong.",
+    "What happened to me as a child was done by someone who told himself it was love. It was not. Prevention matters to survivors like me."
+  ],
+  "common_signs": [
+    "Persistent sexual attraction to prepubescent children, for six months or more",
+    "In a person aged 16 or older, at least five years older than the child",
+    "Acted on, or causing the person distress or difficulty",
+    "Secrecy, shame, isolation; often depression"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Everyone with this attraction will abuse a child.",
+      "fact": "Many people with the attraction never offend and go to great lengths not to. Prevention programmes exist because help before harm works."
+    },
+    {
+      "myth": "Child abusers are always strangers with this disorder.",
+      "fact": "Most abuse is by someone the child knows, and many abusers don't have a persistent attraction to children. Both facts matter for keeping children safe."
+    },
+    {
+      "myth": "Asking for help means being reported and arrested.",
+      "fact": "Confidential prevention helplines exist for people who have not harmed a child. They explain their confidentiality rules at the start of the call."
+    }
+  ],
+  "how_common": {
+    "plain": "Reliable numbers are hard to get because of stigma. Studies suggest a small percentage of adult men have some sexual attraction to children; the disorder, with acting out or distress, is less common still.",
+    "figure": "Estimates around 3%–5% of adult men with some attraction, with a wide range across studies (DSM-5-TR text suggests prevalence of the disorder is unknown but likely a few percent at most)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation; figures contested."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment aims to prevent harm and reduce suffering. CBT helps people manage urges, challenge thoughts that could justify harm, build adult relationships and support, and make detailed plans to avoid risky situations. Some people choose medication that lowers sex drive, prescribed and monitored by a doctor with informed consent. Depression, isolation, and substance use are treated. Prevention programmes in the US, UK, Canada, and Germany offer confidential support and therapy to people who have not offended.",
+    "evidence_based_options": [
+      "CBT focused on urge management, thinking patterns, and risk-avoidance planning",
+      "Prevention programmes for people who have not offended",
+      "Medication to reduce sex drive in selected cases, prescribed and monitored by a doctor",
+      "Treatment of depression, isolation, and substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Calling a confidential prevention helpline; this is what they're for",
+      "Never being alone with children, and saying no to roles that involve them",
+      "Avoiding any sexual material involving children; viewing it is abuse and a crime",
+      "Building adult relationships and a life that isn't lived in secret"
+    ],
+    "guideline_refs": [
+      "src-moore-center"
+    ]
+  },
+  "when_to_reach_out": "If you're attracted to children and want to make sure you never harm one, contact a confidential prevention helpline today; they will not judge you. If you have harmed a child, or a child is at risk right now, contact child protection or emergency services; the child's safety comes first. If you were abused as a child, support lines exist for you too.",
+  "is_not": "Attraction to adults who look young, or to teenagers past puberty, isn't pedophilic disorder, though sexual contact with anyone under the age of consent is still a crime. Being gay has nothing to do with this.",
+  "hope_note": "People with this attraction who get help describe lives that are no longer secret, and children who are safer because they reached out.",
+  "related_topics": [
+    "paraphilic-disorders-overview",
+    "child-abuse-and-neglect",
+    "major-depressive-disorder",
+    "antisocial-personality-disorder",
+    "posttraumatic-stress-disorder"
+  ],
+  "glossary_terms": [
+    "paraphilia-vs-paraphilic-disorder",
+    "consent-and-minors",
+    "limits-of-confidentiality",
+    "relapse-prevention",
+    "stigma"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Strictly non-sensational: no descriptions of acts, no victim-blaming, no eroticised language.",
+      "Clear line between consensual adult interests (not a disorder) and non-consent or harm (always wrong, regardless of diagnosis).",
+      "Illustration must not depict children.",
+      "Crisis strip required: the card speaks to people with the attraction and to survivors."
+    ]
+  },
+  "visual": {
+    "color_token": "paraphilic",
+    "icon": "scale",
+    "illustration_prompt": "Soft line illustration of a person sitting in a quiet room dialling a phone, a calendar on the wall, a window with daylight. Pastel grey-blue and soft gold. No children depicted.",
+    "alt_text": "A person sits in a quiet room dialling a phone."
+  },
+  "communities": [
+    "stop-it-now-us",
+    "stop-it-now-uk",
+    "talking-for-change-canada"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Paraphilic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-stop-it-now-us",
+      "title": "How can I find confidential help?",
+      "publisher": "Stop It Now! (US)",
+      "url": "https://stopitnow.org/node/1612",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-stop-it-now-uk",
+      "title": "Stop It Now helpline 0808 1000 900",
+      "publisher": "Lucy Faithfull Foundation (UK)",
+      "url": "https://www.stopitnow.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Hours from directory listings."
+    },
+    {
+      "id": "src-talking-for-change",
+      "title": "Talking for Change (CAMH, Public Safety Canada)",
+      "publisher": "findahelpline.com listing",
+      "url": "https://findahelpline.com/organizations/talking-for-change",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-moore-center",
+      "title": "Resources for people concerned about their sexual thoughts",
+      "publisher": "Moore Center for the Prevention of Child Sexual Abuse, Johns Hopkins",
+      "url": "https://publichealth.jhu.edu/moore-center-for-the-prevention-of-child-sexual-abuse/get-support/resources-for-people-concerned-about-their-sexual-thoughts",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Forensic clinician and survivor advocate to review wording."
+    ]
+  }
+}

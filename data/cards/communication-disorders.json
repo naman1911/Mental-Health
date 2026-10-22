@@ -1,0 +1,177 @@
+{
+  "topic_id": "communication-disorders",
+  "official_name": "Communication Disorders",
+  "plain_title": "When speech, language, or conversation is hard",
+  "also_known_as": [
+    "language disorder",
+    "developmental language disorder (DLD)",
+    "speech sound disorder",
+    "social (pragmatic) communication disorder"
+  ],
+  "chapter_id": "neurodevelopmental",
+  "card_type": "condition-group",
+  "icd10cm_code": "F80.x",
+  "language_convention": "person-first",
+  "one_liner": "Lasting difficulties with speaking clearly, understanding or using language, or using language socially.",
+  "in_simple_words": "Communication disorders are differences, starting in early childhood, in how a person produces speech sounds, understands and uses language, or uses language to connect with others. A child might speak late, be hard to understand, struggle to follow instructions or tell a story, or find conversation confusing. They aren't caused by not trying or by bad parenting, and they aren't a sign of low intelligence. Speech and language therapy helps a great deal, especially when it starts early.",
+  "what_it_can_feel_like": [
+    "I knew what I wanted to say. The words came out in the wrong order and people laughed.",
+    "Nobody could understand him but me. The therapist gave us both the tools.",
+    "Conversation is a dance everyone else learned without noticing. I had to be taught the steps."
+  ],
+  "common_signs": [
+    "Late or limited talking, small vocabulary, or short, muddled sentences",
+    "Trouble understanding instructions, questions, or stories",
+    "Speech that's hard for others to understand past the usual age",
+    "Difficulty with the social side: taking turns, staying on topic, reading hints",
+    "Difficulties present from early childhood, not caused by hearing loss or another condition"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Late talkers always catch up on their own.",
+      "fact": "Many do, but some have a language disorder that persists. Early assessment tells the difference, and early help works."
+    },
+    {
+      "myth": "Speaking two languages causes language disorders.",
+      "fact": "Bilingualism doesn't cause them. A child with a language disorder will have difficulty in both languages."
+    },
+    {
+      "myth": "Social communication difficulties always mean autism.",
+      "fact": "Social (pragmatic) communication disorder is diagnosed when there are no restricted interests or repetitive behaviours. Assessment tells them apart."
+    }
+  ],
+  "how_common": {
+    "plain": "Language disorders are common: about 7 in 100 children starting school have a developmental language disorder, and speech sound difficulties are also common in young children.",
+    "figure": "7.58% of children starting school had developmental language disorder of unknown origin (SCALES study, Surrey, England)",
+    "source_ref": "src-scales"
+  },
+  "what_helps": {
+    "plain_summary": "Speech and language therapy is the main support: targeted practice for speech sounds, building vocabulary and sentence skills, and teaching social communication directly. Parents and teachers are coached to build language into everyday life. Schools provide support plans. Hearing should always be checked. There is no medication for communication disorders.",
+    "evidence_based_options": [
+      "Speech and language therapy, individual or in groups",
+      "Parent-coaching programmes for young children",
+      "School-based language and communication support plans",
+      "Hearing assessment and treatment of any hearing loss"
+    ],
+    "self_help_that_supports_care": [
+      "Talking, reading, and singing with children every day, following their interests",
+      "Giving extra time to respond without jumping in",
+      "Using pictures, gestures, and routines to support understanding",
+      "Praising attempts, not just correct results"
+    ],
+    "guideline_refs": [
+      "src-rcslt"
+    ]
+  },
+  "when_to_reach_out": "If a child isn't using words by around 18 months, isn't combining words by two to three, is hard to understand by four, or struggles to follow conversation at school, ask a doctor or health visitor for a speech and language assessment. Adults can be assessed too.",
+  "is_not": "Normal variation in when children talk, an accent, or learning a new language are not disorders. Difficulties caused by hearing loss, autism, or intellectual disability are described under those conditions, though speech and language therapy helps there too.",
+  "hope_note": "Communication grows with support. Children who couldn't be understood at four are telling long stories at seven.",
+  "strengths_and_differences": "Children with language disorders are often strong visual thinkers, builders, and problem-solvers. Their intelligence is intact; what they need is a different route to the same place.",
+  "in_young_people": "Language disorders are often missed in school and mistaken for behaviour problems, shyness, or poor effort. Teenagers with undiagnosed language disorder are over-represented in exclusions and the justice system, which makes early identification important.",
+  "across_cultures": "Children must be assessed in their strongest language, with interpreters where needed. Dialect differences are not disorders.",
+  "sub_sections": [
+    {
+      "title": "Language disorder",
+      "icd10cm_code": "F80.2",
+      "text": "Lasting difficulty learning and using language: vocabulary, sentences, and conversation. Often called developmental language disorder (DLD) outside the DSM."
+    },
+    {
+      "title": "Speech sound disorder",
+      "icd10cm_code": "F80.0",
+      "text": "Trouble producing speech sounds clearly enough to be understood, past the age when most children can."
+    },
+    {
+      "title": "Social (pragmatic) communication disorder",
+      "icd10cm_code": "F80.82",
+      "text": "Difficulty using language socially: greetings, turn-taking, adjusting to the listener, understanding hints and jokes, without the repetitive behaviours seen in autism."
+    },
+    {
+      "title": "Unspecified communication disorder",
+      "icd10cm_code": "F80.9",
+      "text": "Used when communication difficulties are clear but don't fit the patterns above."
+    }
+  ],
+  "related_topics": [
+    "childhood-onset-fluency-disorder",
+    "autism-spectrum-disorder",
+    "specific-learning-disorder",
+    "intellectual-developmental-disorder",
+    "selective-mutism"
+  ],
+  "glossary_terms": [
+    "neurodevelopmental",
+    "echolalia",
+    "school-support-plans"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurodevelopmental",
+    "icon": "sprout",
+    "illustration_prompt": "Soft line illustration of a child and a speech therapist playing with picture cards on a rug, the child pointing and laughing, speech bubbles with simple shapes. Pastel green and sky blue.",
+    "alt_text": "A child and a speech therapist play with picture cards on a rug, the child pointing and laughing."
+  },
+  "communities": [
+    "nas-online-community",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurodevelopmental Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-scales",
+      "title": "Surrey Communication and Language in Education Study (SCALES): prevalence of language disorder",
+      "publisher": "Royal College of Speech and Language Therapists / Norbury et al. 2016",
+      "url": "https://www.rcslt.org/wp-content/uploads/2022/07/Final-Report-Surrey-Communication-and-Language-in-Education-Study.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2016
+    },
+    {
+      "id": "src-rcslt",
+      "title": "Royal College of Speech and Language Therapists",
+      "publisher": "RCSLT",
+      "url": "https://www.rcslt.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-asha",
+      "title": "American Speech-Language-Hearing Association: public information",
+      "publisher": "ASHA",
+      "url": "https://www.asha.org/public/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find verified parent communities (for example RADLD, Afasic UK) to replace the placeholder."
+    ]
+  }
+}

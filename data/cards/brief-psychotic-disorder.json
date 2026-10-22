@@ -1,0 +1,142 @@
+{
+  "topic_id": "brief-psychotic-disorder",
+  "official_name": "Brief Psychotic Disorder",
+  "plain_title": "A short, sudden psychosis that passes",
+  "also_known_as": [
+    "brief reactive psychosis (older term)"
+  ],
+  "chapter_id": "psychotic",
+  "card_type": "condition",
+  "icd10cm_code": "F23",
+  "language_convention": "person-first",
+  "one_liner": "A sudden episode of psychosis lasting a day to a month, with full return to normal afterwards.",
+  "in_simple_words": "Brief psychotic disorder is a sudden, short-lived psychosis: delusions, hallucinations, or disorganized speech or behaviour that start abruptly, last from a day to a month, and then resolve completely. It often follows severe stress, such as a bereavement, assault, or disaster, and can happen after childbirth. It's frightening for everyone involved, and it has a good outcome: most people return fully to their previous selves, though a minority go on to have further episodes.",
+  "what_it_can_feel_like": [
+    "Two weeks after the funeral I was sure my father was speaking through the radio. A month later I was myself again, and ashamed. The doctor said shame wasn't needed.",
+    "It came out of nowhere, lasted nine days, and left. I still don't fully understand it.",
+    "They watched me closely, kept me safe, and I came back."
+  ],
+  "common_signs": [
+    "Sudden onset of delusions, hallucinations, or disorganized speech or behaviour",
+    "Lasting at least one day but less than one month",
+    "Full return to previous functioning afterwards",
+    "Often following a major stress, or soon after childbirth",
+    "Not explained by a substance, medication, or medical condition"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "One psychotic episode means schizophrenia.",
+      "fact": "Brief psychotic disorder, by definition, resolves within a month. Many people never have another episode."
+    },
+    {
+      "myth": "It's just a nervous breakdown; no treatment needed.",
+      "fact": "Even brief psychosis carries risk during the episode. Medical assessment, safety, and sometimes short-term medication are important."
+    },
+    {
+      "myth": "It only happens to people who were already unstable.",
+      "fact": "It can happen to anyone under severe stress, including people with no history of mental health problems."
+    }
+  ],
+  "how_common": {
+    "plain": "Brief psychotic disorder is uncommon, accounting for a small share of first psychotic episodes, and is more common in women and after childbirth.",
+    "figure": "DSM-5-TR text: around 2%–7% of first-onset psychosis cases in some studies; general-population prevalence unclear",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Assessment first, to rule out drugs, medical causes, and the start of a longer illness. During the episode, safety, a calm setting, support, and often a short course of antipsychotic medication, prescribed and monitored by a doctor, help. Afterwards, follow-up for several months watches for recurrence, and talking therapy helps the person make sense of what happened and deal with the stress that triggered it.",
+    "evidence_based_options": [
+      "Urgent assessment to exclude other causes",
+      "Short-term antipsychotic medication where needed, prescribed and monitored by a doctor",
+      "Safety, calm environment, and support during the episode",
+      "Follow-up and talking therapy afterwards"
+    ],
+    "self_help_that_supports_care": [
+      "Letting people help during the episode; this isn't a time to cope alone",
+      "Rest and sleep once it passes",
+      "Talking it through with a professional rather than burying it",
+      "Noticing and reducing the stress that triggered it, where possible"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If someone suddenly starts seeing or hearing things, holding beliefs that aren't real, or behaving in confused or alarming ways, contact a doctor or crisis service the same day, especially after a major stress or childbirth. If they're in danger, use emergency services.",
+  "is_not": "Confusion from a medical illness, drug intoxication, or delirium is different and needs medical care. Psychosis lasting longer than a month is given another diagnosis, such as schizophreniform disorder.",
+  "hope_note": "By definition, brief psychotic disorder passes. Most people return fully to their lives, and the experience, though frightening, doesn't define them.",
+  "related_topics": [
+    "understanding-psychosis",
+    "schizophreniform-disorder",
+    "perinatal-depression-and-anxiety",
+    "acute-stress-disorder",
+    "substance-medication-induced-mental-disorders",
+    "delirium"
+  ],
+  "glossary_terms": [
+    "psychosis",
+    "postpartum-psychosis",
+    "stress",
+    "episode"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a person sitting on a hospital-garden bench with a family member, both looking at a calm pond, a nurse walking by with a kind nod. Pastel violet and sage.",
+    "alt_text": "A person sits with a family member on a garden bench looking at a calm pond, a nurse walking by."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline",
+    "rethink-advice-line"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2014
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Specifiers",
+      "text": "With or without a marked stressor, with postpartum onset (within four weeks of birth), and with catatonia."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "topic_id": "suicidal-thoughts-and-behavior",
+  "official_name": "Suicidal Thoughts and Behavior",
+  "plain_title": "When you're thinking about ending your life",
+  "also_known_as": [
+    "suicidal ideation",
+    "suicide attempt",
+    "suicidality"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "T14.91XA / T14.91XD (current) ; Z91.51 (history)",
+  "language_convention": "person-first",
+  "one_liner": "Thoughts of ending your life, or having acted on them. Common, serious, survivable, and something you can talk about.",
+  "in_simple_words": "Suicidal thoughts range from wishing you weren't here to making a plan or an attempt. They can come with depression, trauma, loss, pain, shame, or feeling like a burden, and sometimes without a clear reason. They're far more common than most people realise, and most people who have them do not die by suicide. Clinicians record them so that safety and support come first. Talking about it doesn't make it more likely; it makes help possible.",
+  "what_it_can_feel_like": [
+    "I didn't want to die. I wanted the pain to stop and couldn't see another door. Someone sat with me until I could.",
+    "Saying it out loud to my sister was the scariest and most important sentence of my life.",
+    "The thoughts still visit sometimes. Now they're a signal to reach out, not a secret to keep."
+  ],
+  "common_signs": [
+    "Thinking you'd be better off dead, or others would be better off without you",
+    "Thinking about ways to end your life, or making a plan",
+    "Feeling trapped, hopeless, or like a burden",
+    "Withdrawing, giving things away, saying goodbye",
+    "A sudden calm after a long low period; this can be a warning sign"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Asking someone if they're suicidal might put the idea in their head.",
+      "fact": "Research is clear: asking directly and calmly doesn't increase risk. It often brings relief and opens the door to help."
+    },
+    {
+      "myth": "People who talk about it are just seeking attention.",
+      "fact": "Most people who die by suicide gave some signal first. Talking about it is a reason to take someone seriously, not to dismiss them."
+    },
+    {
+      "myth": "If someone has decided, nothing can stop them.",
+      "fact": "Suicidal crises usually pass, often within hours. Support, time, and reducing access to means save lives. Most people who survive a crisis are glad they did."
+    }
+  ],
+  "how_common": {
+    "plain": "Suicidal thoughts are common: large surveys find a meaningful share of adults and teens have had them in the past year. Deaths are far rarer than thoughts, and most people who think about suicide recover.",
+    "figure": "WHO estimates over 720,000 suicide deaths worldwide each year, the third leading cause of death at ages 15–29 (2021 data, 2025 fact sheet); past-year ideation in general-population surveys is many times higher than deaths",
+    "source_ref": "src-who-suicide",
+    "note": "Present with care; avoid 'epidemic' framing."
+  },
+  "what_helps": {
+    "plain_summary": "Help works. Crisis lines, a trusted person, and emergency services get you through the acute hours. Safety planning, done with a clinician or a tool, lists your warning signs, coping steps, people to contact, and ways to make your environment safer. Treating what's underneath, such as depression, trauma, substance use, or pain, lowers risk over time, and some therapies (CBT for suicide prevention, DBT, CAMS) target suicidal thinking directly. Peer groups such as Alternatives to Suicide let people talk openly without judgement or forced intervention. Follow-up contact after a crisis matters.",
+    "evidence_based_options": [
+      "A safety plan made with a clinician or a trusted person",
+      "Therapies that target suicidal thinking: CBT for suicide prevention, DBT, CAMS",
+      "Treatment of underlying depression, trauma, substance use, or pain, with any medication prescribed and monitored by a doctor",
+      "Reducing access to means, with support from people you trust"
+    ],
+    "self_help_that_supports_care": [
+      "Telling one person today; you don't have to carry it alone",
+      "Keeping a crisis line number where you can see it",
+      "Writing your own reasons for living and coping steps when you're calmer",
+      "Peer support groups where suicidal thoughts can be spoken about honestly"
+    ],
+    "guideline_refs": [
+      "src-who-suicide"
+    ]
+  },
+  "when_to_reach_out": "If you're thinking about ending your life, please reach out now: call or text a crisis line from the strip below, tell someone near you, or go to an emergency department. If you're in immediate danger, call emergency services. If you're worried about someone else, ask them directly, stay with them, and help them connect to support.",
+  "is_not": "Wishing a hard situation would end, or wanting to escape, isn't the same as planning to die, though it's worth talking about. Self-harm without intent to die is covered on the next card. Grief and sadness are not suicidality.",
+  "hope_note": "Suicidal crises pass. People who have been in the darkest place describe lives afterwards they couldn't have imagined from inside it. You are not a burden, and you are not alone.",
+  "related_topics": [
+    "nonsuicidal-self-injury",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder",
+    "borderline-personality-disorder",
+    "alcohol-use-disorder",
+    "grief-and-bereavement"
+  ],
+  "glossary_terms": [
+    "suicidal-ideation",
+    "passive-vs-active-suicidal-ideation",
+    "safety-plan",
+    "crisis-plan",
+    "crisis-line",
+    "warning-signs",
+    "safe-messaging",
+    "suicide-attempt-survivor"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Safe-messaging rules apply: no methods, no numbers.",
+      "Safe-messaging rules apply: no methods, no locations, no notes, no 'epidemic' framing.",
+      "Illustrations show connection and daylight, never isolation or danger."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of two people sitting on a bench at dawn, one with a hand on the other's shoulder, a phone between them, the sky lightening. Pastel sky blue and warm gold. No darkness, no isolation.",
+    "alt_text": "Two people sit together on a bench at dawn, one with a hand on the other's shoulder."
+  },
+  "communities": [
+    "alt2su-wildflower-alliance",
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums",
+    "afsp-healing-conversations"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-who-suicide",
+      "title": "Suicide fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/suicide",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2025,
+      "note": "Figures from search summaries of the 2025 fact sheet; page not opened."
+    },
+    {
+      "id": "src-alt2su",
+      "title": "Alternatives to Suicide",
+      "publisher": "Wildflower Alliance",
+      "url": "https://wildfloweralliance.org/alternatives-to-suicide/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Open the WHO fact sheet to confirm current figures.",
+      "Suicide-prevention specialist to review safe messaging."
+    ]
+  },
+  "in_young_people": "Teens may show it through irritability, risk-taking, or withdrawal rather than words. Adults: ask directly, listen without panic, and connect them to a youth crisis line or clinician the same day."
+}

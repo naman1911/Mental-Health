@@ -1,0 +1,149 @@
+{
+  "topic_id": "narcissistic-personality-disorder",
+  "official_name": "Narcissistic Personality Disorder",
+  "plain_title": "Needing admiration, and struggling without it",
+  "also_known_as": [
+    "NPD"
+  ],
+  "chapter_id": "personality",
+  "card_type": "condition",
+  "icd10cm_code": "F60.81",
+  "language_convention": "person-first",
+  "one_liner": "A pattern of feeling special, needing to be admired, and struggling to feel for others, usually covering fragile self-worth.",
+  "in_simple_words": "Narcissistic personality disorder is a lasting pattern of feeling special and entitled, needing admiration, and finding it hard to recognize other people's feelings. Underneath there's often fragile, easily wounded self-esteem, with shame and rage when criticized. It causes real problems in relationships and work, and real suffering, especially when life brings failure or ageing. The word 'narcissist' is thrown around online at anyone selfish; the diagnosis is specific and uncommon. Treatment is possible, and people do change.",
+  "what_it_can_feel_like": [
+    "I needed to be the best in every room. When I wasn't, I fell apart, and I took it out on the people closest to me.",
+    "Therapy started when my marriage ended. It took a long time to admit the problem wasn't everyone else.",
+    "People online use 'narcissist' as a curse word. For me it was a diagnosis that finally explained the emptiness."
+  ],
+  "common_signs": [
+    "An inflated sense of importance, achievements, or specialness",
+    "Needing constant admiration; being preoccupied with success or status",
+    "Feeling entitled, exploiting others, or envying them",
+    "Finding it hard to notice or care about others' feelings",
+    "Reacting to criticism with rage, contempt, or collapse",
+    "Underneath: fragile self-worth, shame, and emptiness"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Narcissists love themselves.",
+      "fact": "Most people with NPD have fragile self-worth and deep shame, which grandiosity defends against. It's closer to self-doubt than self-love."
+    },
+    {
+      "myth": "Anyone selfish or difficult is a narcissist.",
+      "fact": "NPD is a specific, uncommon diagnosis. Armchair-diagnosing an ex or a boss rarely helps anyone and adds stigma to people with the condition."
+    },
+    {
+      "myth": "People with NPD never change.",
+      "fact": "Change is slow and usually starts with a crisis, but longer-term therapy helps many people develop empathy and steadier self-worth."
+    }
+  ],
+  "how_common": {
+    "plain": "Estimates vary widely, from under 1 in 100 to around 6 in 100 adults, depending on the study. Men are diagnosed more often.",
+    "figure": "DSM-5-TR text: 0%–6.2% across community samples; NESARC excluded NPD from its first wave",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Longer-term talk therapy is the main treatment. Approaches such as schema therapy, mentalization-based therapy, and psychodynamic therapy work on self-worth, empathy, and relationships. Treatment often starts after a loss, a breakdown, or depression, and treating those is part of it. Medication isn't a treatment for NPD itself. It may be used for depression or anxiety, prescribed and monitored by a doctor. Therapy works best when it is steady, honest, and never humiliating.",
+    "evidence_based_options": [
+      "Longer-term psychotherapy: schema, mentalization-based, transference-focused, or psychodynamic",
+      "Treatment of co-occurring depression, anxiety, or substance use",
+      "Couples or family work where relationships are strained",
+      "Medication for co-occurring conditions only, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Noticing the shame underneath anger at criticism",
+      "Practising curiosity about other people's inner lives",
+      "Staying in therapy past the point where it gets uncomfortable",
+      "For family: support for yourself, and clear boundaries"
+    ],
+    "guideline_refs": [
+      "src-nice-cg78"
+    ]
+  },
+  "when_to_reach_out": "Does needing to be admired, or struggling to care about others, keep costing you relationships or work? Does criticism send you into rage or despair? A therapist who works with personality difficulties can help. A moment of crisis, when you most want change, is a good time to start.",
+  "is_not": "Confidence, ambition, or vanity aren't NPD. Everyone is self-centred sometimes. The diagnosis needs a lasting pattern that causes significant impairment or distress.",
+  "hope_note": "People who stick with therapy describe something they never expected: relationships that feel real.",
+  "related_topics": [
+    "about-personality-disorders",
+    "antisocial-personality-disorder",
+    "histrionic-personality-disorder",
+    "borderline-personality-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "grandiosity",
+    "narcissist-pop",
+    "splitting",
+    "schema-therapy",
+    "psychodynamic-therapy",
+    "stigma"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Cluster B.",
+      "The 'narcissist' label is widely misused online; the card addresses this directly."
+    ]
+  },
+  "visual": {
+    "color_token": "personality",
+    "icon": "fingerprint",
+    "illustration_prompt": "Soft line illustration of a person sitting across from a therapist, both leaning in, a window with a view of a quiet street, a mirror on the wall turned slightly away. Pastel plum and grey.",
+    "alt_text": "A person and a therapist sit leaning toward each other beside a window, a mirror turned slightly away."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Personality Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-pd",
+      "title": "Personality Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/personality-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg78",
+      "title": "Borderline personality disorder: recognition and management (CG78)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg78",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2009
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "All personality disorder cards are flagged for clinician review because of stigma risk.",
+      "Find a primary prevalence source.",
+      "Only general PD communities listed; look for NPD-specific peer support (for example r/NPD) and verify."
+    ]
+  },
+  "across_cultures": "Some cultures reward selling yourself. Traits that look narcissistic elsewhere may be normal there. Clinicians weigh this before diagnosing."
+}

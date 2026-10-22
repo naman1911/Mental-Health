@@ -1,0 +1,134 @@
+{
+  "topic_id": "social-environment-and-identity-stress",
+  "official_name": "Social Environment and Identity Stress",
+  "plain_title": "Discrimination, isolation, and migration stress",
+  "also_known_as": [
+    "minority stress",
+    "discrimination",
+    "social exclusion",
+    "acculturation stress",
+    "loneliness"
+  ],
+  "chapter_id": "clinical-focus",
+  "card_type": "clinical-focus",
+  "icd10cm_code": "Z60.x / Z65.8",
+  "language_convention": "person-first",
+  "one_liner": "Stress from unfair treatment, being left out, moving countries, loneliness, or living as a minority, noted in care.",
+  "in_simple_words": "Where you live, how you're treated, and whether you belong all shape mental health. The DSM lists social problems as part of care: being treated unfairly, being left out, loneliness, struggling to settle in a new country, and being persecuted. Research on minority stress shows that prejudice, and always expecting it, raises rates of depression and anxiety among LGBTQ+ people, minorities, disabled people, and migrants. Naming the cause matters. The problem is the setting, not the person.",
+  "what_it_can_feel_like": [
+    "My therapist kept asking about my 'negative thoughts'. I kept saying: they're not thoughts, they're what happened at work on Tuesday.",
+    "Moving countries at 15 meant losing every friend and every word I knew for feelings. Finding a community that spoke my language brought me back."
+  ],
+  "common_signs": [
+    "Anxiety, low mood, or hypervigilance linked to how you're treated because of who you are",
+    "Loneliness, isolation, or no one to turn to",
+    "Stress of migration: language, status, separation from family, loss of role",
+    "Feeling you have to hide part of yourself to be safe",
+    "Exhaustion from constant alertness to prejudice"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If discrimination affects your mental health, you're too sensitive.",
+      "fact": "Decades of research show discrimination and minority stress measurably raise rates of depression, anxiety, and physical illness. It's a stressor, not a weakness."
+    },
+    {
+      "myth": "Loneliness is a feeling, not a health issue.",
+      "fact": "Chronic loneliness is linked to depression, poor sleep, and physical illness. Social connection is treated as a health intervention."
+    }
+  ],
+  "how_common": {
+    "plain": "Research keeps finding higher rates of depression and anxiety among people who face prejudice. Loneliness affects a large share of adults in every country surveyed.",
+    "figure": "Meta-analyses in Meyer (2003) found higher prevalence of mental disorders among lesbian, gay, and bisexual people, explained by stigma-related stress",
+    "source_ref": "src-meyer-2003"
+  },
+  "what_helps": {
+    "plain_summary": "Care that names the setting as the problem helps. That means therapy that understands minority stress, peer support with people who share your identity, and practical help with rights, immigration, or complaints. Depression, anxiety, or PTSD that follow are treated, with any medication prescribed and monitored by a doctor. Befriending and group activities ease loneliness. Clinicians can use the Cultural Formulation Interview to understand your situation in your own terms.",
+    "evidence_based_options": [
+      "Culturally competent, affirming therapy that understands minority stress",
+      "Peer and community support with people who share your identity",
+      "Advocacy and legal help for discrimination, immigration, or persecution",
+      "Treatment of resulting depression, anxiety, or PTSD; befriending and social prescribing for loneliness"
+    ],
+    "self_help_that_supports_care": [
+      "Finding your people: community groups, faith or cultural groups, LGBTQ+ organisations",
+      "Limiting exposure to hostile spaces where you can, including online",
+      "Naming what's happening to you instead of blaming yourself",
+      "Asking for a clinician who shares or understands your background"
+    ],
+    "guideline_refs": [
+      "src-meyer-2003"
+    ]
+  },
+  "when_to_reach_out": "If unfair treatment, being alone, or the stress of moving countries is hurting your mood, sleep, or safety, tell a doctor or therapist plainly. Reach out to a community group for people in your situation. If you're being threatened, contact the police or a specialist advocacy service. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Being different isn't a problem. Being treated badly for it is. Identity itself is never the diagnosis.",
+  "hope_note": "Belonging is medicine. People who find their community and name their experience describe a kind of relief that no therapy alone could give.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "gender-dysphoria",
+    "culture-and-mental-health",
+    "adjustment-disorders"
+  ],
+  "glossary_terms": [
+    "stigma",
+    "loneliness",
+    "person-first-identity-first",
+    "lived-experience",
+    "peer-support",
+    "trauma-informed"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "clinical-focus",
+    "icon": "life-buoy",
+    "illustration_prompt": "Soft line illustration of a diverse group of people sharing food at a long table outdoors under string lights, laughing, early evening. Pastel sky blue and warm orange.",
+    "alt_text": "A diverse group of people shares food at a long outdoor table under string lights."
+  },
+  "communities": [
+    "qlife-australia",
+    "trevor-project",
+    "trans-lifeline",
+    "mind-side-by-side",
+    "nami-connection-and-helpline",
+    "ditch-the-label-community"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Conditions That May Be a Focus of Clinical Attention chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-meyer-2003",
+      "title": "Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: conceptual issues and research evidence",
+      "publisher": "Psychological Bulletin (Meyer); PubMed 12956539",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12956539/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2003
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  },
+  "across_cultures": "Migrants and refugees may express distress through the body, through spiritual language, or through family roles rather than mood words. Interpreters, bicultural workers, and asking 'what do you call this problem?' change outcomes."
+}

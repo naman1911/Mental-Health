@@ -1,0 +1,138 @@
+{
+  "topic_id": "sexual-masochism-and-sadism-disorders",
+  "official_name": "Sexual Masochism and Sexual Sadism Disorders",
+  "plain_title": "When pain or power in sex causes distress or harms others",
+  "also_known_as": [
+    "masochism",
+    "sadism",
+    "BDSM (consensual practice, not a disorder)"
+  ],
+  "chapter_id": "paraphilic",
+  "card_type": "condition",
+  "icd10cm_code": "F65.51 / F65.52",
+  "language_convention": "person-first",
+  "one_liner": "Arousal from receiving or inflicting pain or humiliation, diagnosed only when it distresses the person or harms non-consenting people.",
+  "in_simple_words": "Sexual masochism is arousal from being hurt or humiliated; sexual sadism is arousal from another person's pain. Many adults enjoy consensual play with pain, restraint, or power. That's within adult sexuality and not a disorder. Masochism disorder is diagnosed only when the interest causes real distress or involves dangerous practices. Sadism disorder is diagnosed when a person has acted on it with someone who hasn't consented, or the urges cause distress. Consent is the dividing line.",
+  "what_it_can_feel_like": [
+    "The clinician didn't flinch when I described what I'm into. She asked whether it was safe and whether I was happy. It was and I am. No diagnosis.",
+    "My urges scared me because I didn't want to hurt anyone who hadn't asked. Therapy gave me a place to say that out loud."
+  ],
+  "common_signs": [
+    "Recurring arousal from being hurt (masochism) or from another's pain (sadism)",
+    "Disorder only if it causes distress or impairment, or involves a non-consenting person",
+    "Lasting six months or more",
+    "Dangerous solo practices that risk injury count as a reason for concern"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Anyone into BDSM has a mental disorder.",
+      "fact": "The DSM says consensual activity between adults that causes no distress is not a disorder. Studies suggest people who practise consensual BDSM are no less mentally healthy than others."
+    },
+    {
+      "myth": "Sadism means someone is a violent criminal.",
+      "fact": "Sadistic interests enjoyed consensually harm no one. The disorder is about non-consent or distress, which is a very different thing."
+    }
+  ],
+  "how_common": {
+    "plain": "Interest in consensual power or pain play is fairly common among adults. Sexual sadism disorder, defined by non-consent, is rare and mostly seen in forensic settings.",
+    "figure": "Prevalence of the disorders not well established; interest surveys show a sizeable minority of adults report some interest (Czech population study)",
+    "source_ref": "src-czech-paraphilia",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "For consensual interests that cause distress, therapy focuses on reducing shame, safety, and relationships, not on removing the interest. Where there's a risk to others, specialist services provide CBT, risk management, and in some cases medication to reduce sex drive, prescribed and monitored by a doctor. A clinician who understands kink without judgement makes a big difference, and such clinicians exist.",
+    "evidence_based_options": [
+      "Kink-aware therapy for distress, safety, and relationships",
+      "Specialist assessment and CBT where there is risk to non-consenting people",
+      "Medication to reduce sex drive in selected cases, prescribed and monitored by a doctor",
+      "Treatment of co-occurring depression, anxiety, or substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Consent, communication, and safety practices with partners",
+      "Avoiding solo practices that restrict breathing or risk injury",
+      "Finding a kink-aware clinician if the interest causes distress",
+      "Calling a prevention helpline if urges involve anyone who hasn't consented"
+    ],
+    "guideline_refs": [
+      "src-moore-center"
+    ]
+  },
+  "when_to_reach_out": "If your interests cause you distress, involve practices that could seriously injure you, or involve urges toward people who haven't consented, talk to a kink-aware therapist, a doctor, or a confidential helpline. If a partner is pushing past your consent, that's abuse, and support is available.",
+  "is_not": "Consensual BDSM between adults, with communication and safety, isn't a disorder. Being hurt by a partner who ignores your consent isn't masochism; it's abuse.",
+  "hope_note": "People find clinicians who understand them, drop the shame, and keep themselves and their partners safe.",
+  "related_topics": [
+    "paraphilic-disorders-overview",
+    "fetishistic-and-transvestic-disorders",
+    "partner-violence-and-adult-abuse",
+    "nonsuicidal-self-injury"
+  ],
+  "glossary_terms": [
+    "paraphilia-vs-paraphilic-disorder",
+    "consent-and-minors",
+    "boundaries",
+    "stigma"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Strictly non-sensational: no descriptions of acts, no victim-blaming, no eroticised language.",
+      "Clear line between consensual adult interests (not a disorder) and non-consent or harm (always wrong, regardless of diagnosis)."
+    ]
+  },
+  "visual": {
+    "color_token": "paraphilic",
+    "icon": "scale",
+    "illustration_prompt": "Soft line illustration of two adults talking at a kitchen table over coffee, relaxed, a notebook between them, morning light. Pastel grey-blue and plum.",
+    "alt_text": "Two adults talk over coffee at a kitchen table."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Paraphilic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-czech-paraphilia",
+      "title": "The Prevalence of Paraphilic Interests in the Czech Population",
+      "publisher": "National Institute of Mental Health (Czechia), Parafilik project",
+      "url": "https://parafilik.nudz.cz/wp-content/uploads/2023/12/The-Prevalence-of-Paraphilic-Interests-in-the-Czech-Population.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-moore-center",
+      "title": "Resources for people concerned about their sexual thoughts",
+      "publisher": "Moore Center for the Prevention of Child Sexual Abuse, Johns Hopkins",
+      "url": "https://publichealth.jhu.edu/moore-center-for-the-prevention-of-child-sexual-abuse/get-support/resources-for-people-concerned-about-their-sexual-thoughts",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Clinician with kink-awareness training to review."
+    ]
+  }
+}

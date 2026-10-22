@@ -1,0 +1,145 @@
+{
+  "topic_id": "factitious-disorder",
+  "official_name": "Factitious Disorder",
+  "plain_title": "Faking or causing illness without an obvious reason",
+  "also_known_as": [
+    "Munchausen syndrome (older term)",
+    "factitious disorder imposed on another (Munchausen by proxy)"
+  ],
+  "chapter_id": "somatic",
+  "card_type": "condition",
+  "icd10cm_code": "F68.10 / F68.A",
+  "language_convention": "person-first",
+  "one_liner": "Deliberately producing or faking illness in oneself, or in someone in one's care, without an obvious external reward.",
+  "in_simple_words": "Factitious disorder is when a person deliberately fakes or causes illness or injury, in themselves (imposed on self) or in someone they care for, usually a child (imposed on another), without an outside motive like money. The driver is a deep need to be seen as ill or as a caregiver. It's rare and often rooted in trauma. Imposed on another is abuse and handled as child protection. Treatment is possible but hard, because the person often can't admit it.",
+  "what_it_can_feel_like": [
+    "I don't fully know why I did it. The hospital was the only place I felt looked after.",
+    "Being confronted was devastating. Being offered therapy instead of just being discharged was what changed things.",
+    "As the child it was done to, I grew up believing I was sick. Learning the truth took years."
+  ],
+  "common_signs": [
+    "Faking, exaggerating, or deliberately causing symptoms or injury",
+    "Presenting oneself (or another) as ill, impaired, or injured",
+    "No obvious external reward, like money or avoiding duties",
+    "Often many hospital admissions, unusual or inconsistent test results, or symptoms that worsen when unobserved",
+    "In 'imposed on another': a child with unexplained, recurring illness in one person's care"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People with factitious disorder are just attention-seekers who should be ignored.",
+      "fact": "It's a serious mental health condition, usually rooted in trauma. Ignoring it leaves the person, and sometimes a child, at real risk."
+    },
+    {
+      "myth": "It's the same as malingering.",
+      "fact": "Malingering is faking for an external gain, like money or avoiding work, and isn't a mental disorder. Factitious disorder has no such gain."
+    },
+    {
+      "myth": "Somatic symptom disorder and FND are types of faking too.",
+      "fact": "No. In those conditions symptoms are genuinely experienced. Factitious disorder is the only one involving deliberate deception."
+    }
+  ],
+  "how_common": {
+    "plain": "Factitious disorder is thought to be rare, around 1 in 100 hospital patients in some estimates, though it's largely unrecognized and the true rate is unknown.",
+    "figure": "Estimated around 1% of hospital inpatients in some studies; true prevalence unknown because of deception",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is challenging. The first step is a careful, non-punitive approach: a consistent clinician, limiting harmful tests and procedures, and offering psychological help without forcing a confession. Longer-term psychotherapy can address the underlying needs and trauma. Any co-occurring depression or personality difficulties are treated. When a child is involved, protecting the child comes first, through child protection services, with support for the whole family.",
+    "evidence_based_options": [
+      "A consistent, non-confrontational clinical relationship",
+      "Limiting unnecessary and harmful investigations",
+      "Psychotherapy for underlying trauma and needs",
+      "Child protection procedures and family support when imposed on another"
+    ],
+    "self_help_that_supports_care": [
+      "If you recognize yourself: telling one clinician the truth is the bravest and most effective step",
+      "Asking for therapy rather than another admission",
+      "For families and clinicians: concern for the child's safety overrides everything",
+      "Support for adults who were harmed as children by a caregiver's factitious behaviour"
+    ],
+    "guideline_refs": [
+      "src-dsm"
+    ]
+  },
+  "when_to_reach_out": "If you've been faking or causing illness and want to stop, a GP or mental health professional can help you without judgement. If you're worried a child is being made ill by a caregiver, contact child protection services or a child abuse helpline now.",
+  "is_not": "Genuinely experienced symptoms (somatic symptom disorder, FND) are not factitious. Faking for money, drugs, or to avoid duties is malingering, not a disorder. Illness anxiety involves real fear, not deception.",
+  "hope_note": "People with factitious disorder can recover when they find a relationship safe enough to be honest in. Children affected by it can heal with the truth and support.",
+  "related_topics": [
+    "somatic-symptom-disorder",
+    "functional-neurological-symptom-disorder",
+    "child-abuse-and-neglect",
+    "borderline-personality-disorder",
+    "other-circumstances-a-clinician-may-note"
+  ],
+  "glossary_terms": [
+    "differential-diagnosis",
+    "trauma",
+    "attachment"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Imposed on another is child abuse; child-protection links required."
+    ]
+  },
+  "visual": {
+    "color_token": "somatic",
+    "icon": "activity",
+    "illustration_prompt": "Soft line illustration of a doctor and a person talking quietly in a consulting room, a closed file on the desk, both calm, a window with soft light. Pastel terracotta and grey.",
+    "alt_text": "A doctor and a person talk quietly in a consulting room with a closed file on the desk."
+  },
+  "communities": [
+    "mind-side-by-side",
+    "nami-connection-and-helpline",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Somatic Symptom and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nspcc-fii",
+      "title": "Fabricated or induced illness",
+      "publisher": "NSPCC (UK)",
+      "url": "https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/fabricated-or-induced-illness/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Add child-protection helplines once crisis-lines.json exists."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Imposed on self",
+      "icd10cm_code": "F68.10",
+      "text": "Faking or causing illness in oneself."
+    },
+    {
+      "title": "Imposed on another",
+      "icd10cm_code": "F68.A",
+      "text": "Faking or causing illness in a child or dependent. The diagnosis belongs to the perpetrator; the victim is treated as a victim of abuse."
+    }
+  ]
+}

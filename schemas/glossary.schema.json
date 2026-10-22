@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/naman1911/Mental-Health/schemas/glossary.schema.json",
+  "title": "Glossary",
+  "type": "object",
+  "required": ["generated_on", "groups", "totals", "terms"],
+  "properties": {
+    "generated_on": {"type": "string", "format": "date"},
+    "notes": {"type": "string"},
+    "groups": {"type": "object", "additionalProperties": {"type": "string"}},
+    "totals": {"type": "object"},
+    "terms": {"type": "array", "minItems": 250, "items": {"$ref": "#/$defs/term"}}
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["title", "publisher", "url", "accessed", "verification_status"],
+      "properties": {
+        "title": {"type": "string", "minLength": 1},
+        "publisher": {"type": "string", "minLength": 1},
+        "url": {"type": "string", "format": "uri", "pattern": "^https://"},
+        "accessed": {"type": "string", "format": "date"},
+        "access_method": {"type": "string", "enum": ["opened", "seen-in-search-results", "not-opened"]},
+        "verification_status": {"type": "string", "enum": ["verified", "needs_verification"]}
+      }
+    },
+    "term": {
+      "type": "object",
+      "required": ["term_id", "term", "also_called", "group", "is_dsm_diagnosis", "plain_definition", "everyday_example", "common_misunderstanding", "related_topics", "sources"],
+      "additionalProperties": false,
+      "properties": {
+        "term_id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+        "term": {"type": "string", "minLength": 1, "maxLength": 80},
+        "also_called": {"type": "array", "items": {"type": "string"}},
+        "group": {"type": "string", "enum": ["clinical", "everyday", "treatment", "rights"]},
+        "is_dsm_diagnosis": {"type": "boolean"},
+        "plain_definition": {"type": "string", "minLength": 20, "maxLength": 450},
+        "everyday_example": {"type": "string", "minLength": 10, "maxLength": 300},
+        "common_misunderstanding": {"type": "string", "minLength": 10, "maxLength": 350},
+        "related_topics": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"}},
+        "related_terms": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"}},
+        "sources": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/source"}}
+      }
+    }
+  }
+}

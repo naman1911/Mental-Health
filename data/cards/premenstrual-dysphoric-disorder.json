@@ -1,0 +1,156 @@
+{
+  "topic_id": "premenstrual-dysphoric-disorder",
+  "official_name": "Premenstrual Dysphoric Disorder",
+  "plain_title": "When the week before your period wrecks your mood",
+  "also_known_as": [
+    "PMDD",
+    "severe PMS (not the same thing)"
+  ],
+  "chapter_id": "depressive",
+  "card_type": "condition",
+  "icd10cm_code": "F32.81",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with PMDD'. The card says 'people who menstruate' as well as 'women', because trans men and nonbinary people can have PMDD.",
+  "one_liner": "Severe mood symptoms in the week or so before a period that lift once it starts, cycle after cycle.",
+  "in_simple_words": "PMDD is a severe, cyclical mood condition tied to the menstrual cycle. In the days before a period, mood crashes: deep sadness, rage, anxiety, hopelessness, feeling out of control, alongside tiredness, sleep changes, and physical symptoms. Within a few days of bleeding starting, it lifts. It is not 'bad PMS' or weakness. It is thought to be an abnormal brain sensitivity to normal hormone changes, and it is treatable.",
+  "what_it_can_feel_like": [
+    "For ten days a month I don't recognize myself. Then my period comes and I'm back.",
+    "I planned my whole life around the 'bad week' before I knew it had a name.",
+    "Tracking it on a calendar was the moment it finally made sense."
+  ],
+  "common_signs": [
+    "Mood swings, sudden sadness, or tearfulness in the week before a period",
+    "Intense irritability, anger, or conflict with others",
+    "Feeling anxious, on edge, or hopeless",
+    "Low energy, trouble concentrating, sleep changes, food cravings",
+    "Breast tenderness, bloating, or aches",
+    "Symptoms lift within a few days of the period starting"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just PMS. Everyone gets it.",
+      "fact": "PMS is common and mild. PMDD is severe enough to disrupt work, relationships, and safety, and it has its own diagnosis."
+    },
+    {
+      "myth": "It's a hormone imbalance.",
+      "fact": "Hormone levels are usually normal. The brain responds to normal changes in an unusual way, which is why treatments target the brain or stop the cycle."
+    },
+    {
+      "myth": "You just have to put up with it.",
+      "fact": "Several treatments work well, and tracking symptoms for two cycles is the first step to getting them."
+    }
+  ],
+  "how_common": {
+    "plain": "Roughly 3 to 6 in every 100 people who menstruate have PMDD. Many more have milder premenstrual symptoms.",
+    "figure": "Estimates range from about 1.8% to 5.8% of menstruating people (APA range cited in a 2024 meta-analysis); IAPMD cites 5.5%",
+    "source_ref": "src-iapmd-prev",
+    "note": "Estimates vary with method; studies using daily symptom diaries give lower, more accurate figures."
+  },
+  "what_helps": {
+    "plain_summary": "First, track symptoms daily across two cycles so the pattern is clear; a diagnosis needs this. Treatments with good evidence include certain antidepressants (SSRIs), which for PMDD can work within days and are sometimes taken only in the second half of the cycle, and some hormonal contraceptives. CBT helps with coping and mood. All medication is prescribed and monitored by a doctor. For severe cases that don't respond, specialists have further options.",
+    "evidence_based_options": [
+      "SSRIs, taken continuously or only in the premenstrual phase, prescribed and monitored by a doctor",
+      "Certain combined hormonal contraceptives, prescribed and monitored by a doctor",
+      "Cognitive behavioural therapy (CBT)",
+      "Specialist hormonal treatments for severe, non-responding PMDD"
+    ],
+    "self_help_that_supports_care": [
+      "A daily symptom tracker app or paper chart for at least two cycles",
+      "Planning demanding tasks for the better half of the cycle where possible",
+      "Regular sleep, exercise, and less alcohol and caffeine in the premenstrual week",
+      "Telling the people close to you what the pattern is and what helps"
+    ],
+    "guideline_refs": [
+      "src-iapmd-prev"
+    ]
+  },
+  "when_to_reach_out": "If mood symptoms before your period are severe, happen most cycles, and affect your life or relationships, see a doctor and bring your symptom tracking. If you have thoughts of ending your life in the premenstrual phase, which happens to many people with PMDD, use the crisis strip now; this phase passes, and help exists.",
+  "is_not": "Ordinary PMS, with mild irritability or bloating, is not PMDD. Depression or anxiety that is present all month and gets worse before a period is called 'premenstrual exacerbation' and is treated differently.",
+  "hope_note": "People with PMDD often go years without a name for it. Once it's recognized and treated, many get most of their month back.",
+  "in_young_people": "PMDD can start with the first periods. Teenagers' symptoms are often dismissed as 'hormonal'. Tracking helps young people and parents see the pattern and get it taken seriously.",
+  "across_cultures": "Menstruation is taboo in many communities, which makes PMDD harder to talk about and diagnose. Symptoms may be put down to character or 'nerves'. Culturally sensitive, private conversations with a clinician help.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "borderline-personality-disorder",
+    "perinatal-depression-and-anxiety"
+  ],
+  "glossary_terms": [
+    "dysphoria",
+    "emotional-lability",
+    "ssri",
+    "cbt",
+    "suicidal-ideation",
+    "irritability"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicidal thoughts in the luteal phase are common in PMDD; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "depressive",
+    "icon": "sunrise",
+    "illustration_prompt": "Soft line illustration of a person marking a wall calendar with coloured dots, a cup of tea beside them, a cat on the chair, calm afternoon light. Pastel rose and peach.",
+    "alt_text": "A person marks a wall calendar with coloured dots beside a cup of tea while a cat sits on the chair."
+  },
+  "communities": [
+    "iapmd-peer-support",
+    "reddit-r-pmdd",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Depressive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-iapmd-prev",
+      "title": "What is the prevalence of premenstrual disorders?",
+      "publisher": "International Association for Premenstrual Disorders (IAPMD)",
+      "url": "https://faq.iapmd.org/en/articles/2609618-what-is-the-prevalence-of-premenstrual-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-oxford-pmdd",
+      "title": "New data shows prevalence of PMDD (2024 meta-analysis)",
+      "publisher": "University of Oxford, Department of Psychiatry",
+      "url": "https://www.psych.ox.ac.uk/news/new-data-shows-prevalence-of-premenstrual-dysphoric-disorder-pmdd",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2024
+    },
+    {
+      "id": "src-iapmd-treat",
+      "title": "Treatment options for PMDD",
+      "publisher": "International Association for Premenstrual Disorders (IAPMD)",
+      "url": "https://iapmd.org/treatment-options",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Page URL from memory; confirm."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm IAPMD treatment page URL and current guidance (RCOG/ISPMD) before publishing."
+    ]
+  }
+}

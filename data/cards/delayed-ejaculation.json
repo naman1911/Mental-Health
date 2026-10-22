@@ -1,0 +1,138 @@
+{
+  "topic_id": "delayed-ejaculation",
+  "official_name": "Delayed Ejaculation",
+  "plain_title": "When ejaculation takes far too long, or doesn't come",
+  "also_known_as": [
+    "DE",
+    "inhibited ejaculation",
+    "anorgasmia (male)"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.32",
+  "language_convention": "person-first",
+  "one_liner": "Marked delay or absence of ejaculation during partnered sex despite wanting it, for six months or more.",
+  "in_simple_words": "Delayed ejaculation is when a person keeps taking much longer than they'd like to ejaculate during sex with a partner, or can't at all, even though they want to and have enough stimulation. It lasts at least six months and causes distress. Causes include medicines (especially some antidepressants), nerve conditions, diabetes, hormones, ageing, anxiety, relationship problems, and a gap between solo and partnered sex. A doctor checks medical and medicine causes. Sex therapy helps with the rest.",
+  "what_it_can_feel_like": [
+    "People think it must be great to last forever. It's exhausting, and my partner thought it meant I wasn't attracted to her.",
+    "It turned out to be my antidepressant. My doctor switched it and the problem eased within weeks."
+  ],
+  "common_signs": [
+    "Ejaculation takes much longer than wanted during partnered sex, or doesn't happen",
+    "Despite wanting to and having enough stimulation",
+    "Lasting at least six months, most of the time",
+    "Upset, frustration, tiredness, or soreness; a worried partner"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Taking a long time is always a good thing.",
+      "fact": "When it's unwanted, it causes frustration, pain, and relationship strain. It's a real difficulty, not a bonus."
+    },
+    {
+      "myth": "It means you're not attracted to your partner.",
+      "fact": "Medication, nerves, hormones, anxiety, and habits of stimulation are far more common causes than attraction."
+    }
+  ],
+  "how_common": {
+    "plain": "Delayed ejaculation affects about 1 to 4 in 100 men. It's more common with age and with some antidepressants. Many never report it.",
+    "figure": "About 1%–3% (narrative review); up to 4% in some estimates",
+    "source_ref": "src-de-review",
+    "note": "Primary epidemiological source needed."
+  },
+  "what_helps": {
+    "plain_summary": "The first step is a check of your health and your medicines. Antidepressants and some other drugs are a common cause, and a doctor may change them. Sex therapy works on anxiety, pressure to perform, and the gap between solo and partnered sex. It can include your partner. Medical treatments have limited evidence. Some medicines are used off-label, prescribed and monitored by a doctor. Treating depression or relationship strain helps.",
+    "evidence_based_options": [
+      "Medication and medical review by a doctor",
+      "Psychosexual therapy, individual or couple",
+      "Treatment of depression, anxiety, or relationship distress",
+      "Specialist referral for hormonal or neurological causes"
+    ],
+    "self_help_that_supports_care": [
+      "Noting when it started and any medication changes",
+      "Talking with your partner so it's not misread as rejection",
+      "Reducing pressure and goal-focused sex",
+      "Asking a doctor before stopping any medication"
+    ],
+    "guideline_refs": [
+      "src-de-review"
+    ]
+  },
+  "when_to_reach_out": "If delayed ejaculation is causing distress or affecting your relationship, or it started after a medication change, talk to a doctor. Don't stop prescribed medication on your own.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Taking longer after drinking, when tired, or with age is common. It isn't a disorder unless it bothers you.",
+  "hope_note": "When the cause is found, often a medication, things frequently improve. Therapy helps couples reconnect in the meantime.",
+  "related_topics": [
+    "premature-early-ejaculation",
+    "erectile-disorder",
+    "male-hypoactive-sexual-desire-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "side-effects",
+    "ssri",
+    "gp-primary-care",
+    "therapy"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of a person talking with a doctor across a desk, a prescription pad and a plant on the desk, calm light. Pastel rose and grey.",
+    "alt_text": "A person talks with a doctor across a desk."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-de-review",
+      "title": "Treatments for Delayed Ejaculation: A Narrative Review",
+      "publisher": "Anglia Ruskin Research Online",
+      "url": "https://aru.figshare.com/articles/journal_contribution/Treatments_for_Delayed_Ejaculation_A_Narrative_Review/25331644",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Abstract seen in search; full text not opened."
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence study."
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "topic_id": "other-or-unknown-substance-use-disorder",
+  "official_name": "Other (or Unknown) Substance Use Disorder",
+  "plain_title": "When the substance isn't on the usual list",
+  "also_known_as": [
+    "novel psychoactive substances",
+    "nitrous oxide",
+    "anabolic steroids",
+    "kratom",
+    "'spice'",
+    "GHB"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F19.10 (mild) / F19.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "A use disorder involving a substance not covered by the other categories, or when the substance isn't known.",
+  "in_simple_words": "Some substances don't fit the main DSM groups: nitrous oxide ('laughing gas'), GHB, anabolic steroids, kratom, betel nut, synthetic cannabinoids ('spice'), and new 'designer' drugs. The DSM uses this category for a use disorder involving any of these, or when a person doesn't know what they've been using. The patterns of loss of control and harm are the same; the specific dangers differ. New substances are often unpredictable, and official drug-checking services can tell you what's in something.",
+  "what_it_can_feel_like": [
+    "Nitrous was a party thing. Then the numbness in my legs started. The doctor said nerve damage.",
+    "GHB has a tiny gap between a high and unconsciousness. I learned that the hard way.",
+    "Steroids didn't feel like a drug problem until I couldn't stop and my moods were out of control."
+  ],
+  "common_signs": [
+    "Using a substance more or longer than intended, and failing to cut down",
+    "Cravings, needing more, or withdrawal",
+    "Continuing despite harm to health, mood, work, or relationships",
+    "Substance-specific harms: nerve damage, collapse, mood swings, heart risk, or psychosis",
+    "Not knowing what a substance contains"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Legal highs and 'research chemicals' are safe because they're legal or new.",
+      "fact": "New substances are often untested and unpredictable, and several have caused clusters of deaths. Legal status is not a safety rating."
+    },
+    {
+      "myth": "Nitrous oxide is harmless.",
+      "fact": "Heavy use damages nerves by depleting vitamin B12 and can cause lasting weakness and numbness."
+    },
+    {
+      "myth": "Steroids aren't addictive.",
+      "fact": "Anabolic steroid dependence is recognized, with withdrawal depression and strong difficulty stopping."
+    }
+  ],
+  "how_common": {
+    "plain": "Use of 'other' substances is less common than alcohol, cannabis, or opioids but has grown with new synthetic drugs and nitrous oxide, especially among young people.",
+    "figure": "No single prevalence figure; varies by substance and country",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment uses the same approaches as other substance use disorders: CBT, motivational interviewing, peer support, and treating co-occurring conditions, with medical care for the specific harms of each substance, such as B12 for nitrous oxide nerve damage or supervised withdrawal for GHB, which can be dangerous. Drug-checking services and harm-reduction advice from official organizations reduce the risk from unknown substances.",
+    "evidence_based_options": [
+      "CBT, motivational interviewing, and peer support",
+      "Medical treatment for substance-specific harms",
+      "Medically supervised withdrawal where needed (for example GHB)",
+      "Harm reduction, including drug checking where available"
+    ],
+    "self_help_that_supports_care": [
+      "Finding out what a substance is before using, through official drug-checking services",
+      "Never using alone",
+      "Telling a doctor exactly what you've used; they're there to help, not judge",
+      "Peer support, online or in person"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If use of any substance is becoming hard to control, or you've had frightening effects, talk to a doctor or a drug helpline. Get emergency help for collapse, seizures, severe agitation, or numbness and weakness that's spreading.",
+  "is_not": "Occasional use without loss of control isn't a disorder, though many of these substances carry serious acute risks. Prescribed medicines taken as directed aren't a use disorder.",
+  "hope_note": "Recovery looks the same whatever the substance: support, time, and people who've been there.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "stimulant-use-disorder",
+    "hallucinogen-related-disorders",
+    "cannabis-use-disorder",
+    "understanding-psychosis"
+  ],
+  "glossary_terms": [
+    "harm-reduction",
+    "withdrawal",
+    "intoxication"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person at a community health drop-in talking with a worker at a friendly information desk with leaflets, a plant, and a poster reading 'ask us anything'. Pastel navy and teal.",
+    "alt_text": "A person talks with a worker at a friendly community health information desk with leaflets and a plant."
+  },
+  "communities": [
+    "frank-uk",
+    "samhsa-national-helpline",
+    "smart-recovery-meetings",
+    "virtual-na"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add country-specific drug-checking service links after verification."
+    ]
+  },
+  "in_young_people": "New synthetic substances and nitrous oxide are mostly used by young people, often without knowing what they're taking. Honest information and drug-checking services reduce deaths.",
+  "across_cultures": "What counts as 'other' depends on where you are: betel nut in South and Southeast Asia, khat in East Africa and the Middle East, and kratom in Southeast Asia all have traditional use and their own patterns of dependence."
+}

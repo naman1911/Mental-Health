@@ -1,0 +1,146 @@
+{
+  "topic_id": "nightmare-disorder",
+  "official_name": "Nightmare Disorder",
+  "plain_title": "When bad dreams keep breaking your sleep",
+  "also_known_as": [
+    "chronic nightmares",
+    "recurrent nightmares"
+  ],
+  "chapter_id": "sleep",
+  "card_type": "condition",
+  "icd10cm_code": "F51.5",
+  "language_convention": "person-first",
+  "one_liner": "Repeated, vivid, frightening dreams that wake you and cause real distress or disrupt sleep and daily life.",
+  "in_simple_words": "Everyone has nightmares now and then. Nightmare disorder is when they come often, are intensely distressing, wake you fully with a clear memory, and leave you dreading sleep or exhausted by day. They're especially common after trauma and alongside PTSD, anxiety, and depression, and some medications can trigger them. The good news: nightmares respond well to a specific, surprisingly simple therapy that teaches you to rewrite the dream.",
+  "what_it_can_feel_like": [
+    "I'd wake up screaming three nights a week. I started staying up to avoid it.",
+    "After the assault the dreams were worse than the days.",
+    "Imagery rehearsal felt silly. I rewrote the ending twenty times. The nightmare stopped coming."
+  ],
+  "common_signs": [
+    "Frequent, vivid, frightening dreams, often about danger or survival",
+    "Waking fully and remembering the dream clearly",
+    "Hard to get back to sleep; dread of going to bed",
+    "Daytime tiredness, anxiety, low mood, or trouble concentrating",
+    "Not explained by a substance, medication, or another condition"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Nightmares are just dreams; they can't be treated.",
+      "fact": "Imagery rehearsal therapy, which involves rewriting the nightmare while awake, reduces nightmares in most people within weeks."
+    },
+    {
+      "myth": "Nightmares and night terrors are the same.",
+      "fact": "Night terrors happen in deep sleep with no memory; nightmares happen in dreaming sleep and are remembered vividly."
+    },
+    {
+      "myth": "Only children have nightmares.",
+      "fact": "Nightmare disorder affects adults too, especially after trauma. Frequent adult nightmares deserve attention."
+    }
+  ],
+  "how_common": {
+    "plain": "Occasional nightmares are universal. Frequent nightmares affect about 1 to 2 in 100 adults, far more among people with PTSD.",
+    "figure": "About 6% of adults report monthly nightmares and 1–2% frequent nightmares (population surveys); much higher with PTSD",
+    "source_ref": "src-euro-sleep",
+    "note": "Secondary source; needs the primary survey."
+  },
+  "what_helps": {
+    "plain_summary": "Imagery rehearsal therapy, in which you write down the nightmare, change it into something less frightening, and rehearse the new version while awake, is the first-line treatment and works for trauma-related and other nightmares. CBT for insomnia helps the sleep that's been disrupted. For PTSD-related nightmares, trauma-focused therapy and, in some cases, medication prescribed and monitored by a doctor, help. Reviewing medicines that can cause nightmares is part of care.",
+    "evidence_based_options": [
+      "Imagery rehearsal therapy",
+      "CBT for insomnia and trauma-focused therapy where relevant",
+      "Review of medications that trigger nightmares",
+      "Medication for PTSD-related nightmares in some cases, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Writing the nightmare down and changing the ending, then rehearsing it daily",
+      "A calming routine before bed; no frightening content late",
+      "Getting up briefly and grounding after a nightmare, then returning",
+      "Treating the daytime anxiety or trauma underneath"
+    ],
+    "guideline_refs": [
+      "src-aasm-nightmare"
+    ]
+  },
+  "when_to_reach_out": "If nightmares are frequent, wake you most weeks, or make you dread sleep, ask a doctor or therapist about imagery rehearsal therapy, especially after a trauma. Nightmares with new medication are worth reporting.",
+  "is_not": "Occasional nightmares after a scary film or a stressful day aren't a disorder. Sleep terrors, with no memory, are a different condition. Nightmares as part of PTSD are treated within PTSD care.",
+  "hope_note": "Nightmares can be rewritten. Most people who try imagery rehearsal get their nights back within a few weeks.",
+  "related_topics": [
+    "posttraumatic-stress-disorder",
+    "parasomnias",
+    "insomnia-disorder",
+    "generalized-anxiety-disorder",
+    "acute-stress-disorder"
+  ],
+  "glossary_terms": [
+    "trauma",
+    "grounding",
+    "cbt-i",
+    "sleep-hygiene"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Trauma content referenced without detail."
+    ]
+  },
+  "visual": {
+    "color_token": "sleep",
+    "icon": "moon",
+    "illustration_prompt": "Soft line illustration of a person at a desk in daylight writing in a notebook, crossing out a line and writing a new one, a plant and a mug beside them. Pastel indigo and mint.",
+    "alt_text": "A person writes in a notebook in daylight, crossing out a line and writing a new one."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "reddit-r-insomnia",
+    "sleep-disorders-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sleep-Wake Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-aasm-nightmare",
+      "title": "Position paper for the treatment of nightmare disorder in adults",
+      "publisher": "American Academy of Sleep Medicine",
+      "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2018,
+      "note": "Not opened; listing URL."
+    },
+    {
+      "id": "src-euro-sleep",
+      "title": "Prevalence of sleep disorders in the adult population (European estimate summary)",
+      "publisher": "Secondary summary of a 2026 European analysis",
+      "url": "https://www.vol.at/so-many-europeans-suffer-from-sleep-disorders/9991844",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2026,
+      "note": "Secondary source; replace with the primary analysis."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find the primary prevalence survey."
+    ]
+  },
+  "in_young_people": "Nightmares are common in children aged 3 to 6 and usually fade. Frequent, distressing nightmares in a child, especially after a frightening event, deserve gentle attention and sometimes child-adapted imagery rehearsal."
+}

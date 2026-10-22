@@ -1,0 +1,202 @@
+{
+  "topic_id": "substance-use-disorders-overview",
+  "official_name": "Substance Use Disorders (explainer)",
+  "plain_title": "What 'use disorder' means, and what recovery looks like",
+  "also_known_as": [
+    "addiction",
+    "substance dependence (older term)",
+    "SUD"
+  ],
+  "chapter_id": "substance",
+  "card_type": "explainer",
+  "icd10cm_code": "n/a (F10–F19 by substance)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with a substance use disorder', 'in recovery'. Never 'addict', 'alcoholic', 'junkie', 'user', or 'clean/dirty'. Many people in 12-step programmes call themselves 'alcoholics' or 'addicts' by choice; that's their call, not ours.",
+  "one_liner": "A pattern of using a substance that a person can't control and keeps going despite the harm it causes.",
+  "in_simple_words": "A substance use disorder isn't about how much or how often someone uses, or about weakness or bad character. It's a pattern: wanting to cut down and not managing to, cravings, using more than planned, needing more for the same effect, withdrawal when stopping, and carrying on even as health, work, relationships, or safety are harmed. The DSM grades it mild, moderate, or severe. The brain changes involved are real and so is recovery; millions of people are in it.",
+  "what_it_can_feel_like": [
+    "I kept a list of reasons to stop and used anyway. That's when I knew it wasn't a choice anymore.",
+    "Everyone pictured a guy on a park bench. I had a job and a mortgage and a bottle in the desk drawer.",
+    "Recovery wasn't one decision. It was a thousand small ones, with a lot of people holding me up."
+  ],
+  "common_signs": [
+    "Using more, or for longer, than intended",
+    "Wanting to cut down and not managing to",
+    "Strong cravings",
+    "Needing more for the same effect, or withdrawal when stopping",
+    "Giving up activities, or failing at work, school, or home because of use",
+    "Continuing despite harm to health, safety, or relationships"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Addiction is a choice or a moral failing.",
+      "fact": "Nobody chooses a use disorder. Genetics, trauma, mental health, and environment all play in, and the brain's reward system is changed by repeated use."
+    },
+    {
+      "myth": "You have to hit rock bottom first.",
+      "fact": "People recover at every stage. Earlier is easier, and waiting for 'rock bottom' can be fatal."
+    },
+    {
+      "myth": "Relapse means treatment failed.",
+      "fact": "Relapse is common in a chronic condition, like a flare-up in asthma. It's a signal to adjust support, not to give up."
+    },
+    {
+      "myth": "Medication for addiction is just swapping one drug for another.",
+      "fact": "Medications for opioid and alcohol use disorders are among the most effective treatments in medicine and dramatically cut deaths."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 6 people aged 12 and over in the US had a substance use disorder in the past year. Only about 1 in 4 of those who needed treatment got it.",
+    "figure": "48.5 million people (17.1%) aged 12+ with a past-year substance use disorder; about one in four of those needing treatment received it (NSDUH 2023)",
+    "source_ref": "src-nsduh-2023"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment works and comes in many forms: talking therapies like CBT and motivational interviewing, medications for alcohol, opioid, and tobacco use disorders (prescribed and monitored by a doctor), peer and mutual-aid groups (12-step, SMART Recovery, and others), and support with housing, work, and mental health. Medically supervised withdrawal is needed for some substances. Harm reduction, like naloxone and needle programmes, keeps people alive while they're not ready to stop. Recovery is a long game and support at every stage matters.",
+    "evidence_based_options": [
+      "CBT, motivational interviewing, and contingency management",
+      "Medications for alcohol, opioid, and tobacco use disorders, prescribed and monitored by a doctor",
+      "Mutual-aid groups: 12-step fellowships, SMART Recovery, and others",
+      "Harm-reduction services and treatment for co-occurring mental health conditions"
+    ],
+    "self_help_that_supports_care": [
+      "Telling one person, or calling a helpline, as a first step",
+      "Finding a meeting, online or local, and going more than once",
+      "Knowing your triggers: people, places, feelings, times",
+      "Treating sleep, food, and the other mental health stuff too"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If you've tried to cut down and can't, or using is costing you things you care about, talk to a doctor or a substance helpline; you don't need to be 'bad enough'. Get emergency help for an overdose, a seizure, or severe withdrawal. Never stop alcohol or benzodiazepines suddenly without medical advice.",
+  "is_not": "Using a substance, even regularly, isn't automatically a disorder. Physical dependence on a prescribed medicine taken as directed isn't addiction. Occasional heavy use without loss of control or harm is risky but not a diagnosis.",
+  "hope_note": "Most people with a substance use disorder eventually recover, many without formal treatment and many with it. Recovery communities are among the warmest places on earth.",
+  "in_young_people": "Substance use that starts in the early teens carries higher risk of a later disorder, because the brain is still developing. Young people's treatment involves family and school and focuses on the reasons behind use.",
+  "across_cultures": "Alcohol and drug norms differ enormously between cultures and religions, and so does stigma. In some communities seeking help means family shame; in others, faith-based recovery is central. Services that respect this reach more people. Indigenous communities in several countries have developed their own culturally grounded recovery programmes.",
+  "sub_sections": [
+    {
+      "title": "Severity",
+      "text": "Mild, moderate, or severe, depending on how many of the eleven DSM criteria apply. 'Severe' is roughly what people mean by addiction."
+    },
+    {
+      "title": "Intoxication and withdrawal",
+      "text": "Each substance has its own intoxication and withdrawal syndromes with their own codes. Withdrawal from alcohol, benzodiazepines, and similar sedatives can be medically dangerous."
+    },
+    {
+      "title": "Remission",
+      "text": "'Early remission' means three to twelve months without meeting criteria (apart from craving); 'sustained remission' means twelve months or more."
+    }
+  ],
+  "related_topics": [
+    "alcohol-use-disorder",
+    "opioid-use-disorder",
+    "cannabis-use-disorder",
+    "stimulant-use-disorder",
+    "tobacco-use-disorder",
+    "gambling-disorder",
+    "substance-medication-induced-mental-disorders",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder"
+  ],
+  "glossary_terms": [
+    "tolerance",
+    "withdrawal",
+    "craving",
+    "dependence",
+    "relapse",
+    "recovery",
+    "harm-reduction",
+    "twelve-step",
+    "smart-recovery",
+    "motivational-interviewing",
+    "addiction-pop",
+    "stigma-words"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a circle of chairs in a community hall with people of different ages chatting over coffee before a meeting, a notice board with a 'welcome' sign. Pastel navy and sand. No bottles, pills, or needles.",
+    "alt_text": "People of different ages chat over coffee in a circle of chairs in a community hall before a meeting."
+  },
+  "communities": [
+    "smart-recovery-meetings",
+    "aa-online-intergroup",
+    "virtual-na",
+    "samhsa-national-helpline",
+    "reddit-r-stopdrinking",
+    "al-anon-electronic-meetings"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nida-addiction",
+      "title": "Drugs, Brains, and Behavior: The Science of Addiction",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    },
+    {
+      "id": "src-samhsa-helpline",
+      "title": "SAMHSA National Helpline",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Number 1-800-662-4357 confirmed via a university page; official URL not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm NSDUH 2023 figures on the SAMHSA page.",
+      "Confirm SAMHSA helpline URL."
+    ]
+  }
+}

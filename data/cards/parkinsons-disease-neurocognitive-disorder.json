@@ -1,0 +1,155 @@
+{
+  "topic_id": "parkinsons-disease-neurocognitive-disorder",
+  "official_name": "Neurocognitive Disorder Due to Parkinson's Disease",
+  "plain_title": "Thinking changes that come with Parkinson's",
+  "also_known_as": [
+    "Parkinson's disease dementia",
+    "PDD",
+    "mild cognitive impairment in Parkinson's"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "G20.x + F02.8x (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "A decline in thinking that develops in a person who has had Parkinson's disease for a year or more.",
+  "in_simple_words": "Parkinson's disease is best known for shaking, stiffness, and slowness. But over time it also affects thinking in many people. Mild changes are common: slower thinking, trouble doing two things at once, and hunting for words. Some people develop dementia, usually years into the illness. That brings trouble with attention, planning, and judging what they see, and sometimes hallucinations. It shares its brain changes with Lewy body dementia. Good care balances movement medicines with clear thinking.",
+  "what_it_can_feel_like": [
+    "Fifteen years of Parkinson's, and the slowness crept from his body into his thinking. The nurse specialist saw it before we did.",
+    "I can't do two things at once any more. One at a time, and I'm still me.",
+    "The Parkinson's helpline knew exactly what questions to ask about the hallucinations."
+  ],
+  "common_signs": [
+    "Established Parkinson's disease for at least a year before thinking changes",
+    "Slowed thinking, trouble with attention, planning, and multitasking",
+    "Difficulty with visual judgment and finding the way",
+    "Memory problems, mainly with retrieval",
+    "Seeing things that aren't there, loss of drive, anxiety, or depression",
+    "Alertness that comes and goes; sleepiness in the day"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Parkinson's only affects movement.",
+      "fact": "Thinking, mood, sleep, and bodily functions are all affected by Parkinson's. Cognitive change is common, especially later."
+    },
+    {
+      "myth": "Everyone with Parkinson's gets dementia.",
+      "fact": "Many do over the long term, but many don't, and mild changes don't always progress."
+    },
+    {
+      "myth": "Confusion means the Parkinson's medicines should be stopped.",
+      "fact": "Medicines need careful balancing, not stopping. A specialist can adjust them to protect both movement and thinking."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 4 people with Parkinson's have mild thinking changes when diagnosed. Most develop dementia after many years with the disease.",
+    "figure": "Mild NCD in about 27% of people with Parkinson's; dementia in up to 75% after 10 or more years (DSM-5-TR text and reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Dementia medicines (cholinesterase inhibitors), prescribed and monitored by a doctor, help thinking and hallucinations in Parkinson's dementia. Parkinson's medicines are adjusted to balance movement with clear thinking. Antipsychotics are avoided or used very carefully, as in Lewy body dementia. Treating depression, sleep problems, and loss of drive helps. Occupational therapy, exercise, and memory tricks support daily life. Parkinson's nurses and charities are a huge help.",
+    "evidence_based_options": [
+      "Cholinesterase inhibitors, prescribed and monitored by a doctor",
+      "Careful adjustment of Parkinson's medication by a specialist",
+      "Treatment of depression, sleep, and hallucinations with Parkinson's-safe approaches",
+      "Exercise, occupational therapy, and carer support"
+    ],
+    "self_help_that_supports_care": [
+      "One task at a time; written lists and routines",
+      "Exercise, which helps both movement and thinking",
+      "Reporting hallucinations or confusion early to the Parkinson's team",
+      "Parkinson's support groups and helplines for the person and family"
+    ],
+    "guideline_refs": [
+      "src-nice-ng71"
+    ]
+  },
+  "when_to_reach_out": "If someone with Parkinson's is getting confused, slower in thinking, or seeing things, tell the Parkinson's team or doctor. Changes to medicines and other treatments can help. Sudden confusion may be an infection or a medicine problem and needs a prompt check.",
+  "is_not": "Slowness of movement and speech in Parkinson's can look like cognitive decline without being it. Depression and medication side effects cause similar changes. Lewy body dementia is diagnosed when thinking problems come first.",
+  "hope_note": "Thinking changes in Parkinson's can be managed. With the right support, people go on enjoying their relationships, hobbies, and purpose.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "lewy-body-neurocognitive-disorder",
+    "major-depressive-disorder",
+    "parasomnias",
+    "delirium"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "mild-cognitive-impairment",
+    "hallucination",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of an older person at a seated exercise class with others, a Parkinson's nurse leading, bright community hall. Pastel amber and teal.",
+    "alt_text": "An older person joins a seated exercise class led by a nurse in a bright community hall."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "parkinsons-foundation-helpline",
+    "parkinsons-uk-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng71",
+      "title": "Parkinson's disease in adults (NG71)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng71",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2017,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-pf",
+      "title": "Parkinson's Foundation Helpline",
+      "publisher": "Parkinson's Foundation (US)",
+      "url": "https://www.parkinson.org/resources-support/helpline",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-puk",
+      "title": "Parkinson's UK helpline",
+      "publisher": "Parkinson's UK",
+      "url": "https://www.parkinsons.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Helpline 0808 800 0303 seen in a listing; site not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  }
+}

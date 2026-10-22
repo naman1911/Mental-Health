@@ -1,0 +1,135 @@
+{
+  "topic_id": "cyclothymic-disorder",
+  "official_name": "Cyclothymic Disorder",
+  "plain_title": "Years of ups and downs that never quite reach an episode",
+  "also_known_as": [
+    "cyclothymia"
+  ],
+  "chapter_id": "bipolar",
+  "card_type": "condition",
+  "icd10cm_code": "F34.0",
+  "language_convention": "person-first",
+  "one_liner": "Two years or more of mood swings between mild highs and lows that never meet the bar for full episodes.",
+  "in_simple_words": "Cyclothymic disorder is a milder but long-lasting pattern of mood swings: periods of feeling unusually upbeat and energetic, alternating with periods of low mood, for at least two years, without ever reaching a full hypomanic, manic, or depressive episode. The swings are frequent, and stable stretches are short. People often think it's just their temperament. It can affect work and relationships, and some people later develop bipolar disorder, so recognizing it matters. Treatment helps smooth things out.",
+  "what_it_can_feel_like": [
+    "Everyone knew me as moody. I never had a stable month, but nothing was ever 'bad enough' to get help.",
+    "I'd commit to things on an up and bail on a down. My friends gave up predicting me.",
+    "Learning it had a name let me plan around it instead of being ambushed."
+  ],
+  "common_signs": [
+    "Frequent periods of mild highs: energy, confidence, less sleep, talkativeness",
+    "Frequent periods of mild lows: tiredness, low mood, withdrawal",
+    "Going on for two years or more (one year in young people)",
+    "Never free of symptoms for more than two months at a time",
+    "Swings that affect relationships, work, or study"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just a moody personality.",
+      "fact": "Cyclothymia is a mood condition with a biological basis, often in families with bipolar disorder. It's not a character flaw."
+    },
+    {
+      "myth": "It's too mild to matter.",
+      "fact": "The constant instability takes a real toll, and a significant minority of people go on to develop bipolar I or II."
+    },
+    {
+      "myth": "Nothing can be done about it.",
+      "fact": "Psychoeducation, regular routines, and sometimes medication help a lot."
+    }
+  ],
+  "how_common": {
+    "plain": "Fewer than 1 in 100 people have cyclothymic disorder, though it is probably under-recognized because many never seek help.",
+    "figure": "Lifetime prevalence estimated at 0.4%–1% (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Figure from the DSM-5-TR text; needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Understanding the pattern is the first help. Psychoeducation and CBT help people spot their cycles and steady their routines, especially sleep. Mood-stabilizing medication, prescribed and monitored by a doctor, is used for some people, particularly if swings are disruptive or there's a family history of bipolar disorder. Antidepressants alone are used cautiously, as they can worsen cycling.",
+    "evidence_based_options": [
+      "Psychoeducation about mood cycling",
+      "CBT and routine-stabilizing approaches",
+      "Mood stabilizers in some cases, prescribed and monitored by a doctor",
+      "Regular review, as the pattern can change over time"
+    ],
+    "self_help_that_supports_care": [
+      "Mood tracking to see the cycles clearly",
+      "Regular sleep and daily rhythms",
+      "Delaying big decisions made during an up",
+      "Letting close people know the pattern so they can support, not judge"
+    ],
+    "guideline_refs": [
+      "src-nice-cg185"
+    ]
+  },
+  "when_to_reach_out": "If your mood has swung between highs and lows for years in a way that disrupts your life, ask a doctor about an assessment. Go sooner if a high becomes a lot bigger than usual, or a low becomes dark.",
+  "is_not": "Ordinary mood variation, or mood changes caused by life events, is not cyclothymia. If a full hypomanic or depressive episode occurs, the diagnosis changes to bipolar II; if mania occurs, to bipolar I.",
+  "hope_note": "People with cyclothymia learn to ride their cycles rather than be thrown by them, and many find steadier ground with treatment.",
+  "in_young_people": "In children and teens, one year of symptoms is enough for the diagnosis. It can look like unpredictable moodiness and is easily mistaken for ADHD or 'just being a teenager'.",
+  "related_topics": [
+    "bipolar-ii-disorder",
+    "bipolar-i-disorder",
+    "persistent-depressive-disorder",
+    "borderline-personality-disorder",
+    "adhd"
+  ],
+  "glossary_terms": [
+    "hypomania",
+    "euthymia",
+    "emotional-lability",
+    "mood-stabilizer",
+    "psychoeducation"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "bipolar",
+    "icon": "waves",
+    "illustration_prompt": "Soft line illustration of a person cycling along a gently rolling coastal path, small rises and dips, a calm sea beside them. Pastel teal and sand.",
+    "alt_text": "A person cycles along a gently rolling coastal path beside a calm sea."
+  },
+  "communities": [
+    "reddit-r-bipolar",
+    "bipolar-uk-ecommunity",
+    "dbsa-online-support-groups",
+    "ibpf-resources"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Bipolar and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg185",
+      "title": "Bipolar disorder: assessment and management (CG185)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg185",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2014,
+      "note": "Not opened; recommendations summarized from secondary sources."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  }
+}

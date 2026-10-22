@@ -1,0 +1,144 @@
+{
+  "topic_id": "disruptive-mood-dysregulation-disorder",
+  "official_name": "Disruptive Mood Dysregulation Disorder",
+  "plain_title": "When a child's anger is constant and explosive",
+  "also_known_as": [
+    "DMDD"
+  ],
+  "chapter_id": "depressive",
+  "card_type": "condition",
+  "icd10cm_code": "F34.81",
+  "language_convention": "person-first",
+  "language_convention_note": "'A child with DMDD'. The card speaks to parents and to young people themselves.",
+  "one_liner": "A childhood condition of severe, frequent temper outbursts and an irritable or angry mood almost all the time.",
+  "in_simple_words": "DMDD is diagnosed in children and young teens who have big, out-of-proportion outbursts several times a week, and who are irritable or angry most of the day in between. It has gone on for a year or more, at home, at school, and with friends. It is not bad parenting or a 'bad kid'. It is a mood condition, and it is treatable. It was added in 2013 partly to stop children being wrongly labelled bipolar.",
+  "what_it_can_feel_like": [
+    "I don't want to explode. It just happens and then I feel awful.",
+    "As a parent, I walked on eggshells every day and blamed myself.",
+    "Finding out it had a name meant finding out there was help."
+  ],
+  "common_signs": [
+    "Severe temper outbursts, verbal or physical, three or more times a week",
+    "Outbursts far bigger than the situation and than expected for their age",
+    "Irritable or angry mood most of the day, nearly every day, between outbursts",
+    "Going on for a year or more, in at least two settings",
+    "Starts before age 10; diagnosed between ages 6 and 18"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just tantrums. They'll grow out of it.",
+      "fact": "Toddler tantrums are normal. DMDD is older children with daily anger and outbursts that disrupt life for a year or more. It needs support, and it responds to it."
+    },
+    {
+      "myth": "It's the parents' fault.",
+      "fact": "DMDD has biological roots. Parents often need support and skills, but they didn't cause it."
+    },
+    {
+      "myth": "This is childhood bipolar disorder.",
+      "fact": "DMDD was created because most of these children do not go on to have bipolar disorder. They are more likely to have depression or anxiety as adults, which is why early help matters."
+    }
+  ],
+  "how_common": {
+    "plain": "Estimates suggest about 2 to 5 in every 100 children and teenagers may meet the criteria, with boys and younger children affected more often.",
+    "figure": "Estimated 2–5% of children and adolescents (DSM-5-TR text estimate; community studies vary widely)",
+    "source_ref": "src-dsm",
+    "note": "Prevalence figure drawn from the DSM-5-TR's own summary of community studies; marked for verification against a primary study."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment usually starts with therapy for the child and training for parents in responding to outbursts calmly and consistently. CBT helps children learn to notice and manage frustration. Where DMDD overlaps with ADHD, treating the ADHD often helps the mood too. Medication, if used, is prescribed and monitored by a child psychiatrist. School support is part of the plan.",
+    "evidence_based_options": [
+      "Parent management training and family-based approaches",
+      "Cognitive behavioural therapy adapted for children, including skills for frustration",
+      "Treating co-occurring ADHD, anxiety, or depression",
+      "Medication in some cases, prescribed and monitored by a child and adolescent psychiatrist"
+    ],
+    "self_help_that_supports_care": [
+      "Predictable routines and warnings before transitions",
+      "Noticing and praising calm moments, not only reacting to outbursts",
+      "A shared plan with school for triggers and calm-down spaces",
+      "Support for parents' own wellbeing; this is exhausting"
+    ],
+    "guideline_refs": [
+      "src-nimh-dmdd"
+    ]
+  },
+  "when_to_reach_out": "If a child's anger and outbursts are far beyond what's typical for their age, happen most weeks, and have gone on for months, ask a doctor for an assessment. Seek urgent help if a child talks about hurting themselves or is a danger to others.",
+  "is_not": "Normal tantrums in young children, anger after a specific upset, or defiance mainly aimed at authority figures (which may be oppositional defiant disorder) are not DMDD. Clear episodes of high energy and little sleep would point to bipolar disorder instead.",
+  "hope_note": "Children with DMDD can learn to manage frustration, and families can find calm again. Many children's symptoms ease a lot as they grow, especially with support.",
+  "in_young_people": "DMDD only applies to young people; it cannot be newly diagnosed after age 18. Teens may describe it as feeling angry 'all the time' and hating that they explode.",
+  "related_topics": [
+    "oppositional-defiant-disorder",
+    "adhd",
+    "major-depressive-disorder",
+    "intermittent-explosive-disorder",
+    "bipolar-i-disorder"
+  ],
+  "glossary_terms": [
+    "irritability",
+    "emotional-dysregulation",
+    "family-therapy",
+    "cbt",
+    "psychiatrist"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Frame as a condition, never as a 'bad kid'. Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "depressive",
+    "icon": "sunrise",
+    "illustration_prompt": "Soft line illustration of a parent and child sitting together on a step, the child holding a feelings chart, the parent's hand on their shoulder, a kite resting beside them. Pastel peach and sky blue. Calm, not angry.",
+    "alt_text": "A parent and child sit together on a step looking at a feelings chart, with a kite resting beside them."
+  },
+  "communities": [
+    "dbsa-balanced-mind-parent-network",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Depressive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-dmdd",
+      "title": "Disruptive Mood Dysregulation Disorder: The Basics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Well-known NIMH page; not opened."
+    },
+    {
+      "id": "src-dbsa-bmpn",
+      "title": "Balanced Mind Parent Network",
+      "publisher": "Depression and Bipolar Support Alliance",
+      "url": "https://www.dbsalliance.org/balanced-mind-parent-network/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence study to replace the DSM text estimate.",
+      "Only one community found; look for a young-person-facing option."
+    ]
+  }
+}

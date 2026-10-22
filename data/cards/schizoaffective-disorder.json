@@ -1,0 +1,154 @@
+{
+  "topic_id": "schizoaffective-disorder",
+  "official_name": "Schizoaffective Disorder",
+  "plain_title": "Psychosis and mood episodes together",
+  "also_known_as": [
+    "schizoaffective"
+  ],
+  "chapter_id": "psychotic",
+  "card_type": "condition",
+  "icd10cm_code": "F25.x (by type)",
+  "language_convention": "person-first",
+  "one_liner": "The symptoms of schizophrenia plus major mood episodes, with psychosis also present when mood is normal.",
+  "in_simple_words": "Schizoaffective disorder sits between schizophrenia and the mood disorders. A person has psychosis (voices, delusions, disorganized thinking) and also has major depressive or manic episodes. The key feature is that psychosis continues for at least two weeks even when mood is stable. It has two types: with mania, or with depression only. It's less common than schizophrenia, often misdiagnosed in both directions, and treated with a combination of approaches that address both the psychosis and the mood.",
+  "what_it_can_feel_like": [
+    "Three diagnoses in five years: bipolar, schizophrenia, then schizoaffective. The last one finally fit both halves of me.",
+    "When the depression lifts, the voices quieten but don't stop. That's how we knew.",
+    "Lithium for the mood, an antipsychotic for the rest, and a therapist who understood both. That combination gave me my life."
+  ],
+  "common_signs": [
+    "Psychotic symptoms: hallucinations, delusions, disorganized thinking",
+    "Major depressive or manic episodes",
+    "Psychosis lasting at least two weeks without mood symptoms",
+    "Mood symptoms present for most of the illness",
+    "Changes in motivation, thinking, and daily function"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Schizoaffective disorder is just a label for when doctors can't decide.",
+      "fact": "It's a recognized diagnosis with its own pattern. It is harder to pin down, which is why careful assessment over time matters."
+    },
+    {
+      "myth": "It's worse than schizophrenia.",
+      "fact": "Outcomes are on average somewhat better than for schizophrenia, partly because mood symptoms respond well to treatment."
+    },
+    {
+      "myth": "You only need one type of medication.",
+      "fact": "Most people need treatment for both psychosis and mood, often an antipsychotic plus a mood stabilizer or antidepressant, prescribed and monitored by a doctor."
+    }
+  ],
+  "how_common": {
+    "plain": "Schizoaffective disorder is uncommon, affecting roughly 3 in 1,000 people, about a third as common as schizophrenia.",
+    "figure": "Lifetime prevalence estimated at about 0.3% (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment combines what works for schizophrenia and for mood disorders: antipsychotic medication, often with a mood stabilizer (for the bipolar type) or an antidepressant (for the depressive type), all prescribed and monitored by a doctor. CBT for psychosis, family intervention, and support with work and relationships are recommended, as for schizophrenia. Keeping sleep and routine stable helps both halves of the condition.",
+    "evidence_based_options": [
+      "Antipsychotic medication, prescribed and monitored by a doctor",
+      "Mood stabilizer or antidepressant alongside, depending on type",
+      "CBT for psychosis, family intervention, and psychoeducation",
+      "Supported employment and peer support"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking both mood and psychotic symptoms to spot patterns",
+      "Regular sleep, which protects against both mania and psychosis",
+      "Avoiding alcohol, cannabis, and stimulants",
+      "A relapse plan shared with family and team"
+    ],
+    "guideline_refs": [
+      "src-nice-cg178"
+    ]
+  },
+  "when_to_reach_out": "If you have psychotic symptoms along with periods of severe depression or high energy, ask for a thorough assessment and mention both. If you're in crisis, thinking of ending your life, or losing touch with reality, use the crisis strip now.",
+  "is_not": "Bipolar disorder or depression with psychosis only during mood episodes is diagnosed as the mood disorder. Schizophrenia with brief mood symptoms is still schizophrenia. The two-week rule about psychosis without mood symptoms is what separates them.",
+  "hope_note": "With treatment for both mood and psychosis, people with schizoaffective disorder achieve long stable periods and full lives.",
+  "related_topics": [
+    "schizophrenia",
+    "bipolar-i-disorder",
+    "major-depressive-disorder",
+    "understanding-psychosis",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "psychosis",
+    "mania",
+    "mood-stabilizer",
+    "antipsychotic",
+    "differential-diagnosis",
+    "euthymia"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Psychosis content; crisis strip required.",
+      "Early-intervention message is central."
+    ]
+  },
+  "visual": {
+    "color_token": "psychotic",
+    "icon": "sun-moon",
+    "illustration_prompt": "Soft line illustration of a person on a balcony with a mood-and-symptom chart on a tablet, the sky half sunrise and half soft night, calm. Pastel violet and teal.",
+    "alt_text": "A person on a balcony holds a tablet with a chart, the sky half sunrise and half soft night."
+  },
+  "communities": [
+    "hearing-voices-network-groups",
+    "sczaction-peer-groups",
+    "sane-forums-australia",
+    "nami-connection-and-helpline",
+    "dbsa-online-support-groups",
+    "reddit-r-bipolar"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Schizophrenia Spectrum and Other Psychotic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg178",
+      "title": "Psychosis and schizophrenia in adults: prevention and management (CG178)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2014
+    },
+    {
+      "id": "src-hvn",
+      "title": "Hearing Voices Network",
+      "publisher": "Hearing Voices Network (England)",
+      "url": "https://www.hearing-voices.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Types",
+      "icd10cm_code": "F25.0 (bipolar type) / F25.1 (depressive type)",
+      "text": "Bipolar type includes manic episodes (and often depression); depressive type has only major depressive episodes."
+    }
+  ]
+}

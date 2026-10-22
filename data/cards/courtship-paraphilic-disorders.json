@@ -1,0 +1,143 @@
+{
+  "topic_id": "courtship-paraphilic-disorders",
+  "official_name": "Voyeuristic, Exhibitionistic, and Frotteuristic Disorders",
+  "plain_title": "Watching, exposing, or touching without consent",
+  "also_known_as": [
+    "courtship disorders",
+    "voyeurism",
+    "exhibitionism",
+    "frotteurism"
+  ],
+  "chapter_id": "paraphilic",
+  "card_type": "condition",
+  "icd10cm_code": "F65.3 / F65.2 / F65.81",
+  "language_convention": "person-first",
+  "one_liner": "Sexual urges to watch, expose yourself to, or touch people who haven't consented, acted on or causing distress.",
+  "in_simple_words": "These three disorders involve sexual arousal from things done to people who haven't agreed: secretly watching someone undressing or being intimate (voyeuristic), exposing one's genitals to an unsuspecting person (exhibitionistic), or touching or rubbing against a non-consenting person (frotteuristic). They're diagnosed when a person has acted on the urges, or the urges cause real distress, over six months or more. They usually begin in the teens. The behaviour is illegal and harms its targets. Treatment helps people stop.",
+  "what_it_can_feel_like": [
+    "I told myself it wasn't hurting anyone. Then I read what it did to the people I'd done it to, and I called for help.",
+    "Being watched without knowing left me checking every window for years. I want people who do this to know that."
+  ],
+  "common_signs": [
+    "Recurring arousal from watching, exposing to, or touching non-consenting people",
+    "Acting on the urges, or urges causing distress or problems, for six months or more",
+    "Usually starts in the teens; more often diagnosed in men",
+    "Shame, secrecy, and fear of consequences"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Flashing or peeping is a harmless prank.",
+      "fact": "It's a sexual offence that frightens and harms people, and it can escalate. Treating it as a joke protects nobody."
+    },
+    {
+      "myth": "Nothing can be done; people like this just reoffend.",
+      "fact": "Specialist CBT and risk management reduce reoffending, and many people stop for good once they get help."
+    }
+  ],
+  "how_common": {
+    "plain": "Good population figures are scarce. In anonymous surveys, a minority of men report some arousal to watching or exposing; the disorders, with acting out or distress, are much rarer.",
+    "figure": "Prevalence not well established; voyeuristic disorder may be the most common paraphilic disorder (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment uses CBT to recognise the chain of thoughts, situations, and feelings that lead to the behaviour, to challenge the excuses that allow it, to build empathy for the people affected, and to plan how to avoid and interrupt it. Specialist services add risk assessment and, for some, medication that lowers sex drive, prescribed and monitored by a doctor. Alcohol and substance use are addressed, as they lower control. Treatment is often court-mandated, but people can and do seek it voluntarily, which usually goes better.",
+    "evidence_based_options": [
+      "CBT with relapse-prevention planning",
+      "Specialist forensic or sexual behaviour clinics",
+      "Medication to reduce sex drive in selected cases, prescribed and monitored by a doctor",
+      "Treatment of substance use and co-occurring conditions"
+    ],
+    "self_help_that_supports_care": [
+      "Noticing the build-up and leaving the situation early",
+      "Avoiding alcohol and places where the behaviour happened",
+      "Calling a prevention helpline before acting, not after",
+      "Being honest with a therapist about urges and near-misses"
+    ],
+    "guideline_refs": [
+      "src-moore-center"
+    ]
+  },
+  "when_to_reach_out": "If you've been watching, exposing yourself to, or touching people without consent, or you're worried you will, get help now from a doctor, a sexual behaviour clinic, or a confidential helpline. If you've been on the receiving end, it wasn't your fault; you can report it and seek support.",
+  "is_not": "Consensual exhibitionism or voyeurism between adults who have agreed, such as at adult venues or in private, isn't a disorder.",
+  "hope_note": "People who seek help before being caught, and those who go through treatment after, can stop. Their families and communities become safer, and so do they.",
+  "related_topics": [
+    "paraphilic-disorders-overview",
+    "sexual-masochism-and-sadism-disorders",
+    "pedophilic-disorder",
+    "antisocial-personality-disorder",
+    "alcohol-use-disorder"
+  ],
+  "glossary_terms": [
+    "paraphilia-vs-paraphilic-disorder",
+    "relapse-prevention",
+    "cbt",
+    "limits-of-confidentiality"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Strictly non-sensational: no descriptions of acts, no victim-blaming, no eroticised language.",
+      "Clear line between consensual adult interests (not a disorder) and non-consent or harm (always wrong, regardless of diagnosis)."
+    ]
+  },
+  "visual": {
+    "color_token": "paraphilic",
+    "icon": "scale",
+    "illustration_prompt": "Soft line illustration of a person crossing a street toward a counselling centre with a small sign, autumn trees, calm light. Pastel grey-blue and amber.",
+    "alt_text": "A person crosses a street toward a counselling centre with a small sign."
+  },
+  "communities": [
+    "stop-it-now-us",
+    "stop-it-now-uk",
+    "talking-for-change-canada",
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Paraphilic Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-moore-center",
+      "title": "Resources for people concerned about their sexual thoughts",
+      "publisher": "Moore Center for the Prevention of Child Sexual Abuse, Johns Hopkins",
+      "url": "https://publichealth.jhu.edu/moore-center-for-the-prevention-of-child-sexual-abuse/get-support/resources-for-people-concerned-about-their-sexual-thoughts",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-stop-it-now-uk",
+      "title": "Stop It Now helpline 0808 1000 900",
+      "publisher": "Lucy Faithfull Foundation (UK)",
+      "url": "https://www.stopitnow.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Hours from directory listings."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Forensic clinician to review."
+    ]
+  }
+}

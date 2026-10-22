@@ -1,0 +1,126 @@
+{
+  "topic_id": "ataque-de-nervios",
+  "official_name": "Ataque de Nervios",
+  "plain_title": "An 'attack of nerves' in Latino communities",
+  "also_known_as": [
+    "attack of nerves"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "An intense episode of distress, often after a family upset, with crying, shouting, shaking, or heat rising in the chest.",
+  "in_simple_words": "Ataque de nervios is a way of expressing overwhelming distress recognised across many Latino communities. An episode usually follows a family stress, such as news of a death, and involves uncontrollable crying or shouting, trembling, heat rising from the chest, and sometimes fainting, with little memory afterwards. The community sees it as a response to upset, not madness. It overlaps with panic attacks but has a clear trigger. Family support and treatment of underlying anxiety or depression help.",
+  "what_it_can_feel_like": [
+    "When my mother got the call about my brother, she screamed, shook, and went down. Nobody called an ambulance; the family held her. That's an ataque.",
+    "My doctor called it a panic attack. My grandmother called it nervios. The treatment that worked respected both."
+  ],
+  "common_signs": [
+    "Sudden intense crying, shouting, trembling, or heat rising in the chest after a family upset",
+    "Sometimes fainting, aggression, or dissociation",
+    "Often little memory of the episode afterwards",
+    "Usually a clear trigger; no lasting fear of the next one",
+    "Understood as a response to stress, with family support expected"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "An ataque is just hysteria.",
+      "fact": "It's a recognised, culturally shared way of expressing acute distress, often protective because it brings family support immediately."
+    },
+    {
+      "myth": "It's the same as a panic attack.",
+      "fact": "They overlap, but an ataque usually has a clear trigger and isn't followed by dread of the next one. The distinction matters for treatment."
+    }
+  ],
+  "how_common": {
+    "plain": "In a large US survey, between 7 and 15 in 100 Latino adults reported having had an ataque, highest among Puerto Ricans. People who report them are more likely to have anxiety, depression, or substance problems.",
+    "figure": "7%–15% lifetime across Latino groups in the National Latino and Asian American Study (N=2,554), highest among Puerto Ricans",
+    "source_ref": "src-nlaas-ataque"
+  },
+  "what_helps": {
+    "plain_summary": "Many episodes need no treatment beyond family care. When ataques are frequent or there's underlying anxiety, depression, trauma, or panic disorder, the usual treatments for those conditions, especially culturally adapted CBT and family involvement, help, with any medication prescribed and monitored by a doctor. Clinicians should ask what the person and family call the episodes and what they think caused them.",
+    "evidence_based_options": [
+      "Assessment using the Cultural Formulation Interview",
+      "Culturally adapted CBT for anxiety, panic, or depression where present",
+      "Family involvement in care",
+      "Treatment of underlying trauma or substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Telling clinicians about ataques in your own words",
+      "Family and community support after episodes",
+      "Noticing patterns of stress that trigger episodes",
+      "Help for the underlying worry or grief"
+    ],
+    "guideline_refs": [
+      "src-nlaas-ataque"
+    ]
+  },
+  "when_to_reach_out": "If ataques are frequent, come without a trigger, or sit alongside ongoing anxiety or low mood, see a doctor or therapist and describe them as ataques. Seek urgent care for chest pain or fainting that doesn't resolve, to rule out medical causes.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Seizures and heart problems can look similar and are ruled out medically.",
+  "hope_note": "Ataques are understood by the people around you, and the distress behind them can be eased.",
+  "related_topics": [
+    "panic-disorder",
+    "culture-and-mental-health",
+    "nervios",
+    "acute-stress-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "panic-attack",
+    "dissociation",
+    "stress",
+    "support-system"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of a family gathered around a woman on a sofa, holding her hands, a glass of water on the table, warm evening light. Pastel terracotta and sky blue.",
+    "alt_text": "A family gathers around a woman on a sofa, holding her hands."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nlaas-ataque",
+      "title": "Ataque de nervios as a marker of social and psychiatric vulnerability: results from the NLAAS",
+      "publisher": "International Journal of Social Psychiatry (Guarnaccia et al.); PMC2865565",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2865565",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2010
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

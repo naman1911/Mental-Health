@@ -1,0 +1,149 @@
+{
+  "topic_id": "persistent-depressive-disorder",
+  "official_name": "Persistent Depressive Disorder",
+  "plain_title": "The low mood that never quite lifts",
+  "also_known_as": [
+    "dysthymia",
+    "PDD",
+    "chronic depression",
+    "'high-functioning' depression (popular term)"
+  ],
+  "chapter_id": "depressive",
+  "card_type": "condition",
+  "icd10cm_code": "F34.1",
+  "language_convention": "person-first",
+  "one_liner": "A milder but long-lasting depression, present most days for two years or more.",
+  "in_simple_words": "Persistent depressive disorder is depression that runs in the background for years. The mood is low or flat most days, with tiredness, poor sleep or appetite, low self-esteem, and trouble concentrating, but the person often keeps going. Many people assume 'this is just who I am'. It isn't. It is a treatable condition, and treatment can show people a brighter baseline they didn't know existed.",
+  "what_it_can_feel_like": [
+    "I thought everyone felt this tired and grey all the time. Turns out they don't.",
+    "I function. I work. I just never feel good, and I can't remember when I last did.",
+    "Treatment didn't make me happy overnight. It made 'okay' possible."
+  ],
+  "common_signs": [
+    "Low or flat mood most days for two years or more",
+    "Low energy and tiredness that never fully lifts",
+    "Low self-esteem or feeling not good enough",
+    "Poor sleep or appetite, or too much of either",
+    "Trouble concentrating or making decisions",
+    "Feeling hopeless about things ever changing"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just my personality. I'm a glass-half-empty person.",
+      "fact": "Long-term low mood often gets mistaken for personality. When it's treated, people are often surprised how different they feel."
+    },
+    {
+      "myth": "If you can hold down a job, it isn't real depression.",
+      "fact": "Functioning on the outside while feeling empty inside is exactly what this condition looks like. The pain counts."
+    },
+    {
+      "myth": "Mild means it doesn't matter.",
+      "fact": "Years of low mood add up. PDD is linked with as much long-term impact as major depression, and it raises the risk of a major episode on top ('double depression')."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 or 2 in every 100 US adults have persistent depressive disorder in a given year, and about 1 in 40 at some point in life. Women are affected more often.",
+    "figure": "1.5% past-year and 2.5% lifetime prevalence among US adults (NCS-R, 2001–2003)",
+    "source_ref": "src-nimh-pdd",
+    "note": "Older figures using the DSM-IV 'dysthymia' definition; DSM-5 PDD is broader."
+  },
+  "what_helps": {
+    "plain_summary": "The same treatments that work for major depression work here, and combining a talking therapy with an antidepressant, prescribed and monitored by a doctor, often works better than either alone for long-term depression. Because the pattern has usually lasted years, treatment may take longer and benefits from patience and a plan to prevent slipping back.",
+    "evidence_based_options": [
+      "CBT, behavioural activation, or interpersonal therapy, often longer-term",
+      "Antidepressants, prescribed and monitored by a doctor",
+      "Combined therapy and medication for chronic depression",
+      "Relapse-prevention work, including mindfulness-based cognitive therapy"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking mood for a few weeks to see the pattern clearly",
+      "Scheduling small, pleasant, or meaningful activities, not waiting to feel like it",
+      "Regular sleep, movement, and daylight",
+      "Peer support with others who know what 'always a bit low' is like"
+    ],
+    "guideline_refs": [
+      "src-nice-ng222"
+    ]
+  },
+  "when_to_reach_out": "If you've felt low, tired, or empty more days than not for a year or more, and especially if you've started to believe that's just who you are, talk to a doctor or therapist. If things get suddenly worse or you think about not wanting to be here, reach out now.",
+  "is_not": "Being an introvert, a realist, or someone who doesn't show much emotion is not depression. The difference is distress and a mood that stays low regardless of what's happening.",
+  "hope_note": "People who have lived with low mood for years often say the best part of treatment was discovering what they'd been missing.",
+  "in_young_people": "In children and teens the mood can be irritable rather than sad, and only one year is needed for the diagnosis. It is easy to miss because it looks like 'a moody kid'.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "cyclothymic-disorder",
+    "generalized-anxiety-disorder",
+    "avoidant-personality-disorder"
+  ],
+  "glossary_terms": [
+    "high-functioning-depression",
+    "anhedonia",
+    "cbt",
+    "antidepressant",
+    "mindfulness",
+    "acute-vs-chronic",
+    "wellbeing"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Suicide risk is raised in chronic depression; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "depressive",
+    "icon": "sunrise",
+    "illustration_prompt": "Soft line illustration of a person walking a familiar path at dawn as the grey sky slowly warms to peach at the horizon. Pastel grey-blue and peach. Gentle, hopeful, no rain.",
+    "alt_text": "A person walks a familiar path at dawn as the grey sky warms to peach at the horizon."
+  },
+  "communities": [
+    "reddit-r-depression",
+    "dbsa-online-support-groups",
+    "mind-side-by-side",
+    "adaa-online-support-group"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Depressive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-pdd",
+      "title": "Persistent Depressive Disorder (Dysthymic Disorder) statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/persistent-depressive-disorder-dysthymic-disorder",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-ng222",
+      "title": "Depression in adults: treatment and management (NG222)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng222",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Guideline page seen in search; severity-band recommendations summarized from the guideline structure and general knowledge; confirm on the live page."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add a DSM-5-era prevalence figure if one can be verified."
+    ]
+  }
+}

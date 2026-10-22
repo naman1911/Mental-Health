@@ -1,0 +1,170 @@
+{
+  "topic_id": "body-dysmorphic-disorder",
+  "official_name": "Body Dysmorphic Disorder",
+  "plain_title": "When a flaw nobody else sees takes over your life",
+  "also_known_as": [
+    "BDD",
+    "body dysmorphia",
+    "muscle dysmorphia (a form of BDD)"
+  ],
+  "chapter_id": "ocd-related",
+  "card_type": "condition",
+  "icd10cm_code": "F45.22",
+  "language_convention": "person-first",
+  "one_liner": "Being consumed by a perceived flaw in your appearance that others don't see or barely notice.",
+  "in_simple_words": "Body dysmorphic disorder is far more than disliking how you look. A person becomes convinced that some part of their appearance, often skin, nose, hair, or body shape, is ugly or deformed, when others see nothing or only something minor. They spend hours checking mirrors, comparing, grooming, or hiding, and may avoid people, work, or school. The distress is severe and the condition carries a high suicide risk. It is treatable, with therapy and medication, and it isn't vanity.",
+  "what_it_can_feel_like": [
+    "I'd check the mirror two hundred times a day and every time it was worse.",
+    "Everyone said I looked fine. I thought they were being kind. It took years to see that I was the one not seeing clearly.",
+    "Treatment didn't make me love my face. It gave me my days back."
+  ],
+  "common_signs": [
+    "Constant worry about a flaw others don't see or think is small",
+    "Hours spent checking mirrors, grooming, comparing, or seeking reassurance",
+    "Hiding the 'flaw' with clothes, makeup, posture, or avoiding people",
+    "Seeking cosmetic procedures that rarely help",
+    "Distress severe enough to disrupt work, school, or relationships",
+    "In muscle dysmorphia, believing you're too small despite being muscular"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just vanity or low self-esteem.",
+      "fact": "BDD is a serious condition with severe distress and one of the highest suicide rates in mental health. It has nothing to do with vanity."
+    },
+    {
+      "myth": "Cosmetic surgery will fix it.",
+      "fact": "Procedures rarely help BDD and often make it worse, shifting the focus to a new 'flaw'. Surgeons are advised to screen for BDD first."
+    },
+    {
+      "myth": "BDD only affects women.",
+      "fact": "It affects men and women almost equally. In men it often takes the form of muscle dysmorphia."
+    }
+  ],
+  "how_common": {
+    "plain": "About 2 in 100 people have BDD, making it more common than many people realize. It usually starts in the teens.",
+    "figure": "Point prevalence about 1.7%–2.4% in general-population studies (Germany and the US)",
+    "source_ref": "src-bdd-prev"
+  },
+  "what_helps": {
+    "plain_summary": "CBT designed specifically for BDD, which includes exposure and response prevention for mirror checking, hiding, and reassurance seeking, is the first-line treatment. Antidepressants (SSRIs), prescribed and monitored by a doctor, often at higher doses, help many people and are combined with CBT for more severe BDD. Cosmetic procedures are not a treatment. For young people, family-involved CBT comes first.",
+    "evidence_based_options": [
+      "CBT developed for BDD, including exposure and response prevention",
+      "SSRI antidepressants, prescribed and monitored by a doctor",
+      "Combined CBT and medication for severe BDD",
+      "Family-involved CBT for children and teenagers"
+    ],
+    "self_help_that_supports_care": [
+      "Cutting down mirror checking gradually, with a plan",
+      "Dropping one hiding or camouflaging behaviour at a time",
+      "Unfollowing accounts that fuel comparison",
+      "Peer support with others who have BDD, which breaks the isolation"
+    ],
+    "guideline_refs": [
+      "src-nice-cg31"
+    ]
+  },
+  "when_to_reach_out": "If worry about your appearance takes up hours a day, stops you going out, or makes you think about cosmetic procedures or ending your life, talk to a doctor or therapist and mention BDD by name. If you're having thoughts of suicide, use the crisis strip now.",
+  "is_not": "Disliking a feature, wanting to look good, or ordinary teenage self-consciousness isn't BDD. Fear of being fat with restricted eating is more likely an eating disorder, though the two can overlap.",
+  "hope_note": "People with BDD recover. The mirror stops being a battlefield, and the hours come back.",
+  "in_young_people": "BDD usually starts around 12 to 13 and is often hidden behind 'teenage insecurity'. Refusing school, long bathroom routines, and intense distress about photos can be signs. Early treatment prevents years of lost life.",
+  "across_cultures": "The feature people focus on varies: skin tone, hair texture, eye shape, nose, body build. Beauty norms, colourism, and social media shape what feels 'wrong'. BDD is found worldwide.",
+  "sub_sections": [
+    {
+      "title": "Muscle dysmorphia",
+      "text": "A form of BDD, mostly in men, where a person believes they're too small or not muscular enough despite being lean or muscular. It can drive extreme exercise, rigid diets, and steroid use."
+    },
+    {
+      "title": "BDD by proxy",
+      "text": "Rarely, the obsession is with a perceived flaw in someone else's appearance, such as a partner or child."
+    }
+  ],
+  "related_topics": [
+    "obsessive-compulsive-disorder",
+    "anorexia-nervosa",
+    "social-anxiety-disorder",
+    "major-depressive-disorder",
+    "excoriation-disorder",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "body-image",
+    "obsession",
+    "compulsion",
+    "erp",
+    "ssri",
+    "diet-culture",
+    "inner-critic"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "High suicide risk in BDD; crisis strip required.",
+      "No body descriptions, measurements, or 'before/after' framing.",
+      "Illustration must not show mirrors with distorted reflections or bodies being scrutinized."
+    ]
+  },
+  "visual": {
+    "color_token": "ocd-related",
+    "icon": "repeat",
+    "illustration_prompt": "Soft line illustration of a person outdoors with friends at a lake, laughing, back to a small pocket mirror left closed on a towel. Pastel coral and sky blue. No reflections, no bodies in focus.",
+    "alt_text": "A person laughs with friends at a lake, a small pocket mirror left closed on a towel behind them."
+  },
+  "communities": [
+    "bdd-foundation-online-groups",
+    "ocd-action-uk",
+    "iocdf-support-group-directory"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Obsessive-Compulsive and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-bdd-prev",
+      "title": "Prevalence of BDD (summary of population studies)",
+      "publisher": "BDD Program, International OCD Foundation",
+      "url": "https://bdd.iocdf.org/professionals/prevalence",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-cg31",
+      "title": "Obsessive-compulsive disorder and body dysmorphic disorder: treatment (CG31)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg31",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2005,
+      "note": "Recommendations chapter seen in search; NICE lists the guideline as under review (2024)."
+    },
+    {
+      "id": "src-bddf",
+      "title": "BDD Foundation",
+      "publisher": "BDD Foundation (UK)",
+      "url": "https://bddfoundation.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Confirm the suicide-risk statement against a current source before publication."
+    ]
+  }
+}

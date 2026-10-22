@@ -1,0 +1,125 @@
+{
+  "topic_id": "nervios",
+  "official_name": "Nervios",
+  "plain_title": "'Nerves': a Latino way of talking about distress",
+  "also_known_as": [
+    "nerves",
+    "padecer de los nervios"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "A common Latino idiom for vulnerability to stress and a range of distress: worry, tearfulness, headaches, poor sleep.",
+  "in_simple_words": "Nervios, 'nerves', is a widely used idiom across Latin America and Latino communities for a general vulnerability to life's stresses and for the distress itself: headaches, irritability, stomach trouble, poor sleep, nervousness, tearfulness, and feeling easily overwhelmed. Someone may have nervios for years, as a trait, or an episode after a hard time. It overlaps with anxiety and depression but is broader and less stigmatised. Clinicians who ask about nervios get a fuller picture.",
+  "what_it_can_feel_like": [
+    "My abuela always said she had nervios. Now I understand she was anxious and depressed for fifty years and nobody treated it.",
+    "Saying I have nervios is easy. Saying I have anxiety still feels like admitting something is wrong with me."
+  ],
+  "common_signs": [
+    "Headaches, stomach trouble, trembling, or poor sleep under stress",
+    "Irritability, tearfulness, nervousness, or feeling overwhelmed",
+    "Difficulty concentrating",
+    "May be long-standing (a trait) or an episode after hard times",
+    "A less stigmatised way of describing anxiety or low mood"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Nervios is just a folk word for anxiety.",
+      "fact": "It covers more: a sense of vulnerability, bodily symptoms, and social stress. Asking about it opens conversations that 'anxiety' may close."
+    },
+    {
+      "myth": "If it's cultural, it doesn't need treatment.",
+      "fact": "Chronic nervios often reflects untreated anxiety or depression, and treatment helps."
+    }
+  ],
+  "how_common": {
+    "plain": "Nervios is extremely common as an idiom; most Latino adults would recognise it. There's no prevalence figure for a way of speaking.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Treatment matches what's underneath: CBT or other therapy for anxiety and depression, stress management, treatment of sleep problems, and, where needed, medication prescribed and monitored by a doctor. Culturally adapted programmes in Spanish, family involvement, and addressing the social stresses, such as money, migration, or discrimination, improve results. Primary care is often the first and best place to raise it.",
+    "evidence_based_options": [
+      "Assessment that asks about nervios and its triggers",
+      "CBT or counselling for anxiety and depression, in Spanish where needed",
+      "Stress management and sleep treatment",
+      "Addressing social stresses alongside clinical care"
+    ],
+    "self_help_that_supports_care": [
+      "Telling a doctor 'I have nervios' and describing the symptoms",
+      "Family and community support",
+      "Sleep, movement, and limiting caffeine",
+      "Help for the practical stresses behind the nerves"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If nervios are constant, keeping you from sleeping or coping, or getting worse, talk to a doctor or counsellor and use the word you'd use at home. If you're thinking about ending your life, use the crisis strip now.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. An ataque de nervios is a sudden episode; nervios is the ongoing state. Both have cards.",
+  "hope_note": "Treating the nerves that families have carried for generations is possible, and often starts with one honest conversation in the right language.",
+  "related_topics": [
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder",
+    "ataque-de-nervios",
+    "somatic-symptom-disorder",
+    "culture-and-mental-health"
+  ],
+  "glossary_terms": [
+    "stress",
+    "somatic-symptoms",
+    "irritability",
+    "gp-primary-care"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of three generations of a family on a porch, the grandmother with a cup of tea, a younger woman with a notebook, evening light. Pastel rose and sky blue.",
+    "alt_text": "Three generations of a family sit together on a porch in evening light."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nlaas-ataque",
+      "title": "Ataque de nervios as a marker of social and psychiatric vulnerability: results from the NLAAS",
+      "publisher": "International Journal of Social Psychiatry (Guarnaccia et al.); PMC2865565",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2865565",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2010
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}

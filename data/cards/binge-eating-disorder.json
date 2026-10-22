@@ -1,0 +1,160 @@
+{
+  "topic_id": "binge-eating-disorder",
+  "official_name": "Binge-Eating Disorder",
+  "plain_title": "Eating past full, out of control, and alone with the shame",
+  "also_known_as": [
+    "BED",
+    "compulsive overeating (older term)"
+  ],
+  "chapter_id": "eating",
+  "card_type": "condition",
+  "icd10cm_code": "F50.81x (by severity, remission)",
+  "language_convention": "person-first",
+  "language_convention_note": "'A person with binge-eating disorder'. No numbers, no weight talk, no 'how much' descriptions.",
+  "one_liner": "Repeated episodes of eating a large amount while feeling out of control, with deep distress, and no compensating afterwards.",
+  "in_simple_words": "Binge-eating disorder is the most common eating disorder. A person regularly eats a large amount in a short time, faster than usual, past feeling full, often alone, while feeling unable to stop, and feels disgusted, guilty, or very low afterwards. Unlike bulimia, there's no attempt to 'undo' it. It affects people of all sizes and genders. It isn't greed or lack of willpower; it's a recognized condition closely tied to emotions, dieting, and shame, and it responds well to treatment.",
+  "what_it_can_feel_like": [
+    "It wasn't hunger. It was a switch, and then I'd eat until it hurt and hate myself.",
+    "Every diet made it worse. Therapy was the first thing that didn't start with 'eat less'.",
+    "I'd never heard it was a real diagnosis. Finding out was the first relief in twenty years."
+  ],
+  "common_signs": [
+    "Eating a large amount in a short time, feeling unable to stop",
+    "Eating fast, past full, or when not hungry, often alone out of embarrassment",
+    "Feeling disgusted, depressed, or guilty afterwards",
+    "Happening at least weekly for months",
+    "No regular attempts to compensate afterwards",
+    "Secrecy, shame, and avoiding eating with others"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just overeating. Everyone does it.",
+      "fact": "Occasional overeating is normal. Binge-eating disorder means regular episodes with loss of control and real distress. It's a recognized illness."
+    },
+    {
+      "myth": "A diet is the solution.",
+      "fact": "Dieting and restriction are among the strongest triggers for bingeing. Treatment focuses on regular eating and the feelings behind bingeing, not on restriction."
+    },
+    {
+      "myth": "Only people in larger bodies have it.",
+      "fact": "People of every size have binge-eating disorder. Assuming by size means many people are missed, and many in larger bodies are shamed instead of helped."
+    }
+  ],
+  "how_common": {
+    "plain": "About 3 in 100 US adults have binge-eating disorder at some point, making it the most common eating disorder. Around 1 or 2 in 100 teenagers are affected.",
+    "figure": "Lifetime prevalence 2.8% and past-year 1.2% among US adults (NCS-R); 1.6% lifetime among adolescents (NCS-A)",
+    "source_ref": "src-nimh-stats"
+  },
+  "what_helps": {
+    "plain_summary": "Guided self-help based on CBT for eating disorders is the recommended first step for most people and works for many. If more is needed, group or individual CBT for eating disorders follows. Treatment aims at regular, flexible eating, understanding what drives binges, and dismantling shame. Weight loss is not the goal of treatment. Some people also benefit from medication, prescribed and monitored by a doctor, but it isn't first-line.",
+    "evidence_based_options": [
+      "Guided self-help based on CBT for eating disorders",
+      "Group CBT-ED, then individual CBT-ED if needed",
+      "Treatment of co-occurring depression, anxiety, or ADHD",
+      "Medication in some cases, prescribed and monitored by a doctor, not as a first step"
+    ],
+    "self_help_that_supports_care": [
+      "Regular meals and snacks through the day, no skipping",
+      "Noticing the feelings that come before a binge, with curiosity, not blame",
+      "Stepping away from dieting and 'good/bad food' rules",
+      "Support groups where bodies aren't judged"
+    ],
+    "guideline_refs": [
+      "src-nice-ng69"
+    ]
+  },
+  "when_to_reach_out": "If you regularly eat in a way that feels out of control and leaves you feeling awful, talk to a doctor or an eating-disorder helpline. Ask for treatment for binge eating, not for weight loss. If you have thoughts of ending your life, use the crisis strip now.",
+  "is_not": "Eating a lot at a festival or on a hard day isn't a disorder. Bingeing followed by compensating is bulimia nervosa. Living in a larger body is not, by itself, a sign of any eating disorder.",
+  "hope_note": "Binge-eating disorder responds well to treatment, and many people find peace with food for the first time in their lives.",
+  "in_young_people": "Binge eating can start in childhood or the teens, often alongside dieting, bullying about weight, or stress. Comments about a young person's body, even well-meant, make it worse. Family support that focuses on feelings and regular meals, not weight, helps.",
+  "across_cultures": "Binge-eating disorder is found at similar rates across many countries and ethnic groups, but it is diagnosed far less in some communities because it's hidden or seen as a weight issue rather than a mental health one.",
+  "sub_sections": [
+    {
+      "title": "Other specified: low-frequency or limited-duration binge eating; night eating syndrome",
+      "icd10cm_code": "F50.89",
+      "text": "Less frequent bingeing, or a pattern of eating most food at night with distress, still deserves assessment and treatment."
+    }
+  ],
+  "related_topics": [
+    "bulimia-nervosa",
+    "anorexia-nervosa",
+    "major-depressive-disorder",
+    "adhd",
+    "body-dysmorphic-disorder",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "binge",
+    "diet-culture",
+    "body-image",
+    "cbt-e",
+    "emotional-dysregulation",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "high",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No numbers: no weights, BMI, calories, or amounts of food.",
+      "No 'how to' behaviours.",
+      "Crisis strip with eating-disorder helplines required.",
+      "Illustration must not show large amounts of food, empty wrappers, or bodies being judged."
+    ]
+  },
+  "visual": {
+    "color_token": "eating",
+    "icon": "leaf",
+    "illustration_prompt": "Soft line illustration of a person on a park bench with a journal, a dog at their feet, a small lunch box closed beside them, autumn leaves. Pastel sage and amber. No food close-ups.",
+    "alt_text": "A person sits on a park bench with a journal and a dog at their feet among autumn leaves."
+  },
+  "communities": [
+    "reddit-r-bingeeatingdisorder",
+    "beat-uk-helpline-and-online-groups",
+    "butterfly-foundation-helpline",
+    "reddit-r-eatingdisorders",
+    "anad-peer-support-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Feeding and Eating Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nimh-stats",
+      "title": "Eating Disorders statistics",
+      "publisher": "National Institute of Mental Health (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    },
+    {
+      "id": "src-nice-ng69",
+      "title": "Eating disorders: recognition and treatment (NG69)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng69",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2017,
+      "note": "Not opened; recommendations summarized from secondary sources."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "High-sensitivity card: clinician and lived-experience review required."
+    ]
+  }
+}

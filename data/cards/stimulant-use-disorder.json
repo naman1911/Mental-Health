@@ -1,0 +1,170 @@
+{
+  "topic_id": "stimulant-use-disorder",
+  "official_name": "Stimulant Use Disorder",
+  "plain_title": "When cocaine or meth has taken control",
+  "also_known_as": [
+    "cocaine use disorder",
+    "methamphetamine use disorder",
+    "amphetamine-type use disorder"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F15.10 / F15.20 (amphetamine-type); F14.10 / F14.20 (cocaine)",
+  "language_convention": "person-first",
+  "one_liner": "A pattern of using cocaine, methamphetamine, or similar stimulants that a person can't control despite serious harm.",
+  "in_simple_words": "Stimulants like cocaine, crack, methamphetamine, and non-prescribed amphetamines produce intense energy and euphoria followed by a crash. A use disorder develops when use becomes compulsive: binges, cravings, needing more, and carrying on despite damage to the heart, mood, money, relationships, and safety. The crash can bring severe depression and suicidal thoughts. There's no medication yet that treats stimulant use disorder directly, but behavioural treatments work, and people do recover.",
+  "what_it_can_feel_like": [
+    "The first line was the best I'd ever felt. Everything after was chasing it.",
+    "The crash after a binge was the darkest place I've been. That's when I was most at risk.",
+    "Contingency management sounds patronizing. Getting a reward for a clean test every week is what kept me showing up."
+  ],
+  "common_signs": [
+    "Binges: using heavily for hours or days, then crashing",
+    "Cravings and needing more for the same effect",
+    "Weight loss, poor sleep, racing heart, dental problems",
+    "Paranoia, agitation, or seeing or hearing things during heavy use",
+    "Deep depression and exhaustion after use",
+    "Continuing despite harm to health, money, work, or relationships"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Stimulants aren't physically addictive, so it's just willpower.",
+      "fact": "Stimulants powerfully change the brain's reward system. The psychological pull is as real as any physical dependence."
+    },
+    {
+      "myth": "There's no treatment for meth or cocaine addiction.",
+      "fact": "Behavioural treatments, especially contingency management and CBT, have good evidence. Medication research is ongoing."
+    },
+    {
+      "myth": "Prescribed ADHD medication is the same as meth.",
+      "fact": "ADHD stimulants taken as prescribed and monitored are safe and effective. The problem is misuse, not the medicine."
+    }
+  ],
+  "how_common": {
+    "plain": "Stimulant use disorders affect a few million people in the US. Methamphetamine-related deaths have risen sharply in recent years, often involving fentanyl.",
+    "figure": "NSDUH 2023 reports separate figures for cocaine and methamphetamine use disorders; to be confirmed from the release",
+    "source_ref": "src-nsduh-2023",
+    "note": "Specific figures not confirmed in this session."
+  },
+  "what_helps": {
+    "plain_summary": "Contingency management, which gives tangible rewards for verified abstinence, has the strongest evidence for stimulant use disorder. CBT, the community reinforcement approach, and motivational interviewing also help. There's no approved medication yet, though research is active and a doctor may treat depression, sleep, or psychosis during recovery. Harm reduction, including drug checking for fentanyl and naloxone, saves lives. Peer support and structured daily routines matter a lot in early recovery.",
+    "evidence_based_options": [
+      "Contingency management",
+      "CBT and the community reinforcement approach",
+      "Motivational interviewing and peer support",
+      "Harm reduction: fentanyl test strips and naloxone, via official services"
+    ],
+    "self_help_that_supports_care": [
+      "Expecting the crash and planning support for it",
+      "Sleep, food, and structure in the first weeks",
+      "Avoiding the people and places tied to use",
+      "Meetings, including Cocaine Anonymous, Crystal Meth Anonymous, and SMART Recovery"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If stimulant use is becoming hard to control, or the crashes are bringing dark thoughts, talk to a doctor, a drug helpline, or a treatment service. Get emergency help for chest pain, seizures, very high temperature, or severe agitation or paranoia.",
+  "is_not": "Taking prescribed stimulant medication for ADHD as directed isn't a use disorder. Occasional use without loss of control is risky but isn't a diagnosis.",
+  "hope_note": "People recover from stimulant use disorder. Brain function and mood improve steadily over months of abstinence, and the colour comes back.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "understanding-psychosis",
+    "major-depressive-disorder",
+    "adhd",
+    "opioid-use-disorder",
+    "suicidal-thoughts-and-behavior"
+  ],
+  "glossary_terms": [
+    "craving",
+    "withdrawal",
+    "harm-reduction",
+    "naloxone",
+    "twelve-step",
+    "smart-recovery",
+    "stimulant-medication"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person cooking a simple meal in a tidy kitchen with music playing, a weekly planner on the fridge with ticks. Pastel navy and coral. No drug imagery.",
+    "alt_text": "A person cooks a simple meal in a tidy kitchen, a weekly planner with ticks on the fridge."
+  },
+  "communities": [
+    "smart-recovery-meetings",
+    "virtual-na",
+    "samhsa-national-helpline",
+    "frank-uk"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    },
+    {
+      "id": "src-nida-meth",
+      "title": "Methamphetamine DrugFacts",
+      "publisher": "National Institute on Drug Abuse",
+      "url": "https://nida.nih.gov/publications/drugfacts/methamphetamine",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm stimulant use disorder prevalence.",
+      "Verify Cocaine Anonymous and Crystal Meth Anonymous online meeting pages before listing."
+    ]
+  },
+  "in_young_people": "Stimulant use in teens often involves misused ADHD medication or study drugs. Family-involved treatment and honest information work better than scare tactics.",
+  "across_cultures": "Methamphetamine use is concentrated in some regions and communities, including among gay and bisexual men in some cities, where tailored services exist. Stigma around 'meth' is extreme and keeps people from help.",
+  "sub_sections": [
+    {
+      "title": "Stimulant intoxication and withdrawal",
+      "text": "Intoxication can cause dangerous heart effects, overheating, seizures, and psychosis. Withdrawal ('the crash') brings exhaustion, hunger, and depression that can be severe."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+from helpers import D, NV, c
+COMMUNITIES = [
+ c("alzheimers-association-helpline-alzconnected", "Alzheimer's Association 24/7 Helpline and ALZConnected community (US)", "phone", "https://www.alz.org/helpline", "helpline", ["adults", "family"], "both",
+   ["major-and-mild-neurocognitive-disorder", "alzheimers-disease-neurocognitive-disorder", "vascular-neurocognitive-disorder", "lewy-body-neurocognitive-disorder", "frontotemporal-neurocognitive-disorder", "delirium", "neurocognitive-disorder-other-causes", "parkinsons-disease-neurocognitive-disorder", "huntingtons-disease-neurocognitive-disorder", "traumatic-brain-injury-neurocognitive-disorder"], "US", has_rules=True, mods=True, crisis=True,
+   notes="Free 24/7 Helpline 800-272-3900 in 200+ languages via interpreters; live chat daily; ALZConnected free online community for people with dementia and carers with public and private groups; local support groups via chapters.",
+   safety="Information and support; crisis assistance available on the line.", reviewer="Record ALZConnected URL and activity."),
+ c("aftd-helpline-and-groups", "AFTD HelpLine and FTD support groups (US)", "phone", "https://www.theaftd.org/", "helpline", ["adults", "family"], "both",
+   ["frontotemporal-neurocognitive-disorder"], "US (virtual groups open more widely)", has_rules=True, mods=True, notes="HelpLine 1-866-507-7222 and info@theaftd.org; monthly local, regional, and virtual support groups led by AFTD-trained volunteers.", reviewer="Confirm HelpLine hours and the virtual group list."),
+ c("lewy-body-society-uk", "Lewy Body Society helpline (UK)", "phone", "https://www.lewybody.org/", "helpline", ["adults", "family"], "both",
+   ["lewy-body-neurocognitive-disorder"], "UK", has_rules=None, mods=None, notes="Helpline 0800 888 6678 answered by Dementia UK Admiral Nurses, 9am–9pm Mon–Fri and 9am–5pm weekends (seen in an Alzheimer's Society resource listing).", reviewer="Confirm on lewybody.org."),
+ c("lbda-caregiver-link", "Lewy Body Dementia Association Caregiver Link (US)", "phone", "https://www.lbda.org/", "helpline", ["adults", "family"], "family-and-carers",
+   ["lewy-body-neurocognitive-disorder"], "US", has_rules=None, mods=None, notes="Caregiver Link 800-539-9767 and support group finder; details seen via a third-party listing, site not opened.", reviewer="Confirm number and groups on lbda.org."),
+ c("parkinsons-foundation-helpline", "Parkinson's Foundation Helpline (US)", "phone", "https://www.parkinson.org/resources-support/helpline", "helpline", ["adults", "family"], "both",
+   ["parkinsons-disease-neurocognitive-disorder"], "US", has_rules=None, mods=None, crisis=None, notes="1-800-4PD-INFO (1-800-473-4636), Helpline@Parkinson.org; information specialists, referrals to local groups; English and Spanish; weekday hours (sources differed).", reviewer="Confirm hours."),
+ c("parkinsons-uk-helpline", "Parkinson's UK helpline", "phone", "https://www.parkinsons.org.uk/", "helpline", ["adults", "family"], "both",
+   ["parkinsons-disease-neurocognitive-disorder"], "UK", has_rules=None, mods=None, notes="Helpline 0808 800 0303 seen in a third-party listing; site not opened; also runs a large online forum.", reviewer="Confirm number, hours, and forum URL."),
+ c("hdsa-helpline-and-groups", "HDSA Helpline and chapter support groups (US)", "phone", "https://hdsa.org/hdsa-helpline/", "helpline", ["adults", "family", "at-risk"], "both",
+   ["huntingtons-disease-neurocognitive-disorder"], "US", has_rules=None, mods=None, notes="1-800-345-HDSA (1-800-345-4372), HDSAinfo@HDSA.org, generally Mon–Fri 9am–5pm ET; connects to local chapters and support groups for people with HD, at-risk relatives, and carers.", reviewer="Confirm support group finder URL."),
+ c("headway-uk-helpline", "Headway brain injury helpline (UK)", "phone", "https://www.headway.org.uk/supporting-you/helpline/", "helpline", ["adults", "family"], "both",
+   ["traumatic-brain-injury-neurocognitive-disorder"], "UK", has_rules=None, mods=None, notes="0808 800 2244, 9am–5pm Mon–Fri, answerphone outside hours; local Headway groups and branches across the UK.", reviewer="Confirm and add the local-group finder."),
+]

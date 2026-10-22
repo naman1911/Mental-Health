@@ -1,0 +1,154 @@
+{
+  "topic_id": "inhalant-use-disorder",
+  "official_name": "Inhalant Use Disorder",
+  "plain_title": "Sniffing glue, gas, or aerosols: a hidden danger",
+  "also_known_as": [
+    "solvent misuse",
+    "volatile substance misuse",
+    "huffing"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F18.10 (mild) / F18.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "Repeated inhaling of fumes from glue, petrol, aerosols, or similar products in a pattern that's hard to control and harmful.",
+  "in_simple_words": "Inhalants are everyday products, like glue, aerosols, petrol, and gas, whose fumes are breathed in for a short high. They are cheap and legal, so use is most common among young teens and in poverty. Inhalant use disorder means use has become hard to control and is causing harm. The danger is acute: a single session can cause 'sudden sniffing death' from heart rhythm problems, and long-term use damages the brain, liver, kidneys, and nerves. Adults often miss it.",
+  "what_it_can_feel_like": [
+    "I was twelve. It was in every garage. Nobody thought to warn us.",
+    "The headaches and the shaking hands came on slowly. I thought I was just tired.",
+    "Getting out meant getting out of the group. A youth worker made that possible."
+  ],
+  "common_signs": [
+    "Chemical smells on breath or clothes, paint or glue stains on hands or face",
+    "Empty aerosol cans, glue tubes, or rags hidden away",
+    "Drunken, slurred behaviour that passes within an hour",
+    "Sores around the mouth and nose, nosebleeds, red eyes",
+    "Headaches, nausea, poor concentration, mood changes",
+    "Continuing despite harm or trouble at school or home"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just kids messing about with glue.",
+      "fact": "Inhalants can kill on the first use through heart arrhythmia, and regular use causes lasting brain damage. It's never harmless."
+    },
+    {
+      "myth": "Legal products can't be dangerous drugs.",
+      "fact": "The products are legal; inhaling them is among the most dangerous forms of drug use."
+    },
+    {
+      "myth": "Only poor kids do it.",
+      "fact": "Inhalant use happens across all backgrounds, though it's more common where other drugs aren't accessible and supervision is low."
+    }
+  ],
+  "how_common": {
+    "plain": "Inhalant use is most common among younger teenagers and declines with age; the disorder itself is uncommon in adults.",
+    "figure": "DSM-5-TR text: about 0.4% of 12–17-year-olds reported past-year inhalant use disorder in older US surveys; rare in adults",
+    "source_ref": "src-dsm",
+    "note": "Needs a current primary source."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is mainly behavioural and social: CBT, motivational interviewing, family therapy for young people, and addressing the circumstances, like boredom, peer groups, or home problems, that drive use. Medical assessment checks for damage to the heart, nerves, liver, and kidneys. There's no medication for inhalant use disorder. Because users are often young and isolated, youth workers and schools are important partners.",
+    "evidence_based_options": [
+      "CBT and motivational interviewing",
+      "Family therapy and youth outreach for young people",
+      "Medical assessment for organ and nerve damage",
+      "Treatment of co-occurring mental health conditions"
+    ],
+    "self_help_that_supports_care": [
+      "Removing or locking away products at home, calmly, not punitively",
+      "Finding activities and groups that replace the time and company",
+      "Talking to a trusted adult or a helpline",
+      "Knowing the emergency signs: collapse, chest pain, seizures"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If you or a young person you know is inhaling fumes to get high, talk to a doctor, a drug helpline, or a youth service soon. Call emergency services immediately if someone collapses, has chest pain, or has a seizure during or after use.",
+  "is_not": "Accidental exposure to fumes at work or home isn't a use disorder. Nitrous oxide ('laughing gas') and nitrites ('poppers') are classified separately by the DSM under other substances.",
+  "hope_note": "Young people who stop inhaling recover much of what was lost, and the earlier they stop, the more comes back.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "conduct-disorder",
+    "major-depressive-disorder",
+    "housing-and-money-problems",
+    "neurocognitive-disorder-other-causes"
+  ],
+  "glossary_terms": [
+    "intoxication",
+    "craving",
+    "harm-reduction"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a youth worker and a teenager repairing a bike together in a community workshop, tools on the wall, afternoon light. Pastel navy and orange. No inhalant products.",
+    "alt_text": "A youth worker and a teenager repair a bike together in a community workshop."
+  },
+  "communities": [
+    "frank-uk",
+    "samhsa-national-helpline",
+    "smart-recovery-meetings"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    },
+    {
+      "id": "src-nida-inhalants",
+      "title": "Inhalants DrugFacts",
+      "publisher": "National Institute on Drug Abuse",
+      "url": "https://nida.nih.gov/publications/drugfacts/inhalants",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a current prevalence source.",
+      "Identify youth-specific helplines per country."
+    ]
+  },
+  "in_young_people": "This is overwhelmingly a young teenager's problem, with use often starting around 12 to 14. Schools, parents, and youth services are the front line, and open conversation beats shock tactics.",
+  "across_cultures": "Inhalant use is a serious problem among street-connected children in many countries and in some remote Indigenous communities, where community-led programmes and limiting access to products have made a difference.",
+  "sub_sections": [
+    {
+      "title": "Inhalant intoxication",
+      "icd10cm_code": "F18.x20 (varies)",
+      "text": "Brief drunkenness, dizziness, slurred speech, and sometimes hallucinations, lasting minutes to an hour. Can cause sudden death from heart rhythm disturbance."
+    }
+  ]
+}

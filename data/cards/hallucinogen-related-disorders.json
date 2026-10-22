@@ -1,0 +1,160 @@
+{
+  "topic_id": "hallucinogen-related-disorders",
+  "official_name": "Hallucinogen-Related Disorders",
+  "plain_title": "LSD, mushrooms, ketamine, PCP: when use becomes a problem",
+  "also_known_as": [
+    "psychedelic use disorder",
+    "PCP use disorder",
+    "HPPD (hallucinogen persisting perception disorder)"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F16.10 / F16.20",
+  "language_convention": "person-first",
+  "one_liner": "Harm from drugs like LSD, magic mushrooms, ketamine, or PCP: losing control of use, or lasting changes in vision.",
+  "in_simple_words": "Hallucinogens change how you see, think, and feel. Most people who use them don't lose control of their use. That is rare with LSD and mushrooms and more common with PCP and ketamine. The harms are frightening or dangerous trips, setting off psychosis in people at risk, and HPPD, where visual changes go on long after use. Ketamine can also damage the bladder. This card is about harm, not about the medical trials of psychedelic treatments.",
+  "what_it_can_feel_like": [
+    "The trip itself was fine. The visual snow six months later wasn't.",
+    "Ketamine went from weekends to every day without me noticing the line.",
+    "I didn't think you could get hooked on it. The bladder pain is what finally got me into treatment."
+  ],
+  "common_signs": [
+    "Using more or more often than intended, especially with ketamine or PCP",
+    "Cravings or continuing despite problems",
+    "Risky behaviour or injuries while high",
+    "Lasting visual disturbances (trails, halos, 'visual snow') after use has stopped",
+    "Paranoia, panic, or psychotic symptoms during or after use",
+    "With ketamine: bladder pain, trouble peeing, memory problems"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Psychedelics can't be addictive, so there's no risk.",
+      "fact": "Classic psychedelics rarely cause dependence, but ketamine and PCP can, and all of them can trigger dangerous reactions or psychosis in some people."
+    },
+    {
+      "myth": "A bad trip means permanent damage.",
+      "fact": "Most bad trips pass within hours with a calm setting. Lasting problems are uncommon, and HPPD is treatable."
+    },
+    {
+      "myth": "If researchers are studying psychedelics for depression, self-medicating is fine.",
+      "fact": "Clinical trials use screened participants, known doses, and trained support. None of that is true of unsupervised use."
+    }
+  ],
+  "how_common": {
+    "plain": "Losing control of hallucinogen use is uncommon compared with other drugs. HPPD is rare. It affects a small minority of people who have used these drugs.",
+    "figure": "DSM-5-TR text: 12-month prevalence of other hallucinogen use disorder about 0.1% of adults; HPPD estimated at around 4% of hallucinogen users in older studies",
+    "source_ref": "src-dsm",
+    "note": "Figures from the DSM-5-TR text; need primary sources."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is the same as for other drug problems: talk therapy such as CBT, help with motivation, and peer support. Bladder damage from ketamine needs medical care. HPPD is treated with reassurance, staying off hallucinogens and cannabis, and sometimes medication, prescribed and monitored by a doctor. Psychosis that doesn't settle needs a mental health assessment. A frightening trip is managed in a calm, safe place with medical help if needed.",
+    "evidence_based_options": [
+      "CBT and motivational interviewing for ketamine or PCP use disorder",
+      "Medical assessment and treatment for ketamine bladder damage",
+      "Assessment and care for persisting psychotic symptoms",
+      "Reassurance, abstinence, and sometimes medication for HPPD, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Stopping all hallucinogens and cannabis if HPPD symptoms appear",
+      "Never using alone or in an unsafe place",
+      "Telling a doctor about bladder symptoms early",
+      "Peer support with others who've stopped"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If ketamine or PCP use is getting hard to control, if visual changes won't go away, or if paranoia or voices carry on after use, talk to a doctor or a drug helpline. Get emergency help for severe agitation, a high temperature, or someone who won't wake up.",
+  "is_not": "Having used a hallucinogen, even having had a bad trip, isn't a disorder. Ketamine given by a doctor for depression is a treatment, not a use disorder.",
+  "hope_note": "Lasting harm from these drugs is uncommon. When it happens, people recover with time away from the drug and support.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "understanding-psychosis",
+    "cannabis-use-disorder",
+    "depersonalization-derealization-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "hallucination",
+    "psychedelic-assisted-therapy",
+    "ketamine-esketamine",
+    "harm-reduction"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person sitting on a hill at dusk with a friend, the sky in soft natural colours, a flask of tea between them. Pastel navy and violet. No psychedelic patterns or drug imagery.",
+    "alt_text": "Two friends sit on a hill at dusk under a softly coloured sky with a flask of tea between them."
+  },
+  "communities": [
+    "smart-recovery-meetings",
+    "virtual-na",
+    "frank-uk",
+    "samhsa-national-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    },
+    {
+      "id": "src-nida-hallucinogens",
+      "title": "Psychedelic and Dissociative Drugs",
+      "publisher": "National Institute on Drug Abuse",
+      "url": "https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence sources for hallucinogen use disorder and HPPD."
+    ]
+  },
+  "in_young_people": "Ketamine use has grown among young people in several countries, with bladder damage appearing in people in their early twenties. Honest information works better than scare tactics.",
+  "across_cultures": "Some of these drugs have a long history of ceremonial use in Indigenous cultures. The DSM does not count that as a disorder. Problem use differs by country: ketamine in parts of Asia and the UK, PCP in some US cities.",
+  "sub_sections": [
+    {
+      "title": "Phencyclidine (PCP) use disorder and intoxication",
+      "icd10cm_code": "F16.10 / F16.20; F16.x20",
+      "text": "PCP can cause dangerous agitation, violence, and injuries during intoxication, and dependence is more common than with classic psychedelics."
+    },
+    {
+      "title": "Hallucinogen persisting perception disorder",
+      "icd10cm_code": "F16.983",
+      "text": "Re-experiencing visual disturbances, like trails, halos, or 'visual snow', long after use has stopped, causing distress. Uncommon and treatable."
+    }
+  ]
+}

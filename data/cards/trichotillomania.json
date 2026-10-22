@@ -1,0 +1,134 @@
+{
+  "topic_id": "trichotillomania",
+  "official_name": "Trichotillomania (Hair-Pulling Disorder)",
+  "plain_title": "Pulling out your own hair and not being able to stop",
+  "also_known_as": [
+    "trich",
+    "TTM",
+    "hair-pulling disorder",
+    "a body-focused repetitive behaviour (BFRB)"
+  ],
+  "chapter_id": "ocd-related",
+  "card_type": "condition",
+  "icd10cm_code": "F63.3",
+  "language_convention": "person-first",
+  "one_liner": "Repeatedly pulling out hair, causing hair loss, despite trying to stop.",
+  "in_simple_words": "Trichotillomania is a body-focused repetitive behaviour: pulling hair from the scalp, eyebrows, eyelashes, or elsewhere, often without fully noticing, sometimes in a focused way to relieve tension. It leads to bald patches or missing lashes that people go to great lengths to hide. It's not a habit someone can simply stop, and it's not self-harm in the usual sense; it's a condition with its own treatment, and shame is usually the heaviest part.",
+  "what_it_can_feel_like": [
+    "I'd come out of a film and realize my lap was covered in hair. I hadn't noticed a single pull.",
+    "No swimming, no wind, no one touching my head. I built my whole life around hiding it.",
+    "The TLC group was the first time I'd met anyone else who did it. I cried the whole call."
+  ],
+  "common_signs": [
+    "Repeatedly pulling out hair, leading to visible hair loss",
+    "Repeated attempts to stop or cut down",
+    "Pulling that happens automatically, or in a focused way to relieve an urge",
+    "Hiding hair loss with styles, makeup, hats, or avoiding activities",
+    "Distress, shame, or trouble at work, school, or socially"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just a nervous habit. Snap out of it.",
+      "fact": "Trichotillomania involves brain pathways for habit and reward. Willpower alone rarely works; a specific behavioural therapy does."
+    },
+    {
+      "myth": "It's a form of self-harm.",
+      "fact": "Most people with trich aren't trying to hurt themselves. Pulling often soothes, relieves tension, or happens without awareness."
+    },
+    {
+      "myth": "It's rare and weird.",
+      "fact": "Around 1 to 2 in 100 people have it. Almost all of them think they're the only one."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 to 2 in every 100 people have trichotillomania at some point. It usually starts around puberty and is diagnosed more often in women, though in childhood it affects boys and girls equally.",
+    "figure": "Estimated 1%–2% 12-month prevalence (DSM-5-TR text); a 2020 US survey found about 1.7% of adults",
+    "source_ref": "src-dsm",
+    "note": "Grant et al. 2020 figure seen in query only; needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "The best-supported treatment is habit reversal training, usually within a broader behavioural therapy for BFRBs: becoming aware of the pulling, using a competing action when the urge comes, and changing the situations that trigger it. Approaches that add acceptance and emotion skills help too. Medication has limited evidence; a doctor may consider options and monitors them. Peer support is unusually powerful for this condition because the shame is so heavy.",
+    "evidence_based_options": [
+      "Habit reversal training and comprehensive behavioural therapy for BFRBs",
+      "Acceptance-based and DBT-informed additions for urges and emotions",
+      "Treatment of co-occurring anxiety or depression",
+      "Medication in some cases, prescribed and monitored by a doctor, with limited evidence"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking when, where, and how pulling happens",
+      "Fiddle toys, gloves, or bandages at high-risk times, without shame",
+      "Changing the setting: lighting, mirrors, screens, positions",
+      "Joining a BFRB support group, online or in person"
+    ],
+    "guideline_refs": [
+      "src-tlc"
+    ]
+  },
+  "when_to_reach_out": "If pulling is causing hair loss you have to hide, or you've tried to stop and can't, a therapist trained in BFRBs can help. Dermatologists and GPs can also check for any skin or scalp issues and point you to support.",
+  "is_not": "Twirling or occasionally pulling hair without hair loss isn't the disorder. Hair loss from alopecia or medical causes needs a different assessment, though the two can co-exist.",
+  "hope_note": "Trichotillomania is treatable, and the moment people find others who pull, the shame starts to lift.",
+  "in_young_people": "In very young children, hair pulling often fades on its own. From around puberty it tends to persist and needs treatment. Teens may avoid swimming, PE, and sleepovers; telling the school discreetly helps.",
+  "related_topics": [
+    "excoriation-disorder",
+    "obsessive-compulsive-disorder",
+    "stereotypic-movement-disorder",
+    "generalized-anxiety-disorder",
+    "body-dysmorphic-disorder"
+  ],
+  "glossary_terms": [
+    "habit-reversal-training",
+    "compulsion",
+    "stimming",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "ocd-related",
+    "icon": "repeat",
+    "illustration_prompt": "Soft line illustration of a person in a sunlit room knitting with soft wool, a tray of textured fidget objects beside them, a video call with smiling faces on a laptop. Pastel coral and lilac.",
+    "alt_text": "A person knits with soft wool beside a tray of fidget objects while smiling faces appear on a laptop video call."
+  },
+  "communities": [
+    "tlc-foundation-bfrb-groups",
+    "bfrb-uk-ireland",
+    "reddit-r-trichotillomania"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Obsessive-Compulsive and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-tlc",
+      "title": "TLC Foundation for Body-Focused Repetitive Behaviors: support and treatment information",
+      "publisher": "TLC Foundation for BFRBs",
+      "url": "https://www.bfrb.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Add Grant et al. 2020 prevalence citation after verification."
+    ]
+  }
+}

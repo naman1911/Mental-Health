@@ -1,0 +1,171 @@
+{
+  "topic_id": "sedative-hypnotic-anxiolytic-use-disorder",
+  "official_name": "Sedative, Hypnotic, or Anxiolytic Use Disorder",
+  "plain_title": "When sleeping pills or benzos have taken control",
+  "also_known_as": [
+    "benzodiazepine dependence",
+    "benzo addiction",
+    "Z-drug dependence"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F13.10 (mild) / F13.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "A pattern of using benzodiazepines, sleeping tablets, or similar sedatives that a person can't control, often starting from a prescription.",
+  "in_simple_words": "Benzodiazepines (like diazepam or alprazolam) and 'Z-drug' sleeping tablets calm anxiety and bring sleep quickly, which is why they're useful short-term and risky long-term. Dependence can develop within weeks even at prescribed doses. A use disorder means use has become hard to control, with craving, escalating amounts, and withdrawal. Stopping suddenly after regular use can cause seizures and can be fatal, so coming off must be gradual and medically supervised. Mixed with alcohol or opioids, sedatives can stop breathing.",
+  "what_it_can_feel_like": [
+    "My doctor prescribed them for panic. Two years later I couldn't get through a day without them.",
+    "I tried to stop on my own and had a seizure. Nobody had told me that could happen.",
+    "The taper took eight months. Slow. Boring. It worked, and my anxiety is better than it was on the pills."
+  ],
+  "common_signs": [
+    "Needing more for the same calming or sleep effect",
+    "Anxiety, insomnia, shaking, or panic between doses or when stopping",
+    "Running out early, using more than prescribed, or getting them from more than one source",
+    "Using to cope with everyday stress rather than as prescribed",
+    "Memory gaps, drowsiness, falls, or accidents",
+    "Continuing despite harm or a doctor's advice"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If a doctor prescribed it, it can't be addictive.",
+      "fact": "Benzodiazepines and Z-drugs can cause dependence within weeks, even when taken exactly as prescribed. That's why guidelines limit them to short courses."
+    },
+    {
+      "myth": "I'll just stop taking them.",
+      "fact": "Sudden stopping after regular use can cause seizures and severe withdrawal. Tapering slowly under medical supervision is essential."
+    },
+    {
+      "myth": "Benzos are safe to mix with a drink.",
+      "fact": "Combined with alcohol or opioids, sedatives can stop breathing. This combination is involved in many overdose deaths."
+    }
+  ],
+  "how_common": {
+    "plain": "Prescription sedative misuse affects a few million people in the US each year, and dependence is common among long-term users at any dose.",
+    "figure": "NSDUH reports past-year prescription tranquilizer or sedative misuse and use disorder; figures to be confirmed",
+    "source_ref": "src-nsduh-2023",
+    "note": "Specific figures not confirmed in this session."
+  },
+  "what_helps": {
+    "plain_summary": "The core of treatment is a slow, medically supervised taper, sometimes switching to a longer-acting medicine first, over weeks to many months. CBT helps with the anxiety or insomnia the drug was treating and with the taper itself. Treating the underlying condition with safer long-term options, like therapy or antidepressants, prescribed and monitored by a doctor, makes stopping stick. Peer support, including online taper communities, helps people through a slow process.",
+    "evidence_based_options": [
+      "Gradual, medically supervised tapering",
+      "CBT for anxiety or insomnia alongside the taper",
+      "Safer long-term treatment of the underlying condition",
+      "Peer support during tapering"
+    ],
+    "self_help_that_supports_care": [
+      "Never stopping suddenly; always with a plan from a doctor",
+      "Keeping a simple diary of doses and symptoms during a taper",
+      "Learning non-drug ways to manage anxiety and sleep before and during",
+      "Telling people close to you what's happening"
+    ],
+    "guideline_refs": [
+      "src-nice-benzo"
+    ]
+  },
+  "when_to_reach_out": "If you've been taking sedatives or sleeping tablets for more than a few weeks and feel you can't stop, or you're using more than prescribed, talk to your doctor about a taper; don't stop on your own. Get emergency help for seizures, severe confusion, or if someone is unresponsive after mixing sedatives with alcohol or opioids.",
+  "is_not": "Taking a short prescribed course as directed isn't a disorder. Long-term prescribed use with dependence but no loss of control is a medical issue to taper, not a use disorder.",
+  "hope_note": "Coming off sedatives is slow but very achievable, and most people find their anxiety and sleep are better off them in the end.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "alcohol-use-disorder",
+    "opioid-use-disorder",
+    "generalized-anxiety-disorder",
+    "panic-disorder",
+    "insomnia-disorder"
+  ],
+  "glossary_terms": [
+    "benzodiazepine",
+    "dependence",
+    "withdrawal",
+    "tapering",
+    "sleep-medication",
+    "cbt-i"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person and a doctor looking together at a gentle downward-sloping line on a calendar chart, a cup of herbal tea, a window with evening light. Pastel navy and lilac. No pills.",
+    "alt_text": "A person and a doctor look together at a gently sloping chart on a calendar, a cup of tea beside them."
+  },
+  "communities": [
+    "smart-recovery-meetings",
+    "virtual-na",
+    "samhsa-national-helpline",
+    "frank-uk"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nice-benzo",
+      "title": "Medicines associated with dependence or withdrawal symptoms: safe prescribing and withdrawal management for adults (NG215)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng215",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Confirm NSDUH figures.",
+      "Clinician to check taper wording."
+    ]
+  },
+  "in_young_people": "Prescription sedatives are among the most commonly misused medicines among teenagers, often from family supplies and often mixed with alcohol. Counterfeit pills containing fentanyl are a growing danger.",
+  "across_cultures": "Prescribing rates and availability differ widely; in some countries benzodiazepines are sold without prescription. Older adults are prescribed them at high rates worldwide, with extra risk of falls and memory problems.",
+  "sub_sections": [
+    {
+      "title": "Sedative intoxication and withdrawal",
+      "icd10cm_code": "F13.x20 / F13.x3 (varies)",
+      "text": "Intoxication resembles drunkenness and can suppress breathing with other depressants. Withdrawal ranges from anxiety and insomnia to seizures and delirium, and requires medical supervision."
+    }
+  ]
+}

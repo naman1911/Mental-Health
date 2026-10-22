@@ -1,0 +1,147 @@
+{
+  "topic_id": "female-orgasmic-disorder",
+  "official_name": "Female Orgasmic Disorder",
+  "plain_title": "When orgasm is rare, delayed, or muted, and it bothers you",
+  "also_known_as": [
+    "anorgasmia",
+    "FOD"
+  ],
+  "chapter_id": "sexual-dysfunctions",
+  "card_type": "condition",
+  "icd10cm_code": "F52.31",
+  "language_convention": "person-first",
+  "one_liner": "Orgasms that are absent, much delayed, rare, or much less intense than wanted, causing distress, for six months or more.",
+  "in_simple_words": "Female orgasmic disorder is when a woman regularly can't reach orgasm, takes much longer than she'd like, or finds orgasms much less intense, despite adequate arousal and stimulation, for at least six months, and it troubles her. Some women have never had an orgasm; for others it changes after illness, childbirth, or medication. Not orgasming from penetration alone is normal, not a disorder. The most effective treatments teach women about their own bodies and responses, and are highly successful.",
+  "what_it_can_feel_like": [
+    "I was 34 and thought there was something wrong with me. It turned out nobody had ever told me how most women's bodies actually work.",
+    "After my antidepressant, orgasms just vanished. Talking to my doctor was awkward for about thirty seconds and then it was fine."
+  ],
+  "common_signs": [
+    "Orgasm absent, rare, or much delayed despite enough stimulation",
+    "Orgasms much less intense than before or than wanted",
+    "Lasting at least six months, most of the time",
+    "Distress, frustration, or avoiding sex"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Women should orgasm from penetration alone; if not, something's wrong.",
+      "fact": "Most women need direct clitoral stimulation to orgasm. Not orgasming from penetration alone is the norm, not a disorder."
+    },
+    {
+      "myth": "If it hasn't happened by now, it never will.",
+      "fact": "Structured programmes that teach women about their own responses have very high success rates, including for women who've never had an orgasm."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 in 20 US women report orgasm difficulties that distress them, and about 1 in 5 report difficulty overall. Figures vary a lot by how questions are asked.",
+    "figure": "Orgasm difficulty 20.5% overall, 4.7% with distress (PRESIDE, 2008)",
+    "source_ref": "src-preside"
+  },
+  "what_helps": {
+    "plain_summary": "Psychosexual therapy is the main treatment. Structured self-exploration programmes, taught by a therapist, have the strongest evidence, particularly for women who've never had an orgasm. Sensate focus exercises with a partner, CBT for anxiety and self-consciousness, and education about anatomy all help. A doctor reviews medications (some antidepressants are a common cause), hormones, and medical conditions. No medication has good evidence for improving orgasm in women.",
+    "evidence_based_options": [
+      "Psychosexual therapy including structured self-exploration programmes",
+      "Sensate focus and couple-based approaches",
+      "CBT for anxiety, self-consciousness, or negative beliefs about sex",
+      "Medication and medical review by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Learning about your own anatomy and responses from reputable sources",
+      "Reducing goal-focus; pleasure without a deadline",
+      "Talking with a partner about what works",
+      "Asking a doctor about medication effects rather than stopping them"
+    ],
+    "guideline_refs": [
+      "src-fod-review"
+    ]
+  },
+  "when_to_reach_out": "If orgasm difficulties are bothering you, talk to a psychosexual therapist or a doctor, especially if things changed after a medication, illness, or childbirth. The treatments are gentle and effective.",
+  "is_not": "Sexual difficulties that are occasional, explained by a medical condition or medication, caused by severe relationship distress, or that don't bother you aren't diagnosed as a disorder. Not reaching orgasm from penetration alone, or needing more time than a partner, is common and not a disorder.",
+  "hope_note": "Most women who seek help for orgasm difficulties get what they came for. Education alone changes a great deal.",
+  "related_topics": [
+    "female-sexual-interest-arousal-disorder",
+    "genito-pelvic-pain-penetration-disorder",
+    "major-depressive-disorder",
+    "delayed-ejaculation"
+  ],
+  "glossary_terms": [
+    "therapy",
+    "side-effects",
+    "ssri",
+    "psychoeducation"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Sex-positive, shame-free wording; no explicit technique descriptions. Medication named only in general terms."
+    ]
+  },
+  "visual": {
+    "color_token": "sexual-dysfunctions",
+    "icon": "heart",
+    "illustration_prompt": "Soft line illustration of a woman journaling on a windowsill seat with a cup of tea, plants around her, soft morning light. Pastel rose and sage.",
+    "alt_text": "A woman journals on a windowsill seat with a cup of tea."
+  },
+  "communities": [
+    "aasect-directory",
+    "cosrt-find-a-therapist",
+    "sexual-advice-association-uk",
+    "society-of-australian-sexologists-directory",
+    "jean-hailes-womens-health"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Sexual Dysfunctions chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-preside",
+      "title": "Sexual problems and distress in United States women: prevalence and correlates (PRESIDE)",
+      "publisher": "Obstetrics & Gynecology (Shifren et al.); figures via secondary summaries",
+      "url": "https://psychiatrist.com/?p=4580",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2008,
+      "note": "Original paper not opened."
+    },
+    {
+      "id": "src-fod-review",
+      "title": "Treatments for female sexual dysfunction: review of directed masturbation evidence",
+      "publisher": "PubMed Central (PMC3411116)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3411116",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-saa",
+      "title": "Factsheets and booklets",
+      "publisher": "Sexual Advice Association (UK charity)",
+      "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Open the directed-masturbation evidence review to confirm claims."
+    ]
+  }
+}

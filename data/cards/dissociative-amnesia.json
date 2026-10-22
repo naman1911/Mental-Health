@@ -1,0 +1,154 @@
+{
+  "topic_id": "dissociative-amnesia",
+  "official_name": "Dissociative Amnesia",
+  "plain_title": "When the mind locks away what it can't bear",
+  "also_known_as": [
+    "psychogenic amnesia",
+    "dissociative fugue (a subtype)"
+  ],
+  "chapter_id": "dissociative",
+  "card_type": "condition",
+  "icd10cm_code": "F44.0",
+  "language_convention": "person-first",
+  "one_liner": "Being unable to remember important personal information, usually about trauma or stress, far beyond ordinary forgetting.",
+  "in_simple_words": "Dissociative amnesia is memory loss for important personal information, most often about a traumatic event, that goes well beyond normal forgetting and isn't caused by injury or substances. It can cover one event, a period, or, rarely, a whole identity. In the rare fugue form, a person may wander and lose track of who they are. The memories are usually still stored and may return, sometimes suddenly. It often follows abuse, combat, disasters, or assault, and responds to patient therapy.",
+  "what_it_can_feel_like": [
+    "There's a year of my childhood that simply isn't there. My sister remembers it. I don't, and I'm learning why.",
+    "After the attack I couldn't remember the hours before it. The police thought I was hiding something.",
+    "The memories came back in therapy, slowly, when I was ready. Not before."
+  ],
+  "common_signs": [
+    "Unable to recall important personal information, usually about trauma or stress",
+    "Memory gaps far beyond ordinary forgetting",
+    "Sometimes: confusion about identity, or travelling without knowing why (fugue)",
+    "Not caused by head injury, illness, drugs, or alcohol",
+    "Distress or problems in daily life",
+    "Often alongside PTSD, depression, or other dissociative symptoms"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Amnesia means the memories are gone for good.",
+      "fact": "In dissociative amnesia the memories are usually stored but inaccessible. They often return, especially when the person feels safe."
+    },
+    {
+      "myth": "Someone who can't remember a trauma is lying or hiding something.",
+      "fact": "Dissociative amnesia is a recognized reaction to overwhelming experiences, and disbelief adds harm."
+    },
+    {
+      "myth": "Therapists should use hypnosis or drugs to recover the memories fast.",
+      "fact": "Forcing memories can create false ones and overwhelm the person. Guidelines favour building safety first and letting memory return at its own pace."
+    }
+  ],
+  "how_common": {
+    "plain": "Dissociative amnesia is thought to affect around 1 to 2 in 100 people at some point, more after wars, disasters, and abuse. Fugue is rare.",
+    "figure": "About 1.8% 12-month prevalence in a US community study (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment starts with safety and stability, then trauma-focused therapy that helps the person approach what happened at a pace they can tolerate, with grounding skills for distress. Memory often returns as safety grows; techniques that force recall are not recommended. Co-occurring PTSD or depression is treated, with any medication prescribed and monitored by a doctor. Medical assessment rules out other causes of memory loss.",
+    "evidence_based_options": [
+      "Medical assessment to exclude neurological causes",
+      "Phased, trauma-informed psychotherapy",
+      "Grounding and stabilization skills",
+      "Treatment of co-occurring PTSD or depression"
+    ],
+    "self_help_that_supports_care": [
+      "Not forcing yourself to remember; safety comes first",
+      "Keeping a simple daily log to anchor the present",
+      "Telling the people close to you what you need when gaps are distressing",
+      "Peer support with others who have dissociation"
+    ],
+    "guideline_refs": [
+      "src-isstd"
+    ]
+  },
+  "when_to_reach_out": "If you have gaps in memory for important parts of your life or for a frightening event, see a doctor to rule out medical causes, then ask for a clinician experienced in trauma and dissociation. Seek urgent help if you find yourself somewhere with no idea how you got there.",
+  "is_not": "Ordinary forgetting, memory loss from head injury, dementia, epilepsy, or heavy drinking, and simply not having attended to an event are not dissociative amnesia. Everyone forgets much of early childhood.",
+  "hope_note": "Memory returns when the mind decides it's safe. Many people regain what was lost and, with support, make peace with it.",
+  "related_topics": [
+    "dissociative-identity-disorder",
+    "depersonalization-derealization-disorder",
+    "posttraumatic-stress-disorder",
+    "acute-stress-disorder",
+    "major-and-mild-neurocognitive-disorder"
+  ],
+  "glossary_terms": [
+    "dissociation",
+    "trauma",
+    "grounding",
+    "trauma-informed",
+    "complex-trauma"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Trauma-related content; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "dissociative",
+    "icon": "layers",
+    "illustration_prompt": "Soft line illustration of a person on a quiet beach picking up one shell at a time and placing it in a small box, a friend sitting nearby, soft light. Pastel slate and sand.",
+    "alt_text": "A person on a quiet beach places shells one by one into a small box while a friend sits nearby."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "an-infinite-mind",
+    "sane-forums-australia",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Dissociative Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-isstd",
+      "title": "ISSTD guidelines for treating dissociative identity disorder in adults (third revision)",
+      "publisher": "International Society for the Study of Trauma and Dissociation",
+      "url": "https://www.isst-d.org/resources/adult-treatment-guidelines/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2011,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-mind-diss",
+      "title": "Dissociation and dissociative disorders",
+      "publisher": "Mind (UK)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/dissociation-and-dissociative-disorders/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence source."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Dissociative fugue",
+      "icd10cm_code": "F44.1",
+      "text": "Rare: purposeful travel or bewildered wandering with amnesia for identity or other important information. Needs urgent assessment and support."
+    }
+  ]
+}

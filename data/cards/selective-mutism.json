@@ -1,0 +1,142 @@
+{
+  "topic_id": "selective-mutism",
+  "official_name": "Selective Mutism",
+  "plain_title": "When a child can talk, but can't in some places",
+  "also_known_as": [
+    "SM",
+    "elective mutism (outdated term)"
+  ],
+  "chapter_id": "anxiety",
+  "card_type": "condition",
+  "icd10cm_code": "F94.0",
+  "language_convention": "person-first",
+  "one_liner": "A child who speaks freely at home but is unable to speak in certain settings, like school, because of anxiety.",
+  "in_simple_words": "Selective mutism is an anxiety condition, usually in young children, where a child who chats happily at home finds it impossible to speak in some situations, most often school or with unfamiliar people. It's not stubbornness or a choice; the words freeze in the throat. It often goes with social anxiety and shyness. With the right understanding and gentle, step-by-step help, most children find their voice.",
+  "what_it_can_feel_like": [
+    "At home she never stops talking. At school, not a word in two years. Teachers thought she was being difficult.",
+    "I remember wanting to answer so badly. My mouth wouldn't open.",
+    "The speech therapist never pushed. One whisper to a friend, then a word to the teacher. Now she's in the school play."
+  ],
+  "common_signs": [
+    "Consistently not speaking in specific settings, like school, despite speaking well elsewhere",
+    "Freezing, looking blank, or avoiding eye contact when expected to speak",
+    "Using gestures, nodding, or whispering to a trusted person instead",
+    "Going on for more than a month (not counting the first month of school)",
+    "Getting in the way of learning or friendships"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "The child is choosing not to talk.",
+      "fact": "It's a freeze response, not defiance. The old name 'elective mutism' was dropped because it wrongly implied choice."
+    },
+    {
+      "myth": "They'll grow out of it if you wait.",
+      "fact": "Some do, but many don't without help, and the longer it goes on the more fixed it becomes. Early support works best."
+    },
+    {
+      "myth": "Pressure or bribes will get them talking.",
+      "fact": "Pressure increases anxiety and silence. Removing pressure and building up in tiny steps is what works."
+    }
+  ],
+  "how_common": {
+    "plain": "Selective mutism is uncommon, affecting roughly 1 in 150 to 1 in 500 children. It usually starts before age five and is often noticed when school begins.",
+    "figure": "Point prevalence roughly 0.2%–0.7% of children in studies; estimates vary with age and method",
+    "source_ref": "src-sm-prev",
+    "note": "Epidemiological research is old and small; treat as a range."
+  },
+  "what_helps": {
+    "plain_summary": "The main approach is behavioural: reduce pressure to speak, then gradually build up speaking in new places and with new people in tiny steps, often with a speech and language therapist or psychologist and with school fully involved. Parents are part of the plan. Treating social anxiety alongside helps. Medication is rarely needed but may be considered for older children, prescribed and monitored by a doctor.",
+    "evidence_based_options": [
+      "Behavioural, step-by-step 'sliding in' and stimulus-fading programmes",
+      "Speech and language therapy and school-based plans",
+      "CBT for the social anxiety that often accompanies it",
+      "SSRI medication in some older children when therapy isn't enough, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Taking the pressure off: no 'say hello', no bribes, no punishments",
+      "Letting the child communicate in any way at first: gestures, writing, whispers",
+      "Arranging low-key playdates in the child's comfort zone",
+      "Keeping everyone, school included, on the same gentle plan"
+    ],
+    "guideline_refs": [
+      "src-smira"
+    ]
+  },
+  "when_to_reach_out": "If a child has not spoken at school or in other settings for more than a month, while speaking normally at home, ask the GP, school, or a speech and language therapist for an assessment. Don't wait for them to grow out of it.",
+  "is_not": "Being quiet in a new place for a few weeks, not speaking because of a language barrier, or not speaking because of a speech or communication difficulty is not selective mutism.",
+  "hope_note": "Children with selective mutism do find their voices, often sooner than their parents dare hope, once the pressure is lifted and the right steps are in place.",
+  "in_young_people": "Selective mutism almost always begins in early childhood. Teenagers and adults who still have it usually also have social anxiety disorder and benefit from the same treatments.",
+  "across_cultures": "Children learning a new language may be silent for a while; this is normal and not selective mutism. Children from immigrant families are sometimes wrongly diagnosed, and sometimes missed.",
+  "related_topics": [
+    "social-anxiety-disorder",
+    "separation-anxiety-disorder",
+    "communication-disorders",
+    "autism-spectrum-disorder"
+  ],
+  "glossary_terms": [
+    "avoidance",
+    "exposure-therapy",
+    "fight-flight-freeze-fawn",
+    "shyness-vs-social-anxiety"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "anxiety",
+    "icon": "wind",
+    "illustration_prompt": "Soft line illustration of a child and a teacher sitting side by side on a classroom rug, the child whispering to a friendly puppet, a small speech bubble with a single musical note. Pastel blue and mint.",
+    "alt_text": "A child sits on a classroom rug beside a teacher, whispering to a friendly puppet, a single musical note in a speech bubble."
+  },
+  "communities": [
+    "smira-selective-mutism-uk",
+    "nami-connection-and-helpline",
+    "mind-side-by-side"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Anxiety Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-sm-prev",
+      "title": "Anxiety in children with selective mutism: a meta-analysis (and prevalence overview)",
+      "publisher": "Child Psychiatry & Human Development (2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7067754",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2020
+    },
+    {
+      "id": "src-smira",
+      "title": "SMiRA: Selective Mutism Information & Research Association",
+      "publisher": "SMiRA (UK registered charity 1022673)",
+      "url": "https://www.selectivemutism.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Only one community confirmed (SMiRA, UK). Look for the US Selective Mutism Association page."
+    ]
+  }
+}

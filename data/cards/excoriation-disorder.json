@@ -1,0 +1,132 @@
+{
+  "topic_id": "excoriation-disorder",
+  "official_name": "Excoriation (Skin-Picking) Disorder",
+  "plain_title": "Picking at your skin and not being able to stop",
+  "also_known_as": [
+    "dermatillomania",
+    "skin-picking disorder",
+    "a body-focused repetitive behaviour (BFRB)"
+  ],
+  "chapter_id": "ocd-related",
+  "card_type": "condition",
+  "icd10cm_code": "F42.4",
+  "language_convention": "person-first",
+  "one_liner": "Repeatedly picking at skin, causing wounds or scars, despite trying to stop.",
+  "in_simple_words": "Excoriation disorder is a body-focused repetitive behaviour where a person picks at their skin, often the face, arms, or hands, enough to cause sores, scabs, and scars, and keeps doing it despite wanting to stop. Picking can be automatic, during screen time or reading, or focused, to 'fix' a bump or relieve tension. It causes real shame and sometimes infection. It is not vanity, not a lack of willpower, and not self-harm in the usual sense. There is effective treatment.",
+  "what_it_can_feel_like": [
+    "I'd go to fix one spot and come back an hour later with a face I had to hide.",
+    "People think it's about being obsessed with my skin. It's more like my hands do it while my mind is elsewhere.",
+    "Learning a competing response sounds silly. It's the thing that finally gave me a choice."
+  ],
+  "common_signs": [
+    "Repeated skin picking causing wounds, scabs, or scars",
+    "Repeated attempts to stop or reduce picking",
+    "Picking that is automatic or that relieves an urge, tension, or 'wrongness'",
+    "Covering skin with makeup, clothing, or avoiding social situations",
+    "Distress, time lost, or infections and medical problems from picking"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's just a bad habit, like biting your nails.",
+      "fact": "Skin picking that causes wounds and can't be stopped is a recognized condition with specific treatment. The brain's habit and reward systems are involved."
+    },
+    {
+      "myth": "People who pick want to hurt themselves.",
+      "fact": "Most are trying to fix, smooth, or soothe, not to injure. The damage is an unwanted result."
+    },
+    {
+      "myth": "Clearer skin would stop it.",
+      "fact": "Picking creates the bumps it then targets. Treating the behaviour, with help for skin healing, works; chasing perfect skin doesn't."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 to 2 in 100 adults have skin-picking disorder, women about three times as often as men.",
+    "figure": "12-month prevalence about 1.4% of adults; female-to-male ratio about 3:1 (DSM-5-TR text)",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Habit reversal training within a behavioural therapy for BFRBs is the treatment with the best evidence: noticing the triggers, using a competing action when the urge comes, and changing the environment. Acceptance-based skills help with urges. A dermatologist can treat skin damage, which reduces the triggers. Medication has limited evidence and is prescribed and monitored by a doctor if used. Peer support reduces the shame that keeps people from getting help.",
+    "evidence_based_options": [
+      "Habit reversal training and comprehensive behavioural therapy for BFRBs",
+      "Acceptance-based and emotion-regulation additions",
+      "Dermatological care for wounds and scarring",
+      "Medication in some cases, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking high-risk times and places",
+      "Covering mirrors or dimming bathroom lights at risky times",
+      "Keeping hands busy at screens: fidgets, gloves, textured objects",
+      "A BFRB support group, where nobody is shocked"
+    ],
+    "guideline_refs": [
+      "src-tlc"
+    ]
+  },
+  "when_to_reach_out": "If picking is leaving wounds or scars, taking up a lot of time, or making you avoid people, a therapist trained in BFRBs can help. See a doctor for any infected or deep wounds.",
+  "is_not": "Occasionally picking a scab or spot isn't the disorder. Picking caused by a skin condition itself, a substance, or a medical problem is assessed differently, and picking driven by a belief about a specific flaw may be BDD.",
+  "hope_note": "Skin heals, and so does the urge's grip. Treatment gives people back their hands and their faces.",
+  "in_young_people": "Skin picking often starts in the early teens, with acne as a common trigger. It is frequently missed or scolded. Teens benefit from BFRB-informed therapy and from adults who don't comment on their skin.",
+  "related_topics": [
+    "trichotillomania",
+    "obsessive-compulsive-disorder",
+    "body-dysmorphic-disorder",
+    "generalized-anxiety-disorder",
+    "stereotypic-movement-disorder"
+  ],
+  "glossary_terms": [
+    "habit-reversal-training",
+    "compulsion",
+    "body-image",
+    "support-group"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Mentions wounds in general terms only; no imagery of skin damage."
+    ]
+  },
+  "visual": {
+    "color_token": "ocd-related",
+    "icon": "repeat",
+    "illustration_prompt": "Soft line illustration of a person with hands wrapped around a warm mug on a sofa, a soft blanket, a fidget cube on the armrest, evening light. Pastel coral and warm grey. No skin close-ups.",
+    "alt_text": "A person on a sofa wraps both hands around a warm mug, a fidget cube resting on the armrest."
+  },
+  "communities": [
+    "tlc-foundation-bfrb-groups",
+    "bfrb-uk-ireland",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Obsessive-Compulsive and Related Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-tlc",
+      "title": "TLC Foundation for Body-Focused Repetitive Behaviors",
+      "publisher": "TLC Foundation for BFRBs",
+      "url": "https://www.bfrb.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify r/CompulsiveSkinPicking (recommended by TLC) and add."
+    ]
+  }
+}

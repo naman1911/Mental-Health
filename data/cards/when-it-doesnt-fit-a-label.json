@@ -1,0 +1,116 @@
+{
+  "topic_id": "when-it-doesnt-fit-a-label",
+  "official_name": "When It Doesn't Fit a Label",
+  "plain_title": "Real distress that doesn't match a named diagnosis",
+  "also_known_as": [
+    "unspecified mental disorder",
+    "other specified mental disorder",
+    "no diagnosis"
+  ],
+  "chapter_id": "other-mental-disorders",
+  "card_type": "explainer",
+  "icd10cm_code": "F99 / Z03.89",
+  "language_convention": "person-first",
+  "one_liner": "Clinicians have codes for distress that doesn't fit a named condition, or for when it's too early to tell.",
+  "in_simple_words": "Not everyone who struggles fits neatly into a diagnosis, and that's fine. The DSM includes 'other specified' and 'unspecified' mental disorder for when symptoms cause real problems but don't match any set of criteria, or when there isn't enough information yet. There's also a code for 'observation for a suspected mental disorder, ruled out'. These aren't failures of diagnosis; they're honesty. Your experience is real whether or not it has a name, and help doesn't depend on a label.",
+  "what_it_can_feel_like": [
+    "I didn't tick enough boxes for anything. The psychologist said that didn't make my year any less awful, and we worked on it anyway.",
+    "They put 'unspecified' and I felt dismissed. Then they explained it meant 'we're not guessing'. That helped."
+  ],
+  "common_signs": [
+    "Real distress or difficulty that doesn't match a named condition",
+    "Symptoms from several areas without fitting any one",
+    "Not enough information yet, or an assessment still underway",
+    "Help still available, whatever the label"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "No diagnosis means nothing is wrong.",
+      "fact": "Diagnoses are tools for communication and planning. Distress that doesn't fit a category still deserves care."
+    },
+    {
+      "myth": "'Unspecified' means the clinician doesn't know what they're doing.",
+      "fact": "It usually means they're being careful not to pin a label that doesn't fit. Labels can be revised; wrong ones can stick."
+    }
+  ],
+  "how_common": {
+    "plain": "These codes are used often, especially early in care and in emergency settings, but there's no meaningful prevalence figure.",
+    "figure": "n/a",
+    "source_ref": "src-dsm"
+  },
+  "what_helps": {
+    "plain_summary": "Care focuses on the actual problems: sleep, mood, stress, relationships, safety. Therapy such as CBT or counselling doesn't need a diagnosis to help. A formulation, a shared story of what's going on and why, often works better than a label. Assessment may continue, and a clearer picture can emerge over time. If medication is considered, a doctor prescribes and monitors it for the symptoms that matter most.",
+    "evidence_based_options": [
+      "Therapy aimed at the specific difficulties, such as CBT or counselling",
+      "A shared formulation rather than a label",
+      "Ongoing assessment as the picture becomes clearer",
+      "Practical support: sleep, stress, social connection"
+    ],
+    "self_help_that_supports_care": [
+      "Describing what's hard in your own words, without needing a diagnosis",
+      "Tracking patterns: sleep, mood, triggers",
+      "Asking what the clinician thinks is going on, not just what it's called",
+      "Peer support; many people's experience doesn't fit a box"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If you're struggling and nothing seems to fit, you still deserve support. Ask a doctor or therapist to help with the specific problems you're facing. If you're in crisis, the crisis strip applies with or without a diagnosis.",
+  "is_not": "Ordinary ups and downs, grief, and stress reactions aren't disorders, and a clinician may say so. That isn't dismissal; it's accuracy, and support is still available.",
+  "hope_note": "Many people get well without ever being given a neat label. The work is the same: understanding what's going on and changing what can be changed.",
+  "related_topics": [
+    "mental-disorders-due-to-another-medical-condition",
+    "adjustment-disorders",
+    "generalized-anxiety-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "diagnosis",
+    "provisional-diagnosis",
+    "formulation",
+    "differential-diagnosis",
+    "self-diagnosis",
+    "mental-health-vs-illness"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "other-mental-disorders",
+    "icon": "circle-help",
+    "illustration_prompt": "Soft line illustration of a person and a counsellor drawing a simple mind-map together on paper, a cup of tea, a plant. Pastel grey and butter yellow.",
+    "alt_text": "A person and a counsellor draw a simple mind-map together."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums",
+    "rethink-advice-line",
+    "mind-infoline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Other Mental Disorders and Additional Codes chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": []
+  }
+}

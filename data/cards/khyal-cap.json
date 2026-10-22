@@ -1,0 +1,127 @@
+{
+  "topic_id": "khyal-cap",
+  "official_name": "Khyâl Cap",
+  "plain_title": "'Wind attacks' in Cambodian communities",
+  "also_known_as": [
+    "khyal attack",
+    "wind overload",
+    "kyol goeu"
+  ],
+  "chapter_id": "culture",
+  "card_type": "cultural-concept",
+  "icd10cm_code": "n/a (cultural concept of distress)",
+  "language_convention": "person-first",
+  "one_liner": "Panic-like episodes understood as 'wind' rising in the body, common among Cambodians, often linked to trauma.",
+  "in_simple_words": "Khyâl cap, or 'wind attack', is a Cambodian way of understanding sudden episodes of dizziness, palpitations, breathlessness, cold hands, neck soreness, and fear. Khyâl, a wind-like substance, is believed to rise in the body and cause fainting, blurred vision, or even death if it surges. Episodes overlap with panic attacks and are especially common among survivors of the Khmer Rouge era, where trauma and these fears intertwine. Treatment that respects the explanation and addresses panic and trauma works.",
+  "what_it_can_feel_like": [
+    "When I stand up fast, the khyâl rises and I think I will die. The clinic that understood this helped me more than any that didn't.",
+    "My mother coins her neck to release the wind. The therapist asked about it instead of telling her to stop."
+  ],
+  "common_signs": [
+    "Sudden dizziness, palpitations, breathlessness, cold hands, or neck soreness",
+    "Fear that the 'wind' will cause fainting, blindness, or death",
+    "Often triggered by standing up, worry, or trauma reminders",
+    "Self-treatment with coining or cupping to release wind",
+    "Common among survivors of war and trauma"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Coining and cupping marks are signs of abuse.",
+      "fact": "They're traditional treatments for khyâl and other illnesses, widely used and usually harmless. Clinicians should ask, not assume."
+    },
+    {
+      "myth": "It's just a panic attack with a different name.",
+      "fact": "The overlap is real, but the fear of catastrophe from wind, and the link to trauma, shape how it's experienced and what helps."
+    }
+  ],
+  "how_common": {
+    "plain": "Among Cambodian refugees attending psychiatric clinics, panic and khyâl-related episodes are very common; population figures aren't available.",
+    "figure": "60% of 89 Khmer refugees at two clinics had current panic disorder (2000 study); population prevalence not established",
+    "source_ref": "src-khyal",
+    "note": "Clinic-based figures only."
+  },
+  "what_helps": {
+    "plain_summary": "Culturally adapted CBT developed specifically for Cambodian refugees, which explains the body's stress response in terms that respect ideas about wind and includes trauma treatment, has good evidence. Treating PTSD and panic disorder, with any medication prescribed and monitored by a doctor, reduces episodes. Working with, not against, traditional practices like coining builds trust.",
+    "evidence_based_options": [
+      "Culturally adapted CBT for panic and trauma in Cambodian communities",
+      "Treatment of PTSD and panic disorder",
+      "Interpreters and bicultural clinicians",
+      "Respectful integration of traditional practices"
+    ],
+    "self_help_that_supports_care": [
+      "Describing the wind episodes to a clinician in your own terms",
+      "Slow breathing and grounding during episodes",
+      "Community and temple support",
+      "Help for trauma memories, when ready"
+    ],
+    "guideline_refs": [
+      "src-khyal"
+    ]
+  },
+  "when_to_reach_out": "If wind attacks are frequent, frightening, or linked to memories of the past, ask for a clinician who works with Cambodian communities or for an interpreter. Seek urgent care for chest pain or fainting that doesn't settle.",
+  "is_not": "Cultural concepts aren't DSM diagnoses and aren't 'wrong' versions of them. The same person may use both frameworks. Heart and blood pressure conditions are checked by a doctor.",
+  "hope_note": "Communities that survived the unimaginable have found care that honours both the wind and the wound. Episodes become rarer and less frightening.",
+  "related_topics": [
+    "panic-disorder",
+    "posttraumatic-stress-disorder",
+    "culture-and-mental-health",
+    "ataque-de-nervios"
+  ],
+  "glossary_terms": [
+    "panic-attack",
+    "trauma",
+    "hypervigilance",
+    "grounding"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Cultural concepts are described respectfully, in their own terms, and never as 'exotic' or 'primitive'.",
+      "Community reviewer from the relevant culture requested."
+    ]
+  },
+  "visual": {
+    "color_token": "culture",
+    "icon": "globe",
+    "illustration_prompt": "Soft line illustration of an older Cambodian woman and a younger relative sitting under a tree outside a temple, a community worker nearby, soft light. Pastel jade and sky blue.",
+    "alt_text": "An older woman and a younger relative sit under a tree outside a temple with a community worker nearby."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "beyondblue-forums"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Culture and Psychiatric Diagnosis; Cultural Concepts of Distress chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-khyal",
+      "title": "Khyâl attacks: a key syndrome of psychological distress among Cambodian populations",
+      "publisher": "Hinton et al.; khyalattack.com",
+      "url": "https://khyalattack.com/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "needs_verification"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": []
+  }
+}
