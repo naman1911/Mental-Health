@@ -738,6 +738,42 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules and confirm moderation; decide which of the two subs to list."
     },
     {
+      "community_id": "an-infinite-mind",
+      "name": "An Infinite Mind (DID nonprofit and Healing Together conference)",
+      "platform": "web",
+      "url": "https://www.aninfinitemind.com/",
+      "type": "org-resource-hub",
+      "audience": [
+        "adults",
+        "family",
+        "professionals"
+      ],
+      "for": "both",
+      "topics": [
+        "dissociative-identity-disorder",
+        "dissociative-amnesia"
+      ],
+      "region": "US (international attendance)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Nonprofit raising awareness of DID for people with DID, supporters, and professionals; runs the annual Healing Together conference (in person in Florida and virtual). Not a peer forum; a hub for finding community."
+      },
+      "safety_notes": "Conference has a cost; the organization is nonprofit.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open the site; record any free peer-support offerings."
+    },
+    {
       "community_id": "beat-uk-helpline-and-online-groups",
       "name": "Beat (UK): helpline, web chat and online support groups",
       "platform": "web",
@@ -989,6 +1025,288 @@
       "verification_status": "needs_verification",
       "verified_on": null,
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read rules; check for diet promotion, numbers, or weight-loss content."
+    },
+    {
+      "community_id": "alzheimers-association-helpline-alzconnected",
+      "name": "Alzheimer's Association 24/7 Helpline and ALZConnected community (US)",
+      "platform": "phone",
+      "url": "https://www.alz.org/helpline",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "major-and-mild-neurocognitive-disorder",
+        "alzheimers-disease-neurocognitive-disorder",
+        "vascular-neurocognitive-disorder",
+        "lewy-body-neurocognitive-disorder",
+        "frontotemporal-neurocognitive-disorder",
+        "delirium",
+        "neurocognitive-disorder-other-causes",
+        "parkinsons-disease-neurocognitive-disorder",
+        "huntingtons-disease-neurocognitive-disorder",
+        "traumatic-brain-injury-neurocognitive-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free 24/7 Helpline 800-272-3900 in 200+ languages via interpreters; live chat daily; ALZConnected free online community for people with dementia and carers with public and private groups; local support groups via chapters."
+      },
+      "safety_notes": "Information and support; crisis assistance available on the line.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Record ALZConnected URL and activity."
+    },
+    {
+      "community_id": "aftd-helpline-and-groups",
+      "name": "AFTD HelpLine and FTD support groups (US)",
+      "platform": "phone",
+      "url": "https://www.theaftd.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "frontotemporal-neurocognitive-disorder"
+      ],
+      "region": "US (virtual groups open more widely)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "HelpLine 1-866-507-7222 and info@theaftd.org; monthly local, regional, and virtual support groups led by AFTD-trained volunteers."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm HelpLine hours and the virtual group list."
+    },
+    {
+      "community_id": "lewy-body-society-uk",
+      "name": "Lewy Body Society helpline (UK)",
+      "platform": "phone",
+      "url": "https://www.lewybody.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "lewy-body-neurocognitive-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Helpline 0800 888 6678 answered by Dementia UK Admiral Nurses, 9am–9pm Mon–Fri and 9am–5pm weekends (seen in an Alzheimer's Society resource listing)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm on lewybody.org."
+    },
+    {
+      "community_id": "lbda-caregiver-link",
+      "name": "Lewy Body Dementia Association Caregiver Link (US)",
+      "platform": "phone",
+      "url": "https://www.lbda.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "lewy-body-neurocognitive-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Caregiver Link 800-539-9767 and support group finder; details seen via a third-party listing, site not opened."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm number and groups on lbda.org."
+    },
+    {
+      "community_id": "parkinsons-foundation-helpline",
+      "name": "Parkinson's Foundation Helpline (US)",
+      "platform": "phone",
+      "url": "https://www.parkinson.org/resources-support/helpline",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "parkinsons-disease-neurocognitive-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "1-800-4PD-INFO (1-800-473-4636), Helpline@Parkinson.org; information specialists, referrals to local groups; English and Spanish; weekday hours (sources differed)."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours."
+    },
+    {
+      "community_id": "parkinsons-uk-helpline",
+      "name": "Parkinson's UK helpline",
+      "platform": "phone",
+      "url": "https://www.parkinsons.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "parkinsons-disease-neurocognitive-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Helpline 0808 800 0303 seen in a third-party listing; site not opened; also runs a large online forum."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm number, hours, and forum URL."
+    },
+    {
+      "community_id": "hdsa-helpline-and-groups",
+      "name": "HDSA Helpline and chapter support groups (US)",
+      "platform": "phone",
+      "url": "https://hdsa.org/hdsa-helpline/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family",
+        "at-risk"
+      ],
+      "for": "both",
+      "topics": [
+        "huntingtons-disease-neurocognitive-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "1-800-345-HDSA (1-800-345-4372), HDSAinfo@HDSA.org, generally Mon–Fri 9am–5pm ET; connects to local chapters and support groups for people with HD, at-risk relatives, and carers."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm support group finder URL."
+    },
+    {
+      "community_id": "headway-uk-helpline",
+      "name": "Headway brain injury helpline (UK)",
+      "platform": "phone",
+      "url": "https://www.headway.org.uk/supporting-you/helpline/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "traumatic-brain-injury-neurocognitive-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "0808 800 2244, 9am–5pm Mon–Fri, answerphone outside hours; local Headway groups and branches across the UK."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm and add the local-group finder."
     },
     {
       "community_id": "reddit-r-autism",
@@ -2105,6 +2423,42 @@
       "verification_status": "needs_verification",
       "verified_on": null,
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open each listed group and verify individually."
+    },
+    {
+      "community_id": "fnd-hope-peer-support",
+      "name": "FND Hope peer support groups and online communities",
+      "platform": "video-meeting",
+      "url": "https://fndhope.org/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "young-adults",
+        "teens",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "functional-neurological-symptom-disorder"
+      ],
+      "region": "US, Canada, UK, international",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "International FND patient charity: Zoom peer groups (US, Canada, young adults, men, teens, functional seizures, LGBTQ+), HealthUnlocked and Facebook communities, and some in-person groups with clinicians. Event pages seen in search."
+      },
+      "safety_notes": "Charity-run peer support; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the current peer-support page and group schedule."
     },
     {
       "community_id": "reddit-r-stopdrinking",

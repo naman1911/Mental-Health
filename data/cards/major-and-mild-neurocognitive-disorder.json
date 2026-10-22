@@ -1,0 +1,178 @@
+{
+  "topic_id": "major-and-mild-neurocognitive-disorder",
+  "official_name": "Major and Mild Neurocognitive Disorder (explainer)",
+  "plain_title": "What 'dementia' and 'neurocognitive disorder' mean",
+  "also_known_as": [
+    "dementia",
+    "mild cognitive impairment (MCI)",
+    "NCD"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "explainer",
+  "icd10cm_code": "F02.8x / F02.A–C (major); G31.84 (mild); varies by cause",
+  "language_convention": "person-first",
+  "one_liner": "A decline in memory, thinking, or other abilities caused by a brain condition. 'Major' is what most people call dementia.",
+  "in_simple_words": "Neurocognitive disorder is the DSM's term for a decline in thinking abilities, such as memory, attention, language, or judgment, caused by a brain condition. 'Mild' means the person still manages daily life independently, often called mild cognitive impairment. 'Major' means the decline interferes with independence, which is what most people call dementia. The cause (Alzheimer's, vascular, and others) is added to the diagnosis; each has its own card. It isn't normal ageing, and much can be done.",
+  "what_it_can_feel_like": [
+    "Mum started losing words, then the way home. Getting a name for it, and a plan, was a relief as much as a grief.",
+    "Mild cognitive impairment: scary words, but my dad has stayed stable for four years with the right support.",
+    "The dementia café was the first place we laughed again."
+  ],
+  "common_signs": [
+    "Decline in memory, attention, language, judgment, or recognizing things, from a previous level",
+    "Noticed by the person, by family, or on testing",
+    "Mild: still independent in daily life, with effort or workarounds",
+    "Major: needs help with everyday tasks like money, medication, or cooking",
+    "Not caused by delirium or another mental disorder",
+    "A cause is identified where possible: Alzheimer's, vascular, Lewy body, and others"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Dementia is a normal part of getting old.",
+      "fact": "Most older people never develop dementia. It's caused by disease, and age is a risk factor, not a cause."
+    },
+    {
+      "myth": "Mild cognitive impairment always turns into dementia.",
+      "fact": "Some people with MCI progress, some stay stable, and some improve, especially when a treatable cause like depression, medication, or sleep apnoea is found."
+    },
+    {
+      "myth": "Nothing can be done, so why bother with a diagnosis.",
+      "fact": "Diagnosis opens the door to treatments that help symptoms, planning while the person can decide, support for carers, and research. Some causes are reversible."
+    }
+  ],
+  "how_common": {
+    "plain": "More than 55 million people worldwide live with dementia, with around 10 million new cases a year. Most live in low- and middle-income countries.",
+    "figure": "55 million people with dementia worldwide; nearly 10 million new cases each year; Alzheimer's disease accounts for 60–70% (WHO)",
+    "source_ref": "src-who-dementia"
+  },
+  "what_helps": {
+    "plain_summary": "Assessment finds the cause and rules out reversible ones (thyroid problems, vitamin deficiency, depression, medication side effects). For Alzheimer's and some other dementias, medications prescribed and monitored by a doctor can ease symptoms for a time. Cognitive stimulation therapy, staying physically and socially active, treating hearing and vision loss, and managing heart health all help. Support for carers is part of treatment. Planning for the future while the person can take part is strongly recommended.",
+    "evidence_based_options": [
+      "Full assessment including reversible causes",
+      "Medication for Alzheimer's and some other dementias, prescribed and monitored by a doctor",
+      "Cognitive stimulation therapy and structured activity",
+      "Carer education and support; advance care planning"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping physically active, socially connected, and mentally engaged",
+      "Treating hearing loss, which protects thinking",
+      "Routines, labels, lists, and a calm home",
+      "Carers: joining a support group early, not when exhausted"
+    ],
+    "guideline_refs": [
+      "src-nice-ng97"
+    ]
+  },
+  "when_to_reach_out": "If you or someone close to you is having memory or thinking problems that are new, getting worse, or affecting daily life, see a doctor for an assessment. Earlier is better, for treatment, support, and planning.",
+  "is_not": "Occasional forgetfulness, slower recall with age, and the brain fog of stress, depression, or poor sleep aren't neurocognitive disorder. Delirium is a sudden, fluctuating confusion with a medical cause. Lifelong learning difficulties are intellectual disability, not dementia.",
+  "hope_note": "A diagnosis is the start of getting help, not the end of a life. People live well with dementia for years, especially with support, and carers don't have to do it alone.",
+  "related_topics": [
+    "alzheimers-disease-neurocognitive-disorder",
+    "vascular-neurocognitive-disorder",
+    "lewy-body-neurocognitive-disorder",
+    "frontotemporal-neurocognitive-disorder",
+    "parkinsons-disease-neurocognitive-disorder",
+    "delirium",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "mild-cognitive-impairment",
+    "cognition",
+    "confabulation",
+    "sundowning",
+    "guardianship",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of an older person and a younger relative doing a jigsaw together at a kitchen table, a labelled cupboard behind them, warm light. Pastel amber and cream.",
+    "alt_text": "An older person and a younger relative do a jigsaw together at a kitchen table."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-who-dementia",
+      "title": "Dementia fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/dementia",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Figures (55 million, ~10 million new cases a year) seen via secondary summaries of the WHO fact sheet."
+    },
+    {
+      "id": "src-nice-ng97",
+      "title": "Dementia: assessment, management and support for people living with dementia and their carers (NG97)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng97",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018
+    },
+    {
+      "id": "src-nia-dementia",
+      "title": "What Is Dementia? Symptoms, Types, and Diagnosis",
+      "publisher": "National Institute on Aging (US)",
+      "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-alz",
+      "title": "Alzheimer's Association 24/7 Helpline and ALZConnected",
+      "publisher": "Alzheimer's Association (US)",
+      "url": "https://www.alz.org/helpline",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm WHO figures on the fact sheet.",
+      "Add Alzheimer's Society (UK) and Dementia Australia after verifying their helplines."
+    ]
+  },
+  "across_cultures": "Dementia carries heavy stigma in many cultures and is often seen as madness or fate. Family care is the norm in most of the world, and services that work with families, in their language, reach more people. Diagnosis rates are far lower in low-income countries.",
+  "sub_sections": [
+    {
+      "title": "How it's coded",
+      "text": "Major NCD is coded by cause (for example G30.9 for Alzheimer's) plus F02.8x or the severity codes F02.A–C, with or without behavioural or psychological symptoms. Mild NCD is G31.84."
+    },
+    {
+      "title": "Behavioural and psychological symptoms",
+      "text": "Agitation, anxiety, depression, hallucinations, and sleep changes are common in dementia and have their own approaches, with medication used cautiously."
+    }
+  ]
+}

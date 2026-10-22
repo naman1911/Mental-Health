@@ -1,0 +1,157 @@
+{
+  "topic_id": "lewy-body-neurocognitive-disorder",
+  "official_name": "Neurocognitive Disorder With Lewy Bodies",
+  "plain_title": "Dementia with vivid hallucinations and changing alertness",
+  "also_known_as": [
+    "Lewy body dementia",
+    "dementia with Lewy bodies",
+    "DLB"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "G31.83 + F02.8x (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "A dementia with fluctuating attention, detailed visual hallucinations, and Parkinson-like movement problems.",
+  "in_simple_words": "Dementia with Lewy bodies is caused by protein deposits (Lewy bodies) in brain cells. Its signature features are attention and alertness that swing from hour to hour or day to day, vivid and detailed visual hallucinations (often people or animals), Parkinson's-like stiffness and slowness, and acting out dreams in sleep. Memory may be less affected early on. It's the third most common dementia and often misdiagnosed. Some antipsychotic medicines can be dangerous in this condition, so an accurate diagnosis matters.",
+  "what_it_can_feel_like": [
+    "Dad sees children in the garden who aren't there. He's not frightened by them. We've learned not to argue.",
+    "One day she's sharp, the next she can't follow a sentence. The swings were the clue.",
+    "The wrong medication nearly killed him. Finding a specialist who knew Lewy body was everything."
+  ],
+  "common_signs": [
+    "Attention and alertness that fluctuate markedly, like switching on and off",
+    "Detailed, well-formed visual hallucinations, often of people or animals",
+    "Stiffness, slowness, shuffling walk, or tremor, like Parkinson's",
+    "Acting out dreams, sometimes years before other symptoms",
+    "Falls, fainting, or blood-pressure drops",
+    "Severe sensitivity to some antipsychotic medicines"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Hallucinations in an older person mean psychosis or Alzheimer's.",
+      "fact": "Vivid visual hallucinations with fluctuating alertness are a hallmark of Lewy body dementia, which needs different care."
+    },
+    {
+      "myth": "Any dementia can be treated the same way.",
+      "fact": "People with Lewy body dementia can react severely to certain antipsychotics. Getting the diagnosis right is a safety issue."
+    },
+    {
+      "myth": "It's the same as Parkinson's disease dementia.",
+      "fact": "They're closely related and share Lewy bodies. The main difference is timing: in DLB, thinking changes come first or within a year of movement symptoms."
+    }
+  ],
+  "how_common": {
+    "plain": "Lewy body dementia accounts for roughly 1 in 20 to 1 in 10 dementia cases, and is often under-diagnosed.",
+    "figure": "Estimated 5%–10% of dementia cases; higher in autopsy studies (DSM-5-TR text and reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Cholinesterase inhibitors, prescribed and monitored by a doctor, often help thinking and hallucinations in Lewy body dementia, sometimes more than in Alzheimer's. Movement symptoms may be treated cautiously with Parkinson's medicines. Antipsychotics are avoided where possible and used only with great care. Non-drug approaches for hallucinations, good lighting, treating sleep problems, and physiotherapy for falls all help. Specialist assessment is strongly advised.",
+    "evidence_based_options": [
+      "Cholinesterase inhibitors, prescribed and monitored by a doctor",
+      "Cautious treatment of movement symptoms; avoiding most antipsychotics",
+      "Treatment of REM sleep behaviour disorder and blood-pressure problems",
+      "Physiotherapy, falls prevention, and carer education"
+    ],
+    "self_help_that_supports_care": [
+      "Not arguing with hallucinations; reassurance and calm",
+      "Good lighting and reducing shadows at home",
+      "Telling every clinician 'Lewy body: antipsychotic-sensitive'",
+      "Lewy body-specific carer groups, which understand the swings"
+    ],
+    "guideline_refs": [
+      "src-nice-ng97"
+    ]
+  },
+  "when_to_reach_out": "If someone has vivid hallucinations, big day-to-day swings in alertness, Parkinson-like movement changes, or acts out dreams, ask for a specialist memory or neurology assessment and mention Lewy body dementia by name.",
+  "is_not": "Hallucinations from delirium, medication, or eye disease aren't Lewy body dementia. Parkinson's disease dementia has the same pathology but movement symptoms come first by a year or more.",
+  "hope_note": "With the right diagnosis and the right medicines, many people with Lewy body dementia see hallucinations ease and thinking steady. Specialist carer groups make the unpredictability bearable.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "parkinsons-disease-neurocognitive-disorder",
+    "alzheimers-disease-neurocognitive-disorder",
+    "parasomnias",
+    "delirium",
+    "understanding-psychosis"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "hallucination",
+    "antipsychotic",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of an older person sitting in a well-lit living room with a carer, lamps on, a calendar clock on the wall, a cat on the rug. Pastel amber and lavender.",
+    "alt_text": "An older person sits with a carer in a brightly lit living room with a calendar clock on the wall."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "lewy-body-society-uk",
+    "lbda-caregiver-link"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng97",
+      "title": "Dementia: assessment, management and support for people living with dementia and their carers (NG97)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng97",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018
+    },
+    {
+      "id": "src-lbs",
+      "title": "The Lewy Body Society (UK) helpline",
+      "publisher": "Lewy Body Society / Dementia UK",
+      "url": "https://www.lewybody.org/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "note": "Helpline 0800 888 6678 seen in an Alzheimer's Society resource listing."
+    },
+    {
+      "id": "src-lbda",
+      "title": "Lewy Body Dementia Association",
+      "publisher": "LBDA (US)",
+      "url": "https://www.lbda.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; Caregiver Link 800-539-9767 seen via a third-party listing."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Confirm LBDA helpline details on lbda.org."
+    ]
+  }
+}

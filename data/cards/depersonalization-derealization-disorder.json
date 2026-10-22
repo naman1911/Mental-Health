@@ -1,0 +1,159 @@
+{
+  "topic_id": "depersonalization-derealization-disorder",
+  "official_name": "Depersonalization/Derealization Disorder",
+  "plain_title": "Feeling unreal, or like the world is",
+  "also_known_as": [
+    "DPDR",
+    "DP/DR",
+    "depersonalisation disorder (UK spelling)"
+  ],
+  "chapter_id": "dissociative",
+  "card_type": "condition",
+  "icd10cm_code": "F48.1",
+  "language_convention": "person-first",
+  "one_liner": "Persistent feelings of being detached from yourself, or of the world being unreal, while knowing it's a feeling.",
+  "in_simple_words": "Depersonalization is feeling detached from your own body, thoughts, or feelings, as if watching yourself from outside or going through the motions like a robot. Derealization is the world feeling unreal: foggy, flat, dreamlike, or far away. Almost everyone feels this briefly under stress, exhaustion, or after cannabis. The disorder is when it's persistent or keeps returning, causes real distress, and the person knows it's a feeling rather than reality. It's frightening but not dangerous, and it's treatable.",
+  "what_it_can_feel_like": [
+    "It's like there's a pane of glass between me and everything. I can see life. I can't touch it.",
+    "I thought I was going insane. The doctor said: the fact you're worried you're insane means you're not.",
+    "CBT helped me stop checking whether I felt real every five minutes. That checking was keeping it going."
+  ],
+  "common_signs": [
+    "Feeling detached from your body, thoughts, or feelings; watching yourself from outside",
+    "The world seeming unreal, dreamlike, foggy, or lifeless",
+    "Knowing the feeling isn't reality (intact reality testing)",
+    "Persistent or recurring, causing real distress or impairment",
+    "Often triggered by anxiety, panic, trauma, or cannabis",
+    "Anxiety about the symptoms themselves, which keeps them going"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Feeling unreal means you're going mad or becoming psychotic.",
+      "fact": "In DPDR you know it's a feeling. That's the opposite of psychosis. It's a common anxiety-linked symptom, not a sign of losing your mind."
+    },
+    {
+      "myth": "It's permanent.",
+      "fact": "DPDR often fades on its own and responds to treatment. The fear of it being permanent is one of the things that keeps it going."
+    },
+    {
+      "myth": "Nobody else has this.",
+      "fact": "Around 1 in 100 people has the disorder and roughly half of all adults have felt it briefly. It's common; it's just rarely talked about."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 100 people has depersonalization-derealization disorder, and it's more common in teenagers and young adults. Brief episodes are far more common.",
+    "figure": "Prevalence about 1% in the general population (2022 systematic review), with earlier estimates of 1–2%; around half of adults have had a brief episode",
+    "source_ref": "src-dpdr-prev"
+  },
+  "what_helps": {
+    "plain_summary": "CBT adapted for DPDR is the main treatment: understanding the symptoms, reducing the anxious self-monitoring and avoidance that keep them going, grounding, and gradually re-engaging with life. Treating underlying anxiety, panic, depression, or trauma helps. There's no specific medication for DPDR, though antidepressants prescribed and monitored by a doctor may help co-occurring conditions. Avoiding cannabis is important, as it's a common trigger.",
+    "evidence_based_options": [
+      "CBT adapted for depersonalization-derealization",
+      "Treatment of underlying anxiety, panic, depression, or PTSD",
+      "Grounding and attention-shifting techniques",
+      "Avoiding cannabis and other triggers"
+    ],
+    "self_help_that_supports_care": [
+      "Stopping the constant checking of whether you feel real",
+      "Grounding through the senses: cold water, textures, movement",
+      "Carrying on with normal activities even while feeling unreal",
+      "Sleep, and less caffeine and cannabis"
+    ],
+    "guideline_refs": [
+      "src-dpdr-prev"
+    ]
+  },
+  "when_to_reach_out": "If feeling detached or unreal is persistent, distressing, or stopping you living normally, talk to a doctor or therapist and name it; it's often missed. If you start to feel that things actually aren't real, or you have thoughts of ending your life, reach out now.",
+  "is_not": "Brief unreality during panic, exhaustion, or after cannabis isn't the disorder. In psychosis, the person believes the altered experience is real. Seizures and some medical conditions can cause similar feelings and are ruled out by a doctor.",
+  "hope_note": "DPDR lifts. People who've felt behind glass for years describe the moment the world came back into colour.",
+  "related_topics": [
+    "panic-disorder",
+    "generalized-anxiety-disorder",
+    "posttraumatic-stress-disorder",
+    "dissociative-identity-disorder",
+    "cannabis-use-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "depersonalization",
+    "derealization",
+    "dissociation",
+    "grounding",
+    "zoning-out",
+    "panic-attack"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Anxiety-linked; crisis strip required."
+    ]
+  },
+  "visual": {
+    "color_token": "dissociative",
+    "icon": "layers",
+    "illustration_prompt": "Soft line illustration of a person pressing their hands into cool grass in a sunny park, colours vivid around them, a friend holding out an orange. Pastel slate and bright green.",
+    "alt_text": "A person presses their hands into cool grass in a sunny park as a friend holds out an orange."
+  },
+  "communities": [
+    "reddit-r-cptsd",
+    "adaa-online-support-group",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Dissociative Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-dpdr-prev",
+      "title": "The prevalence of depersonalization-derealization disorder: a systematic review",
+      "publisher": "Journal of Trauma & Dissociation (Yang et al.)",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10150602",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022
+    },
+    {
+      "id": "src-unreal",
+      "title": "Unreal: depersonalisation and derealisation charity (UK)",
+      "publisher": "Unreal",
+      "url": "https://www.unrealuk.org/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; URL from memory."
+    },
+    {
+      "id": "src-mind-diss",
+      "title": "Dissociation and dissociative disorders",
+      "publisher": "Mind (UK)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/dissociation-and-dissociative-disorders/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.5,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify Unreal UK and r/dpdr before listing as communities."
+    ]
+  },
+  "in_young_people": "DPDR often starts in the teens, frequently after a panic attack, a period of stress, or cannabis. Teens rarely have words for it and often fear they're going mad; reassurance and naming it help enormously."
+}

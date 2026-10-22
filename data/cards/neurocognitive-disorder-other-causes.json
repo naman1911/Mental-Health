@@ -1,0 +1,142 @@
+{
+  "topic_id": "neurocognitive-disorder-other-causes",
+  "official_name": "Neurocognitive Disorders Due to Other Causes",
+  "plain_title": "Thinking decline from HIV, alcohol, and other conditions",
+  "also_known_as": [
+    "HIV-associated neurocognitive disorder",
+    "alcohol-related dementia",
+    "prion disease (CJD)",
+    "mixed dementia",
+    "unspecified dementia"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "varies",
+  "language_convention": "person-first",
+  "one_liner": "Decline in thinking caused by HIV, prion disease, long-term substance use, other medical conditions, or several causes together.",
+  "in_simple_words": "Many conditions beyond the common dementias can cause lasting decline in thinking. HIV can affect the brain, though much less since effective treatment. Long-term heavy alcohol use can cause memory damage, including Korsakoff syndrome, some of which improves with abstinence and vitamin B1. Prion diseases like CJD are rare and rapidly progressive. Multiple sclerosis, brain tumours, infections, and thyroid or vitamin problems can all affect thinking. Finding the cause matters because some are treatable or reversible.",
+  "what_it_can_feel_like": [
+    "Years of drinking left my memory in pieces. Thiamine and sobriety gave some of it back.",
+    "Living with HIV since the 90s, I'd noticed my thinking slow. My doctor adjusted treatment and checked everything else.",
+    "Dad's dementia turned out to be partly a vitamin deficiency. Not all of it. But enough to make a difference."
+  ],
+  "common_signs": [
+    "Decline in memory, attention, or thinking from a previous level",
+    "A known medical cause: HIV, prion disease, MS, infection, tumour, or another condition",
+    "Or long-term heavy substance use, especially alcohol",
+    "Or several causes together (multiple etiologies)",
+    "Sometimes rapid progression, which needs urgent assessment",
+    "Some causes partly reversible with treatment"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "All dementia is the same and untreatable.",
+      "fact": "Some causes, like vitamin deficiency, thyroid problems, infections, and some alcohol-related damage, are treatable, which is why assessment matters."
+    },
+    {
+      "myth": "HIV always leads to dementia.",
+      "fact": "With effective antiretroviral treatment, severe HIV-related dementia is now rare, though milder changes can occur."
+    },
+    {
+      "myth": "Alcohol-related brain damage can't improve.",
+      "fact": "With abstinence, nutrition, and vitamin B1, many people improve substantially over months."
+    }
+  ],
+  "how_common": {
+    "plain": "These causes together account for a minority of dementia cases, with alcohol-related damage the most common of them in many countries. Prion disease is very rare.",
+    "figure": "No single figure; alcohol-related brain damage estimated at around 10% of early-onset dementia in some settings; CJD about 1–2 cases per million per year",
+    "source_ref": "src-dsm",
+    "note": "Needs primary citations."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment depends on the cause: antiretroviral therapy and management for HIV; abstinence, thiamine, and nutrition for alcohol-related damage; treating infections, thyroid, or vitamin problems; neurology care for MS, tumours, or prion disease. Rehabilitation and support follow the same principles as other dementias. Where several causes combine, each is addressed. Palliative care is central for rapidly progressive conditions like CJD.",
+    "evidence_based_options": [
+      "Treating the underlying cause where possible",
+      "Thiamine and abstinence for alcohol-related damage",
+      "Cognitive rehabilitation and support as for other dementias",
+      "Palliative and family support for rapidly progressive disease"
+    ],
+    "self_help_that_supports_care": [
+      "Giving doctors a full history, including alcohol and medications",
+      "Stopping alcohol and eating well where that's the cause",
+      "Routines and memory aids",
+      "Condition-specific support groups (HIV, alcohol recovery, brain injury, CJD)"
+    ],
+    "guideline_refs": [
+      "src-nice-ng97"
+    ]
+  },
+  "when_to_reach_out": "If thinking is declining and there's a medical condition, heavy alcohol use, or rapid change, see a doctor for a full assessment; some causes are treatable. Rapidly worsening confusion over weeks is urgent.",
+  "is_not": "The common dementias (Alzheimer's, vascular, Lewy body, frontotemporal) have their own cards. Delirium is sudden and fluctuating. Intoxication or withdrawal cause temporary confusion, not lasting neurocognitive disorder, though repeated episodes can.",
+  "hope_note": "When the cause is found, some of these conditions improve, and all of them can be supported. Assessment is worth it.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "alcohol-use-disorder",
+    "delirium",
+    "substance-medication-induced-mental-disorders",
+    "mental-disorders-due-to-another-medical-condition"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "confabulation",
+    "withdrawal",
+    "carer-rights"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of a doctor and patient reviewing a checklist of tests together, a vitamin bottle and a water glass on the desk, bright clinic. Pastel amber and mint.",
+    "alt_text": "A doctor and patient review a checklist of tests together in a bright clinic."
+  },
+  "communities": [
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia",
+    "reddit-r-stopdrinking"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng97",
+      "title": "Dementia: assessment, management and support for people living with dementia and their carers (NG97)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng97",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2018
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find primary prevalence sources for each sub-cause."
+    ]
+  },
+  "sub_sections": [
+    {
+      "title": "Sub-causes",
+      "text": "Substance/medication-induced; due to HIV infection (B20 + F02.8x); due to prion disease (A81.9 + F02.8x); due to another medical condition; due to multiple etiologies; unspecified neurocognitive disorder (R41.9)."
+    }
+  ]
+}

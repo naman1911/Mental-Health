@@ -1,0 +1,146 @@
+{
+  "topic_id": "huntingtons-disease-neurocognitive-disorder",
+  "official_name": "Neurocognitive Disorder Due to Huntington's Disease",
+  "plain_title": "Thinking and mood changes in an inherited brain condition",
+  "also_known_as": [
+    "Huntington's disease",
+    "HD",
+    "Huntington's chorea (older term)"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "G10 + F02.8x (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "Thinking decline and mood changes caused by Huntington's disease, an inherited condition that also affects movement.",
+  "in_simple_words": "Huntington's disease is a rare, inherited condition caused by a single gene; each child of a parent with it has a 50% chance of inheriting it. It usually begins between 30 and 50 and progresses over 15 to 20 years, affecting movement (jerky movements, clumsiness), thinking (planning, slowed processing), and mood (depression, irritability, apathy). Thinking and mood changes often come before movement problems. There's no cure, but symptoms can be treated and families can be supported, including with genetic counselling.",
+  "what_it_can_feel_like": [
+    "I watched it take my mother. Then I had the test. Knowing changed how I live, not whether I live.",
+    "The irritability came years before the movements. We blamed stress.",
+    "HDSA connected us with families who'd walked this road. That mattered more than any drug."
+  ],
+  "common_signs": [
+    "Family history of Huntington's disease; positive genetic test",
+    "Slowed thinking, trouble planning, organizing, and switching tasks",
+    "Depression, irritability, apathy, anxiety, or obsessive thinking",
+    "Involuntary jerky movements, clumsiness, or restlessness",
+    "Onset usually between 30 and 50; gradual progression",
+    "Thinking and mood changes often preceding movement symptoms"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Huntington's is only a movement disorder.",
+      "fact": "Thinking and mood changes are core features and often appear first. Depression and suicide risk are serious concerns."
+    },
+    {
+      "myth": "If I have the gene, there's no point planning anything.",
+      "fact": "Many people live decades after diagnosis. Planning, treatment, and support shape those years, and research is advancing."
+    },
+    {
+      "myth": "Everyone at risk should get tested.",
+      "fact": "Testing is a personal choice made with genetic counselling. Many at-risk people choose not to test, and that's valid."
+    }
+  ],
+  "how_common": {
+    "plain": "Huntington's disease is rare, affecting roughly 5 to 10 people in every 100,000 in populations of European descent, with lower rates elsewhere.",
+    "figure": "About 5–10 per 100,000 in European-origin populations; lower in Asian and African populations (reviews)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "Care is multidisciplinary: neurologists, psychiatrists, therapists, dietitians, and social workers. Medications prescribed and monitored by a doctor can ease involuntary movements, depression, irritability, and other symptoms. Physiotherapy, speech therapy, occupational therapy, and nutrition support function. Genetic counselling supports families and at-risk relatives. Specialist HD clinics and organizations provide expertise, and planning for care and finances early makes a difference.",
+    "evidence_based_options": [
+      "Specialist HD clinic and multidisciplinary care",
+      "Medication for movement, mood, and behavioural symptoms, prescribed and monitored by a doctor",
+      "Physiotherapy, speech, occupational therapy, and nutrition support",
+      "Genetic counselling; carer and family support"
+    ],
+    "self_help_that_supports_care": [
+      "Routines and a calm, predictable environment",
+      "Staying active and eating enough, as HD burns a lot of energy",
+      "Talking about mood changes early; depression is treatable",
+      "HD organizations and groups for the person, carers, and at-risk relatives"
+    ],
+    "guideline_refs": [
+      "src-hdsa"
+    ]
+  },
+  "when_to_reach_out": "If you have a family history of Huntington's and notice mood, thinking, or movement changes, contact a doctor or HD clinic. For questions about testing, ask for genetic counselling. If you're feeling hopeless or thinking of ending your life, use the crisis strip now; depression in HD is treatable.",
+  "is_not": "Other movement disorders and dementias can look similar; a genetic test confirms Huntington's. Depression or anxiety in an at-risk person doesn't mean the disease has started.",
+  "hope_note": "Families with Huntington's are among the most resilient communities in medicine, and research toward treatments that slow the disease is moving faster than ever.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "major-depressive-disorder",
+    "obsessive-compulsive-disorder",
+    "suicidal-thoughts-and-behavior",
+    "medication-induced-movement-disorders"
+  ],
+  "glossary_terms": [
+    "dementia",
+    "executive-function",
+    "carer-rights",
+    "anticipatory-grief",
+    "suicidal-ideation"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Suicide risk is raised in HD; the 'when to reach out' text names this and the crisis strip applies via the chapter rule."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of three generations of a family on a porch, one in a wheelchair, all laughing at something on a phone, a genetic counsellor's leaflet on the table. Pastel amber and rose.",
+    "alt_text": "Three generations of a family laugh together on a porch, one in a wheelchair."
+  },
+  "communities": [
+    "hdsa-helpline-and-groups",
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-hdsa",
+      "title": "HDSA Helpline and support groups",
+      "publisher": "Huntington's Disease Society of America",
+      "url": "https://hdsa.org/hdsa-helpline/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-hda",
+      "title": "Huntington's Disease Association (UK)",
+      "publisher": "HDA",
+      "url": "https://www.hda.org.uk/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.0,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Find a primary prevalence source.",
+      "Verify HDA (UK) and add."
+    ]
+  }
+}

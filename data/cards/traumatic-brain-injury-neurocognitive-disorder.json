@@ -1,0 +1,157 @@
+{
+  "topic_id": "traumatic-brain-injury-neurocognitive-disorder",
+  "official_name": "Neurocognitive Disorder Due to Traumatic Brain Injury",
+  "plain_title": "Thinking changes after a head injury",
+  "also_known_as": [
+    "TBI",
+    "post-concussion cognitive problems",
+    "brain injury"
+  ],
+  "chapter_id": "neurocognitive",
+  "card_type": "condition",
+  "icd10cm_code": "S06.2X9S + F02.8x (major); G31.84 (mild)",
+  "language_convention": "person-first",
+  "one_liner": "Lasting problems with memory, attention, or thinking after a blow to the head, persisting beyond early recovery.",
+  "in_simple_words": "A traumatic brain injury, from a fall, crash, assault, sport, or blast, can leave lasting changes in thinking: slower processing, poor attention and memory, trouble planning, and often changes in mood, irritability, fatigue, and sleep. The diagnosis applies when these persist after the immediate injury period. Most mild injuries (concussions) recover within weeks; more severe or repeated injuries can cause lasting or progressive problems. Rehabilitation helps, and so does understanding that the person is dealing with a real injury.",
+  "what_it_can_feel_like": [
+    "Six months after the crash I looked fine. I couldn't follow a recipe or a conversation in a noisy room.",
+    "The anger scared me more than the memory problems. Nobody had warned me that was part of it.",
+    "Brain injury rehab was slow and boring and it gave me my job back."
+  ],
+  "common_signs": [
+    "Head injury with loss of consciousness, confusion, amnesia, or neurological signs",
+    "Problems with attention, memory, processing speed, or planning persisting afterwards",
+    "Fatigue, headaches, sleep problems, sensitivity to noise or light",
+    "Irritability, mood swings, depression, anxiety, or personality change",
+    "Difficulties at work, school, or in relationships",
+    "Symptoms beyond what's expected for the injury's severity and recovery period"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "If the scan is clear, the brain is fine.",
+      "fact": "Scans miss much of the damage in brain injury. Symptoms and assessment of thinking matter more than imaging."
+    },
+    {
+      "myth": "Concussion is trivial.",
+      "fact": "Most concussions recover, but some don't, and repeated concussions add up. Rest, graded return, and follow-up matter."
+    },
+    {
+      "myth": "Personality change after brain injury is the person's choice.",
+      "fact": "Injury to the frontal lobes directly affects impulse control, mood, and judgment. Understanding this helps families cope."
+    }
+  ],
+  "how_common": {
+    "plain": "Traumatic brain injuries are very common, with millions of emergency visits a year in the US alone. Most are mild and recover; a minority leave lasting cognitive problems.",
+    "figure": "Over 2 million TBI-related emergency visits a year in the US (CDC); most are mild; persistent NCD follows a minority, more after moderate–severe or repeated injury",
+    "source_ref": "src-dsm",
+    "note": "CDC figure from memory; needs confirmation."
+  },
+  "what_helps": {
+    "plain_summary": "Treatment is rehabilitation: cognitive rehabilitation to retrain and compensate for attention and memory problems, occupational therapy for daily tasks and work, physiotherapy, and psychological therapy for mood, anger, and adjustment. Medication, prescribed and monitored by a doctor, may be used for depression, sleep, or headaches. Education for the person and family about what to expect is a core part. Graded return to work or study, with adjustments, improves outcomes. Preventing further injury matters, especially in sport.",
+    "evidence_based_options": [
+      "Cognitive rehabilitation and compensatory strategies",
+      "Occupational, physio-, and speech therapy",
+      "Psychological therapy for mood, anger, and adjustment",
+      "Graded return to work or study; medication for specific symptoms, prescribed and monitored by a doctor"
+    ],
+    "self_help_that_supports_care": [
+      "Pacing: rest before fatigue, not after",
+      "External memory aids: notes, alarms, one notebook",
+      "Quiet environments and one task at a time",
+      "Brain injury peer groups, which understand invisible injury"
+    ],
+    "guideline_refs": [
+      "src-nice-ng232"
+    ]
+  },
+  "when_to_reach_out": "If thinking, mood, or energy haven't returned to normal weeks after a head injury, ask a doctor about brain injury assessment and rehabilitation. Seek emergency care for worsening headache, vomiting, confusion, seizures, or drowsiness after any head injury.",
+  "is_not": "Normal recovery from a concussion over a few weeks isn't a neurocognitive disorder. PTSD after the same accident can cause overlapping symptoms and is treated differently; both can occur. Dementia from other causes isn't TBI-related unless injury triggered it.",
+  "hope_note": "The brain keeps healing for a long time after injury, and rehabilitation keeps building on it. Many people return to full lives, often with new strategies.",
+  "related_topics": [
+    "major-and-mild-neurocognitive-disorder",
+    "posttraumatic-stress-disorder",
+    "major-depressive-disorder",
+    "intermittent-explosive-disorder",
+    "crime-disaster-and-legal-problems"
+  ],
+  "glossary_terms": [
+    "cognition",
+    "executive-function",
+    "working-memory",
+    "brain-fog",
+    "occupational-therapist"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "neurocognitive",
+    "icon": "lamp",
+    "illustration_prompt": "Soft line illustration of a person in a quiet rehab room doing a memory exercise with a therapist, a notebook and a timer on the desk, a cycle helmet hanging on a hook. Pastel amber and blue.",
+    "alt_text": "A person does a memory exercise with a therapist in a quiet rehab room, a cycle helmet on a hook."
+  },
+  "communities": [
+    "headway-uk-helpline",
+    "alzheimers-association-helpline-alzconnected",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Neurocognitive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-ng232",
+      "title": "Head injury: assessment and early management (NG232)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng232",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2023,
+      "note": "Not opened."
+    },
+    {
+      "id": "src-headway",
+      "title": "Headway helpline",
+      "publisher": "Headway: the brain injury association (UK)",
+      "url": "https://www.headway.org.uk/supporting-you/helpline/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    },
+    {
+      "id": "src-cdc-tbi",
+      "title": "TBI data",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/traumatic-brain-injury/data-research/index.html",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 11.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm CDC TBI figures and URL.",
+      "Add Brain Injury Association of America and Brain Injury Australia after verification."
+    ]
+  },
+  "in_young_people": "Children's brains are still developing, so the effects of injury can emerge over time, especially in learning and behaviour. Sport concussion protocols and school support plans matter."
+}
