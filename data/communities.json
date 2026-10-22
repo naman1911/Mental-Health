@@ -738,6 +738,78 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules and confirm moderation; decide which of the two subs to list."
     },
     {
+      "community_id": "youngminds-parents-helpline",
+      "name": "YoungMinds Parents Helpline and webchat",
+      "platform": "web",
+      "url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+      "type": "helpline",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "oppositional-defiant-disorder",
+        "conduct-disorder",
+        "adhd",
+        "generalized-anxiety-disorder",
+        "major-depressive-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Free, confidential helpline for parents and carers worried about a child or young person's mental health, run by the UK charity YoungMinds. Phone 0808 802 5544 (Mon–Fri; hours vary by day per the official page), webchat Mon–Fri 9.30am–4pm, and email replies in 3–5 working days. Not a crisis service."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current hours on the official page."
+    },
+    {
+      "community_id": "family-lives-helpline",
+      "name": "Family Lives confidential parenting helpline",
+      "platform": "web",
+      "url": "https://www.familylives.org.uk/how-we-can-help/confidential-helpline/",
+      "type": "helpline",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "oppositional-defiant-disorder",
+        "conduct-disorder",
+        "family-and-relationship-problems"
+      ],
+      "region": "England and Wales (Scotland: Parentline Scotland 08000 28 22 33)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free helpline for any aspect of parenting and family life on 0808 800 2222, with live chat and WhatsApp (07441 444125). Official page lists Mon–Fri 9am–9pm and weekends 10am–3pm. Cannot give legal or medical advice."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours and WhatsApp number on the official page."
+    },
+    {
       "community_id": "an-infinite-mind",
       "name": "An Infinite Mind (DID nonprofit and Healing Together conference)",
       "platform": "web",

@@ -1,0 +1,140 @@
+{
+  "topic_id": "intermittent-explosive-disorder",
+  "official_name": "Intermittent Explosive Disorder",
+  "plain_title": "Rage that arrives faster than thought",
+  "also_known_as": [
+    "IED",
+    "anger attacks",
+    "rage disorder"
+  ],
+  "chapter_id": "disruptive",
+  "card_type": "condition",
+  "icd10cm_code": "F63.81",
+  "language_convention": "person-first",
+  "one_liner": "Repeated outbursts of anger or aggression, far out of proportion to the trigger, that the person can't control.",
+  "in_simple_words": "Intermittent explosive disorder is a pattern of sudden, intense outbursts: shouting, threats, breaking things, or physical fights, set off by small frustrations and far bigger than the situation deserves. The outbursts aren't planned, last less than about half an hour, and are followed by regret, embarrassment, or shame. It usually starts in the early teens and often runs alongside depression, anxiety, or substance use. Few people get treatment for it, but therapy and sometimes medication help a great deal.",
+  "what_it_can_feel_like": [
+    "It's like a switch flips. Thirty seconds later I'm looking at a broken door and I don't recognize the person who did it.",
+    "I've lost two jobs and a relationship to my temper. I'm not a violent person. That's the part nobody believes.",
+    "Therapy taught me to feel the heat rising before the explosion. That gap is everything."
+  ],
+  "common_signs": [
+    "Sudden verbal or physical outbursts, out of proportion to the trigger",
+    "Outbursts are impulsive, not planned, and not for a goal",
+    "Frequent smaller outbursts (about twice a week) or a few that cause damage or injury",
+    "Regret, shame, or exhaustion afterwards",
+    "Pattern that harms relationships, work, or leads to legal trouble"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "People with IED are just bad-tempered and need to try harder.",
+      "fact": "IED involves a measurable difference in how the brain handles threat and frustration. Effort alone rarely fixes it; skills and treatment do."
+    },
+    {
+      "myth": "It's rare.",
+      "fact": "Around 1 in 14 US adults may meet criteria at some point. It's one of the most common and least treated mental health conditions."
+    },
+    {
+      "myth": "Anger management classes are enough.",
+      "fact": "Structured CBT for IED goes further than generic anger management, and medication prescribed by a doctor can help some people."
+    }
+  ],
+  "how_common": {
+    "plain": "A large US survey found that around 7 in 100 adults meet criteria for IED at some point, and about 4 in 100 in a given year. Only about a quarter ever get treatment for their anger.",
+    "figure": "7.3% lifetime, 3.9% 12-month prevalence; 28.8% ever treated for anger (NCS-R, Kessler 2006)",
+    "source_ref": "src-kessler-ied",
+    "note": "Figures vary with definition; a narrower definition gives lower rates."
+  },
+  "what_helps": {
+    "plain_summary": "Cognitive behavioural therapy designed for IED is the main treatment: learning to spot the early signs of rising anger, relaxation and cooling-down skills, changing the hostile interpretations that fuel outbursts, and practising calmer responses. Some people are helped by medication such as SSRIs or mood stabilizers, prescribed and monitored by a doctor. Treating co-occurring depression, PTSD, ADHD, or substance use matters. Partners and family can be included safely when it's appropriate.",
+    "evidence_based_options": [
+      "CBT for intermittent explosive disorder (individual or group)",
+      "Relaxation, cooling-down, and cognitive skills training",
+      "Medication (for example, SSRIs) prescribed and monitored by a doctor",
+      "Treatment of co-occurring conditions including substance use"
+    ],
+    "self_help_that_supports_care": [
+      "Learning your early warning signs: heat, tight jaw, racing thoughts",
+      "A time-out plan agreed in advance with the people you live with",
+      "Less alcohol, more sleep; both lower the threshold for outbursts",
+      "Repairing after an outburst, honestly, without excuses"
+    ],
+    "guideline_refs": [
+      "src-kessler-ied"
+    ]
+  },
+  "when_to_reach_out": "If outbursts are frightening you or the people around you, damaging relationships or work, or you've hurt someone or broken things, talk to a doctor or therapist. If someone is in immediate danger, call emergency services. If you're being hurt by someone else's anger, see the partner violence card and reach out.",
+  "is_not": "Being irritable when stressed, standing up for yourself, or planned aggression for gain aren't IED. Outbursts explained by mania, psychosis, intoxication, head injury, or a child's tantrums are assessed separately. Anger alone, without outbursts, isn't a disorder.",
+  "hope_note": "People learn to catch the rising wave before it breaks. Many describe the first year without a blow-up as getting their relationships back.",
+  "related_topics": [
+    "oppositional-defiant-disorder",
+    "conduct-disorder",
+    "disruptive-mood-dysregulation-disorder",
+    "posttraumatic-stress-disorder",
+    "adhd",
+    "partner-violence-and-adult-abuse"
+  ],
+  "glossary_terms": [
+    "impulsivity",
+    "irritability",
+    "emotional-dysregulation",
+    "cbt",
+    "trigger",
+    "fight-flight-freeze-fawn"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Links to the partner violence card for people on the receiving end."
+    ]
+  },
+  "visual": {
+    "color_token": "disruptive",
+    "icon": "compass",
+    "illustration_prompt": "Soft line illustration of a person stepping outside onto a balcony at dusk, hand on the railing, taking a slow breath, a glass of water on a small table. Pastel teal and plum.",
+    "alt_text": "A person stands on a balcony at dusk taking a slow breath."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia",
+    "reddit-r-cptsd"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Disruptive, Impulse-Control, and Conduct Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-kessler-ied",
+      "title": "The prevalence and correlates of DSM-IV intermittent explosive disorder in the National Comorbidity Survey Replication",
+      "publisher": "Archives of General Psychiatry (Kessler et al.); summarized by Harvard Gazette",
+      "url": "https://news.harvard.edu/gazette/story/2006/06/under-diagnosed-rage-disorder-more-prevalent-than-previously-thought",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2006
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm the 12-month figure against the original paper.",
+      "Add a treatment guideline source."
+    ]
+  },
+  "in_young_people": "IED typically begins around age 12 to 14. In teens it's often mistaken for 'attitude' or ADHD alone. Early skills training helps before patterns set in."
+}

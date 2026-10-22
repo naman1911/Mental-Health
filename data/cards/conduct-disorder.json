@@ -1,0 +1,154 @@
+{
+  "topic_id": "conduct-disorder",
+  "official_name": "Conduct Disorder",
+  "plain_title": "When a young person keeps breaking rules and hurting others",
+  "also_known_as": [
+    "CD",
+    "childhood-onset or adolescent-onset conduct disorder"
+  ],
+  "chapter_id": "disruptive",
+  "card_type": "condition",
+  "icd10cm_code": "F91.1 (childhood onset) / F91.2 (adolescent onset) / F91.9 (unspecified)",
+  "language_convention": "person-first",
+  "one_liner": "A repeated pattern in a child or teen of aggression, destruction, lying, theft, or serious rule-breaking over a year.",
+  "in_simple_words": "Conduct disorder is diagnosed in children and teens who, for a year or more, repeatedly break important rules and the rights of others: fighting or cruelty, damaging property, lying and stealing, or running away and skipping school. It often grows out of ODD, ADHD, trauma, or a chaotic environment, and is far more common among young people who have been abused or in care. Early, family-based help works, and most young people do not continue into adult problems.",
+  "what_it_can_feel_like": [
+    "He wasn't born like this. By the time anyone offered help he'd been excluded from three schools.",
+    "I was angry at everyone, so I made sure everyone was scared of me. I was 13 and I'd never felt safe a day in my life.",
+    "Multisystemic therapy was the first thing that treated us as a family instead of treating my son as a criminal."
+  ],
+  "common_signs": [
+    "Aggression toward people or animals: bullying, fighting, cruelty, or using weapons",
+    "Destroying property or setting fires deliberately",
+    "Lying, breaking in, or stealing",
+    "Serious rule-breaking: staying out, running away, skipping school, before age 13",
+    "Pattern over at least a year causing real harm or trouble"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Conduct disorder means a child is a lost cause.",
+      "fact": "Most young people with conduct disorder do not go on to adult antisocial behaviour, and the earlier the help, the better the outcome."
+    },
+    {
+      "myth": "These kids need tougher punishment or boot camp.",
+      "fact": "Research shows harsh, scare-based programmes don't work and can make things worse. Family and skills-based therapies do work."
+    },
+    {
+      "myth": "It's purely the parents' fault.",
+      "fact": "Genetics, early trauma, learning difficulties, poverty, neighbourhood, and peers all contribute. Blaming parents drives families away from the help that works."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 4 in 100 children and teens have conduct disorder, by most estimates, more boys than girls. Rates are much higher among young people who've experienced abuse or care.",
+    "figure": "About 4% median prevalence, range 2%–10% (DSM-5-TR text); nearly 40% of looked-after or abused children in a 2004 UK survey (NICE CG158 context)",
+    "source_ref": "src-nice-cg158"
+  },
+  "what_helps": {
+    "plain_summary": "NICE and other guidelines recommend parent training programmes for younger children, and for teens, family-based treatments such as multisystemic therapy or functional family therapy, which work with the whole family, school, and community. Child-focused skills therapy helps with problem solving and emotions. Co-occurring ADHD, depression, trauma, and learning difficulties are treated. Medication isn't a treatment for conduct disorder itself, and if used for aggression it's prescribed and monitored by a specialist.",
+    "evidence_based_options": [
+      "Parent training programmes for children aged roughly 3 to 11",
+      "Multisystemic therapy or functional family therapy for adolescents",
+      "Child-focused problem-solving and emotion skills programmes",
+      "Treatment of ADHD, trauma, depression, or learning difficulties"
+    ],
+    "self_help_that_supports_care": [
+      "Keeping one trusted adult relationship steady, whatever happens",
+      "Structure: school attendance, sport, something the young person is good at",
+      "Parents getting their own support and respite",
+      "Avoiding punishment that cuts the young person off from everyone"
+    ],
+    "guideline_refs": [
+      "src-nice-cg158"
+    ]
+  },
+  "when_to_reach_out": "If a child or teen is repeatedly aggressive, destructive, or in trouble with school or the law, ask a doctor, school, or children's mental health service for an assessment, and ask specifically about family-based treatments. If anyone is in immediate danger, call emergency services.",
+  "is_not": "A single serious incident, teenage rule-bending, behaviour that's a direct response to abuse or danger, or difficulties explained by autism, ADHD, or a learning disability aren't conduct disorder on their own.",
+  "hope_note": "Many young people once labelled 'the problem kid' go on to steady work, families, and lives their younger selves couldn't picture.",
+  "related_topics": [
+    "oppositional-defiant-disorder",
+    "intermittent-explosive-disorder",
+    "antisocial-personality-disorder",
+    "adhd",
+    "child-abuse-and-neglect",
+    "pyromania"
+  ],
+  "glossary_terms": [
+    "adverse-childhood-experiences",
+    "family-therapy",
+    "impulsivity",
+    "trauma-informed",
+    "school-support-plans",
+    "risk-and-protective-factors"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Behaviour labels carry stigma for children and families; wording reviewed for blame."
+    ]
+  },
+  "visual": {
+    "color_token": "disruptive",
+    "icon": "compass",
+    "illustration_prompt": "Soft line illustration of a teenager and a coach fixing a bicycle together in a garage, tools laid out, afternoon light through the door. Pastel teal and rust.",
+    "alt_text": "A teenager and a coach fix a bicycle together in a sunlit garage."
+  },
+  "communities": [
+    "youngminds-parents-helpline",
+    "family-lives-helpline",
+    "chadd-online-communities",
+    "nami-connection-and-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Disruptive, Impulse-Control, and Conduct Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nice-cg158",
+      "title": "Antisocial behaviour and conduct disorders in children and young people: recognition and management (CG158)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg158",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2013,
+      "note": "April 2026 exceptional surveillance document listed; content not opened."
+    },
+    {
+      "id": "src-youngminds-parents",
+      "title": "Parents Helpline",
+      "publisher": "YoungMinds (UK)",
+      "url": "https://www.youngminds.org.uk/parent/parents-helpline/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified"
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.6,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence citation."
+    ]
+  },
+  "in_young_people": "This is a diagnosis of childhood and adolescence. Childhood onset (before 10) tends to be more persistent than adolescent onset; both respond to treatment.",
+  "sub_sections": [
+    {
+      "title": "'With limited prosocial emotions' specifier",
+      "icd10cm_code": "n/a",
+      "text": "Added when a young person shows persistent lack of remorse, empathy, or concern about performance. It points to a need for more intensive, specialised support, not a verdict about character."
+    }
+  ]
+}

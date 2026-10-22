@@ -1,0 +1,115 @@
+{
+  "topic_id": "pyromania",
+  "official_name": "Pyromania",
+  "plain_title": "Deliberate fire-setting driven by tension and release",
+  "also_known_as": [
+    "pathological fire-setting"
+  ],
+  "chapter_id": "disruptive",
+  "card_type": "condition",
+  "icd10cm_code": "F63.1",
+  "language_convention": "person-first",
+  "one_liner": "Setting fires on purpose, more than once, because of tension before and relief or fascination after, not for gain.",
+  "in_simple_words": "Pyromania is a rare impulse-control condition in which a person deliberately sets fires on more than one occasion, feels tension or excitement beforehand, is fascinated by fire and everything around it, and feels relief or pleasure during or after. The fires aren't set for money, revenge, concealment, delusion, or intoxication. Most fire-setting is not pyromania. The condition is poorly understood, often found with other impulse or mood problems, and treated with therapy focused on urges and safety.",
+  "what_it_can_feel_like": [
+    "I'd feel it building for days. After the fire, calm, for a while. Then shame.",
+    "It wasn't about hurting anyone. It was the fire itself. That's hard to explain to people, and I understand why."
+  ],
+  "common_signs": [
+    "More than one deliberate, purposeful fire",
+    "Tension or excitement before setting the fire",
+    "Fascination with fire, firefighting, and its effects",
+    "Pleasure or relief when setting or watching fires",
+    "Not done for money, revenge, concealment, or while intoxicated or delusional"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Everyone who sets fires has pyromania.",
+      "fact": "Pyromania is rare. Most fire-setting is linked to anger, crime, peer pressure, curiosity in children, or other conditions, not to this diagnosis."
+    },
+    {
+      "myth": "People with pyromania are dangerous and beyond help.",
+      "fact": "Therapy that targets urges, triggers, and safety planning helps, and the condition is treatable alongside any co-occurring problems."
+    }
+  ],
+  "how_common": {
+    "plain": "Pyromania is rare. Good population figures don't exist; among people who have set fires, only a small minority meet criteria.",
+    "figure": "Lifetime prevalence not established; about 3% of adult fire-setters in some clinical samples (DSM-5-TR text)",
+    "source_ref": "src-dsm",
+    "note": "Needs a primary citation."
+  },
+  "what_helps": {
+    "plain_summary": "There are no large treatment trials. Clinicians use cognitive behavioural approaches: identifying the build-up of tension, finding alternative outlets, learning to manage urges, and making a safety plan with the people around the person. Co-occurring mood, substance, or impulse conditions are treated, with any medication prescribed and monitored by a doctor. Fire-safety education programmes exist for children and teens who set fires.",
+    "evidence_based_options": [
+      "CBT focused on urges, triggers, and relapse prevention",
+      "Fire-safety education programmes for young people",
+      "Treatment of co-occurring mood, substance, or impulse conditions",
+      "Family involvement and safety planning"
+    ],
+    "self_help_that_supports_care": [
+      "Noticing the tension building and telling someone",
+      "Removing easy access to lighters and matches at home",
+      "Alternative ways to release tension: exercise, cold water, movement",
+      "Honest conversations with a therapist, free of judgement"
+    ],
+    "guideline_refs": []
+  },
+  "when_to_reach_out": "If you or someone you know has set fires more than once and feels an urge or fascination that's hard to control, talk to a doctor or mental health professional. If there's any immediate danger from fire, call emergency services first.",
+  "is_not": "Children's curiosity about fire, fire set in anger, for insurance, to cover a crime, during intoxication, or because of a delusion aren't pyromania.",
+  "hope_note": "Urges can be understood and managed. People do recover and keep themselves and others safe.",
+  "related_topics": [
+    "conduct-disorder",
+    "kleptomania",
+    "intermittent-explosive-disorder",
+    "antisocial-personality-disorder"
+  ],
+  "glossary_terms": [
+    "impulsivity",
+    "craving",
+    "relapse-prevention",
+    "cbt"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "No depictions of fire in illustrations; no description of fire-setting methods."
+    ]
+  },
+  "visual": {
+    "color_token": "disruptive",
+    "icon": "compass",
+    "illustration_prompt": "Soft line illustration of a person sitting on a park bench with a therapist, notebook open, a fountain in the background, calm daylight. Pastel teal and grey. No fire.",
+    "alt_text": "A person and a therapist sit on a park bench with a notebook open."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Disruptive, Impulse-Control, and Conduct Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 10.3,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Find a primary prevalence citation.",
+      "Add a treatment reference."
+    ]
+  }
+}

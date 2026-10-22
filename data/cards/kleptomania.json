@@ -1,0 +1,129 @@
+{
+  "topic_id": "kleptomania",
+  "official_name": "Kleptomania",
+  "plain_title": "Stealing driven by urges, not need or greed",
+  "also_known_as": [
+    "compulsive stealing"
+  ],
+  "chapter_id": "disruptive",
+  "card_type": "condition",
+  "icd10cm_code": "F63.2",
+  "language_convention": "person-first",
+  "one_liner": "Repeatedly failing to resist urges to steal things you don't need, with tension before and relief after.",
+  "in_simple_words": "Kleptomania is an impulse-control condition in which a person repeatedly can't resist urges to steal things they don't need and could usually afford. There's rising tension before, relief or a rush during, and often guilt and shame afterwards. The stealing isn't out of anger, revenge, or need. It's more common in women, often starts in the teens, and frequently comes with depression, anxiety, or other impulse or substance problems. People hide it for years. Therapy and sometimes medication help.",
+  "what_it_can_feel_like": [
+    "I've stolen things I threw away in the car park. It's never about the thing.",
+    "I was terrified of being caught, and I still did it. Admitting it to a therapist was the first time anyone said it was a condition.",
+    "The urge is like an itch that gets louder until you scratch it. Now I have ways to wait it out."
+  ],
+  "common_signs": [
+    "Repeated failure to resist urges to steal unneeded items",
+    "Rising tension before the act",
+    "Pleasure, relief, or gratification when stealing",
+    "Not done out of anger, revenge, need, or delusion",
+    "Guilt, shame, and fear of being caught afterwards"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Kleptomania is an excuse rich people use when they're caught shoplifting.",
+      "fact": "Most shoplifting isn't kleptomania. The condition involves real, distressing urges and usually deep shame, and it's rare."
+    },
+    {
+      "myth": "It's just a bad habit; stop doing it.",
+      "fact": "People with kleptomania often try desperately to stop. Treatment that targets urges works far better than willpower alone."
+    }
+  ],
+  "how_common": {
+    "plain": "Kleptomania is rare, affecting well under 1 in 100 people. It's thought to be more common in women, and it's found more often among people arrested for shoplifting.",
+    "figure": "About 0.3%–0.6% of the general population (DSM-5-TR text); a 2022 review gives 0.6%–0.8%",
+    "source_ref": "src-klepto-rev"
+  },
+  "what_helps": {
+    "plain_summary": "Evidence is limited but growing. Cognitive behavioural therapy helps people recognize the build-up of urges, use delay and replacement strategies, and change the thoughts around stealing; covert sensitisation and imaginal desensitisation are often used. One placebo-controlled trial found naltrexone, a medication that dampens the reward of the act, reduced urges and stealing; it's prescribed and monitored by a doctor. Treating co-occurring depression, anxiety, or substance use is important.",
+    "evidence_based_options": [
+      "CBT for impulse control, including urge-management techniques",
+      "Naltrexone prescribed and monitored by a doctor (one small controlled trial)",
+      "Treatment of co-occurring depression, anxiety, or substance use",
+      "Support groups for impulse-control and compulsive behaviours"
+    ],
+    "self_help_that_supports_care": [
+      "Shopping with someone, or avoiding shops when urges are high",
+      "Delaying: waiting ten minutes when the urge hits, then re-deciding",
+      "Tracking urges, triggers, and what helped",
+      "Telling one trusted person so it's no longer a secret"
+    ],
+    "guideline_refs": [
+      "src-klepto-rev"
+    ]
+  },
+  "when_to_reach_out": "If you keep stealing things you don't need and can't seem to stop, especially if there's a build-up of tension and relief, talk to a doctor or therapist. Kleptomania is a recognized condition and clinicians have heard it before. Legal advice is separate from treatment; get both if you need them.",
+  "is_not": "Ordinary shoplifting for gain, dares, stealing in anger or protest, theft linked to mania, psychosis, or dementia, and stealing to fund a substance use disorder aren't kleptomania.",
+  "hope_note": "Urges fade with treatment. People stop living in fear of the next shop door.",
+  "related_topics": [
+    "pyromania",
+    "intermittent-explosive-disorder",
+    "obsessive-compulsive-disorder",
+    "gambling-disorder",
+    "major-depressive-disorder"
+  ],
+  "glossary_terms": [
+    "impulsivity",
+    "craving",
+    "compulsion",
+    "cbt",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "Site-wide crisis link stays one tap away.",
+      "Wording avoids moral judgement; legal context acknowledged without advice."
+    ]
+  },
+  "visual": {
+    "color_token": "disruptive",
+    "icon": "compass",
+    "illustration_prompt": "Soft line illustration of a person pausing at a shop doorway, checking a note on their phone, a friend waiting outside with two coffees. Pastel teal and lavender.",
+    "alt_text": "A person pauses at a shop doorway checking their phone while a friend waits with two coffees."
+  },
+  "communities": [
+    "nami-connection-and-helpline",
+    "mind-side-by-side",
+    "sane-forums-australia"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Disruptive, Impulse-Control, and Conduct Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-klepto-rev",
+      "title": "Kleptomania: clinical features and treatment (review)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9567910",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Figures taken from a search snippet; article not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.7,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Open the 2022 review to confirm prevalence and treatment statements."
+    ]
+  }
+}
