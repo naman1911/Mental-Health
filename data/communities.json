@@ -1099,6 +1099,217 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH-SENSITIVITY: read rules; check for diet promotion, numbers, or weight-loss content."
     },
     {
+      "community_id": "eric-uk-helpline",
+      "name": "ERIC, The Children's Bowel and Bladder Charity: helpline and resources",
+      "platform": "web",
+      "url": "https://www.eric.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "family",
+        "professionals"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "enuresis",
+        "encopresis"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "UK charity for children's bladder and bowel health. Directory listings give a free helpline on 0808 169 9949 (Mon–Thu 10am–2pm in a 2020 listing) and email helpline@eric.org.uk; other listings show 0808 801 0343, so the number must be confirmed on the official site. Also publishes free guides for families and schools."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Open eric.org.uk and record the current helpline number and hours; three different numbers appear in directories."
+    },
+    {
+      "community_id": "trevor-project",
+      "name": "The Trevor Project: TrevorLifeline, TrevorText and TrevorChat",
+      "platform": "web",
+      "url": "https://www.thetrevorproject.org/get-help/",
+      "type": "helpline",
+      "audience": [
+        "teens",
+        "young-adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "gender-dysphoria",
+        "suicidal-thoughts-and-behavior",
+        "social-environment-and-identity-stress"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "24/7 crisis support for LGBTQ+ young people under 25: call 1-866-488-7386, text START to 678678, or web chat. Trained counsellors."
+      },
+      "safety_notes": "Crisis service for LGBTQ+ young people; counsellors are trained, not peers.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm 24/7 text availability and age range on the official page."
+    },
+    {
+      "community_id": "trans-lifeline",
+      "name": "Trans Lifeline peer support hotline",
+      "platform": "web",
+      "url": "https://translifeline.org/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "gender-dysphoria",
+        "social-environment-and-identity-stress"
+      ],
+      "region": "US and Canada",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Peer support phone line run by and for trans people: US 877-565-8860, Canada 877-330-6366. Anonymous; policy of not calling emergency services without the caller's consent. Hours vary; check the site."
+      },
+      "safety_notes": "Peer support by trans operators; not a clinical service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current hours and the Canada number."
+    },
+    {
+      "community_id": "mermaids-uk",
+      "name": "Mermaids helpline and webchat for trans and gender-diverse young people and families",
+      "platform": "web",
+      "url": "https://mermaidsuk.org.uk/",
+      "type": "helpline",
+      "audience": [
+        "teens",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "gender-dysphoria",
+        "family-and-relationship-problems"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "UK charity supporting trans and gender-diverse young people up to 20 and their parents: helpline 0808 801 0400 (listings give Mon–Fri 9am–9pm; one older listing gives 1pm–8.30pm), webchat, email info@mermaidsuk.org.uk, and text MERMAIDS to 85258 for 24/7 crisis text support via Shout."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours on the official site."
+    },
+    {
+      "community_id": "qlife-australia",
+      "name": "QLife LGBTIQ+ peer support and referral",
+      "platform": "web",
+      "url": "https://www.qlife.org.au/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "teens",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "gender-dysphoria",
+        "social-environment-and-identity-stress"
+      ],
+      "region": "Australia",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, anonymous peer support and referral for LGBTIQA+ people and those who care about them, run by LGBTIQA+ peers: 1800 184 527 and webchat, 3pm–9pm local time every day per the official FAQ (some directories list 3pm–midnight). Not a crisis service."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours on qlife.org.au."
+    },
+    {
+      "community_id": "gender-spectrum-parent-groups",
+      "name": "Gender Spectrum online parent and caregiver groups",
+      "platform": "web",
+      "url": "https://www.genderspectrum.org/family",
+      "type": "online-group-meeting",
+      "audience": [
+        "family"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "gender-dysphoria",
+        "family-and-relationship-problems"
+      ],
+      "region": "US (online, international welcome)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, facilitated online peer groups for parents and caregivers of transgender, non-binary, and gender-questioning young people up to 24, including groups for fathers, grandparents, and parents of non-binary youth. Registration via the family page."
+      },
+      "safety_notes": "Peer groups facilitated by staff or trained volunteers; not therapy.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm current schedule and registration process."
+    },
+    {
       "community_id": "alzheimers-association-helpline-alzconnected",
       "name": "Alzheimer's Association 24/7 Helpline and ALZConnected community (US)",
       "platform": "phone",

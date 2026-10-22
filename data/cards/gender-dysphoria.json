@@ -1,0 +1,165 @@
+{
+  "topic_id": "gender-dysphoria",
+  "official_name": "Gender Dysphoria",
+  "plain_title": "Distress when your body or life doesn't match who you are",
+  "also_known_as": [
+    "gender incongruence (ICD-11 term)",
+    "GD"
+  ],
+  "chapter_id": "gender-dysphoria",
+  "card_type": "condition",
+  "icd10cm_code": "F64.0 (adolescents and adults) / F64.2 (children)",
+  "language_convention": "identity-first",
+  "one_liner": "Lasting distress because your gender identity doesn't match the sex you were assigned at birth.",
+  "in_simple_words": "Gender dysphoria is the distress some transgender and gender-diverse people feel when their inner sense of gender doesn't match their body or the sex recorded at birth, and the way others treat them because of it. Being transgender is not a disorder. The diagnosis describes the distress, and exists mainly so people can get care. Not every trans person has dysphoria, and the distress usually eases when a person can live as themselves with support and, when wanted, medical care.",
+  "what_it_can_feel_like": [
+    "Puberty felt like my body was betraying me in front of everyone. When I could finally say the word 'trans', the fog started to lift.",
+    "The dysphoria was never about hating myself. It was about being seen as someone I wasn't, every single day.",
+    "My mum didn't understand at first. She went to a parents' group. Now she corrects people before I do."
+  ],
+  "common_signs": [
+    "A strong, lasting sense that your gender differs from your assigned sex",
+    "Distress about your body's sex characteristics, or dread about puberty changes",
+    "A strong wish to be treated and seen as your gender",
+    "Distress or difficulty in daily life because of this",
+    "Lasting at least six months (DSM wording), though many people feel it far longer"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Being transgender is a mental illness.",
+      "fact": "It isn't. The World Health Organization moved gender incongruence out of its mental disorders chapter in ICD-11. The DSM diagnosis describes distress, which can be relieved, not identity, which is not a problem."
+    },
+    {
+      "myth": "It's a phase, especially in teenagers.",
+      "fact": "Questioning is normal and some young people's feelings change, which is why care is careful and staged. For many, the identity is stable and lifelong, and being dismissed causes real harm."
+    },
+    {
+      "myth": "Support and affirmation make it worse.",
+      "fact": "Research consistently links family acceptance and respectful care with lower depression and suicide risk. Rejection and 'conversion' efforts are linked with worse outcomes and are condemned by major medical bodies."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 in 200 US adults and about 1 in 70 US teenagers identify as transgender. Not all have dysphoria, and far fewer have the formal diagnosis.",
+    "figure": "About 0.5% of US adults and 1.4% of youth aged 13–17 identify as transgender (Williams Institute, 2022)",
+    "source_ref": "src-williams-trans"
+  },
+  "what_helps": {
+    "plain_summary": "Care is individual and should be led by the person. Many people are helped most by social support: using their name and pronouns, changing how they dress or present, and being accepted at home and school. Mental health support helps with distress, anxiety, or depression, and is not aimed at changing identity. Some people choose medical options, such as puberty-pausing or hormone treatment or, in adulthood, surgery, after assessment by specialist teams following international standards such as WPATH's, with all medication prescribed and monitored by a doctor. Access and rules differ a lot between countries, and for under-18s they're changing in several places.",
+    "evidence_based_options": [
+      "Social support and affirmation at home, school, and work",
+      "Mental health support for distress, depression, or anxiety, not aimed at changing identity",
+      "Specialist gender services for assessment and, where chosen, medical care under international standards",
+      "Family support programmes and peer support"
+    ],
+    "self_help_that_supports_care": [
+      "Finding peer community, online or local, run by trusted organisations",
+      "Small changes that ease dysphoria day to day: clothing, hair, name",
+      "Knowing your rights at school and work",
+      "Looking after mental health; dysphoria is tougher when you're isolated"
+    ],
+    "guideline_refs": [
+      "src-wpath-soc8"
+    ]
+  },
+  "when_to_reach_out": "If distress about your gender is making life hard, talk to someone you trust, a doctor, or an LGBTQ+ support line. If you're a parent, your acceptance is the single most protective thing you can offer; parent helplines and groups can help you get there. If you're thinking about ending your life, please use the crisis strip now; the lines listed there understand trans experience.",
+  "is_not": "Not fitting gender stereotypes, being gender non-conforming, or being gay, lesbian, or bisexual isn't gender dysphoria. Being transgender without distress isn't a diagnosis. Questioning is not a disorder.",
+  "hope_note": "People who are supported to live as themselves describe relief, ease, and ordinary joy. Dysphoria lifts; the person stays.",
+  "related_topics": [
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "social-anxiety-disorder",
+    "suicidal-thoughts-and-behavior",
+    "social-environment-and-identity-stress",
+    "body-dysmorphic-disorder"
+  ],
+  "glossary_terms": [
+    "gender-identity",
+    "gender-incongruence",
+    "dysphoria",
+    "person-first-identity-first",
+    "stigma",
+    "peer-support"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "Crisis strip required.",
+      "Suicide risk statistics for trans youth are deliberately kept off the card face to avoid harm; the crisis strip carries the lines instead.",
+      "Avoids 'transgenderism', 'sex change', 'biological sex' phrasing."
+    ]
+  },
+  "visual": {
+    "color_token": "gender-dysphoria",
+    "icon": "rainbow",
+    "illustration_prompt": "Soft line illustration of a young person looking into a mirror and smiling, wearing clothes they chose, a friend behind them giving a thumbs-up, sunlight through a window. Pastel lilac, mint, and peach.",
+    "alt_text": "A young person smiles into a mirror while a friend behind them gives a thumbs-up."
+  },
+  "communities": [
+    "trevor-project",
+    "trans-lifeline",
+    "mermaids-uk",
+    "qlife-australia",
+    "gender-spectrum-parent-groups"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Gender Dysphoria chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-wpath-soc8",
+      "title": "Standards of Care for the Health of Transgender and Gender Diverse People, Version 8",
+      "publisher": "WPATH, International Journal of Transgender Health (PubMed 36238954)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36238954/",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022
+    },
+    {
+      "id": "src-williams-trans",
+      "title": "How many adults and youth identify as transgender in the United States?",
+      "publisher": "Williams Institute, UCLA School of Law",
+      "url": "https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2022,
+      "note": "Figures from search snippets; report not opened."
+    },
+    {
+      "id": "src-trevor-2024",
+      "title": "2024 U.S. National Survey on the Mental Health of LGBTQ+ Young People",
+      "publisher": "The Trevor Project",
+      "url": "https://www.thetrevorproject.org/survey-2024/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures from search snippets; report not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.2,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Open Williams Institute and Trevor Project reports to confirm figures.",
+      "Clinician and trans community reviewer to check tone and the medical-care paragraph.",
+      "Add a note on country-specific rules for under-18 care that is accurate on the review date."
+    ]
+  },
+  "language_convention_note": "'Transgender person', 'trans person', and 'gender-diverse person' are the terms communities use; 'person with gender dysphoria' is used only for the diagnosis itself.",
+  "in_young_people": "Dysphoria often becomes intense at puberty. Care for under-18s is staged: social support first, then specialist assessment, with medical options only through specialist teams and, in many countries, strict rules. Family acceptance is the strongest protective factor for a young person's mental health.",
+  "across_cultures": "Many cultures recognise genders beyond two, including hijra in South Asia, two-spirit people in some Native American nations, and fa'afafine in Samoa. Laws, safety, and access to care vary enormously by country, and migration and family expectations shape what support looks like."
+}
