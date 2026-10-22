@@ -22,7 +22,7 @@ def src(key):
     title, pub, url, status = SOURCES[key]
     return {"title": title, "publisher": pub, "url": url, "accessed": ACCESSED,
             "access_method": "seen-in-search-results" if status == "seen" else "not-opened",
-            "verification_status": "verified" if status == "seen" else "needs_verification"}
+            "verification_status": "needs_verification"}  # "seen" only means the URL appeared in search results; nothing was opened
 
 terms = []
 problems = []

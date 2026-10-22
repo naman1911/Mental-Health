@@ -107,7 +107,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -118,7 +118,7 @@
       "url": "https://stopitnow.org/node/1612",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     },
     {
       "id": "src-stop-it-now-uk",
@@ -127,7 +127,7 @@
       "url": "https://www.stopitnow.org.uk/",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "note": "Hours from directory listings."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://findahelpline.com/organizations/talking-for-change",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     },
     {
       "id": "src-moore-center",
@@ -146,7 +146,7 @@
       "url": "https://publichealth.jhu.edu/moore-center-for-the-prevention-of-child-sexual-abuse/get-support/resources-for-people-concerned-about-their-sexual-thoughts",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     }
   ],
   "review": {

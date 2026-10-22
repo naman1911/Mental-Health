@@ -131,7 +131,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -142,7 +142,7 @@
       "url": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     },
     {
       "id": "src-nice-ng69",
@@ -162,7 +162,7 @@
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6097933/",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2018
     },
     {

@@ -101,7 +101,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -112,7 +112,7 @@
       "url": "https://www.nimh.nih.gov/health/statistics/agoraphobia",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     },
     {
       "id": "src-nice-cg113",
@@ -121,7 +121,7 @@
       "url": "https://www.nice.org.uk/guidance/cg113",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2011
     },
     {

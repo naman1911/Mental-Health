@@ -117,7 +117,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -128,7 +128,7 @@
       "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/adjustment-disorders-in-primary-care-prevalence-recognition-and-use-of-services/FCFF31580B65EEDE575FC2B689DC731E",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2012
     }
   ],

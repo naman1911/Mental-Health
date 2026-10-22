@@ -109,7 +109,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -120,7 +120,7 @@
       "url": "https://faq.iapmd.org/en/articles/2609618-what-is-the-prevalence-of-premenstrual-disorders",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     },
     {
       "id": "src-oxford-pmdd",
@@ -129,7 +129,7 @@
       "url": "https://www.psych.ox.ac.uk/news/new-data-shows-prevalence-of-premenstrual-dysphoric-disorder-pmdd",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2024
     },
     {

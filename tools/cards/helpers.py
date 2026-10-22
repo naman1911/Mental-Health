@@ -2,7 +2,7 @@ D = "2026-10-22"
 def src(id, title, publisher, url, year=None, seen=False, note=None):
     d = {"id": id, "title": title, "publisher": publisher, "url": url, "accessed": D,
          "access_method": "seen-in-search-results" if seen else "not-opened",
-         "verification_status": "verified" if seen else "needs_verification"}
+         "verification_status": "needs_verification"}  # nothing was opened in this session; access_method records whether the URL was at least seen
     if year: d["year"] = year
     if note: d["note"] = note
     return d

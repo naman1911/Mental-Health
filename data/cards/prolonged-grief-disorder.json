@@ -125,7 +125,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -136,7 +136,7 @@
       "url": "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ProlongedGriefDisorder.pdf",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Confirms PGD moved to Section II and replaced persistent complex bereavement disorder."
     },
@@ -147,7 +147,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/28167398/",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2017
     },
     {
@@ -157,7 +157,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40180039/",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2025,
       "note": "Found grief-focused CBT the most studied and most effective approach."
     },
@@ -168,7 +168,7 @@
       "url": "https://www.psychiatry.org/getmedia/304e9a98-ca5c-4e04-97d7-30b4756705eb/APA-DSM5TR-Update-September-2022.pdf",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Heading seen in search; the F43.81 digit must be confirmed in the PDF."
     }

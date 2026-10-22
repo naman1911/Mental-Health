@@ -108,7 +108,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -119,7 +119,7 @@
       "url": "https://www.nice.org.uk/guidance/ng116",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2018,
       "note": "Evidence-review documents seen in search; recommendations summarized from those and secondary summaries; confirm on the live page."
     },
@@ -130,7 +130,7 @@
       "url": "https://doaj.org/article/8d1b44219a284ea89a9cec23f48dec26",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2020,
       "note": "Seen as a DOAJ listing; confirm article and figures."
     }

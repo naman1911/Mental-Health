@@ -100,7 +100,7 @@
       "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2022,
       "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
     },
@@ -111,7 +111,7 @@
       "url": "https://aru.figshare.com/articles/journal_contribution/Treatments_for_Delayed_Ejaculation_A_Narrative_Review/25331644",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified",
+      "verification_status": "needs_verification",
       "year": 2024,
       "note": "Abstract seen in search; full text not opened."
     },
@@ -122,7 +122,7 @@
       "url": "https://sexualadviceassociation.co.uk/factsheets/booklets/",
       "accessed": "2026-10-22",
       "access_method": "seen-in-search-results",
-      "verification_status": "verified"
+      "verification_status": "needs_verification"
     }
   ],
   "review": {
