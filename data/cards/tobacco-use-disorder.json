@@ -1,0 +1,152 @@
+{
+  "topic_id": "tobacco-use-disorder",
+  "official_name": "Tobacco Use Disorder",
+  "plain_title": "Nicotine: the hardest easy thing to quit",
+  "also_known_as": [
+    "nicotine dependence",
+    "smoking",
+    "vaping dependence"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "Z72.0 (mild) / F17.20x (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "Dependence on nicotine from cigarettes, vapes, or other tobacco, with cravings, withdrawal, and failed attempts to stop.",
+  "in_simple_words": "Nicotine is one of the most addictive substances there is, and tobacco use disorder is one of the most common. Most smokers want to quit and have tried. Withdrawal brings irritability, poor concentration, low mood, and strong cravings for a few weeks. Vaping delivers nicotine too and can create the same dependence, especially in young people. Smoking is the top preventable cause of death; quitting at any age adds years. Support plus medication roughly triples the chance of success.",
+  "what_it_can_feel_like": [
+    "I quit a hundred times. The hundred-and-first was the one with patches and a quit line.",
+    "Vaping was supposed to be the way out. It became its own trap.",
+    "Three years smoke-free. I still get the odd craving. It passes in a minute."
+  ],
+  "common_signs": [
+    "Smoking or vaping within an hour of waking",
+    "Cravings and irritability when unable to use",
+    "Repeated failed attempts to quit",
+    "Using despite health problems or a doctor's advice",
+    "Giving up activities where you can't smoke or vape"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Nicotine replacement is as bad as smoking.",
+      "fact": "It's the smoke, not the nicotine, that causes most of the harm. Patches, gum, and sprays are safe and double quit rates."
+    },
+    {
+      "myth": "I've smoked too long for quitting to help.",
+      "fact": "Quitting at any age improves health quickly, and benefits keep growing for years."
+    },
+    {
+      "myth": "Vaping is harmless.",
+      "fact": "Vaping is less harmful than smoking for adults who switch completely, but it's not harmless, and it's addictive, especially for young people who never smoked."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 9 US adults smokes cigarettes, down from 1 in 5 twenty years ago. Vaping has risen, especially among young adults.",
+    "figure": "About 11% of US adults smoked cigarettes in recent CDC surveys; figures to be confirmed",
+    "source_ref": "src-cdc-tobacco",
+    "note": "Current CDC figure not confirmed in this session."
+  },
+  "what_helps": {
+    "plain_summary": "Three things work: behavioural support (quit lines, apps, counselling), nicotine replacement (patches, gum, lozenges, sprays, combined), and prescription medicines such as varenicline or bupropion, prescribed and monitored by a doctor. Using support plus medication together gives the best chance. Some health services also offer vaping as a route off cigarettes for adults. Each quit attempt teaches something, and most people need several.",
+    "evidence_based_options": [
+      "Behavioural support: quit lines, text programmes, counselling",
+      "Nicotine replacement therapy, often a patch plus a fast-acting product",
+      "Varenicline or bupropion, prescribed and monitored by a doctor",
+      "Combined support and medication, which works best"
+    ],
+    "self_help_that_supports_care": [
+      "Setting a quit date and telling people",
+      "Changing the routines tied to smoking: coffee, breaks, after meals",
+      "Delaying each craving by a few minutes; they pass",
+      "Quit-smoking apps and online communities"
+    ],
+    "guideline_refs": [
+      "src-nice-ng209"
+    ]
+  },
+  "when_to_reach_out": "If you smoke or vape and want to stop, ask a doctor, pharmacist, or quit line about support and medication; it's free in many countries. If you've tried before, that's normal; the next attempt is more likely to work with help.",
+  "is_not": "Occasional social smoking without dependence isn't a disorder, though it still carries harm. Nicotine replacement used as directed isn't a disorder.",
+  "hope_note": "Over half of all the people who have ever smoked have quit. You can be one of them.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "major-depressive-disorder",
+    "schizophrenia",
+    "generalized-anxiety-disorder"
+  ],
+  "glossary_terms": [
+    "withdrawal",
+    "craving",
+    "dependence",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "standard",
+    "show_crisis_strip": false,
+    "content_notes": [
+      "No sourcing or 'how to use' detail. Site-wide crisis link stays one tap away."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person at a bus stop breathing in fresh air with eyes closed, a quit-app counter on their phone showing days, trees behind. Pastel navy and sky blue. No cigarettes.",
+    "alt_text": "A person breathes fresh air with eyes closed at a bus stop, a quit-app counter on their phone."
+  },
+  "communities": [
+    "reddit-r-stopsmoking",
+    "smart-recovery-meetings"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-cdc-tobacco",
+      "title": "Smoking and Tobacco Use: Data and Statistics",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/tobacco/data_statistics/index.htm",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; URL may have changed."
+    },
+    {
+      "id": "src-nice-ng209",
+      "title": "Tobacco: preventing uptake, promoting quitting and treating dependence (NG209)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng209",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2021,
+      "note": "Not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 7.8,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm CDC prevalence and URL.",
+      "Add verified quit lines per country (US 1-800-QUIT-NOW, NHS Smokefree, Quitline AU, India's QuitLine) once numbers are checked."
+    ]
+  },
+  "in_young_people": "Most adult smokers started as teens. Vaping has created a new generation of nicotine-dependent young people. Teens respond to support that respects them and to honest information about dependence.",
+  "across_cultures": "Smoking rates vary enormously by country, gender, and income, and tobacco companies target lower-income communities and countries. Smokeless tobacco and water pipes carry their own risks and are common in parts of South Asia and the Middle East.",
+  "sub_sections": [
+    {
+      "title": "Tobacco withdrawal",
+      "icd10cm_code": "F17.203",
+      "text": "Irritability, anxiety, poor concentration, increased appetite, restlessness, and low mood, peaking in the first week and fading over weeks."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "topic_id": "opioid-use-disorder",
+  "official_name": "Opioid Use Disorder",
+  "plain_title": "When painkillers or heroin have taken control",
+  "also_known_as": [
+    "opioid addiction",
+    "opioid dependence",
+    "heroin addiction"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F11.10 (mild) / F11.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "A pattern of opioid use, whether prescription painkillers, heroin, or fentanyl, that a person can't control despite serious harm.",
+  "in_simple_words": "Opioids include prescription painkillers, heroin, and fentanyl. Opioid use disorder is when use becomes hard to control: cravings, needing more, withdrawal when stopping, and continuing despite harm. It can start with a legitimate prescription. The biggest danger is overdose, which stops breathing and is now often caused by fentanyl mixed into other drugs. Naloxone reverses overdoses. Medication treatment is highly effective and cuts the risk of death in half. Recovery is real and common.",
+  "what_it_can_feel_like": [
+    "It started with pills after surgery. By the time I noticed, stopping meant being sick for days.",
+    "Methadone isn't 'still using'. It's the reason I have a job and a daughter who trusts me.",
+    "I carry naloxone now. I've used it twice. Both people are alive."
+  ],
+  "common_signs": [
+    "Using opioids more or longer than intended, or wanting to stop and not managing",
+    "Strong cravings; needing more for the same effect",
+    "Withdrawal: aches, sweats, stomach cramps, anxiety, restlessness when stopping",
+    "Spending a lot of time getting, using, or recovering",
+    "Using despite harm to health, relationships, work, or safety",
+    "Switching from pills to other forms to avoid withdrawal"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "Medication treatment just replaces one addiction with another.",
+      "fact": "Buprenorphine and methadone, taken as prescribed, stabilize the brain, stop withdrawal and craving, and halve the risk of death. They are treatment."
+    },
+    {
+      "myth": "People who overdose chose this.",
+      "fact": "Most overdoses are accidental, often from fentanyl hidden in other drugs. Naloxone and drug checking save lives."
+    },
+    {
+      "myth": "Detox is the cure.",
+      "fact": "Detox alone has very high relapse and overdose rates, because tolerance drops. Ongoing treatment is what works."
+    }
+  ],
+  "how_common": {
+    "plain": "About 2 in 100 people aged 12 and over in the US had opioid use disorder in the past year, nearly 6 million people.",
+    "figure": "5.7 million people (2.0%) aged 12+ with past-year opioid use disorder (NSDUH 2023)",
+    "source_ref": "src-nsduh-2023"
+  },
+  "what_helps": {
+    "plain_summary": "Medications for opioid use disorder, mainly buprenorphine and methadone, prescribed and monitored by a doctor or clinic, are the most effective treatment and should be offered to everyone with the condition. Naltrexone is an option for some. Counselling, peer support, and help with housing and work add to recovery. Naloxone, free from pharmacies and services in many countries, reverses overdoses and everyone at risk, and their families, should carry it. Detox without follow-on treatment is dangerous.",
+    "evidence_based_options": [
+      "Buprenorphine or methadone treatment, prescribed and monitored by a doctor or clinic",
+      "Extended-release naltrexone for some people",
+      "Counselling, CBT, and contingency management alongside medication",
+      "Naloxone, harm-reduction services, and peer support"
+    ],
+    "self_help_that_supports_care": [
+      "Carrying naloxone and telling the people around you how to use it",
+      "Never using alone; many areas have a 'never use alone' phone line",
+      "Finding a prescriber or clinic; waits are often shorter than feared",
+      "Meetings and peer support, including Narcotics Anonymous and SMART Recovery"
+    ],
+    "guideline_refs": [
+      "src-nida-treatment"
+    ]
+  },
+  "when_to_reach_out": "If you're using opioids in a way you can't control, or dreading withdrawal, ask a doctor, clinic, or helpline about medication treatment today. Call emergency services for any suspected overdose (slow breathing, can't be woken, blue lips) and give naloxone if you have it.",
+  "is_not": "Taking prescribed opioids for pain as directed, even with physical dependence, isn't opioid use disorder. Physical dependence can be tapered under medical care.",
+  "hope_note": "With medication treatment, people with opioid use disorder go back to work, rebuild families, and live long lives. The treatment exists; the task is reaching it.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "sedative-hypnotic-anxiolytic-use-disorder",
+    "alcohol-use-disorder",
+    "major-depressive-disorder",
+    "posttraumatic-stress-disorder",
+    "somatic-symptom-disorder"
+  ],
+  "glossary_terms": [
+    "medication-for-opioid-use-disorder",
+    "naloxone",
+    "overdose",
+    "withdrawal",
+    "harm-reduction",
+    "dependence",
+    "twelve-step"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person collecting a prescription at a pharmacy counter with a small naloxone kit, the pharmacist smiling, morning light. Pastel navy and mint. No pills or needles visible.",
+    "alt_text": "A person collects a prescription at a pharmacy counter where a pharmacist smiles, a small naloxone kit on the counter."
+  },
+  "communities": [
+    "reddit-r-opiatesrecovery",
+    "virtual-na",
+    "smart-recovery-meetings",
+    "samhsa-national-helpline",
+    "frank-uk"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nida-naloxone",
+      "title": "Naloxone DrugFacts",
+      "publisher": "National Institute on Drug Abuse",
+      "url": "https://nida.nih.gov/publications/drugfacts/naloxone",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened."
+    },
+    {
+      "id": "src-nida-treatment",
+      "title": "Treatment and Recovery",
+      "publisher": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://nida.nih.gov/research-topics/treatment",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Not opened; NIDA's current treatment page replaces the archived 'Principles' guide."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 9.4,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_human_review",
+    "needs_clinician_signoff": true,
+    "open_questions": [
+      "Clinician to check medication statements.",
+      "Confirm 'never use alone' line details per country before adding."
+    ]
+  },
+  "in_young_people": "Opioid use in teens often starts with pills from a family medicine cabinet. Medication treatment is approved for older teens, and early treatment with family involvement has the best outcomes.",
+  "across_cultures": "The opioid crisis looks different in different countries: prescription-driven in North America, heroin-driven in many others. Access to medication treatment varies hugely. In some communities, stigma around methadone keeps people from the treatment most likely to save them.",
+  "sub_sections": [
+    {
+      "title": "Opioid intoxication and withdrawal",
+      "icd10cm_code": "F11.x2 / F11.x3 (varies)",
+      "text": "Intoxication can cause dangerous slowing of breathing. Withdrawal is intensely unpleasant but not usually life-threatening on its own; the danger is relapsing afterwards with lowered tolerance."
+    }
+  ]
+}

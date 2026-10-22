@@ -1,0 +1,177 @@
+{
+  "topic_id": "alcohol-use-disorder",
+  "official_name": "Alcohol Use Disorder",
+  "plain_title": "When drinking has taken control",
+  "also_known_as": [
+    "alcoholism (older term)",
+    "alcohol dependence",
+    "problem drinking"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F10.10 (mild) / F10.20 (moderate, severe)",
+  "language_convention": "person-first",
+  "one_liner": "Drinking that a person can't control and keeps up despite harm to health, work, safety, or relationships.",
+  "in_simple_words": "Alcohol use disorder ranges from mild to severe. It's not about what you drink or whether you drink daily; it's about losing control: drinking more than planned, failing to cut down, craving, needing more, withdrawal, and carrying on despite the damage. It's one of the most common mental health conditions and one of the most hidden. Stopping suddenly after heavy daily drinking can be dangerous, so medical advice matters. Treatment works, and millions of people are in recovery.",
+  "what_it_can_feel_like": [
+    "I never drank in the morning, so I told myself I was fine. I just couldn't stop once I started.",
+    "The shakes in the morning were the thing I couldn't explain away.",
+    "A year sober. I'm not 'cured'. I'm free, one day at a time, with a lot of help."
+  ],
+  "common_signs": [
+    "Drinking more, or more often, than intended",
+    "Trying to cut down and not managing",
+    "Cravings, or needing more to feel the same effect",
+    "Shakes, sweats, anxiety, or poor sleep when not drinking",
+    "Drinking despite health, money, work, or relationship problems",
+    "Hiding drinking or feeling defensive about it"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "You're only an alcoholic if you drink in the morning or lose your job.",
+      "fact": "Most people with alcohol use disorder are working, parenting, and functioning. 'High-functioning' doesn't mean no harm."
+    },
+    {
+      "myth": "Willpower is all you need.",
+      "fact": "Alcohol changes the brain's reward and stress systems. Treatment, medication, and support beat willpower alone."
+    },
+    {
+      "myth": "Stopping cold turkey is the brave way.",
+      "fact": "For heavy daily drinkers, sudden stopping can cause seizures and can be fatal. Medically supervised withdrawal is the safe way."
+    }
+  ],
+  "how_common": {
+    "plain": "About 1 in 10 people aged 12 and over in the US had alcohol use disorder in the past year, nearly 29 million people.",
+    "figure": "28.9 million people (10.2%) aged 12+ with past-year alcohol use disorder (NSDUH 2023)",
+    "source_ref": "src-nsduh-2023"
+  },
+  "what_helps": {
+    "plain_summary": "Options range from brief advice and self-help for milder problems to specialist treatment for dependence. Talking therapies (CBT, motivational approaches, behavioural couples therapy) help. Three medications, prescribed and monitored by a doctor, reduce cravings or relapse. Medically supervised withdrawal is needed for heavy dependence. Mutual-aid groups like AA and SMART Recovery support long-term recovery, and family programmes like Al-Anon support relatives.",
+    "evidence_based_options": [
+      "Brief interventions and guided self-help for harmful drinking",
+      "CBT, motivational enhancement, and behavioural couples therapy",
+      "Medications to support abstinence or reduce drinking, prescribed and monitored by a doctor",
+      "Medically supervised withdrawal, then relapse prevention and mutual-aid groups"
+    ],
+    "self_help_that_supports_care": [
+      "Tracking drinks honestly for two weeks",
+      "Alcohol-free days, then stretches, with support",
+      "Telling people you're cutting down so they stop pouring",
+      "Meetings, online or local; try several"
+    ],
+    "guideline_refs": [
+      "src-nice-cg115"
+    ]
+  },
+  "when_to_reach_out": "If you've tried to cut down and can't, drink to cope, or get shaky or anxious when you stop, talk to a doctor or an alcohol helpline. Do not stop suddenly after heavy daily drinking without medical advice. Get emergency help for seizures, confusion, or hallucinations when stopping.",
+  "is_not": "Drinking above recommended limits is risky but isn't a disorder on its own. Binge drinking at parties, without loss of control the rest of the time, is harmful but different from dependence.",
+  "hope_note": "People recover from severe alcohol use disorder every day. Recovery communities are full of people who thought they were the exception.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "major-depressive-disorder",
+    "generalized-anxiety-disorder",
+    "posttraumatic-stress-disorder",
+    "social-anxiety-disorder",
+    "neurocognitive-disorder-other-causes"
+  ],
+  "glossary_terms": [
+    "withdrawal",
+    "tolerance",
+    "craving",
+    "detox",
+    "twelve-step",
+    "smart-recovery",
+    "hangxiety",
+    "sober-curious",
+    "relapse-prevention"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person at a sunrise run with a friend, water bottles, a '1 year' token on a keyring. Pastel navy and gold. No bottles or glasses.",
+    "alt_text": "Two friends on a sunrise run with water bottles, a one-year token hanging from a keyring."
+  },
+  "communities": [
+    "reddit-r-stopdrinking",
+    "aa-online-intergroup",
+    "smart-recovery-meetings",
+    "al-anon-electronic-meetings",
+    "drinkline-uk",
+    "samhsa-national-helpline"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-nsduh-2023",
+      "title": "Key substance use and mental health indicators in the United States: results from the 2023 National Survey on Drug Use and Health",
+      "publisher": "SAMHSA",
+      "url": "https://www.samhsa.gov/data/release/2023-national-survey-drug-use-and-health-nsduh-releases",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2024,
+      "note": "Figures seen via secondary summaries; confirm on the SAMHSA release page."
+    },
+    {
+      "id": "src-nice-cg115",
+      "title": "Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence (CG115)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/cg115",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2011
+    },
+    {
+      "id": "src-drinkline",
+      "title": "Drinkline (national alcohol helpline, England)",
+      "publisher": "NHS / Drinkline",
+      "url": "https://www.nhs.uk/live-well/alcohol-advice/alcohol-support/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "Number 0300 123 1110 seen on NHS practice pages; official page not opened."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.9,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Confirm Drinkline details on the NHS page."
+    ]
+  },
+  "in_young_people": "Teenage drinking is common and most teens don't develop a disorder, but early heavy drinking raises the risk. Family involvement and treating the anxiety or trauma underneath matter most.",
+  "across_cultures": "Drinking norms vary hugely: alcohol is forbidden in some faiths and central to social life in some cultures. Shame about drinking problems is universal. Culturally specific recovery programmes exist in many communities, including Indigenous-led ones.",
+  "sub_sections": [
+    {
+      "title": "Alcohol intoxication and withdrawal",
+      "icd10cm_code": "F10.x20 / F10.x30–x31 (varies)",
+      "text": "Intoxication is being drunk. Withdrawal, after heavy regular use, ranges from shakes and anxiety to seizures and delirium tremens, a medical emergency."
+    },
+    {
+      "title": "Alcohol-induced mental disorders",
+      "text": "Heavy drinking can cause depression, anxiety, psychosis, sleep problems, and lasting memory damage (including Wernicke-Korsakoff syndrome). Many improve with abstinence."
+    }
+  ]
+}

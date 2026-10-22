@@ -1643,6 +1643,475 @@
       "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; check for supplement selling or 'cure' promotion."
     },
     {
+      "community_id": "reddit-r-stopdrinking",
+      "name": "r/stopdrinking",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/stopdrinking/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "alcohol-use-disorder",
+        "substance-use-disorders-overview"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 580000,
+        "as_of": "2026-10-22",
+        "note": "Trackers showed ~555K–604K."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": true,
+        "notes": "Mutual-motivation community for controlling or stopping drinking; daily check-in posts; wiki with links and resources seen via mirror. Widely regarded as well moderated; studied in academic research on recovery communities."
+      },
+      "safety_notes": "Peer support only. Strong norms against judging; not a medical service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm rules and badge/check-in system; check crisis pins."
+    },
+    {
+      "community_id": "reddit-r-leaves",
+      "name": "r/leaves",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/leaves/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "cannabis-use-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 424000,
+        "as_of": "2026-10-22",
+        "note": "Directory figure from 2023; likely higher now."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Support for quitting cannabis and staying stopped; practical, recovery-focused."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm rules and moderation; check crisis pins."
+    },
+    {
+      "community_id": "reddit-r-opiatesrecovery",
+      "name": "r/OpiatesRecovery",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/OpiatesRecovery/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "opioid-use-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 23600,
+        "as_of": "2026-10-22",
+        "note": "Directory figure."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Recovery-focused; sampled in an academic study of recovery subreddits. Rules not seen."
+      },
+      "safety_notes": "Must be checked for sourcing or dosing talk before listing.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. HIGH PRIORITY: read rules; sample posts for sourcing or dosing content."
+    },
+    {
+      "community_id": "reddit-r-stopsmoking",
+      "name": "r/stopsmoking",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/stopsmoking/",
+      "type": "subreddit",
+      "audience": [
+        "adults",
+        "teens-16+"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "tobacco-use-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 185000,
+        "as_of": "2026-10-22",
+        "note": "Trackers showed ~172K–199K."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Rules not seen."
+      },
+      "safety_notes": "Peer support, not professional advice. Not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm rules and moderation."
+    },
+    {
+      "community_id": "reddit-r-problemgambling",
+      "name": "r/problemgambling",
+      "platform": "reddit",
+      "url": "https://www.reddit.com/r/problemgambling/",
+      "type": "subreddit",
+      "audience": [
+        "adults"
+      ],
+      "for": "both",
+      "topics": [
+        "gambling-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": 39000,
+        "as_of": "2026-10-22",
+        "note": "Trackers showed ~32K–46K."
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "For people with a gambling problem and those who know someone who has. Rules not seen."
+      },
+      "safety_notes": "Check for betting-site promotion or tipster content.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Read rules; sample for gambling promotion."
+    },
+    {
+      "community_id": "smart-recovery-meetings",
+      "name": "SMART Recovery online and local meetings",
+      "platform": "video-meeting",
+      "url": "https://smartrecovery.org/meeting",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "young-people",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "substance-use-disorders-overview",
+        "alcohol-use-disorder",
+        "opioid-use-disorder",
+        "cannabis-use-disorder",
+        "stimulant-use-disorder",
+        "gambling-disorder",
+        "tobacco-use-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Free, science-based mutual-support meetings (CBT and motivational tools) worldwide, online and in person, including Family & Friends meetings. Meeting URL seen in a university resource list; organization also has a Reddit community."
+      },
+      "safety_notes": "Trained volunteer facilitators; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the meeting finder URL on smartrecovery.org."
+    },
+    {
+      "community_id": "aa-online-intergroup",
+      "name": "Alcoholics Anonymous Online Intergroup",
+      "platform": "video-meeting",
+      "url": "https://aa-intergroup.org/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "young-people"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "alcohol-use-disorder"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Directory of online AA meetings (video, phone, chat) run by AA groups; seen in a university resource list."
+      },
+      "safety_notes": "Peer-run fellowship; meetings vary; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the directory is current."
+    },
+    {
+      "community_id": "virtual-na",
+      "name": "Virtual NA (Narcotics Anonymous online meetings)",
+      "platform": "video-meeting",
+      "url": "https://virtual-na.org/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "young-people"
+      ],
+      "for": "people-with-experience",
+      "topics": [
+        "opioid-use-disorder",
+        "stimulant-use-disorder",
+        "cannabis-use-disorder",
+        "sedative-hypnotic-anxiolytic-use-disorder",
+        "other-or-unknown-substance-use-disorder",
+        "hallucinogen-related-disorders"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Directory of NA meetings held online and by phone; seen in a university resource list. NA's main site is na.org."
+      },
+      "safety_notes": "Peer-run fellowship; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the directory is current and link na.org meeting search too."
+    },
+    {
+      "community_id": "al-anon-electronic-meetings",
+      "name": "Al-Anon and Alateen electronic meetings",
+      "platform": "video-meeting",
+      "url": "https://al-anon.org/al-anon-meetings/electronic-meetings/",
+      "type": "online-group-meeting",
+      "audience": [
+        "adults",
+        "teens"
+      ],
+      "for": "family-and-carers",
+      "topics": [
+        "alcohol-use-disorder",
+        "substance-use-disorders-overview"
+      ],
+      "region": "global",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": true,
+        "active_mods": true,
+        "pins_crisis_resources": null,
+        "notes": "Online and phone meetings for families and friends of people with drinking problems; Alateen for teenagers. URL seen in a university resource list."
+      },
+      "safety_notes": "Peer-run fellowship for relatives; not a crisis service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the page and Alateen access rules."
+    },
+    {
+      "community_id": "samhsa-national-helpline",
+      "name": "SAMHSA National Helpline (US)",
+      "platform": "phone",
+      "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "substance-use-disorders-overview",
+        "alcohol-use-disorder",
+        "opioid-use-disorder",
+        "cannabis-use-disorder",
+        "stimulant-use-disorder",
+        "sedative-hypnotic-anxiolytic-use-disorder",
+        "major-depressive-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": true,
+        "notes": "1-800-662-4357 (HELP): free, confidential, 24/7, English and Spanish; information and treatment referrals for mental health and substance use. Number confirmed on a university page; official URL not opened."
+      },
+      "safety_notes": "Information and referral line; for emergencies call 911 or 988.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm URL on samhsa.gov."
+    },
+    {
+      "community_id": "frank-uk",
+      "name": "Talk to FRANK (UK drugs helpline)",
+      "platform": "phone",
+      "url": "https://www.talktofrank.com/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people",
+        "parents"
+      ],
+      "for": "both",
+      "topics": [
+        "substance-use-disorders-overview",
+        "cannabis-use-disorder",
+        "opioid-use-disorder",
+        "stimulant-use-disorder",
+        "hallucinogen-related-disorders",
+        "inhalant-use-disorder",
+        "other-or-unknown-substance-use-disorder",
+        "sedative-hypnotic-anxiolytic-use-disorder"
+      ],
+      "region": "UK",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": true,
+        "notes": "National drugs helpline 0300 123 6600, 24 hours; text 82111; website with honest drug information and local service finder. Number confirmed on NHS and council pages; site not opened."
+      },
+      "safety_notes": "Government-funded information and support line; not an emergency service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours and text number on talktofrank.com."
+    },
+    {
+      "community_id": "drinkline-uk",
+      "name": "Drinkline (national alcohol helpline, England)",
+      "platform": "phone",
+      "url": "https://www.nhs.uk/live-well/alcohol-advice/alcohol-support/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "alcohol-use-disorder"
+      ],
+      "region": "UK (England)",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": null,
+        "notes": "Free, confidential helpline 0300 123 1110 for people worried about their own or someone else's drinking; number seen on NHS practice pages; hours not confirmed."
+      },
+      "safety_notes": "Information and support line; not an emergency service.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm hours on the NHS alcohol support page."
+    },
+    {
+      "community_id": "ncpg-helpline-us",
+      "name": "National Problem Gambling Helpline, 1-800-GAMBLER (US)",
+      "platform": "phone",
+      "url": "https://www.ncpgambling.org/help-treatment/",
+      "type": "helpline",
+      "audience": [
+        "adults",
+        "young-people",
+        "family"
+      ],
+      "for": "both",
+      "topics": [
+        "gambling-disorder"
+      ],
+      "region": "US",
+      "language": "en",
+      "cost": "free",
+      "size": {
+        "members": null,
+        "as_of": null,
+        "note": ""
+      },
+      "last_activity_seen": null,
+      "moderation": {
+        "has_rules": null,
+        "active_mods": null,
+        "pins_crisis_resources": true,
+        "notes": "1-800-GAMBLER (1-800-522-4700): free, confidential, 24/7 phone, text, and chat, run by the National Council on Problem Gambling; fact sheet seen in search."
+      },
+      "safety_notes": "Referral and support line; for suicidal crisis call or text 988.",
+      "verification_status": "needs_verification",
+      "verified_on": null,
+      "reviewer_notes": "NOT OPENED: the build environment blocked outbound web access. URL and details were seen in search-engine results on 2026-10-22. Confirm the help page URL."
+    },
+    {
       "community_id": "reddit-r-griefsupport",
       "name": "r/GriefSupport",
       "platform": "reddit",

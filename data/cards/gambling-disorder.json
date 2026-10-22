@@ -1,0 +1,160 @@
+{
+  "topic_id": "gambling-disorder",
+  "official_name": "Gambling Disorder",
+  "plain_title": "When betting has taken control",
+  "also_known_as": [
+    "problem gambling",
+    "compulsive gambling",
+    "gambling addiction"
+  ],
+  "chapter_id": "substance",
+  "card_type": "condition",
+  "icd10cm_code": "F63.0",
+  "language_convention": "person-first",
+  "one_liner": "Repeated gambling that a person can't stop or control, despite serious harm to money, relationships, and mental health.",
+  "in_simple_words": "Gambling disorder is the only non-substance addiction in the main DSM. It involves needing to bet more for the same thrill, restlessness when cutting down, repeated failed attempts to stop, chasing losses, lying about it, and relying on others to bail you out. Online betting and apps make it available every second of the day. It carries one of the highest suicide risks of any mental health condition, and it's treatable, with therapy, peer support, and tools like self-exclusion.",
+  "what_it_can_feel_like": [
+    "It wasn't about the money. It was the only time the noise in my head stopped.",
+    "I lost the house. Nobody knew until the letters came.",
+    "Gamblers Anonymous was the first room where I didn't have to explain."
+  ],
+  "common_signs": [
+    "Needing to bet more for the same excitement",
+    "Trying to cut down and feeling restless or irritable",
+    "Chasing losses with more gambling",
+    "Lying to family about gambling, or borrowing and hiding debts",
+    "Gambling when stressed, low, or anxious",
+    "Losing relationships, work, or money because of it"
+  ],
+  "myths_vs_facts": [
+    {
+      "myth": "It's a money problem, not a mental health one.",
+      "fact": "Gambling disorder changes the brain's reward system like a substance addiction. Debt is a result, not the core."
+    },
+    {
+      "myth": "You can't be addicted to something with no substance.",
+      "fact": "The DSM reclassified gambling disorder alongside substance addictions in 2013 because the brain and behaviour patterns are so similar."
+    },
+    {
+      "myth": "One big win would fix it.",
+      "fact": "Wins feed the disorder. Recovery means leaving gambling behind, not getting ahead."
+    }
+  ],
+  "how_common": {
+    "plain": "Around 1 in 100 adults has a severe gambling problem in a given year, and 2 to 3 in 100 have gambling problems of some degree, with higher rates in young men and online bettors.",
+    "figure": "About 1% of US adults (2 million) meet criteria for severe gambling problems per year (NCPG); 2.4% of Great Britain adults scored as problem gamblers in 2025 (PGSI 8+)",
+    "source_ref": "src-ncpg"
+  },
+  "what_helps": {
+    "plain_summary": "CBT for gambling, which works on the thinking errors and urges that drive betting, has the best evidence, along with motivational interviewing. Peer groups like Gamblers Anonymous and SMART Recovery help many. Practical tools are powerful: self-exclusion schemes, gambling-blocking software, bank card blocks, and handing financial control to someone trusted for a while. Debt advice is part of treatment. Medication is sometimes used for urges, prescribed and monitored by a doctor. Family members benefit from their own support.",
+    "evidence_based_options": [
+      "CBT for gambling disorder and motivational interviewing",
+      "Self-exclusion schemes, blocking software, and bank gambling blocks",
+      "Peer support: Gamblers Anonymous, SMART Recovery, and gambling helplines",
+      "Debt advice and support for family members"
+    ],
+    "self_help_that_supports_care": [
+      "Blocking gambling on your bank card and phone today",
+      "Self-excluding from online and local venues",
+      "Telling one person the real numbers",
+      "Calling a gambling helpline; most are free and confidential"
+    ],
+    "guideline_refs": [
+      "src-ncpg"
+    ]
+  },
+  "when_to_reach_out": "If gambling is causing debt, secrecy, or distress, or you've tried to stop and can't, call a gambling helpline or talk to a doctor. If you're having thoughts of ending your life, which are common with gambling debt, use the crisis strip now. Debt can be dealt with; you can't be replaced.",
+  "is_not": "Occasional betting within limits isn't a disorder. Big losses during a bad patch are a warning sign but don't by themselves mean a disorder.",
+  "hope_note": "People recover from gambling disorder and rebuild their finances and relationships. Many go on to help others out.",
+  "related_topics": [
+    "substance-use-disorders-overview",
+    "major-depressive-disorder",
+    "alcohol-use-disorder",
+    "suicidal-thoughts-and-behavior",
+    "internet-gaming-disorder",
+    "housing-and-money-problems"
+  ],
+  "glossary_terms": [
+    "craving",
+    "relapse-prevention",
+    "twelve-step",
+    "smart-recovery",
+    "cbt"
+  ],
+  "safety": {
+    "sensitivity_level": "elevated",
+    "show_crisis_strip": true,
+    "content_notes": [
+      "No dosing, sourcing, or 'how to use' detail. Harm-reduction pointers only to official organizations.",
+      "Crisis strip with substance helplines required."
+    ]
+  },
+  "visual": {
+    "color_token": "substance",
+    "icon": "anchor",
+    "illustration_prompt": "Soft line illustration of a person handing a bank card to a trusted friend across a kitchen table, both calm, a budgeting notebook open, sunlight. Pastel navy and gold. No cards, dice, or slot machines.",
+    "alt_text": "A person hands a bank card to a trusted friend across a kitchen table beside an open budgeting notebook."
+  },
+  "communities": [
+    "reddit-r-problemgambling",
+    "ncpg-helpline-us",
+    "smart-recovery-meetings"
+  ],
+  "sources": [
+    {
+      "id": "src-dsm",
+      "title": "DSM-5-TR, Substance-Related and Addictive Disorders chapter",
+      "publisher": "American Psychiatric Association",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2022,
+      "note": "Chapter structure confirmed; the DSM text itself was not reproduced. Content is written in the project's own words."
+    },
+    {
+      "id": "src-ncpg",
+      "title": "1-800-GAMBLER National Problem Gambling Helpline fact sheet",
+      "publisher": "National Council on Problem Gambling (US)",
+      "url": "https://www.ncpgambling.org/wp-content/uploads/2023/12/1-800-GAMBLER-Fact-Sheet.pdf",
+      "accessed": "2026-10-22",
+      "access_method": "seen-in-search-results",
+      "verification_status": "verified",
+      "year": 2023
+    },
+    {
+      "id": "src-gb-gambling",
+      "title": "Gambling Survey for Great Britain (Gambling Commission)",
+      "publisher": "UK Gambling Commission",
+      "url": "https://www.gamblingcommission.gov.uk/statistics-and-research/",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "note": "2025 figure (2.4% PGSI 8+) seen in a secondary summary; not opened."
+    },
+    {
+      "id": "src-nice-gambling",
+      "title": "Harmful gambling: identification, assessment and management (NG248)",
+      "publisher": "NICE",
+      "url": "https://www.nice.org.uk/guidance/ng248",
+      "accessed": "2026-10-22",
+      "access_method": "not-opened",
+      "verification_status": "needs_verification",
+      "year": 2025,
+      "note": "Not opened; guideline number from memory."
+    }
+  ],
+  "review": {
+    "last_researched": "2026-10-22",
+    "reading_grade_estimate": 8.1,
+    "reading_grade_method": "Flesch-Kincaid grade, computed on all reader-facing text",
+    "verification_status": "needs_verification",
+    "needs_clinician_signoff": false,
+    "open_questions": [
+      "Verify GamCare (UK) and Gambling Help Online (AU) numbers before adding.",
+      "Confirm NICE NG248 reference."
+    ]
+  },
+  "in_young_people": "Gambling-like features in video games (loot boxes) and easy access to betting apps mean problems are starting younger. Teens who gamble are at much higher risk of later disorder.",
+  "across_cultures": "Gambling norms and legality vary: central to social life in some cultures, forbidden in others. Online gambling has reached everywhere. Shame and the hiddenness of financial harm keep people from help across all communities."
+}
