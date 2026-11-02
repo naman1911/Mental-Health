@@ -23,6 +23,7 @@ jobs:
         with: { python-version: "3.12" }
       - run: python3 -I tools/build_site.py
       - uses: actions/configure-pages@v5
+        with: { enablement: true }
       - uses: actions/upload-pages-artifact@v3
         with: { path: site }
       - id: deployment
