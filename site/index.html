@@ -263,7 +263,7 @@ const icons=()=>{if(window.lucide)lucide.createIcons();};
 const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 /* theme toggle */
-function setThemeIcon(){document.querySelector('#theme i,#theme svg').replaceWith(Object.assign(document.createElement('i'),{dataset:{lucide:isDark()?'sun':'moon'}}));icons();}
+function setThemeIcon(){const el=document.createElement('i');el.dataset.lucide=isDark()?'sun':'moon';const cur=document.querySelector('#theme i,#theme svg');if(cur)cur.replaceWith(el);icons();}
 document.getElementById('theme').onclick=()=>{const r=document.documentElement;r.dataset.theme=isDark()?'light':'dark';try{localStorage.setItem('theme',r.dataset.theme)}catch(e){};render();};
 try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}
 
@@ -506,7 +506,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementB
 document.addEventListener('change',e=>{if(e.target.id==='country'){st.country=e.target.value;try{localStorage.setItem('country',st.country)}catch(x){}render();}});
 addEventListener('hashchange',()=>{document.getElementById('pop').hidden=true;render();});
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change',render);
-Promise.all(['cards','taxonomy','communities','crisis-lines','glossary','design-tokens'].map(f=>fetch(`data/${f}.json`).then(r=>{if(!r.ok)throw new Error(f);return r.json()}))).then(([cards,taxonomy,communities,crisis,glossary,tokens])=>{D={cards,taxonomy,communities,crisis,glossary,tokens};buildIndex();render();}).catch(err=>{app.innerHTML=`<div class="wrap"><p class="empty">The data files could not be loaded (${esc(err.message)}).</p></div>`;});
+Promise.all(['cards','taxonomy','communities','crisis-lines','glossary','design-tokens'].map(f=>fetch(`data/${f}.json`).then(r=>{if(!r.ok)throw new Error(f);return r.json()}))).then(([cards,taxonomy,communities,crisis,glossary,tokens])=>{D={cards,taxonomy,communities,crisis,glossary,tokens};buildIndex();try{render();}catch(err){console.error(err);app.innerHTML=`<div class="wrap"><p class="empty">Something went wrong drawing the page (${esc(err.message)}). Reload to try again.</p></div>`;}}).catch(err=>{app.innerHTML=`<div class="wrap"><p class="empty">The data files could not be loaded (${esc(err.message)}).</p></div>`;});
 </script>
 </body>
 </html>
