@@ -8,11 +8,11 @@ python3 -I tools/glossary/build_glossary.py # writes data/glossary.json (checks 
 python3 -I tools/cards/build_cards.py       # writes data/cards/*.json and data/communities.json
 python3 -I tools/build_crisis_lines.py      # writes data/crisis-lines.json
 python3 -I tools/build_design_tokens.py     # writes data/design-tokens.json (WCAG-checked)
-python3 -I tools/build_preview.py           # bundles data/ into preview/data/ for the static preview page
+python3 -I tools/build_site.py              # bundles data/ into site/data/ for the static site
 ```
 
 Requires `jsonschema` (`pip install jsonschema`). Run from the repository root. Each build script validates against the schemas in `schemas/`, enforces the length rules from the brief, scans for stigmatizing words, and computes a Flesch-Kincaid reading grade for each card.
 
-## Preview
+## Site
 
-`preview/index.html` is a static, dependency-free page that renders every card, the community directory, crisis lines, glossary and design tokens from the bundled JSON. After building, serve the folder (`python3 -m http.server --directory preview 8000`) and open http://localhost:8000. It follows the card anatomy in `docs/design-system.md` and is a working preview, not the production site.
+`site/index.html` is a static, dependency-free single-page site that renders every card, the community directory, crisis lines, glossary and design tokens from the bundled JSON. After building, serve the folder (`python3 -m http.server --directory site 8000`) and open http://localhost:8000. It follows `docs/design-system.md` and is deployed to GitHub Pages by `.github/workflows/pages.yml` (enable Pages with source 'GitHub Actions' in the repository settings).

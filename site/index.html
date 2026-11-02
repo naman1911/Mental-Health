@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plain-Language DSM Cards</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every DSM-5-TR topic explained gently, in plain words, with somewhere kind to go next.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..700,100;1,9..144,300..700,100&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout concept: a quiet, light "reading room". One breathing field of 153 soft lights (the cards) opens the page; everything below is generous type on warm paper. Colour comes only from the chapter you are in; red only ever means crisis help. Tokens mirror data/design-tokens.json. */
+:root{
+  --page:#fbfaf7;--card:#ffffff;--raised:#f3f1ec;--deep:#efece4;
+  --ink:#23272f;--ink-2:#4b515c;--ink-3:#6b7280;--link:#2d5f8a;
+  --line:#e6e3dc;--line-2:#cfcbc2;
+  --crisis-bg:#fde8e6;--crisis-border:#c0392b;--crisis-ink:#6e1b14;--crisis-btn:#b8321f;--crisis-btn-ink:#ffffff;
+  --caution-bg:#fff4dc;--caution-ink:#6b4a00;--ok-bg:#e6f4ea;--ok-ink:#1e5a35;--info-bg:#e6f0fa;--info-ink:#1f4e79;
+  --tint:#eef0f5;--accent:#3d4f6b;--chip:#e2e6ee;--border:#b9c1d1;
+  --shadow:0 1px 2px rgba(35,39,47,.05),0 12px 32px rgba(35,39,47,.07);
+  --glow:rgba(35,39,47,.08);
+  --sans:"Atkinson Hyperlegible","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --display:"Fraunces","Iowan Old Style","Georgia",serif;
+  --ease:cubic-bezier(.2,0,0,1);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --page:#15171c;--card:#1d2027;--raised:#262a33;--deep:#111318;--ink:#e9e7e1;--ink-2:#b5b3ac;--ink-3:#8e9099;--link:#8fbfe8;--line:#2b2f38;--line-2:#3b404b;
+  --crisis-bg:#3a1a17;--crisis-border:#f0948a;--crisis-ink:#ffd9d4;--crisis-btn:#f0948a;--crisis-btn-ink:#2a0f0c;
+  --caution-bg:#332a14;--caution-ink:#f0d28a;--ok-bg:#1b2e22;--ok-ink:#9fd7b1;--info-bg:#1b2a3a;--info-ink:#9cc7f0;
+  --tint:#1f2330;--accent:#aab7d4;--chip:#2a2f3d;--border:#4a5367;--shadow:0 1px 2px rgba(0,0,0,.4),0 12px 32px rgba(0,0,0,.4);--glow:rgba(255,255,255,.06);color-scheme:dark}}
+:root[data-theme="dark"]{
+  --page:#15171c;--card:#1d2027;--raised:#262a33;--deep:#111318;--ink:#e9e7e1;--ink-2:#b5b3ac;--ink-3:#8e9099;--link:#8fbfe8;--line:#2b2f38;--line-2:#3b404b;
+  --crisis-bg:#3a1a17;--crisis-border:#f0948a;--crisis-ink:#ffd9d4;--crisis-btn:#f0948a;--crisis-btn-ink:#2a0f0c;
+  --caution-bg:#332a14;--caution-ink:#f0d28a;--ok-bg:#1b2e22;--ok-ink:#9fd7b1;--info-bg:#1b2a3a;--info-ink:#9cc7f0;
+  --tint:#1f2330;--accent:#aab7d4;--chip:#2a2f3d;--border:#4a5367;--shadow:0 1px 2px rgba(0,0,0,.4),0 12px 32px rgba(0,0,0,.4);--glow:rgba(255,255,255,.06);color-scheme:dark}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--page);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--page)}
+a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:.15em}
+h1,h2,h3,h4{text-wrap:balance;line-height:1.15;margin:0;font-family:var(--display);font-weight:500;font-variation-settings:"SOFT" 100}
+.wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));max-width:1160px;margin:0 auto}
+:focus-visible{outline:3px solid var(--border);outline-offset:3px;border-radius:.4rem}
+[hidden]{display:none!important}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--page) 86%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:.75rem;padding-block:.55rem;flex-wrap:wrap}
+.brand{font-family:var(--display);font-weight:500;font-variation-settings:"SOFT" 100,"opsz" 24;font-size:1.3rem;color:var(--ink);text-decoration:none;letter-spacing:-.01em;display:flex;align-items:center;gap:.5rem;margin-right:auto}
+.brand i{width:22px;height:22px;color:var(--accent)}
+.nav{display:flex;gap:.1rem;flex-wrap:wrap}
+.nav a{font-size:.9375rem;color:var(--ink-2);text-decoration:none;padding:.35rem .7rem;border-radius:999px}
+.nav a[aria-current="true"],.nav a:hover{background:var(--raised);color:var(--ink)}
+.nav a.help{color:var(--crisis-ink);background:var(--crisis-bg);font-weight:700}
+.theme{font:inherit;border:1px solid var(--line-2);background:var(--card);color:var(--ink);border-radius:999px;width:38px;height:38px;display:grid;place-items:center;cursor:pointer}
+.theme i{width:18px;height:18px}
+
+/* hero */
+.hero{position:relative;overflow:hidden;isolation:isolate}
+.hero canvas{position:absolute;inset:0;width:100%;height:100%;z-index:-1}
+.hero .wrap{padding-block:clamp(3rem,9vw,7rem) clamp(2.5rem,6vw,4.5rem);display:grid;gap:1.4rem;max-width:860px;text-align:center;justify-items:center}
+.eyebrow{font-size:.8125rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);font-weight:700}
+.hero h1{font-size:clamp(2.3rem,6.2vw,4.4rem);letter-spacing:-.02em;font-variation-settings:"SOFT" 100,"opsz" 144;font-weight:400}
+.hero h1 em{font-style:italic;font-weight:300}
+.hero p.lede{font-size:clamp(1.05rem,1.6vw,1.3rem);color:var(--ink-2);max-width:56ch;margin:0}
+.search{position:relative;width:min(100%,640px)}
+.search input{width:100%;font:inherit;font-size:1.1rem;padding:1rem 3.2rem 1rem 3.2rem;border-radius:999px;border:1px solid var(--line-2);background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+.search input::placeholder{color:var(--ink-3)}
+.search>i{position:absolute;left:1.15rem;top:50%;transform:translateY(-50%);width:20px;height:20px;color:var(--ink-3);pointer-events:none}
+.search kbd{position:absolute;right:1.1rem;top:50%;transform:translateY(-50%);font:inherit;font-size:.75rem;color:var(--ink-3);border:1px solid var(--line-2);border-radius:.4rem;padding:.05rem .4rem;background:var(--raised)}
+.results{position:absolute;left:0;right:0;top:calc(100% + .5rem);background:var(--card);border:1px solid var(--line);border-radius:1.25rem;box-shadow:var(--shadow);z-index:15;text-align:left;overflow:hidden;max-height:min(60vh,520px);overflow-y:auto}
+.results a{display:grid;grid-template-columns:10px 1fr auto;gap:.8rem;align-items:center;padding:.7rem 1rem;text-decoration:none;color:var(--ink);border-top:1px solid var(--line)}
+.results a:first-child{border-top:0}
+.results a:hover,.results a.sel{background:var(--raised)}
+.results .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.results b{font-family:var(--display);font-weight:500;font-size:1.05rem;display:block;line-height:1.25}
+.results small{color:var(--ink-3);font-size:.85rem}
+.results .kind{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.tries{display:flex;flex-wrap:wrap;gap:.45rem;justify-content:center}
+.tries button{font:inherit;font-size:.9rem;border:1px solid var(--line-2);background:transparent;color:var(--ink-2);padding:.35rem .85rem;border-radius:999px;cursor:pointer}
+.tries button:hover{background:var(--card);color:var(--ink)}
+.hint{font-size:.85rem;color:var(--ink-3)}
+
+/* bands */
+.band{padding-block:clamp(2.5rem,6vw,4.5rem)}
+.band.deep{background:var(--deep)}
+.band h2{font-size:clamp(1.7rem,3.4vw,2.5rem);letter-spacing:-.015em;font-variation-settings:"SOFT" 100,"opsz" 96}
+.band .sub{color:var(--ink-2);max-width:62ch;margin:.5rem 0 1.6rem;font-size:1.05rem}
+.doors{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.door{background:var(--card);border-radius:1.5rem;padding:1.3rem 1.3rem 1.2rem;box-shadow:var(--shadow);text-decoration:none;color:var(--ink);display:grid;gap:.5rem;align-content:start;min-width:0;position:relative;overflow:hidden}
+.door i{width:26px;height:26px;color:var(--accent)}
+.door b{font-family:var(--display);font-weight:500;font-size:1.3rem;line-height:1.2}
+.door span{color:var(--ink-2);font-size:.95rem}
+.door.crisis{background:var(--crisis-bg);color:var(--crisis-ink)}
+.door.crisis i{color:var(--crisis-border)}
+.door.crisis span{color:inherit;opacity:.9}
+
+.shelf{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem}
+.chapter{display:grid;grid-template-columns:48px 1fr;gap:.9rem;align-items:start;background:var(--tint);border-radius:1.5rem;padding:1.1rem;text-decoration:none;color:var(--ink);min-width:0;box-shadow:0 0 0 1px color-mix(in srgb,var(--border) 35%,transparent)}
+.chapter .ic{width:48px;height:48px;border-radius:14px;background:var(--card);display:grid;place-items:center;color:var(--accent)}
+.chapter .ic i{width:26px;height:26px}
+.chapter b{font-family:var(--display);font-weight:500;font-size:1.25rem;color:var(--accent);display:block;line-height:1.2}
+.chapter small{display:block;color:var(--ink-2);font-size:.9rem;margin-top:.2rem}
+.chapter .n{font-size:.78rem;color:var(--ink-3);letter-spacing:.05em;text-transform:uppercase;margin-top:.45rem}
+
+.wall{columns:1;column-gap:1rem}
+@media(min-width:640px){.wall{columns:2}}
+@media(min-width:960px){.wall{columns:3}}
+.q{break-inside:avoid;background:var(--card);border-radius:1.25rem;padding:1.1rem 1.2rem;margin:0 0 1rem;box-shadow:var(--shadow);text-decoration:none;color:var(--ink);display:block;border-left:4px solid var(--accent)}
+.q p{margin:0;font-family:var(--display);font-style:italic;font-weight:300;font-size:1.2rem;line-height:1.4;font-variation-settings:"SOFT" 100,"opsz" 36}
+.q small{display:block;color:var(--ink-3);margin-top:.6rem;font-size:.85rem}
+.q small b{color:var(--accent);font-weight:700}
+
+.promise{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.promise div{border-top:1px solid var(--line-2);padding-top:.9rem}
+.promise b{font-family:var(--display);font-weight:500;font-size:1.2rem;display:block;margin-bottom:.2rem}
+.promise p{margin:0;color:var(--ink-2);font-size:.95rem}
+.stats{display:flex;flex-wrap:wrap;gap:1.4rem 2.5rem;margin-top:1.5rem}
+.stats b{font-family:var(--display);font-weight:400;font-size:2.2rem;display:block;line-height:1;font-variant-numeric:tabular-nums}
+.stats span{font-size:.8125rem;color:var(--ink-3);letter-spacing:.06em;text-transform:uppercase}
+
+/* chapter page + lists */
+.chead{padding-block:clamp(2rem,5vw,3.5rem) 1.5rem;background:var(--tint)}
+.crumb{font-size:.8125rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:700;display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+.crumb a{color:inherit;text-decoration:none}
+.crumb i{width:16px;height:16px}
+.chead h1{font-size:clamp(2rem,5vw,3.4rem);letter-spacing:-.02em;margin:.5rem 0 .4rem;font-variation-settings:"SOFT" 100,"opsz" 144;font-weight:400}
+.chead p{max-width:64ch;color:var(--ink-2);font-size:1.1rem;margin:0}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:1rem;padding-block:1.5rem 3rem}
+.cardl{background:var(--card);border-radius:1.5rem;padding:1.2rem 1.25rem 1.1rem;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);display:grid;gap:.4rem;align-content:start;min-width:0;position:relative}
+.cardl::before{content:"";position:absolute;inset:0 auto auto 0;width:100%;height:5px;border-radius:1.5rem 1.5rem 0 0;background:var(--accent);opacity:.8}
+.cardl h3{font-size:1.35rem;color:var(--accent);line-height:1.2;font-variation-settings:"SOFT" 100,"opsz" 48}
+.cardl .off{font-size:.85rem;color:var(--ink-3)}
+.cardl p{margin:.2rem 0 0;color:var(--ink-2);font-size:.95rem}
+.row{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.chip{display:inline-flex;align-items:center;gap:.3rem;font-size:.8125rem;padding:.18rem .65rem;border-radius:999px;background:var(--chip);color:var(--ink)}
+.chip i{width:13px;height:13px}
+.chip.cau{background:var(--caution-bg);color:var(--caution-ink)}.chip.ok{background:var(--ok-bg);color:var(--ok-ink)}.chip.info{background:var(--info-bg);color:var(--info-ink)}.chip.cris{background:var(--crisis-bg);color:var(--crisis-ink)}
+
+/* card page */
+.cardpage{padding-block:0 4rem}
+.chero{background:var(--tint);padding-block:clamp(2rem,5vw,3.5rem) 2rem}
+.chero .wrap{display:grid;gap:1.5rem;grid-template-columns:minmax(0,1fr)}
+@media(min-width:800px){.chero .wrap{grid-template-columns:minmax(0,1fr) 220px;align-items:center}}
+.chero h1{font-size:clamp(2.1rem,5vw,3.6rem);letter-spacing:-.02em;margin:.5rem 0 .5rem;font-variation-settings:"SOFT" 100,"opsz" 144;font-weight:400}
+.official{color:var(--ink-2);font-size:.95rem}
+.official code{font-family:ui-monospace,"JetBrains Mono",monospace;font-size:.82rem;background:var(--card);padding:.08rem .45rem;border-radius:.4rem}
+.mark{width:220px;max-width:100%;aspect-ratio:1;justify-self:center}
+.mark svg{width:100%;height:100%;display:block}
+.one{font-family:var(--display);font-size:clamp(1.3rem,2.2vw,1.6rem);line-height:1.4;font-weight:300;font-variation-settings:"SOFT" 100,"opsz" 36;max-width:36ch;margin:0}
+.layout{display:grid;gap:1.5rem;grid-template-columns:minmax(0,1fr);padding-top:1.5rem}
+@media(min-width:900px){.layout{grid-template-columns:minmax(0,1fr) 330px;gap:2.5rem}}
+.body{min-width:0}
+.body>section{margin:0 0 1.8rem}
+.label{font-family:var(--sans);font-size:.8125rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 .45rem;display:flex;gap:.45rem;align-items:center}
+.label i{width:15px;height:15px}
+.body p{max-width:66ch;margin:.3rem 0}
+.body p.big{font-size:1.15rem}
+ul.plain{margin:.2rem 0 0;padding-left:1.2rem;max-width:66ch}
+ul.plain li{margin:.25rem 0}
+.quotes{display:grid;gap:.6rem}
+.quotes p{margin:0;background:var(--tint);border-radius:1rem;padding:.8rem 1rem;font-family:var(--display);font-style:italic;font-weight:300;font-size:1.15rem;line-height:1.4;font-variation-settings:"SOFT" 100,"opsz" 36;max-width:none}
+.note{font-size:.875rem;color:var(--ink-3)}
+.mf{display:grid;gap:.7rem}
+@media(min-width:700px){.mf{grid-template-columns:1fr 1fr}}
+.mf div{background:var(--card);border:1px solid var(--line);border-radius:1rem;padding:.8rem 1rem}
+.mf b{display:flex;gap:.3rem;align-items:center;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.mf b i{width:13px;height:13px}
+.mf p{margin:.2rem 0 .6rem;font-size:.95rem}
+.mf p.m{color:var(--ink-3);text-decoration:line-through;text-decoration-color:color-mix(in srgb,var(--ink-3) 40%,transparent)}
+.mf p:last-child{margin-bottom:0}
+details{background:var(--raised);border-radius:1rem;padding:.55rem 1rem}
+summary{cursor:pointer;font-weight:700;font-size:.95rem}
+details p{max-width:none}
+.reach{background:var(--raised);border-radius:1.25rem;padding:1rem 1.2rem}
+.hope{border-left:4px solid var(--accent);padding-left:1rem}
+.hope p{font-family:var(--display);font-size:1.25rem;font-weight:300;font-variation-settings:"SOFT" 100,"opsz" 36;line-height:1.4}
+.carry{background:var(--tint);border-radius:1.25rem;padding:1rem 1.2rem;display:grid;gap:.5rem}
+.carry .row{margin-top:.3rem}
+.btn{font:inherit;font-size:.9rem;border:1px solid var(--line-2);background:var(--card);color:var(--ink);padding:.4rem .85rem;border-radius:999px;cursor:pointer;display:inline-flex;gap:.4rem;align-items:center;text-decoration:none}
+.btn i{width:15px;height:15px}
+aside{display:grid;gap:1rem;align-content:start;min-width:0}
+.panel{background:var(--card);border-radius:1.5rem;padding:1.1rem 1.2rem;box-shadow:var(--shadow)}
+.panel h2{font-size:1.4rem;font-variation-settings:"SOFT" 100,"opsz" 48}
+.panel .sub{font-size:.875rem;color:var(--ink-3);margin:.15rem 0 .6rem}
+.comm{border-top:1px solid var(--line);padding:.65rem 0}
+.comm b{display:flex;gap:.4rem;align-items:flex-start}
+.comm b i{width:15px;height:15px;flex:none;margin-top:.3rem;color:var(--accent)}
+.comm small{display:block;color:var(--ink-2);font-size:.875rem;margin-top:.15rem}
+.gl{border:0;border-bottom:1px dotted var(--accent);background:none;font:inherit;color:var(--ink);padding:0;cursor:pointer}
+.src li{font-size:.9rem;margin:.35rem 0}
+.foot{font-size:.875rem;color:var(--ink-3);border-top:1px solid var(--line);padding-top:.9rem;margin-top:1rem}
+.rel{display:flex;flex-wrap:wrap;gap:.45rem}
+.rel a{text-decoration:none;background:var(--chip);color:var(--ink);padding:.25rem .7rem;border-radius:999px;font-size:.9rem}
+
+/* crisis strip */
+.crisis{background:var(--crisis-bg);border-left:5px solid var(--crisis-border);color:var(--crisis-ink);border-radius:0 1.25rem 1.25rem 0;padding:1rem 1.2rem;margin:1.25rem 0 0}
+.crisis.sticky{position:sticky;bottom:max(8px,env(safe-area-inset-bottom,0px));z-index:12;box-shadow:var(--shadow);border-radius:1.25rem;border-left-width:5px}
+.crisis p{margin:0 0 .6rem;max-width:66ch}
+.crisis .row{gap:.5rem}
+.crisis select{font:inherit;font-size:.9rem;border:1px solid var(--crisis-border);background:var(--card);color:var(--ink);border-radius:.6rem;padding:.2rem .4rem}
+.cbtn{display:inline-block;background:var(--crisis-btn);color:var(--crisis-btn-ink);text-decoration:none;font-weight:700;padding:.5rem .95rem;border-radius:.9rem;min-height:44px;line-height:1.3}
+.cbtn small{display:block;font-weight:400;font-size:.78rem;opacity:.95}
+.crisis .note{color:inherit;opacity:.85;margin-top:.5rem;font-size:.85rem}
+
+/* tables/dirs */
+.toolbar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1rem 0}
+select,input[type=search]{font:inherit;font-size:.95rem;padding:.45rem .7rem;border:1px solid var(--line-2);border-radius:.8rem;background:var(--card);color:var(--ink);max-width:100%}
+table{border-collapse:collapse;width:100%;font-size:.95rem}
+th,td{text-align:left;padding:.55rem .65rem;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.tablewrap{overflow-x:auto}
+.sw{display:inline-block;width:1.1em;height:1.1em;border-radius:.3em;vertical-align:-.2em;margin-right:.3em;border:1px solid var(--line-2)}
+.pop{position:fixed;left:50%;bottom:max(16px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);width:min(92vw,520px);background:var(--card);color:var(--ink);box-shadow:var(--shadow);border:1px solid var(--line-2);border-radius:1.25rem;padding:1rem 1.2rem;z-index:25}
+.pop h3{font-size:1.3rem}
+.pop button{float:right;font:inherit;background:none;border:0;color:var(--link);cursor:pointer}
+.toast{position:fixed;left:50%;bottom:max(16px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--page);padding:.5rem .9rem;border-radius:999px;font-size:.9rem;z-index:26}
+footer{border-top:1px solid var(--line);padding-block:2rem 3rem;color:var(--ink-3);font-size:.9rem}
+footer .wrap{display:grid;gap:.5rem}
+.empty{color:var(--ink-3);padding:2rem 0}
+.gcard{background:var(--card);border-radius:1.25rem;padding:1rem 1.1rem;box-shadow:var(--shadow);min-width:0}
+.gcard h3{font-size:1.2rem}
+.gcard .off{font-size:.8rem;color:var(--ink-3)}
+.gcard p{margin:.3rem 0 0;font-size:.95rem}
+@media (prefers-reduced-motion:no-preference){
+  .cardl,.chapter,.door,.q{transition:transform .25s var(--ease),box-shadow .25s var(--ease)}
+  .cardl:hover,.chapter:hover,.door:hover,.q:hover{transform:translateY(-3px)}
+  .rise{animation:rise .7s var(--ease) both}
+  @keyframes rise{from{opacity:.001;transform:translateY(10px)}to{opacity:1;transform:none}}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#home"><i data-lucide="sun"></i>Plain-Language DSM Cards</a>
+  <nav class="nav" aria-label="Sections">
+    <a href="#chapters">Chapters</a><a href="#communities">Communities</a><a href="#glossary">Glossary</a><a href="#about">About</a><a class="help" href="#crisis">Get help now</a>
+  </nav>
+  <button class="theme" id="theme" aria-label="Switch light or dark"><i data-lucide="moon"></i></button>
+</div></header>
+<main id="app"><div class="wrap"><p class="empty">Opening the cards…</p></div></main>
+<footer><div class="wrap">
+  <div>Made in plain language from the DSM-5-TR, in our own words. This site explains; it never diagnoses. If you are in danger, call your local emergency number.</div>
+  <div>Open source. Every fact, community and helpline carries a verification status; nothing is final until a human has checked it.</div>
+</div></footer>
+<div id="pop" class="pop" hidden role="dialog" aria-label="Glossary term"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+<script>
+const app=document.getElementById('app');
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let D={};const st={country:'US'};
+try{st.country=localStorage.getItem('country')||'US'}catch(e){}
+const COUNTRIES={US:'United States',GB:'United Kingdom',IE:'Ireland',CA:'Canada',AU:'Australia',IN:'India'};
+const isDark=()=>document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
+const ic=(n,s=18)=>`<i data-lucide="${esc(n)}" style="width:${s}px;height:${s}px"></i>`;
+const tok=cid=>{const t=D.tokens.color.chapters[cid];if(!t)return'';const m=isDark()?t.dark:t.light;return `--tint:${m.tint};--accent:${m.accent};--chip:${m.chip};--border:${m.border}`};
+const chOf=id=>D.taxonomy.chapters.find(c=>c.chapter_id===id);
+const chapterOfCard=c=>chOf(c.chapter_id);
+const icons=()=>{if(window.lucide)lucide.createIcons();};
+const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* theme toggle */
+function setThemeIcon(){document.querySelector('#theme i,#theme svg').replaceWith(Object.assign(document.createElement('i'),{dataset:{lucide:isDark()?'sun':'moon'}}));icons();}
+document.getElementById('theme').onclick=()=>{const r=document.documentElement;r.dataset.theme=isDark()?'light':'dark';try{localStorage.setItem('theme',r.dataset.theme)}catch(e){};render();};
+try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}
+
+/* search index */
+let INDEX=[];
+function buildIndex(){
+  INDEX=[];
+  for(const c of Object.values(D.cards)){
+    INDEX.push({kind:'card',id:c.topic_id,title:c.plain_title,sub:c.official_name,ch:c.chapter_id,
+      hi:(c.plain_title+' '+c.official_name+' '+c.also_known_as.join(' ')).toLowerCase(),
+      mid:(c.one_liner+' '+c.what_it_can_feel_like.join(' ')).toLowerCase(),
+      lo:(c.in_simple_words+' '+c.common_signs.join(' ')+' '+c.is_not).toLowerCase()});
+  }
+  for(const t of D.glossary.terms){
+    INDEX.push({kind:'term',id:t.term_id,title:t.term,sub:t.plain_definition,ch:null,hi:(t.term+' '+t.also_called.join(' ')).toLowerCase(),mid:t.plain_definition.toLowerCase(),lo:(t.everyday_example||'').toLowerCase()});
+  }
+}
+const STOP=new Set('i my me a an the is am are to of and or in on for with what about it its be have has do does can cant not no so this that im my'.split(' '));
+function search(q){
+  const words=q.toLowerCase().split(/[^a-z0-9']+/).filter(w=>w&&!STOP.has(w));
+  if(!words.length)return[];
+  const out=[];
+  for(const e of INDEX){let s=0;
+    for(const w of words){if(e.hi.includes(w))s+=6;else if(e.mid.includes(w))s+=3;else if(e.lo.includes(w))s+=1;}
+    if(e.hi.includes(q.toLowerCase()))s+=8;
+    if(s)out.push([s+(e.kind==='card'?.5:0),e]);
+  }
+  return out.sort((a,b)=>b[0]-a[0]).slice(0,8).map(x=>x[1]);
+}
+function wireSearch(){
+  const inp=document.getElementById('q'),box=document.getElementById('res');if(!inp)return;
+  let sel=-1;
+  const draw=()=>{const r=search(inp.value);sel=-1;if(!inp.value.trim()||!r.length){box.hidden=true;box.innerHTML='';return;}
+    box.innerHTML=r.map(e=>`<a href="#${e.kind==='card'?e.id:'glossary-'+e.id}" style="${e.ch?tok(e.ch):''}"><span class="dot"></span><span style="min-width:0"><b>${esc(e.title)}</b><small>${esc(e.sub.length>110?e.sub.slice(0,110)+'…':e.sub)}</small></span><span class="kind">${e.kind==='card'?esc(chOf(e.ch).plain_name):'glossary'}</span></a>`).join('');box.hidden=false;};
+  inp.oninput=draw;
+  inp.onkeydown=e=>{const as=[...box.querySelectorAll('a')];if(e.key==='ArrowDown'){sel=Math.min(sel+1,as.length-1);as.forEach((a,i)=>a.classList.toggle('sel',i===sel));e.preventDefault();}else if(e.key==='ArrowUp'){sel=Math.max(sel-1,0);as.forEach((a,i)=>a.classList.toggle('sel',i===sel));e.preventDefault();}else if(e.key==='Enter'&&as.length){(as[sel>=0?sel:0]).click();}else if(e.key==='Escape'){box.hidden=true;}};
+  document.addEventListener('click',e=>{if(!e.target.closest('.search'))box.hidden=true;});
+  document.querySelectorAll('.tries button').forEach(b=>b.onclick=()=>{inp.value=b.textContent;inp.focus();draw();});
+}
+document.addEventListener('keydown',e=>{if(e.key==='/'&&!/input|textarea|select/i.test(e.target.tagName)){const i=document.getElementById('q');if(i){e.preventDefault();i.focus();}}});
+
+/* the field of lights */
+function field(canvas){
+  const ctx=canvas.getContext('2d');const cards=Object.values(D.cards);const chs=D.taxonomy.chapters.map(c=>c.chapter_id);
+  let W,H,dpr,pts=[],hover=null,t0=performance.now();
+  const centers={};
+  function size(){dpr=Math.min(2,devicePixelRatio||1);W=canvas.clientWidth;H=canvas.clientHeight;canvas.width=W*dpr;canvas.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);
+    chs.forEach((c,i)=>{const a=(i/chs.length)*Math.PI*2-Math.PI/2;const rx=W*.46,ry=H*.42;centers[c]=[W/2+Math.cos(a)*rx*(.55+.45*((i*7)%3)/2),H/2+Math.sin(a)*ry*(.55+.45*((i*5)%3)/2)];});
+    pts=cards.map((c,i)=>{const [cx,cy]=centers[c.chapter_id];const r=18+((i*37)%40);const a=((i*131)%360)*Math.PI/180;const col=D.tokens.color.chapters[c.chapter_id];return {c,x:cx+Math.cos(a)*r,y:cy+Math.sin(a)*r,ph:(i*0.7)%6.28,sp:.6+((i*13)%10)/10,col};});
+  }
+  function draw(now){const dark=isDark();const t=(now-t0)/1000;ctx.clearRect(0,0,W,H);
+    for(const p of pts){const dx=reduce?0:Math.sin(t*.35*p.sp+p.ph)*6,dy=reduce?0:Math.cos(t*.28*p.sp+p.ph)*6;const x=p.x+dx,y=p.y+dy;p.cx=x;p.cy=y;
+      const base=dark?p.col.dark.accent:p.col.light.accent;const R=p===hover?11:6.5;
+      const g=ctx.createRadialGradient(x,y,0,x,y,R*4);g.addColorStop(0,base+(dark?'66':'55'));g.addColorStop(1,base+'00');ctx.fillStyle=g;ctx.beginPath();ctx.arc(x,y,R*4,0,7);ctx.fill();
+      ctx.fillStyle=base;ctx.globalAlpha=p===hover?1:.75;ctx.beginPath();ctx.arc(x,y,R,0,7);ctx.fill();ctx.globalAlpha=1;}
+    if(hover){const p=hover;ctx.font='500 15px Fraunces, Georgia, serif';const label=p.c.plain_title;const w=ctx.measureText(label).width+22;const x=Math.min(Math.max(p.cx-w/2,8),W-w-8),y=p.cy-34;
+      ctx.fillStyle=dark?'#1d2027':'#ffffff';ctx.strokeStyle=dark?'#3b404b':'#cfcbc2';ctx.beginPath();ctx.roundRect(x,y-18,w,28,14);ctx.fill();ctx.stroke();ctx.fillStyle=dark?'#e9e7e1':'#23272f';ctx.fillText(label,x+11,y+2);}
+    if(!reduce||hover)raf=requestAnimationFrame(draw);else raf=null;}
+  let raf=null;
+  const near=(mx,my)=>{let best=null,bd=18*18;for(const p of pts){const d=(p.cx-mx)**2+(p.cy-my)**2;if(d<bd){bd=d;best=p;}}return best;};
+  canvas.onmousemove=e=>{const r=canvas.getBoundingClientRect();const h=near(e.clientX-r.left,e.clientY-r.top);if(h!==hover){hover=h;canvas.style.cursor=h?'pointer':'default';if(!raf)raf=requestAnimationFrame(draw);}};
+  canvas.onmouseleave=()=>{hover=null;if(!raf)raf=requestAnimationFrame(draw);};
+  canvas.onclick=e=>{const r=canvas.getBoundingClientRect();const h=near(e.clientX-r.left,e.clientY-r.top);if(h)location.hash=h.c.topic_id;};
+  size();addEventListener('resize',size);raf=requestAnimationFrame(draw);
+  return ()=>{cancelAnimationFrame(raf);removeEventListener('resize',size);};
+}
+let stopField=null;
+
+/* generative mark per card: soft overlapping blobs in the chapter's colours, seeded by the id */
+function mark(c){let h=0;for(const ch of c.topic_id)h=(h*31+ch.charCodeAt(0))>>>0;const rnd=()=>{h=(h*1664525+1013904223)>>>0;return h/4294967296;};
+  const t=D.tokens.color.chapters[c.chapter_id];const m=isDark()?t.dark:t.light;
+  const blob=(cx,cy,r,fill,op)=>{let d='';const n=7;for(let i=0;i<n;i++){const a=i/n*Math.PI*2,rr=r*(.78+rnd()*.44);const x=cx+Math.cos(a)*rr,y=cy+Math.sin(a)*rr;d+=(i?' S ':'M ')+(i?`${(x+Math.cos(a+.9)*rr*.5).toFixed(1)} ${(y+Math.sin(a+.9)*rr*.5).toFixed(1)}, `:'')+`${x.toFixed(1)} ${y.toFixed(1)}`;}return `<path d="${d} Z" fill="${fill}" opacity="${op}"/>`;};
+  const shapes=[blob(100,100,70,m.accent,.18),blob(90+rnd()*20,95+rnd()*20,52,m.accent,.28),blob(105+rnd()*20,108+rnd()*10,34,m.accent,.55)];
+  return `<svg viewBox="0 0 200 200" role="img" aria-label="${esc(c.visual.alt_text)}"><circle cx="100" cy="100" r="96" fill="${m.chip}"/>${shapes.join('')}<circle cx="${(60+rnd()*80).toFixed(0)}" cy="${(60+rnd()*80).toFixed(0)}" r="9" fill="${m.accent}" opacity=".9"/></svg>`;
+}
+
+/* views */
+function nav(h){document.querySelectorAll('.nav a').forEach(a=>{const v=a.getAttribute('href').slice(1);a.setAttribute('aria-current',String(v===h||(v==='chapters'&&(h.startsWith('ch-')||!!D.cards[h]))));});}
+function render(){
+  if(stopField){stopField();stopField=null;}
+  const h=(location.hash||'#home').slice(1);nav(h);
+  if(h==='home')home();else if(h==='chapters')chapters();else if(h==='communities')communities();else if(h==='crisis')crisis();else if(h==='glossary'||h.startsWith('glossary-'))glossary(h.startsWith('glossary-')?h.slice(9):'');else if(h==='about')about();else if(h.startsWith('ch-'))chapter(h.slice(3));else if(D.cards[h])card(h);else home();
+  setThemeIcon();
+}
+function done(scroll=true){if(scroll)window.scrollTo(0,0);icons();}
+function home(){
+  const cards=Object.values(D.cards);
+  const quotes=[];cards.forEach(c=>c.what_it_can_feel_like.forEach(q=>quotes.push([q,c])));
+  let seed=Math.floor(Date.now()/36e5);const pick=[];const used=new Set();while(pick.length<9&&used.size<quotes.length){seed=(seed*1103515245+12345)&0x7fffffff;const i=seed%quotes.length;if(!used.has(i)&&quotes[i][1].safety.sensitivity_level!=='high'){used.add(i);pick.push(quotes[i]);}}
+  app.innerHTML=`
+  <section class="hero"><canvas id="field" aria-hidden="true"></canvas><div class="wrap rise">
+    <div class="eyebrow">Every topic in the DSM-5-TR, in plain words</div>
+    <h1>Understanding is the <em>first</em> kind of help.</h1>
+    <p class="lede">${cards.length} gentle, honest cards about the mind: what each condition is, what it can feel like, what helps, and where to find people who get it. No jargon, no checklists, no shame.</p>
+    <div class="search"><i data-lucide="search"></i><label class="sr" for="q">Search</label><input id="q" type="search" placeholder="What's going on for you, or someone you love?" autocomplete="off"><kbd>/</kbd><div id="res" class="results" hidden></div></div>
+    <div class="tries"><button>I can't stop worrying</button><button>my friend hears voices</button><button>what is DBT</button><button>not sleeping</button><button>grief</button><button>my child won't eat</button></div>
+    <div class="hint">Each light above is one card, coloured by its chapter. Hover to see, click to open.</div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <h2>Start where you are</h2><p class="sub">You don't need to know the right word. Pick the door that fits today.</p>
+    <div class="doors">
+      <a class="door crisis" href="#crisis">${ic('life-buoy',26)}<b>I need help right now</b><span>Crisis lines for six countries and the whole world, with hours and what to expect.</span></a>
+      <a class="door" href="#chapters">${ic('compass',26)}<b>Something is going on with me</b><span>Browse by how it feels: worry, low mood, sleep, eating, focus, and twenty more.</span></a>
+      <a class="door" href="#ch-clinical-focus">${ic('heart-handshake',26)}<b>I'm worried about someone</b><span>Abuse, grief, money, school, work: the life situations that shape mental health.</span></a>
+      <a class="door" href="#glossary">${ic('book-open',26)}<b>I just got a diagnosis, or a word</b><span>${D.glossary.terms.length} terms, from anhedonia to WRAP, explained in a sentence or two.</span></a>
+    </div>
+  </div></section>
+
+  <section class="band deep" id="chapters-home"><div class="wrap">
+    <h2>Twenty-five chapters, one for every way a mind can struggle</h2><p class="sub">The DSM-5-TR's own structure, with names a person would actually use.</p>
+    <div class="shelf">${D.taxonomy.chapters.map(ch=>`<a class="chapter" style="${tok(ch.chapter_id)}" href="#ch-${ch.chapter_id}"><span class="ic">${ic(ch.icon,26)}</span><span style="min-width:0"><b>${esc(ch.plain_name)}</b><small>${esc(ch.plain_summary)}</small><span class="n">${ch.topics.length} card${ch.topics.length===1?'':'s'}</span></span></a>`).join('')}</div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <h2>What it can feel like</h2><p class="sub">Every card opens with voices like these, written so that someone reading at 2am recognises themselves and feels less alone. They change every hour.</p>
+    <div class="wall">${pick.map(([q,c])=>`<a class="q" href="#${c.topic_id}" style="${tok(c.chapter_id)}"><p>${esc(q)}</p><small>from the card on <b>${esc(c.plain_title)}</b></small></a>`).join('')}</div>
+  </div></section>
+
+  <section class="band deep"><div class="wrap">
+    <h2>What we promise</h2>
+    <div class="promise" style="margin-top:1.4rem">
+      <div><b>We explain, we never diagnose.</b><p>Signs are described, never counted. Only a clinician can diagnose, and every card says where to find one.</p></div>
+      <div><b>Our own words.</b><p>Nothing is copied from the DSM. Names and codes are cited; the explanations are written fresh for a reader of about thirteen.</p></div>
+      <div><b>Honest about what we don't know.</b><p>Every number, source, community and helpline shows whether a human has verified it yet. Right now, none has.</p></div>
+      <div><b>Safe to read on a bad night.</b><p>No methods, no weights, no graphic detail. The crisis strip appears wherever it might be needed, in your country.</p></div>
+      <div><b>Words that don't wound.</b><p>Person-first by default, identity-first where communities ask for it, and never a slur dressed up as a diagnosis.</p></div>
+      <div><b>Somewhere to go next.</b><p>Each card ends with moderated communities and lines, chosen for safety and checked against a list of what we will never link.</p></div>
+    </div>
+    <div class="stats"><div><b>${cards.length}</b><span>cards</span></div><div><b>${D.taxonomy.chapters.length}</b><span>chapters</span></div><div><b>${D.glossary.terms.length}</b><span>glossary terms</span></div><div><b>${D.communities.communities.length}</b><span>communities</span></div><div><b>${D.crisis.lines.length}</b><span>crisis lines</span></div></div>
+  </div></section>`;
+  done();wireSearch();stopField=field(document.getElementById('field'));
+}
+function chapters(){
+  app.innerHTML=`<section class="band"><div class="wrap"><h2>All chapters</h2><p class="sub">The DSM-5-TR's own order, Section II then Section III, with plain names.</p>
+  <div class="shelf">${D.taxonomy.chapters.map(ch=>`<a class="chapter" style="${tok(ch.chapter_id)}" href="#ch-${ch.chapter_id}"><span class="ic">${ic(ch.icon,26)}</span><span style="min-width:0"><b>${esc(ch.plain_name)}</b><small>${esc(ch.official_name)}</small><span class="n">${ch.topics.length} card${ch.topics.length===1?'':'s'}</span></span></a>`).join('')}</div></div></section>`;done();
+}
+function chapter(cid){
+  const ch=chOf(cid);if(!ch)return home();
+  app.innerHTML=`<div style="${tok(cid)}"><section class="chead"><div class="wrap"><div class="crumb">${ic('home',14)}<a href="#home">Home</a> / <a href="#chapters">Chapters</a> / ${ic(ch.icon,16)} ${esc(ch.official_name)}</div><h1>${esc(ch.plain_name)}</h1><p>${esc(ch.plain_summary)}</p></div></section>
+  <div class="wrap"><div class="cards">${ch.topics.map(tp=>{const c=D.cards[tp.topic_id];if(!c)return'';return `<a class="cardl" href="#${c.topic_id}"><h3>${esc(c.plain_title)}</h3><div class="off">${esc(c.official_name)}</div><p>${esc(c.one_liner)}</p><div class="row" style="margin-top:.4rem">${c.safety.sensitivity_level!=='standard'?`<span class="chip cris">${ic('life-buoy',12)} crisis strip</span>`:''}${c.in_young_people?`<span class="chip">${ic('backpack',12)} young people</span>`:''}${c.card_type!=='condition'?`<span class="chip">${esc(c.card_type.replace(/-/g,' '))}</span>`:''}</div></a>`}).join('')}</div></div></div>`;done();
+}
+function strip(sticky){
+  const L=D.crisis.lines.filter(l=>l.country===st.country&&l.priority===1),G=D.crisis.global_fallbacks[0];
+  return `<div class="crisis ${sticky?'sticky':''}" role="region" aria-label="Crisis help"><p><strong>If you're in danger or can't keep yourself safe right now, reach out.</strong> <label>Lines for <select id="country">${Object.entries(COUNTRIES).map(([k,v])=>`<option value="${k}" ${k===st.country?'selected':''}>${v}</option>`).join('')}</select></label></p>
+  <div class="row">${L.map(l=>{const c=l.contact;const main=c.phone?`Call ${c.phone}`:`Text ${(c.sms_keyword?c.sms_keyword+' to ':'')+c.sms_number}`;return `<span class="cbtn">${esc(main)}<small>${esc(l.name)}${c.phone&&c.sms_number?` · text ${esc((c.sms_keyword?c.sms_keyword+' to ':'')+c.sms_number)}`:''}</small></span>`}).join('')}<a class="cbtn" href="${esc(G.contact.chat_url)}" target="_blank" rel="noopener">More countries<small>${esc(G.name)}</small></a><a class="btn" href="#crisis">All lines and hours</a></div>
+  <p class="note">Numbers are shown as text so you can copy them. Lines are marked needs-verification until a reviewer has opened each one.</p></div>`;
+}
+function card(id){
+  const c=D.cards[id],ch=chapterOfCard(c),sens=c.safety.sensitivity_level;
+  const gl=t=>{const g=D.glossary.terms.find(x=>x.term_id===t);return g?`<button class="gl" data-term="${esc(t)}">${esc(g.term)}</button>`:''};
+  const comms=c.communities.map(x=>D.communities.communities.find(y=>y.community_id===x)).filter(Boolean);
+  const vb=s=>s==='verified'?`<span class="chip ok">${ic('badge-check',12)} verified</span>`:`<span class="chip cau">${ic('badge-help',12)} needs verification</span>`;
+  const med=/medicat|medicine/i.test(JSON.stringify(c.what_helps))?`<p><span class="chip cau">${ic('pill',12)} Medication is always prescribed and monitored by a doctor</span></p>`:'';
+  const hideNum=sens==='high'&&c.chapter_id==='eating';
+  const words=(c.in_simple_words+c.what_helps.plain_summary+c.when_to_reach_out+c.is_not+c.hope_note+c.common_signs.join(' ')+c.myths_vs_facts.map(m=>m.myth+m.fact).join(' ')).split(/\s+/).length;
+  app.innerHTML=`<div class="cardpage" style="${tok(c.chapter_id)}">
+  <section class="chero"><div class="wrap"><div>
+    <div class="crumb">${ic('home',14)}<a href="#home">Home</a> / <a href="#ch-${ch.chapter_id}">${ic(ch.icon,15)} ${esc(ch.plain_name)}</a></div>
+    <h1>${esc(c.plain_title)}</h1>
+    <div class="official">${esc(c.official_name)} <code>${esc(c.icd10cm_code)}</code> · about ${Math.max(2,Math.round(words/200))} min read</div>
+    <div class="row" style="margin-top:.7rem">${c.also_known_as.map(a=>`<span class="chip">${esc(a)}</span>`).join('')}${sens!=='standard'?`<span class="chip cris">${ic(sens==='high'?'heart-handshake':'life-buoy',12)} ${sens==='high'?'high':'elevated'} sensitivity</span>`:''}</div>
+    ${c.language_convention_note?`<p class="note" style="margin:.7rem 0 0;max-width:62ch">${esc(c.language_convention_note)}</p>`:''}
+  </div><div class="mark">${mark(c)}</div></div></section>
+  <div class="wrap">
+  ${c.safety.show_crisis_strip?strip(sens==='high'):''}
+  <div class="layout"><div class="body">
+    <section><p class="one">${esc(c.one_liner)}</p></section>
+    <section><h2 class="label">In simple words</h2><p class="big">${esc(c.in_simple_words)}</p></section>
+    <section><h2 class="label">${ic('message-circle',15)} What it can feel like</h2><div class="quotes">${c.what_it_can_feel_like.map(q=>`<p>${esc(q)}</p>`).join('')}</div><p class="note">Composite voices written for this project, not real testimonials.</p></section>
+    <section><h2 class="label">${ic('list',15)} Common signs</h2><p class="note">Lists like this describe, they don't diagnose. Only a clinician can do that.</p><ul class="plain">${c.common_signs.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></section>
+    <section><h2 class="label">${ic('scale',15)} Myths and facts</h2><div class="mf">${c.myths_vs_facts.map(m=>`<div><b>${ic('x-circle',12)} Myth</b><p class="m">${esc(m.myth)}</p><b>${ic('check-circle',12)} Fact</b><p>${esc(m.fact)}</p></div>`).join('')}</div></section>
+    <section><h2 class="label">${ic('users',15)} How common</h2><p>${esc(c.how_common.plain)}</p>${c.how_common.figure&&c.how_common.figure!=='n/a'&&!hideNum?`<details><summary>See the number</summary><p>${esc(c.how_common.figure)}</p><p class="note">Source: ${esc(c.how_common.source_ref)}${c.how_common.note?` · ${esc(c.how_common.note)}`:''}</p></details>`:''}</section>
+    <section><h2 class="label">${ic('sun',15)} What helps</h2><p class="big">${esc(c.what_helps.plain_summary)}</p>${med}
+      <p><b>Evidence-based options</b></p><ul class="plain">${c.what_helps.evidence_based_options.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>
+      <p><b>Self-help that supports care</b></p><ul class="plain">${c.what_helps.self_help_that_supports_care.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></section>
+    <section class="reach"><h2 class="label">${ic('phone',15)} When to reach out</h2><p>${esc(c.when_to_reach_out)}</p></section>
+    <section><h2 class="label">${ic('circle-slash',15)} What it isn't</h2><p>${esc(c.is_not)}</p></section>
+    <section class="hope"><h2 class="label">${ic('sunrise',15)} Hope</h2><p>${esc(c.hope_note)}</p></section>
+    ${c.in_young_people?`<section><h2 class="label">${ic('backpack',15)} In young people</h2><p>${esc(c.in_young_people)}</p></section>`:''}
+    ${c.across_cultures?`<section><h2 class="label">${ic('globe',15)} Across cultures</h2><p>${esc(c.across_cultures)}</p></section>`:''}
+    ${c.strengths_and_differences?`<section><h2 class="label">${ic('sparkles',15)} Strengths and differences</h2><p>${esc(c.strengths_and_differences)}</p></section>`:''}
+    ${c.sub_sections&&c.sub_sections.length?`<section><h2 class="label">${ic('layers',15)} Sub-types and specifiers</h2><div style="display:grid;gap:.5rem">${c.sub_sections.map(s=>`<details><summary>${esc(s.title)} <code style="font-weight:400;font-size:.8rem">${esc(s.icd10cm_code||'')}</code></summary><p>${esc(s.text)}</p></details>`).join('')}</div></section>`:''}
+    <section class="carry"><h2 class="label">${ic('bookmark',15)} Carry this with you</h2><p class="one" style="font-size:1.15rem">${esc(c.hope_note)}</p><div class="row"><button class="btn" id="copylink">${ic('link',14)} Copy a link to this card</button><a class="btn" href="#ch-${ch.chapter_id}">${ic('arrow-left',14)} Back to ${esc(ch.plain_name)}</a></div></section>
+    <section><h2 class="label">${ic('link',15)} Related</h2><div class="rel">${c.related_topics.map(r=>{const rc=D.cards[r];return rc?`<a href="#${r}" style="${tok(rc.chapter_id)}">${esc(rc.plain_title)}</a>`:''}).join('')}</div></section>
+    <section><h2 class="label">${ic('book-open',15)} Words on this card</h2><div class="row">${c.glossary_terms.map(gl).filter(Boolean).join('<span class="note">·</span>')}</div></section>
+    <section><h2 class="label">${ic('file-text',15)} Sources</h2><details><summary>${c.sources.length} source${c.sources.length===1?'':'s'}</summary><ul class="src">${c.sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>, ${esc(s.publisher)}${s.year?` (${s.year})`:''} ${vb(s.verification_status)} <span class="note">${esc(s.access_method||'')}</span>${s.note?`<div class="note">${esc(s.note)}</div>`:''}</li>`).join('')}</ul></details></section>
+    <div class="foot">Reviewed: not yet${c.review.needs_clinician_signoff?'; clinician sign-off requested':''} · reading grade ${c.review.reading_grade_estimate} · ${esc(c.language_convention)} language · researched ${esc(c.review.last_researched)}
+      ${c.review.open_questions.length?`<details style="margin-top:.5rem"><summary>${c.review.open_questions.length} open question${c.review.open_questions.length===1?'':'s'} for reviewers</summary><ul class="plain">${c.review.open_questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ul></details>`:''}
+      <details style="margin-top:.5rem"><summary>Illustration brief</summary><p class="note">${esc(c.visual.illustration_prompt)}</p></details></div>
+  </div>
+  <aside><div class="panel"><h2>You're not alone</h2><p class="sub">Moderated places to talk with people who get it. Peer support, not professional advice.</p>
+    ${comms.map(m=>`<div class="comm"><b>${ic(m.type==='helpline'?'phone':m.type==='text-line'?'message-square':m.type==='org-resource-hub'?'book-open':'users',15)}<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.name)}</a></b><small>${esc(m.moderation.notes)}</small><div class="row" style="margin-top:.35rem"><span class="chip">${esc(m.region)}</span><span class="chip">${esc(m.for.replace(/-/g,' '))}</span></div></div>`).join('')}
+    <p class="note" style="margin-top:.6rem">Every community is re-checked regularly. If one has become unsafe, tell us.</p></div>
+  </aside></div></div></div>`;
+  done();
+  const cl=document.getElementById('copylink');cl.onclick=()=>{const url=location.href.split('#')[0]+'#'+id;navigator.clipboard.writeText(url).then(()=>toast('Link copied')).catch(()=>{toast(url);});};
+}
+function toast(m){const t=document.createElement('div');t.className='toast';t.textContent=m;document.body.appendChild(t);setTimeout(()=>t.remove(),2200);}
+function crisis(){
+  const C=D.crisis,by={};C.lines.forEach(l=>(by[l.region_label.split(' (')[0]]=by[l.region_label.split(' (')[0]]||[]).push(l));
+  const cls=s=>s==='verified'?'ok':s==='conflicting_sources'?'cris':'cau';
+  app.innerHTML=`<section class="band"><div class="wrap"><h2>Get help now</h2><p class="sub">If you are in immediate danger, call your emergency number. Otherwise these lines are there to talk, day or night where marked. Pick your country.</p>${strip(false)}
+  ${Object.entries(by).map(([r,ls])=>`<h3 style="font-size:1.5rem;margin:2rem 0 .6rem">${esc(r)}</h3><div class="tablewrap"><table><tr><th>Line</th><th>Contact</th><th>Hours</th><th>Who it's for</th><th>Status</th></tr>${ls.map(l=>{const c=l.contact;return `<tr><td><b>${esc(l.name)}</b><div class="note">${esc(l.organization)}</div>${l.notes?`<div class="note">${esc(l.notes)}</div>`:''}</td><td>${c.phone?`Call <b>${esc(c.phone)}</b><br>`:''}${c.phone_alt?`or ${esc(c.phone_alt)}<br>`:''}${c.sms_number?`Text <b>${esc((c.sms_keyword?c.sms_keyword+' to ':'')+c.sms_number)}</b><br>`:''}${c.chat_url?`<a href="${esc(c.chat_url)}" target="_blank" rel="noopener">Chat / website</a><br>`:''}${c.email?esc(c.email)+'<br>':''}${(c.menu_options||[]).map(m=>`<div class="note">${esc(m)}</div>`).join('')}</td><td>${esc(l.hours)}</td><td>${l.audience.map(a=>esc(a.replace(/-/g,' '))).join(', ')}</td><td><span class="chip ${cls(l.verification_status)}">${esc(l.verification_status.replace(/_/g,' '))}</span></td></tr>`}).join('')}</table></div>`).join('')}
+  <h3 style="font-size:1.5rem;margin:2rem 0 .6rem">Anywhere in the world</h3><ul class="plain">${C.global_fallbacks.map(g=>`<li><a href="${esc(g.contact.chat_url)}" target="_blank" rel="noopener">${esc(g.name)}</a>: ${esc(g.region_label)}. ${esc(g.notes)}</li>`).join('')}</ul>
+  <p class="note" style="margin-top:1.5rem">${esc(C.notes)}</p></div></section>`;done();
+}
+function communities(){
+  const L=D.communities.communities;
+  app.innerHTML=`<section class="band"><div class="wrap"><h2>Communities</h2><p class="sub">${L.length} moderated forums, groups, helplines and resource hubs, each linked to the cards it serves. Peer support, not professional advice; nothing here is a crisis service unless it says so.</p>
+  <div class="toolbar"><input type="search" id="cq" placeholder="Search by name, region or topic"><select id="ctype"><option value="">All types</option>${[...new Set(L.map(x=>x.type))].map(t=>`<option>${t}</option>`).join('')}</select><select id="cfor"><option value="">For anyone</option><option value="people-with-experience">People with experience</option><option value="family-and-carers">Family and carers</option><option value="both">Both</option></select></div><div id="clist" class="cards" style="padding-top:.5rem"></div></div></section>`;
+  const draw=()=>{const q=(document.getElementById('cq').value||'').toLowerCase(),ty=document.getElementById('ctype').value,fo=document.getElementById('cfor').value;
+    const rows=L.filter(x=>(!ty||x.type===ty)&&(!fo||x.for===fo)&&(!q||JSON.stringify(x).toLowerCase().includes(q)));
+    document.getElementById('clist').innerHTML=rows.map(x=>{const ch=D.cards[x.topics[0]]?D.cards[x.topics[0]].chapter_id:null;return `<div class="cardl" style="${ch?tok(ch):''}"><h3 style="font-size:1.15rem"><a href="${esc(x.url)}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(x.name)}</a></h3><div class="off">${esc(x.type.replace(/-/g,' '))} · ${esc(x.region)} · ${esc(x.for.replace(/-/g,' '))}</div><p>${esc(x.moderation.notes)}</p><div class="rel" style="margin-top:.5rem">${x.topics.slice(0,4).map(t=>D.cards[t]?`<a href="#${t}">${esc(D.cards[t].plain_title)}</a>`:'').join('')}</div></div>`}).join('')||'<p class="empty">Nothing matches.</p>';icons();};
+  draw();['cq','ctype','cfor'].forEach(i=>document.getElementById(i).oninput=draw);done();
+}
+function glossary(focus){
+  const T=D.glossary.terms;
+  app.innerHTML=`<section class="band"><div class="wrap"><h2>Glossary</h2><p class="sub">${T.length} words you'll meet in clinics, on the internet, and on these cards, each in a sentence or two, with an everyday example.</p>
+  <div class="toolbar"><input type="search" id="gq" placeholder="Search a word" value="${esc(focus?(T.find(t=>t.term_id===focus)||{}).term||'':'')}"><select id="gg"><option value="">All groups</option><option>clinical</option><option>everyday</option><option>treatment</option><option>rights</option></select></div><div id="glist" class="cards" style="padding-top:.5rem"></div></div></section>`;
+  const draw=()=>{const q=(document.getElementById('gq').value||'').toLowerCase(),g=document.getElementById('gg').value;
+    const rows=T.filter(t=>(!g||t.group===g)&&(!q||(t.term+' '+t.also_called.join(' ')+' '+t.plain_definition).toLowerCase().includes(q)));
+    document.getElementById('glist').innerHTML=rows.map(t=>`<div class="gcard" id="glossary-${esc(t.term_id)}"><h3>${esc(t.term)}</h3><div class="off">${esc(t.group)}${t.also_called.length?` · also: ${esc(t.also_called.join(', '))}`:''}</div><p>${esc(t.plain_definition)}</p><p class="note"><i>${esc(t.everyday_example)}</i></p>${t.common_misunderstanding?`<p class="note">${esc(t.common_misunderstanding)}</p>`:''}<div class="rel" style="margin-top:.5rem">${t.related_topics.map(r=>D.cards[r]?`<a href="#${r}" style="${tok(D.cards[r].chapter_id)}">${esc(D.cards[r].plain_title)}</a>`:'').join('')}</div></div>`).join('')||'<p class="empty">No words match.</p>';};
+  draw();document.getElementById('gq').oninput=draw;document.getElementById('gg').onchange=draw;done();
+}
+function about(){
+  const n=Object.keys(D.cards).length,clin=Object.values(D.cards).filter(c=>c.review.needs_clinician_signoff).length;
+  app.innerHTML=`<section class="band"><div class="wrap" style="max-width:760px"><h2>About</h2>
+  <p class="sub" style="max-width:none">This site turns the DSM-5-TR, the manual clinicians use to name mental health conditions, into ${n} cards a thirteen-year-old could read. It is open source, written in its own words, and built to be safe to read on a bad night.</p>
+  <h3 style="font-size:1.4rem;margin:1.5rem 0 .5rem">How a card is made</h3><p>Each card explains what the condition is, what it can feel like, the common signs (described, never counted), myths and facts, how common it is, what helps, when to reach out, what it isn't, and a note of hope. Optional blocks cover young people, culture, and strengths. Then come communities and sources.</p>
+  <h3 style="font-size:1.4rem;margin:1.5rem 0 .5rem">What has not happened yet</h3><ul class="plain"><li>No source, community or helpline page has been opened by a human. Every one carries a needs-verification badge and a note about what to check.</li><li>${clin} cards are waiting for clinician sign-off; the suicide, self-harm and abuse cards also need a safe-messaging reviewer.</li><li>The voices on each card are composites written for the project, not real testimonials.</li><li>Reading level averages a little above the grade 6–8 target where medical words are unavoidable.</li></ul>
+  <h3 style="font-size:1.4rem;margin:1.5rem 0 .5rem">Data</h3><p>${D.taxonomy.chapters.length} chapters, ${n} cards, ${D.glossary.terms.length} glossary terms, ${D.communities.communities.length} communities, ${D.crisis.lines.length} crisis lines. Everything is JSON with a schema, generated by small build scripts, so a reviewer can fix one fact and rebuild the whole site.</p>
+  <p class="note">Generated ${esc(D.taxonomy.verified_on||'2026-10-22')}. Repository: naman1911/Mental-Health.</p></div></section>`;done();
+}
+document.addEventListener('click',e=>{
+  const g=e.target.closest('.gl');if(g){const t=D.glossary.terms.find(x=>x.term_id===g.dataset.term);const p=document.getElementById('pop');p.innerHTML=`<button id="popx">Close</button><h3>${esc(t.term)}</h3><p>${esc(t.plain_definition)}</p><p class="note"><i>${esc(t.everyday_example)}</i></p>${t.common_misunderstanding?`<p class="note">${esc(t.common_misunderstanding)}</p>`:''}<p><a href="#glossary-${esc(t.term_id)}">Open in glossary</a></p>`;p.hidden=false;return;}
+  if(e.target.id==='popx')document.getElementById('pop').hidden=true;
+});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('pop').hidden=true;});
+document.addEventListener('change',e=>{if(e.target.id==='country'){st.country=e.target.value;try{localStorage.setItem('country',st.country)}catch(x){}render();}});
+addEventListener('hashchange',()=>{document.getElementById('pop').hidden=true;render();});
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',render);
+Promise.all(['cards','taxonomy','communities','crisis-lines','glossary','design-tokens'].map(f=>fetch(`data/${f}.json`).then(r=>{if(!r.ok)throw new Error(f);return r.json()}))).then(([cards,taxonomy,communities,crisis,glossary,tokens])=>{D={cards,taxonomy,communities,crisis,glossary,tokens};buildIndex();render();}).catch(err=>{app.innerHTML=`<div class="wrap"><p class="empty">The data files could not be loaded (${esc(err.message)}).</p></div>`;});
+</script>
+</body>
+</html>

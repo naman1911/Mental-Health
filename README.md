@@ -15,7 +15,7 @@ Every DSM-5-TR topic explained in plain language (US grade 6–8 target), as car
 | `docs/` | Version check, design system, style guide, QA report, sources, exclusion log |
 | `schemas/` | JSON Schemas for cards, glossary, communities, crisis lines |
 | `tools/` | Python builders that generate and validate every data file (see `tools/README.md`) |
-| `preview/` | Static preview page that renders all of the above |
+| `site/` | The website: a static single-page app over all of the above, deployed by `.github/workflows/pages.yml` |
 
 ## Status
 
@@ -29,8 +29,12 @@ python3 -I tools/glossary/build_glossary.py
 python3 -I tools/cards/build_cards.py
 python3 -I tools/build_crisis_lines.py
 python3 -I tools/build_design_tokens.py
-python3 -I tools/build_preview.py
-python3 -m http.server --directory preview 8000
+python3 -I tools/build_site.py
+python3 -m http.server --directory site 8000
 ```
 
 Requires Python 3 and `jsonschema`.
+
+## Live site
+
+Pushes to `main` run the Pages workflow and publish `site/`. To turn it on once: repository Settings → Pages → Source: GitHub Actions.
